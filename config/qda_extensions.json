@@ -1,0 +1,54 @@
+{
+  "qda_software": {
+    "REFI-QDA": {
+      "website": "https://www.qdasoftware.org/",
+      "extensions": [".qdpx", ".qdc"]
+    },
+    "MaxQDA": {
+      "website": "https://www.maxqda.com/",
+      "extensions": [
+        ".mqda", ".mqbac", ".mqtc", ".mqex", ".mqmtr",
+        ".mx24", ".mx24bac", ".mc24", ".mex24",
+        ".mx22", ".mx20", ".mx18", ".mx12", ".mx11", ".mx5",
+        ".mx4", ".mx3", ".mx2", ".m2k",
+        ".loa", ".sea", ".mtr", ".mod", ".mex22"
+      ]
+    },
+    "NVivo": {
+      "website": "https://lumivero.com/products/nvivo/",
+      "extensions": [".nvp", ".nvpx"]
+    },
+    "ATLAS.ti": {
+      "website": "https://atlasti.com/",
+      "extensions": [".atlasproj", ".hpr7"]
+    },
+    "Dedoose": {
+      "website": "https://www.dedoose.com/",
+      "extensions": []
+    },
+    "QDAcity": {
+      "website": "https://qdacity.com",
+      "extensions": [".qdpx", ".qdc"]
+    },
+    "QDA Miner": {
+      "website": "https://provalisresearch.com/products/qualitative-data-analysis-software/",
+      "extensions": [".ppj", ".pprj", ".qlt"]
+    },
+    "f4analyse": {
+      "website": "https://www.audiotranskription.de/en/",
+      "extensions": [".f4p"]
+    },
+    "Quirkos": {
+      "website": "https://www.quirkos.com/",
+      "extensions": [".qpd"]
+    }
+  },
+  "all_extensions": [
+    ".qdpx", ".qdc", ".mqda", ".mqbac", ".mqtc", ".mqex", ".mqmtr",
+    ".mx24", ".mx24bac", ".mc24", ".mex24", ".mx22", ".mx20", ".mx18",
+    ".mx12", ".mx11", ".mx5", ".mx4", ".mx3", ".mx2", ".m2k",
+    ".loa", ".sea", ".mtr", ".mod", ".mex22", ".nvp", ".nvpx",
+    ".atlasproj", ".hpr7", ".ppj", ".pprj", ".qlt", ".f4p", ".qpd"
+  ]
+}
+

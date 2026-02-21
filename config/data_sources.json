@@ -1,0 +1,64 @@
+{
+  "repositories": {
+    "zenodo": {
+      "name": "Zenodo",
+      "url": "https://zenodo.org/",
+      "api_url": "https://zenodo.org/api/records",
+      "type": "api",
+      "description": "General-purpose open-access repository"
+    },
+    "dryad": {
+      "name": "Dryad",
+      "url": "http://datadryad.org/",
+      "api_url": "https://datadryad.org/api/v2",
+      "type": "api",
+      "description": "Curated resource for research data"
+    },
+    "qualidata_network": {
+      "name": "Qualidata Network",
+      "url": "https://www.qualidatanet.com/en/",
+      "type": "web",
+      "description": "Network for qualitative data archiving"
+    },
+    "qualiservice": {
+      "name": "Qualiservice",
+      "url": "https://www.qualidatanet.com/de/ueber-uns/articles/das-netzwerk-detail.html",
+      "type": "web",
+      "description": "German qualitative data service"
+    },
+    "qualibi": {
+      "name": "QualiBi",
+      "url": "https://www.qualidatanet.com/de/ueber-uns/articles/verbundpartner-werden.html",
+      "type": "web",
+      "description": "Qualitative data partner network"
+    },
+    "uk_data_service": {
+      "name": "UK Data Service",
+      "url": "https://ukdataservice.ac.uk/learning-hub/qualitative-data/",
+      "type": "web",
+      "description": "UK's largest collection of social, economic and population data"
+    },
+    "syracuse_qdr": {
+      "name": "Syracuse Qualitative Data Repository",
+      "url": "https://qdr.syr.edu/",
+      "api_url": "https://qdr.syr.edu/api",
+      "type": "api",
+      "description": "Dedicated archive for storing and sharing qualitative data"
+    },
+    "dans": {
+      "name": "DANS",
+      "url": "https://dans.knaw.nl/en/",
+      "api_url": "https://easy.dans.knaw.nl/oai",
+      "type": "api",
+      "description": "Data Archiving and Networked Services (Netherlands)"
+    },
+    "dataverse_no": {
+      "name": "DataverseNO",
+      "url": "https://dataverse.no/dataverse.xhtml",
+      "api_url": "https://dataverse.no/api",
+      "type": "api",
+      "description": "Norwegian Dataverse Network"
+    }
+  }
+}
+

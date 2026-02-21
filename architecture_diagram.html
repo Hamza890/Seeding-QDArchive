@@ -1,0 +1,367 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Seeding QDArchive - System Architecture</title>
+    <script src="https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.min.js"></script>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 20px;
+        }
+        
+        .container {
+            max-width: 1600px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 15px;
+            box-shadow: 0 20px 60px rgba(0,0,0,0.3);
+            overflow: hidden;
+        }
+        
+        .header {
+            background: linear-gradient(135deg, #2c3e50 0%, #34495e 100%);
+            color: white;
+            padding: 30px;
+            text-align: center;
+        }
+        
+        .header h1 {
+            font-size: 2.5em;
+            margin-bottom: 10px;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+        }
+        
+        .header p {
+            font-size: 1.2em;
+            opacity: 0.9;
+        }
+        
+        .legend {
+            background: #f8f9fa;
+            padding: 20px 30px;
+            border-bottom: 3px solid #e9ecef;
+        }
+        
+        .legend h2 {
+            color: #2c3e50;
+            margin-bottom: 15px;
+            font-size: 1.5em;
+        }
+        
+        .legend-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 15px;
+        }
+        
+        .legend-item {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            padding: 10px;
+            background: white;
+            border-radius: 8px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        }
+        
+        .legend-color {
+            width: 40px;
+            height: 40px;
+            border-radius: 6px;
+            border: 2px solid #333;
+        }
+        
+        .legend-text {
+            font-size: 0.95em;
+            color: #2c3e50;
+            font-weight: 500;
+        }
+        
+        .diagram-container {
+            padding: 40px;
+            background: white;
+            overflow-x: auto;
+        }
+        
+        .mermaid {
+            display: flex;
+            justify-content: center;
+        }
+        
+        .stats {
+            background: #f8f9fa;
+            padding: 30px;
+            border-top: 3px solid #e9ecef;
+        }
+        
+        .stats h2 {
+            color: #2c3e50;
+            margin-bottom: 20px;
+            font-size: 1.5em;
+        }
+        
+        .stats-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 20px;
+        }
+        
+        .stat-card {
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+            text-align: center;
+            transition: transform 0.3s;
+        }
+        
+        .stat-card:hover {
+            transform: translateY(-5px);
+        }
+        
+        .stat-number {
+            font-size: 2.5em;
+            font-weight: bold;
+            color: #667eea;
+            margin-bottom: 10px;
+        }
+        
+        .stat-label {
+            color: #6c757d;
+            font-size: 1em;
+        }
+        
+        .footer {
+            background: #2c3e50;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>🗂️ Seeding QDArchive</h1>
+            <p>System Architecture Diagram</p>
+        </div>
+        
+        <div class="legend">
+            <h2>📊 Component Legend</h2>
+            <div class="legend-grid">
+                <div class="legend-item">
+                    <div class="legend-color" style="background: #90EE90; border-color: #2d5016;"></div>
+                    <div class="legend-text">✅ Working Scrapers</div>
+                </div>
+                <div class="legend-item">
+                    <div class="legend-color" style="background: #FFB6C6; border-color: #8b0000;"></div>
+                    <div class="legend-text">❌ Non-Working Scrapers</div>
+                </div>
+                <div class="legend-item">
+                    <div class="legend-color" style="background: #87CEEB; border-color: #00008b;"></div>
+                    <div class="legend-text">🆕 New Scrapers</div>
+                </div>
+                <div class="legend-item">
+                    <div class="legend-color" style="background: #FFE4B5; border-color: #8b4513;"></div>
+                    <div class="legend-text">💻 User Interface</div>
+                </div>
+                <div class="legend-item">
+                    <div class="legend-color" style="background: #DDA0DD; border-color: #4b0082;"></div>
+                    <div class="legend-text">⚙️ Core Components</div>
+                </div>
+                <div class="legend-item">
+                    <div class="legend-color" style="background: #F0E68C; border-color: #8b8b00;"></div>
+                    <div class="legend-text">🗄️ Database</div>
+                </div>
+                <div class="legend-item">
+                    <div class="legend-color" style="background: #D3D3D3; border-color: #2f4f4f;"></div>
+                    <div class="legend-text">💾 Storage</div>
+                </div>
+                <div class="legend-item">
+                    <div class="legend-color" style="background: #FFDAB9; border-color: #8b4513;"></div>
+                    <div class="legend-text">📤 Outputs</div>
+                </div>
+                <div class="legend-item">
+                    <div class="legend-color" style="background: #E0FFFF; border-color: #008b8b;"></div>
+                    <div class="legend-text">⚙️ Configuration</div>
+                </div>
+            </div>
+        </div>
+
+        <div class="diagram-container">
+            <div class="mermaid">
+graph TB
+    subgraph DataSources["<b>Data Sources</b>"]
+        Z[Zenodo API]:::working
+        SQ[Syracuse QDR API]:::working
+        D[Dryad API]:::notworking
+        DV[DataverseNO API]:::notworking
+        DA[DANS OAI-PMH]:::notworking
+        UK[UK Data Service Web]:::notworking
+        Q1[Qualidata Web]:::notworking
+        Q2[Qualiservice Web]:::notworking
+        Q3[QualiBi Web]:::notworking
+        FS[Figshare API]:::new
+        HD[Harvard Dataverse API]:::new
+        OSF[OSF API]:::new
+        MD[Mendeley Data API]:::new
+    end
+
+    subgraph UserInterface["<b>User Interface</b>"]
+        CLI[Command Line Interface<br/>main.py]:::interface
+    end
+
+    subgraph ScrapersLayer["<b>Scrapers Layer</b>"]
+        BS[BaseScraper<br/>Abstract Class]:::core
+        ZS[ZenodoScraper]:::working
+        SQS[SyracuseQDRScraper]:::working
+        DS[DryadScraper]:::notworking
+        DVS[DataverseScraper]:::notworking
+        DAS[DANSScraper]:::notworking
+        UKS[UKDataServiceScraper]:::notworking
+        QS[QualidataScraper]:::notworking
+        FSS[FigshareScraper]:::new
+    end
+
+    subgraph CorePipeline["<b>Core Pipeline</b>"]
+        PP[QDAPipeline<br/>Orchestrator]:::core
+    end
+
+    subgraph CoreModules["<b>Core Modules</b>"]
+        DM[DownloadManager<br/>File Downloads & Hash Verification]:::core
+        DB[(MetadataDatabase<br/>SQLite)]:::database
+    end
+
+    subgraph Storage["<b>Storage</b>"]
+        FILES[Downloaded Files<br/>downloads/repository/project-title-id/]:::storage
+        DBFILE[(qda_archive.db)]:::storage
+    end
+
+    subgraph Outputs["<b>Outputs</b>"]
+        CSV[CSV Export<br/>Metadata]:::output
+        STATS[Statistics<br/>Reports]:::output
+    end
+
+    subgraph Config["<b>Configuration</b>"]
+        CFG1[data_sources.json<br/>Repository URLs & APIs]:::config
+        CFG2[qda_extensions.json<br/>37 QDA File Extensions]:::config
+    end
+
+    Z --> ZS
+    SQ --> SQS
+    D --> DS
+    DV --> DVS
+    DA --> DAS
+    UK --> UKS
+    Q1 --> QS
+    Q2 --> QS
+    Q3 --> QS
+    FS --> FSS
+    HD -.-> |To Be Created| PP
+    OSF -.-> |To Be Created| PP
+    MD -.-> |To Be Created| PP
+
+    CLI --> PP
+
+    BS -.-> |Inherits| ZS
+    BS -.-> |Inherits| SQS
+    BS -.-> |Inherits| DS
+    BS -.-> |Inherits| DVS
+    BS -.-> |Inherits| DAS
+    BS -.-> |Inherits| UKS
+    BS -.-> |Inherits| QS
+    BS -.-> |Inherits| FSS
+
+    ZS --> PP
+    SQS --> PP
+    DS --> PP
+    DVS --> PP
+    DAS --> PP
+    UKS --> PP
+    QS --> PP
+    FSS --> PP
+
+    PP --> DM
+    PP --> DB
+
+    DM --> FILES
+    DB --> DBFILE
+
+    DB --> CSV
+    DB --> STATS
+
+    CFG1 -.-> |Config| PP
+    CFG2 -.-> |Config| BS
+
+    classDef working fill:#90EE90,stroke:#2d5016,color:#000,stroke-width:2px
+    classDef notworking fill:#FFB6C6,stroke:#8b0000,color:#000,stroke-width:2px
+    classDef new fill:#87CEEB,stroke:#00008b,color:#000,stroke-width:2px
+    classDef interface fill:#FFE4B5,stroke:#8b4513,color:#000,stroke-width:2px
+    classDef core fill:#DDA0DD,stroke:#4b0082,color:#000,stroke-width:2px
+    classDef database fill:#F0E68C,stroke:#8b8b00,color:#000,stroke-width:2px
+    classDef storage fill:#D3D3D3,stroke:#2f4f4f,color:#000,stroke-width:2px
+    classDef output fill:#FFDAB9,stroke:#8b4513,color:#000,stroke-width:2px
+    classDef config fill:#E0FFFF,stroke:#008b8b,color:#000,stroke-width:2px
+            </div>
+        </div>
+
+        <div class="stats">
+            <h2>📈 System Statistics</h2>
+            <div class="stats-grid">
+                <div class="stat-card">
+                    <div class="stat-number">13</div>
+                    <div class="stat-label">Total Repositories</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-number">2</div>
+                    <div class="stat-label">Working Scrapers</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-number">4</div>
+                    <div class="stat-label">New Repositories</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-number">37</div>
+                    <div class="stat-label">QDA File Extensions</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-number">30+</div>
+                    <div class="stat-label">Metadata Fields</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-number">500+</div>
+                    <div class="stat-label">Estimated Datasets</div>
+                </div>
+            </div>
+        </div>
+
+        <div class="footer">
+            <p>🗂️ Seeding QDArchive - Qualitative Data Analysis File Collection Pipeline</p>
+            <p style="margin-top: 10px; opacity: 0.8;">Built with Python • SQLite • REST APIs</p>
+        </div>
+    </div>
+
+    <script>
+        mermaid.initialize({
+            startOnLoad: true,
+            theme: 'default',
+            flowchart: {
+                useMaxWidth: true,
+                htmlLabels: true,
+                curve: 'basis'
+            }
+        });
+    </script>
+</body>
+</html>
+
