@@ -20,6 +20,10 @@ from .sada_scraper import SADAScraper
 from .ihsn_scraper import IHSNScraper
 from .databrary_scraper import DatabraryScraper
 from .sikt_scraper import SiktScraper
+from .opendata_halle_scraper import OpenDataHalleScraper
+from .cis_spain_scraper import CISSpainScraper
+from .murray_scraper import MurrayScraper
+from .columbia_oral_history_scraper import ColumbiaOralHistoryScraper
 
 __all__ = [
     'BaseScraper',
@@ -42,6 +46,10 @@ __all__ = [
     'SADAScraper',
     'IHSNScraper',
     'DatabraryScraper',
-    'SiktScraper'
+    'SiktScraper',
+    'OpenDataHalleScraper',
+    'CISSpainScraper',
+    'MurrayScraper',
+    'ColumbiaOralHistoryScraper'
 ]
 
