@@ -10,6 +10,11 @@ from .dans_scraper import DANSScraper
 from .syracuse_qdr_scraper import SyracuseQDRScraper
 from .ukds_scraper import UKDataServiceScraper
 from .qualidata_scraper import QualidataScraper, QualiserviceScraper, QualiBiScraper
+from .ada_scraper import ADAScraper
+from .harvard_dataverse_scraper import HarvardDataverseScraper
+from .aussda_scraper import AUSSDAScraper
+from .cessda_scraper import CESSDAScraper
+from .icpsr_scraper import ICSPRScraper
 
 __all__ = [
     'BaseScraper',
@@ -22,6 +27,11 @@ __all__ = [
     'UKDataServiceScraper',
     'QualidataScraper',
     'QualiserviceScraper',
-    'QualiBiScraper'
+    'QualiBiScraper',
+    'ADAScraper',
+    'HarvardDataverseScraper',
+    'AUSSDAScraper',
+    'CESSDAScraper',
+    'ICSPRScraper'
 ]
 

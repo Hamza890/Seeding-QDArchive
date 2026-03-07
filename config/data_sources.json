@@ -5,14 +5,16 @@
       "url": "https://zenodo.org/",
       "api_url": "https://zenodo.org/api/records",
       "type": "api",
-      "description": "General-purpose open-access repository"
+      "description": "General-purpose open-access repository",
+      "search_url": "https://zenodo.org/search?q=qdpx"
     },
     "dryad": {
       "name": "Dryad",
       "url": "http://datadryad.org/",
       "api_url": "https://datadryad.org/api/v2",
       "type": "api",
-      "description": "Curated resource for research data"
+      "description": "Curated resource for research data",
+      "search_url": "https://datadryad.org/search?q=qualitative+research"
     },
     "qualidata_network": {
       "name": "Qualidata Network",
@@ -36,28 +38,127 @@
       "name": "UK Data Service",
       "url": "https://ukdataservice.ac.uk/learning-hub/qualitative-data/",
       "type": "web",
-      "description": "UK's largest collection of social, economic and population data"
+      "description": "UK's largest collection of social, economic and population data",
+      "search_url": "https://datacatalogue.ukdataservice.ac.uk/searchresults?search=qualitative+data"
     },
     "syracuse_qdr": {
       "name": "Syracuse Qualitative Data Repository",
       "url": "https://qdr.syr.edu/",
       "api_url": "https://qdr.syr.edu/api",
       "type": "api",
-      "description": "Dedicated archive for storing and sharing qualitative data"
+      "description": "Dedicated archive for storing and sharing qualitative data",
+      "search_url": "https://data.qdr.syr.edu/dataverse/main/?q=interview"
     },
     "dans": {
       "name": "DANS",
       "url": "https://dans.knaw.nl/en/",
       "api_url": "https://easy.dans.knaw.nl/oai",
       "type": "api",
-      "description": "Data Archiving and Networked Services (Netherlands)"
+      "description": "Data Archiving and Networked Services (Netherlands)",
+      "search_url": "https://ssh.datastations.nl/dataverse/root?q=qdpx"
     },
     "dataverse_no": {
       "name": "DataverseNO",
       "url": "https://dataverse.no/dataverse.xhtml",
       "api_url": "https://dataverse.no/api",
       "type": "api",
-      "description": "Norwegian Dataverse Network"
+      "description": "Norwegian Dataverse Network",
+      "search_url": "https://dataverse.no/dataverse/root/?q=qdpx"
+    },
+    "ada": {
+      "name": "ADA - Australian Data Archive",
+      "url": "https://ada.edu.au/",
+      "api_url": "https://dataverse.ada.edu.au/api",
+      "type": "api",
+      "description": "Australian Data Archive",
+      "search_url": "https://dataverse.ada.edu.au/dataverse/ada/?q=codebook"
+    },
+    "sada": {
+      "name": "SADA - South African Data Archive",
+      "url": "https://datafirst.uct.ac.za/",
+      "type": "web",
+      "description": "DataFirst - South African Data Archive",
+      "search_url": "https://www.datafirst.uct.ac.za/dataportal/index.php/catalog?sk=interview"
+    },
+    "ihsn": {
+      "name": "IHSN - International Household Survey Network",
+      "url": "https://ihsn.org/",
+      "type": "web",
+      "description": "International Household Survey Network"
+    },
+    "harvard_dataverse": {
+      "name": "Harvard Dataverse",
+      "url": "https://dataverse.harvard.edu/",
+      "api_url": "https://dataverse.harvard.edu/api",
+      "type": "api",
+      "description": "Harvard University's research data repository",
+      "search_url": "https://dataverse.harvard.edu/dataverse/harvard?q=qdpx"
+    },
+    "fsd": {
+      "name": "FSD - Finnish Social Science Data Archive",
+      "url": "https://www.fsd.tuni.fi/en",
+      "type": "web",
+      "description": "Finnish Social Science Data Archive",
+      "search_url": "https://services.fsd.tuni.fi/catalogue/index?limit=50&study_language=en&lang=en&page=0&field=publishing_date&direction=descending&data_kind_string_facet=Qualitative"
+    },
+    "aussda": {
+      "name": "AUSSDA - Austrian Social Science Data Archive",
+      "url": "https://aussda.at/en/",
+      "api_url": "https://data.aussda.at/api",
+      "type": "api",
+      "description": "Austrian Social Science Data Archive",
+      "search_url": "https://data.aussda.at/dataverse/AUSSDA/?q=qualitative"
+    },
+    "cessda": {
+      "name": "CESSDA - Consortium of European Social Science Data Archives",
+      "url": "https://www.cessda.eu/Tools/Data-Catalogue",
+      "type": "web",
+      "description": "European Social Science Data Archives Consortium",
+      "search_url": "https://datacatalogue.cessda.eu/?query=qualitative"
+    },
+    "databrary": {
+      "name": "Databrary",
+      "url": "https://databrary.org/",
+      "type": "web",
+      "description": "Video data sharing library for developmental science",
+      "search_url": "https://databrary.org/search?q=qualitative&tab=0"
+    },
+    "icpsr": {
+      "name": "ICPSR - Inter-university Consortium for Political and Social Research",
+      "url": "https://icpsr.umich.edu",
+      "type": "web",
+      "description": "World's largest archive of social science data",
+      "search_url": "https://www.icpsr.umich.edu/web/ICPSR/search/studies?q=interview"
+    },
+    "opendata_halle": {
+      "name": "Open Data Uni Halle",
+      "url": "https://opendata.uni-halle.de/",
+      "type": "web",
+      "description": "University of Halle Open Data Repository"
+    },
+    "cis_spain": {
+      "name": "CIS - Centro de Investigaciones Sociológicas",
+      "url": "https://www.cis.es/estudios/catalogo-estudios",
+      "type": "web",
+      "description": "Spanish Center for Sociological Research"
+    },
+    "murray_harvard": {
+      "name": "Murray Research Archive",
+      "url": "https://www.murray.harvard.edu/",
+      "type": "web",
+      "description": "Harvard's Murray Research Archive"
+    },
+    "columbia_oral_history": {
+      "name": "Columbia Oral History",
+      "url": "https://guides.library.columbia.edu/oral_history/digital_collections",
+      "type": "web",
+      "description": "Columbia University Oral History Collections"
+    },
+    "sikt_norway": {
+      "name": "Sikt - Norwegian Agency for Shared Services in Education and Research",
+      "url": "https://sikt.no/en/find-data",
+      "type": "web",
+      "description": "Norwegian research data services"
     }
   }
 }
