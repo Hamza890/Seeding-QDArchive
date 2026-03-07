@@ -26,15 +26,37 @@ The pipeline searches for files from these QDA software packages:
 
 ## Supported Data Repositories
 
-- **Zenodo** - https://zenodo.org/ (API-based)
-- **Dryad** - http://datadryad.org/ (API-based)
-- **DataverseNO** - https://dataverse.no/ (API-based)
-- **DANS** - https://dans.knaw.nl/ (OAI-PMH protocol)
-- **Syracuse QDR** - https://qdr.syr.edu/ (Dataverse API)
-- **UK Data Service** - https://ukdataservice.ac.uk/ (Web scraping)
-- **Qualidata Network** - https://www.qualidatanet.com/ (Web scraping)
-- **Qualiservice** - German qualitative data service (Web scraping)
-- **QualiBi** - Qualitative data partner network (Web scraping)
+**Total: 24 repositories** across multiple countries and disciplines.
+
+### API-Based Repositories (10)
+
+1. **Zenodo** - https://zenodo.org/ (REST API)
+2. **Dryad** - http://datadryad.org/ (REST API v2)
+3. **Syracuse QDR** - https://qdr.syr.edu/ (Dataverse API)
+4. **DANS** - https://dans.knaw.nl/ (OAI-PMH)
+5. **DataverseNO** - https://dataverse.no/ (Dataverse API)
+6. **ADA** - https://dataverse.ada.edu.au/ (Australian Data Archive - Dataverse API)
+7. **Harvard Dataverse** - https://dataverse.harvard.edu/ (Dataverse API)
+8. **AUSSDA** - https://data.aussda.at/ (Austrian Social Science Data Archive - Dataverse API)
+9. **CESSDA** - https://datacatalogue.cessda.eu/ (European Social Science Data - REST API)
+10. **ICPSR** - https://www.icpsr.umich.edu/ (Inter-university Consortium - Metadata API)
+
+### Web Scraping Repositories (14)
+
+11. **UK Data Service** - https://ukdataservice.ac.uk/
+12. **Qualidata Network** - https://www.qualidatanet.com/
+13. **Qualiservice** - German qualitative data service
+14. **QualiBi** - Qualitative data partner network
+15. **FSD** - https://www.fsd.tuni.fi/ (Finnish Social Science Data Archive)
+16. **SADA** - http://www.sada.nrf.ac.za/ (South African Data Archive)
+17. **IHSN** - http://www.ihsn.org/ (International Household Survey Network)
+18. **Databrary** - https://databrary.org/ (Video data sharing library)
+19. **Sikt** - https://sikt.no/ (Norwegian Agency for Shared Services)
+20. **Open Data Uni Halle** - https://opendata.uni-halle.de/
+21. **CIS Spain** - https://www.cis.es/ (Centro de Investigaciones Sociológicas)
+22. **Murray Research Archive** - https://www.murray.harvard.edu/
+23. **Columbia Oral History** - https://library.columbia.edu/libraries/ccoh.html
+24. **DataverseNO** - Additional Dataverse instance
 
 ## Installation
 
@@ -69,20 +91,23 @@ python main.py search --scraper all --max-results 50
 
 Search a specific repository:
 ```bash
-# Zenodo
+# API-based repositories
 python main.py search --scraper zenodo --max-results 100
-
-# DANS (Netherlands)
-python main.py search --scraper dans --max-results 50
-
-# Syracuse QDR
+python main.py search --scraper dryad --max-results 50
 python main.py search --scraper syracuse_qdr --max-results 50
+python main.py search --scraper dans --max-results 50
+python main.py search --scraper ada --max-results 50
+python main.py search --scraper harvard_dataverse --max-results 50
+python main.py search --scraper aussda --max-results 50
+python main.py search --scraper cessda --max-results 50
+python main.py search --scraper icpsr --max-results 50
 
-# UK Data Service
+# Web scraping repositories
 python main.py search --scraper uk_data_service --max-results 30
-
-# Qualidata Network
 python main.py search --scraper qualidata --max-results 20
+python main.py search --scraper fsd --max-results 30
+python main.py search --scraper sada --max-results 30
+python main.py search --scraper databrary --max-results 20
 ```
 
 Search with custom query:

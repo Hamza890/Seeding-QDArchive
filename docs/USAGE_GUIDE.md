@@ -47,14 +47,30 @@ python main.py search --scraper all --max-results 50
 #### Search Specific Repository
 
 ```bash
-# Zenodo
+# API-based repositories
 python main.py search --scraper zenodo --max-results 100
-
-# Dryad
 python main.py search --scraper dryad --max-results 50
-
-# DataverseNO
+python main.py search --scraper syracuse_qdr --max-results 50
+python main.py search --scraper dans --max-results 50
 python main.py search --scraper dataverse_no --max-results 50
+python main.py search --scraper ada --max-results 50
+python main.py search --scraper harvard_dataverse --max-results 50
+python main.py search --scraper aussda --max-results 50
+python main.py search --scraper cessda --max-results 50
+python main.py search --scraper icpsr --max-results 50
+
+# Web scraping repositories
+python main.py search --scraper uk_data_service --max-results 30
+python main.py search --scraper qualidata --max-results 20
+python main.py search --scraper fsd --max-results 30
+python main.py search --scraper sada --max-results 30
+python main.py search --scraper ihsn --max-results 30
+python main.py search --scraper databrary --max-results 20
+python main.py search --scraper sikt --max-results 30
+python main.py search --scraper opendata_halle --max-results 30
+python main.py search --scraper cis_spain --max-results 30
+python main.py search --scraper murray --max-results 30
+python main.py search --scraper columbia_oral_history --max-results 30
 ```
 
 #### Search with Custom Query
