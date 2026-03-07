@@ -15,6 +15,11 @@ from .harvard_dataverse_scraper import HarvardDataverseScraper
 from .aussda_scraper import AUSSDAScraper
 from .cessda_scraper import CESSDAScraper
 from .icpsr_scraper import ICSPRScraper
+from .fsd_scraper import FSDScraper
+from .sada_scraper import SADAScraper
+from .ihsn_scraper import IHSNScraper
+from .databrary_scraper import DatabraryScraper
+from .sikt_scraper import SiktScraper
 
 __all__ = [
     'BaseScraper',
@@ -32,6 +37,11 @@ __all__ = [
     'HarvardDataverseScraper',
     'AUSSDAScraper',
     'CESSDAScraper',
-    'ICSPRScraper'
+    'ICSPRScraper',
+    'FSDScraper',
+    'SADAScraper',
+    'IHSNScraper',
+    'DatabraryScraper',
+    'SiktScraper'
 ]
 
