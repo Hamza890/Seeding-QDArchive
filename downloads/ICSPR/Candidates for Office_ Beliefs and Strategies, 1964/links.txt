@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Candidates for Office: Beliefs and Strategies, 1964
+DOI   : https://doi.org/10.3886/icpsr34101.v1
+URL   : http://www.icpsr.umich.edu/icpsrweb/ICPSR/studies/34101/version/1
+
+Title : Candidates for Office: Beliefs and Strategies, 1964
+DOI   : https://doi.org/10.3886/icpsr34101
+URL   : http://www.icpsr.umich.edu/icpsrweb/ICPSR/studies/34101
+

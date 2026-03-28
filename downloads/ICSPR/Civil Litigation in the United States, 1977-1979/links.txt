@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Civil Litigation in the United States, 1977-1979
+DOI   : https://doi.org/10.3886/icpsr07994
+URL   : http://www.icpsr.umich.edu/icpsrweb/NACJD/studies/7994
+

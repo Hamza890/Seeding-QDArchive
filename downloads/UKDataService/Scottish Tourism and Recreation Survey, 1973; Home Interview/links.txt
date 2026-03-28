@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Scottish Tourism and Recreation Survey, 1973; Home Interview
+DOI   : https://doi.org/10.5255/ukda-sn-2490-1
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/2490#doi
+

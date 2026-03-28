@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : CTDA 1032: Posttraumatic Stress in Children Age 7 to 15 Hospitalized for Burn or Traffic Injury and Their Parents, Switzerland, 2016-2018
+DOI   : https://doi.org/10.3886/icpsr39197
+URL   : https://www.icpsr.umich.edu/web/DSDR/studies/39197
+

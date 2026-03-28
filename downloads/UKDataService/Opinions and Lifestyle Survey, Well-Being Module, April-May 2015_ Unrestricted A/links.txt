@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Opinions and Lifestyle Survey, Well-Being Module, April-May 2015: Unrestricted Access Teaching Dataset
+DOI   : https://doi.org/10.5255/ukda-sn-7913-2
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/7913#doi
+

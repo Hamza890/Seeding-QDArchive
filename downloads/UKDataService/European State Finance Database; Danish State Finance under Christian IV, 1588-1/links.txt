@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : European State Finance Database; Danish State Finance under Christian IV, 1588-1628
+DOI   : https://doi.org/10.5255/ukda-sn-3115-1
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/3115#doi
+

@@ -1,0 +1,15 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : 2015 Local Arts Agency Census, United States
+DOI   : https://doi.org/10.3886/icpsr37041.v1
+URL   : https://www.icpsr.umich.edu/icpsrweb/NADAC/studies/37041/versions/V1
+
+Title : 2015 Local Arts Agency Census, United States
+DOI   : https://doi.org/10.3886/icpsr37041
+URL   : https://www.icpsr.umich.edu/web/NADAC/studies/37041
+
+Title : 2015 Local Arts Agency Census, United States
+DOI   : https://doi.org/10.3886/icpsr37041.v2
+URL   : https://www.icpsr.umich.edu/web/NADAC/studies/37041/versions/V2
+

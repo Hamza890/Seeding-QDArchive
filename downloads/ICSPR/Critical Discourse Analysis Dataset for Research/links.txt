@@ -1,0 +1,15 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Critical Discourse Analysis Dataset for Research
+DOI   : https://doi.org/10.3886/e238582v2
+URL   : https://www.openicpsr.org/openicpsr/project/238582/version/V2/view
+
+Title : Critical Discourse Analysis Dataset for Research
+DOI   : https://doi.org/10.3886/e238582
+URL   : https://www.openicpsr.org/openicpsr/project/238582/view
+
+Title : Critical Discourse Analysis Dataset for Research
+DOI   : https://doi.org/10.3886/e238582v1
+URL   : https://www.openicpsr.org/openicpsr/project/238582/version/V1/view
+

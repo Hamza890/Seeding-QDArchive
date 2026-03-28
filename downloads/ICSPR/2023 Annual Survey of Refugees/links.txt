@@ -1,0 +1,15 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : 2023 Annual Survey of Refugees
+DOI   : https://doi.org/10.3886/e242083v1-200550
+URL   : https://www.openicpsr.org/openicpsr/project/242083/version/V1/view?path=/openicpsr/242083/fcr:versions/V1/2023-ASR_Public_Use_File.dta&type=file
+
+Title : 2023 Annual Survey of Refugees
+DOI   : https://doi.org/10.3886/e242083v1
+URL   : https://www.openicpsr.org/openicpsr/project/242083/version/V1/view
+
+Title : 2023 Annual Survey of Refugees
+DOI   : https://doi.org/10.3886/e242083
+URL   : https://www.openicpsr.org/openicpsr/project/242083/view
+

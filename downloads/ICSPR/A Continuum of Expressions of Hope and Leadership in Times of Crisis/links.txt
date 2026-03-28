@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : A Continuum of Expressions of Hope and Leadership in Times of Crisis
+DOI   : https://doi.org/10.3886/e207984
+URL   : https://www.openicpsr.org/openicpsr/project/207984/view
+
+Title : A Continuum of Expressions of Hope and Leadership in Times of Crisis
+DOI   : https://doi.org/10.3886/e207984v1
+URL   : https://www.openicpsr.org/openicpsr/project/207984/version/V1/view
+

@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Circular RNA hsa_circ_0008726 Targets the hsa-miR-206-3p/KLF4 Axis to Modulate 4,4’-Methylene Diphenyl Diisocyanate-Glutathione Conjugate-Induced Chemokine Transcription in Macrophages
+DOI   : https://doi.org/10.3886/e233926v1
+URL   : https://www.datalumos.org/datalumos/project/233926/version/V1/view
+
+Title : Circular RNA hsa_circ_0008726 Targets the hsa-miR-206-3p/KLF4 Axis to Modulate 4,4’-Methylene Diphenyl Diisocyanate-Glutathione Conjugate-Induced Chemokine Transcription in Macrophages
+DOI   : https://doi.org/10.3886/e233926
+URL   : https://www.datalumos.org/datalumos/project/233926/view
+

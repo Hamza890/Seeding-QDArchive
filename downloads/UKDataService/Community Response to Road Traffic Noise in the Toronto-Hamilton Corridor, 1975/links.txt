@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Community Response to Road Traffic Noise in the Toronto-Hamilton Corridor, 1975 and 1976
+DOI   : https://doi.org/10.5255/ukda-sn-1355-1
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/1355#doi
+

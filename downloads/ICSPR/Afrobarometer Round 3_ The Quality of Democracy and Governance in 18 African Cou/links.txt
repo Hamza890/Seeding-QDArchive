@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Afrobarometer Round 3: The Quality of Democracy and Governance in 18 African Countries, 2005-2006
+DOI   : https://doi.org/10.3886/icpsr22981
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/22981
+
+Title : Afrobarometer Round 3: The Quality of Democracy and Governance in 18 African Countries, 2005-2006
+DOI   : https://doi.org/10.3886/icpsr22981.v1
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/22981/versions/V1
+

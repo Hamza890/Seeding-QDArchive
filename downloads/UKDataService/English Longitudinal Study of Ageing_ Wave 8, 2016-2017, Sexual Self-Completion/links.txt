@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : English Longitudinal Study of Ageing: Wave 8, 2016-2017, Sexual Self-Completion Data: Special Licence Access
+DOI   : https://doi.org/10.5255/ukda-sn-8376-2
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/8376#doi
+

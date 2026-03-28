@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Growing Up in Scotland: Cohort 1: Sweep 11, 2021-2023, Attainment Data: Secure Access
+DOI   : https://doi.org/10.5255/ukda-sn-9447-1
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/9447#doi
+

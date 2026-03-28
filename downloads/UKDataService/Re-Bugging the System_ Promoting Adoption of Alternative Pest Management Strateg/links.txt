@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Re-Bugging the System: Promoting Adoption of Alternative Pest Management Strategies in Field Crop Systems, 2005-2009
+DOI   : https://doi.org/10.5255/ukda-sn-6960-1
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/6960#doi
+

@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : AHRQ: Statistical Briefs
+DOI   : https://doi.org/10.3886/e220481v2
+URL   : https://www.datalumos.org/datalumos/project/220481/version/V2/view
+
+Title : AHRQ: Statistical Briefs
+DOI   : https://doi.org/10.3886/e220481
+URL   : https://www.datalumos.org/datalumos/project/220481/view
+

@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Aligning Forces for Quality Evaluation: Consumer Survey Round 1, 2007-2008 and 2010
+DOI   : https://doi.org/10.3886/icpsr35259
+URL   : https://www.icpsr.umich.edu/web/HMCA/studies/35259
+

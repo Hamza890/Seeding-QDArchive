@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Comparing Primary Care Clinician-Focused Versus Team-Based Implementation of Advance Care Planning: Protocol for a Cluster-Randomized Control Trial, United States and Canada, 2019-2022
+DOI   : https://doi.org/10.3886/icpsr39033
+URL   : https://www.icpsr.umich.edu/web/pcodr/studies/39033
+
+Title : Comparing Primary Care Clinician-Focused Versus Team-Based Implementation of Advance Care Planning: Protocol for a Cluster-Randomized Control Trial, United States and Canada, 2019-2022
+DOI   : https://doi.org/10.3886/icpsr39033.v1
+URL   : https://www.icpsr.umich.edu/web/pcodr/studies/39033/versions/V1
+

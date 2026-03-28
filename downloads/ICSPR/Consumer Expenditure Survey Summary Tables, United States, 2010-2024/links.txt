@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Consumer Expenditure Survey Summary Tables, United States, 2010-2024
+DOI   : https://doi.org/10.3886/icpsr36170.v13
+URL   : https://www.icpsr.umich.edu/web/NADAC/studies/36170/versions/V13
+
+Title : Consumer Expenditure Survey Summary Tables, United States, 2010-2024
+DOI   : https://doi.org/10.3886/icpsr36170
+URL   : https://www.icpsr.umich.edu/web/NADAC/studies/36170
+

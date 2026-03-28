@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Metropolitan Market Networks, c.1300-1600; London, its Region and the Economy of England
+DOI   : https://doi.org/10.5255/ukda-sn-4245-1
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/4245#doi
+

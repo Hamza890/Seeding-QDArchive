@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Annual Adjustment Factors
+DOI   : https://doi.org/10.3886/e222141v2
+URL   : https://www.datalumos.org/datalumos/project/222141/version/V2/view
+
+Title : Annual Adjustment Factors
+DOI   : https://doi.org/10.3886/e222141
+URL   : https://www.datalumos.org/datalumos/project/222141/view
+

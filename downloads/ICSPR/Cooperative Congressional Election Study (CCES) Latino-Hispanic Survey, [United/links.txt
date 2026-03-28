@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Cooperative Congressional Election Study (CCES) Latino-Hispanic Survey, [United States], 2010
+DOI   : https://doi.org/10.3886/icpsr35616
+URL   : https://www.icpsr.umich.edu/web/RCMD/studies/35616
+
+Title : Cooperative Congressional Election Study (CCES) Latino-Hispanic Survey, [United States], 2010
+DOI   : https://doi.org/10.3886/icpsr35616.v1
+URL   : https://www.icpsr.umich.edu/web/RCMD/studies/35616/versions/V1
+

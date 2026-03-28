@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Scottish Leisure Survey, 1983; Home Interview
+DOI   : https://doi.org/10.5255/ukda-sn-2488-1
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/2488#doi
+

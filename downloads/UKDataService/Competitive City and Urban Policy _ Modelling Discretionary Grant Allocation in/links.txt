@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Competitive City and Urban Policy : Modelling Discretionary Grant Allocation in the UK, 1994-1998
+DOI   : https://doi.org/10.5255/ukda-sn-4446-1
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/4446#doi
+

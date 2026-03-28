@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Workplace Employee Relations Survey, 2004; Cross-Section Survey, 2004 and Panel Survey, 1998-2004, Wave 2
+DOI   : https://doi.org/10.5255/ukda-sn-5294-2
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/5294#doi
+

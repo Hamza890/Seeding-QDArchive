@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : A Study of Wife Abuse Among Vietnamese Immigrants to the US, 2000-2001
+DOI   : https://doi.org/10.3886/icpsr35247
+URL   : https://www.icpsr.umich.edu/web/RCMD/studies/35247
+
+Title : A Study of Wife Abuse Among Vietnamese Immigrants to the US, 2000-2001
+DOI   : https://doi.org/10.3886/icpsr35247.v1
+URL   : https://www.icpsr.umich.edu/web/RCMD/studies/35247/versions/V1
+

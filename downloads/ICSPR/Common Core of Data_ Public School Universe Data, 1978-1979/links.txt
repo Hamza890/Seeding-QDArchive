@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Common Core of Data: Public School Universe Data, 1978-1979
+DOI   : https://doi.org/10.3886/icpsr02244
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/2244
+

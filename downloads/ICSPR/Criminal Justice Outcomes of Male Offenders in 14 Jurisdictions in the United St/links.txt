@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Criminal Justice Outcomes of Male Offenders in 14 Jurisdictions in the United States, 1985-1988
+DOI   : https://doi.org/10.3886/icpsr09671
+URL   : https://www.icpsr.umich.edu/web/NACJD/studies/9671
+
+Title : Criminal Justice Outcomes of Male Offenders in 14 Jurisdictions in the United States, 1985-1988
+DOI   : https://doi.org/10.3886/icpsr09671.v1
+URL   : https://www.icpsr.umich.edu/web/NACJD/studies/9671/versions/V1
+

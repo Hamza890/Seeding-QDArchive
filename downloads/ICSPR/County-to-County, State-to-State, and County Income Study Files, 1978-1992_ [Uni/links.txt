@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : County-to-County, State-to-State, and County Income Study Files, 1978-1992: [United States]
+DOI   : https://doi.org/10.3886/icpsr02937
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/2937
+

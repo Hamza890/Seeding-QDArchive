@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Lord of the Rings International Audience Research Project: World Questionnaire Dataset, 2003-2004
+DOI   : https://doi.org/10.5255/ukda-sn-5179-1
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/5179#doi
+

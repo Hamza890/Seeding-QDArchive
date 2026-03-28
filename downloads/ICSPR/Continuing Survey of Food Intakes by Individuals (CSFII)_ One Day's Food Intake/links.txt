@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Continuing Survey of Food Intakes by Individuals (CSFII): One Day's Food Intake Data for Men 19-50 Years of Age, 1985 [United States]
+DOI   : https://doi.org/10.3886/icpsr21960
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/21960
+
+Title : Continuing Survey of Food Intakes by Individuals (CSFII): One Day's Food Intake Data for Men 19-50 Years of Age, 1985 [United States]
+DOI   : https://doi.org/10.3886/icpsr21960.v1
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/21960/versions/V1
+

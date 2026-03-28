@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Human Capital and Social Position in Britain: Creating a Measure of Wage-Earning Potential from BHPS Data, 1991-2004
+DOI   : https://doi.org/10.5255/ukda-sn-5354-1
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/5354#doi
+

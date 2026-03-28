@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Child Care Licensing Study, United States, 2012-2014
+DOI   : https://doi.org/10.3886/icpsr37026
+URL   : https://www.childandfamilydataarchive.org/cfda/archives/CFDA/studies/37026
+
+Title : Child Care Licensing Study, United States, 2012-2014
+DOI   : https://doi.org/10.3886/icpsr37026.v1
+URL   : https://www.childandfamilydataarchive.org/cfda/archives/CFDA/studies/37026/versions/V1
+

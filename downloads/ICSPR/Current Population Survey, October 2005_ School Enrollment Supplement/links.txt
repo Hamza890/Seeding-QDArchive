@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Current Population Survey, October 2005: School Enrollment Supplement
+DOI   : https://doi.org/10.3886/icpsr04567
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/4567
+

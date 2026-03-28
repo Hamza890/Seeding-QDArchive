@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Criminal Justice Response to Victim Harm in the United States, 1981
+DOI   : https://doi.org/10.3886/icpsr08249
+URL   : https://www.icpsr.umich.edu/web/NACJD/studies/8249
+
+Title : Criminal Justice Response to Victim Harm in the United States, 1981
+DOI   : https://doi.org/10.3886/icpsr08249.v1
+URL   : https://www.icpsr.umich.edu/web/NACJD/studies/8249/versions/V1
+

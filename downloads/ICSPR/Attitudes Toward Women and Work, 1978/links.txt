@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Attitudes Toward Women and Work, 1978
+DOI   : https://doi.org/10.3886/icpsr22860
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/22860
+
+Title : Attitudes Toward Women and Work, 1978
+DOI   : https://doi.org/10.3886/icpsr22860.v1
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/22860/versions/V1
+

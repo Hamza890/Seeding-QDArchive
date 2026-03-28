@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Applying Data Science to Justice Systems: The North Carolina Statewide Warrant Repository (NCAWARE), 2014-2019
+DOI   : https://doi.org/10.3886/icpsr37462
+URL   : https://www.icpsr.umich.edu/web/NACJD/studies/37462
+
+Title : Applying Data Science to Justice Systems: The North Carolina Statewide Warrant Repository (NCAWARE), 2014-2019
+DOI   : https://doi.org/10.3886/icpsr37462.v1
+URL   : https://www.icpsr.umich.edu/web/NACJD/studies/37462/versions/V1
+

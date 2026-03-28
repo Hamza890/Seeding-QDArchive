@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Ethnic Minority Young People: Differential Treatment in the Youth Justice System, 2006
+DOI   : https://doi.org/10.5255/ukda-sn-6749-1
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/6749#doi
+

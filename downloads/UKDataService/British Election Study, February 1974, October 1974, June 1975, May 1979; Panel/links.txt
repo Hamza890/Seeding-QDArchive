@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : British Election Study, February 1974, October 1974, June 1975, May 1979; Panel Survey
+DOI   : https://doi.org/10.5255/ukda-sn-1614-1
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/1614#doi
+

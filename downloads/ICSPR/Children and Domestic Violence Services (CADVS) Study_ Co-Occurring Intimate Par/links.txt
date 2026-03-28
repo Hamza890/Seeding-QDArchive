@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Children and Domestic Violence Services (CADVS) Study: Co-Occurring Intimate Partner Violence and Child Maltreatment in the United States, 2003-2004
+DOI   : https://doi.org/10.3886/icpsr04569
+URL   : http://www.icpsr.umich.edu/icpsrweb/NACJD/studies/4569
+
+Title : Children and Domestic Violence Services (CADVS) Study: Co-Occurring Intimate Partner Violence and Child Maltreatment in the United States, 2003-2004
+DOI   : https://doi.org/10.3886/icpsr04569.v1
+URL   : http://www.icpsr.umich.edu/icpsrweb/NACJD/studies/4569/version/1
+

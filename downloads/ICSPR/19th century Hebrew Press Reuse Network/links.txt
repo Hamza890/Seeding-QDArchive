@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : 19th century Hebrew Press Reuse Network
+DOI   : https://doi.org/10.3886/e231662
+URL   : https://www.openicpsr.org/openicpsr/project/231662/view
+
+Title : 19th century Hebrew Press Reuse Network
+DOI   : https://doi.org/10.3886/e231662v1
+URL   : https://www.openicpsr.org/openicpsr/project/231662/version/V1/view
+

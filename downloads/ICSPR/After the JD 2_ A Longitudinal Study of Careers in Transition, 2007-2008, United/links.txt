@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : After the JD 2: A Longitudinal Study of Careers in Transition, 2007-2008, United States
+DOI   : https://doi.org/10.3886/icpsr33584
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/33584
+

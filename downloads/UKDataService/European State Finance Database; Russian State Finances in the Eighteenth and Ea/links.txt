@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : European State Finance Database; Russian State Finances in the Eighteenth and Early Nineteenth Centuries
+DOI   : https://doi.org/10.5255/ukda-sn-3105-1
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/3105#doi
+

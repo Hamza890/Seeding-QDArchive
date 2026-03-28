@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : DICTION Computer Program
+DOI   : https://doi.org/10.3886/icpsr05909
+URL   : http://www.icpsr.umich.edu/icpsrweb/ICPSR/studies/5909
+
+Title : DICTION Computer Program
+DOI   : https://doi.org/10.3886/icpsr05909.v1
+URL   : http://www.icpsr.umich.edu/icpsrweb/ICPSR/studies/5909/version/1
+

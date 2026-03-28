@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : European State Finance Database; French Revenues and Expenditure: Taille, Tax, Life Rents and Tontines, 1461-1850
+DOI   : https://doi.org/10.5255/ukda-sn-3138-1
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/3138#doi
+

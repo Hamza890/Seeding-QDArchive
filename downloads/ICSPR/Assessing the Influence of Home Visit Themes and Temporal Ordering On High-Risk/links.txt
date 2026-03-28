@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Assessing the Influence of Home Visit Themes and Temporal Ordering On High-Risk Parolee Outcomes, Georgia, 2011-2015
+DOI   : https://doi.org/10.3886/icpsr36517
+URL   : https://www.icpsr.umich.edu/web/NACJD/studies/36517
+
+Title : Assessing the Influence of Home Visit Themes and Temporal Ordering On High-Risk Parolee Outcomes, Georgia, 2011-2015
+DOI   : https://doi.org/10.3886/icpsr36517.v1
+URL   : https://www.icpsr.umich.edu/web/NACJD/studies/36517/versions/V1
+

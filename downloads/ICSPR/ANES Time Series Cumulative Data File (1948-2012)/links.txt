@@ -1,0 +1,67 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : ANES Time Series Cumulative Data File (1948-2012)
+DOI   : https://doi.org/10.3886/icpsr08475
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/8475
+
+Title : ANES Time Series Cumulative Data File (1948-2012)
+DOI   : https://doi.org/10.3886/icpsr08475.v15
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/8475/versions/V15
+
+Title : ANES Time Series Cumulative Data File (1948-2012)
+DOI   : https://doi.org/10.3886/icpsr08475.v6
+URL   : http://www.icpsr.umich.edu/icpsrweb/ICPSR/studies/8475/version/6
+
+Title : ANES Time Series Cumulative Data File (1948-2012)
+DOI   : https://doi.org/10.3886/icpsr08475.v4
+URL   : http://www.icpsr.umich.edu/icpsrweb/ICPSR/studies/8475/version/4
+
+Title : ANES Time Series Cumulative Data File (1948-2012)
+DOI   : https://doi.org/10.3886/icpsr08475.v1
+URL   : http://www.icpsr.umich.edu/icpsrweb/ICPSR/studies/8475/version/1
+
+Title : ANES Time Series Cumulative Data File (1948-2012)
+DOI   : https://doi.org/10.3886/icpsr08475.v5
+URL   : http://www.icpsr.umich.edu/icpsrweb/ICPSR/studies/8475/version/5
+
+Title : ANES Time Series Cumulative Data File (1948-2012)
+DOI   : https://doi.org/10.3886/icpsr08475.v3
+URL   : http://www.icpsr.umich.edu/icpsrweb/ICPSR/studies/8475/version/3
+
+Title : ANES Time Series Cumulative Data File (1948-2012)
+DOI   : https://doi.org/10.3886/icpsr08475.v2
+URL   : http://www.icpsr.umich.edu/icpsrweb/ICPSR/studies/8475/version/2
+
+Title : ANES Time Series Cumulative Data File (1948-2012)
+DOI   : https://doi.org/10.3886/icpsr08475.v10
+URL   : http://www.icpsr.umich.edu/icpsrweb/ICPSR/studies/8475/version/10
+
+Title : ANES Time Series Cumulative Data File (1948-2012)
+DOI   : https://doi.org/10.3886/icpsr08475.v8
+URL   : http://www.icpsr.umich.edu/icpsrweb/ICPSR/studies/8475/version/8
+
+Title : ANES Time Series Cumulative Data File (1948-2012)
+DOI   : https://doi.org/10.3886/icpsr08475.v11
+URL   : http://www.icpsr.umich.edu/icpsrweb/ICPSR/studies/8475/version/11
+
+Title : ANES Time Series Cumulative Data File (1948-2012)
+DOI   : https://doi.org/10.3886/icpsr08475.v7
+URL   : http://www.icpsr.umich.edu/icpsrweb/ICPSR/studies/8475/version/7
+
+Title : ANES Time Series Cumulative Data File (1948-2012)
+DOI   : https://doi.org/10.3886/icpsr08475.v13
+URL   : http://www.icpsr.umich.edu/icpsrweb/ICPSR/studies/8475/version/13
+
+Title : ANES Time Series Cumulative Data File (1948-2012)
+DOI   : https://doi.org/10.3886/icpsr08475.v12
+URL   : http://www.icpsr.umich.edu/icpsrweb/ICPSR/studies/8475/version/12
+
+Title : ANES Time Series Cumulative Data File (1948-2012)
+DOI   : https://doi.org/10.3886/icpsr08475.v9
+URL   : http://www.icpsr.umich.edu/icpsrweb/ICPSR/studies/8475/version/9
+
+Title : ANES Time Series Cumulative Data File (1948-2012)
+DOI   : https://doi.org/10.3886/icpsr08475.v14
+URL   : http://www.icpsr.umich.edu/icpsrweb/ICPSR/studies/8475/version/14
+

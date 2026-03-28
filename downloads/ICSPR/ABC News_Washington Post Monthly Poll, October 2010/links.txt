@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : ABC News/Washington Post Monthly Poll, October 2010
+DOI   : https://doi.org/10.3886/icpsr32546
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/32546
+
+Title : ABC News/Washington Post Monthly Poll, October 2010
+DOI   : https://doi.org/10.3886/icpsr32546.v1
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/32546/versions/V1
+

@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : A Community Partnership with Asian Pacific AIDS Intervention Team to Explore Socio-ecological and Place-based Determinants of Interpersonal Violence Experienced by Transgender Women of Color, Los Angeles, California, 2020
+DOI   : https://doi.org/10.3886/icpsr38668
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/38668
+
+Title : A Community Partnership with Asian Pacific AIDS Intervention Team to Explore Socio-ecological and Place-based Determinants of Interpersonal Violence Experienced by Transgender Women of Color, Los Angeles, California, 2020
+DOI   : https://doi.org/10.3886/icpsr38668.v1
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/38668/versions/V1
+

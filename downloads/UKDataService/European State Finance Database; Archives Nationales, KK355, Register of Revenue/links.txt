@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : European State Finance Database; Archives Nationales, KK355, Register of Revenues and Expenditure for 17th Century France
+DOI   : https://doi.org/10.5255/ukda-sn-3129-1
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/3129#doi
+

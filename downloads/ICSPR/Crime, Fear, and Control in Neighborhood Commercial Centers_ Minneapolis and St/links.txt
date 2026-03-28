@@ -1,0 +1,15 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Crime, Fear, and Control in Neighborhood Commercial Centers: Minneapolis and St. Paul, 1970-1982
+DOI   : https://doi.org/10.3886/icpsr08167
+URL   : http://www.icpsr.umich.edu/icpsrweb/NACJD/studies/8167
+
+Title : Crime, Fear, and Control in Neighborhood Commercial Centers: Minneapolis and St. Paul, 1970-1982
+DOI   : https://doi.org/10.3886/icpsr08167.v1
+URL   : http://www.icpsr.umich.edu/icpsrweb/NACJD/studies/8167/version/1
+
+Title : Crime, Fear, and Control in Neighborhood Commercial Centers: Minneapolis and St. Paul, 1970-1982
+DOI   : https://doi.org/10.3886/icpsr08167.v2
+URL   : http://www.icpsr.umich.edu/icpsrweb/NACJD/studies/8167/version/2
+

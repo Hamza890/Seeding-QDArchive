@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Current Population Survey, August 2002: Public Participation in the Arts Supplement
+DOI   : https://doi.org/10.3886/icpsr03971
+URL   : http://www.icpsr.umich.edu/icpsrweb/RCMD/studies/3971
+

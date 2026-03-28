@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : 1970 British Cohort Study: Age 46, Sweep 10, 2016-2018
+DOI   : https://doi.org/10.5255/ukda-sn-8547-2
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/8547#doi
+

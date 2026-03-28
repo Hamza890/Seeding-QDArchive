@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Community Hospital Program (CHP) Access Impact Evaluation Surveys, 1978-1979, 1981
+DOI   : https://doi.org/10.3886/icpsr08245
+URL   : http://www.icpsr.umich.edu/icpsrweb/HMCA/studies/8245
+

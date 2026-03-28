@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Understanding Society: Innovation Panel, Waves 1-16, 2008-2023
+DOI   : https://doi.org/10.5255/ukda-sn-6849-16
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/6849#doi
+

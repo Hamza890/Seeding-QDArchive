@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Digital Library of Historical Directories, 1750-1919: Yorkshire, 1787-1885
+DOI   : https://doi.org/10.5255/ukda-sn-5132-1
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/5132#doi
+

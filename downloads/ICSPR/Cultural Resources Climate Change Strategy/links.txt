@@ -1,0 +1,15 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Cultural Resources Climate Change Strategy
+DOI   : https://doi.org/10.3886/e222941v2
+URL   : https://www.datalumos.org/datalumos/project/222941/version/V2/view
+
+Title : Cultural Resources Climate Change Strategy
+DOI   : https://doi.org/10.3886/e222941
+URL   : https://www.datalumos.org/datalumos/project/222941/view
+
+Title : Cultural Resources Climate Change Strategy
+DOI   : https://doi.org/10.3886/e222941v1
+URL   : https://www.datalumos.org/datalumos/project/222941/version/V1/view
+

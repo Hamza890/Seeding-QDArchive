@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Crime During the Transition to Adulthood: How Youth Fare As They Leave Out-of-Home Care in Illinois, Iowa, and Wisconsin, 2002-2007
+DOI   : https://doi.org/10.3886/icpsr27062
+URL   : https://www.icpsr.umich.edu/web/NACJD/studies/27062
+

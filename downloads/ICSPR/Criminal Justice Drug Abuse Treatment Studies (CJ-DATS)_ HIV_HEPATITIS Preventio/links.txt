@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Criminal Justice Drug Abuse Treatment Studies (CJ-DATS): HIV/HEPATITIS Prevention for Re-Entering Drug Offenders
+DOI   : https://doi.org/10.3886/icpsr29061
+URL   : https://www.icpsr.umich.edu/web/NAHDAP/studies/29061
+

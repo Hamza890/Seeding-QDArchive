@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : A New Approach to Utilizing Evidence from Sexual Assault Kits in Texas: Benefits and Costs of a Universal Testing Statute, 1996-2011
+DOI   : https://doi.org/10.3886/icpsr38096
+URL   : https://www.icpsr.umich.edu/web/NACJD/studies/38096
+
+Title : A New Approach to Utilizing Evidence from Sexual Assault Kits in Texas: Benefits and Costs of a Universal Testing Statute, 1996-2011
+DOI   : https://doi.org/10.3886/icpsr38096.v1
+URL   : https://www.icpsr.umich.edu/web/NACJD/studies/38096/versions/V1
+

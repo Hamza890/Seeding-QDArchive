@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Comprehensive School Safety Initiative, St. Louis County, Missouri, 2016-2019
+DOI   : https://doi.org/10.3886/icpsr37929
+URL   : https://www.icpsr.umich.edu/web/NACJD/studies/37929
+
+Title : Comprehensive School Safety Initiative, St. Louis County, Missouri, 2016-2019
+DOI   : https://doi.org/10.3886/icpsr37929.v1
+URL   : https://www.icpsr.umich.edu/web/NACJD/studies/37929/versions/V1
+

@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : A modified Maritime Human Factors Analysis and Classification System for towing vessel accident analysis
+DOI   : https://doi.org/10.3886/e191724v1
+URL   : https://www.openicpsr.org/openicpsr/project/191724/version/V1/view
+
+Title : A modified Maritime Human Factors Analysis and Classification System for towing vessel accident analysis
+DOI   : https://doi.org/10.3886/e191724
+URL   : https://www.openicpsr.org/openicpsr/project/191724/view
+

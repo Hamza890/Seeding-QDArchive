@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : National Survey of Teachers in Their First Year of Service, 1966-1967; Interview Questionnaire
+DOI   : https://doi.org/10.5255/ukda-sn-67032-1
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/67032#doi
+

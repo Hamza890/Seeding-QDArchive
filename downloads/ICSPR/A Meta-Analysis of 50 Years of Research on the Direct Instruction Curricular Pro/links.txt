@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : A Meta-Analysis of 50 Years of Research on the Direct Instruction Curricular Program, 8 countries, 1966-2017
+DOI   : https://doi.org/10.3886/icpsr38766
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/38766
+

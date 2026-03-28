@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Breaking the Cycle of Drugs and Crime in Birmingham, Alabama, Jacksonville, Florida, and Tacoma, Washington, 1997-2001
+DOI   : https://doi.org/10.3886/icpsr03928
+URL   : https://www.icpsr.umich.edu/web/NACJD/studies/3928
+
+Title : Breaking the Cycle of Drugs and Crime in Birmingham, Alabama, Jacksonville, Florida, and Tacoma, Washington, 1997-2001
+DOI   : https://doi.org/10.3886/icpsr03928.v1
+URL   : https://www.icpsr.umich.edu/web/NACJD/studies/3928/versions/V1
+

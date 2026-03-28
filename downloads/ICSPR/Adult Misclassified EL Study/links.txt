@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Adult Misclassified EL Study
+DOI   : https://doi.org/10.3886/e193004v1
+URL   : https://www.openicpsr.org/openicpsr/project/193004/version/V1/view
+
+Title : Adult Misclassified EL Study
+DOI   : https://doi.org/10.3886/e193004
+URL   : https://www.openicpsr.org/openicpsr/project/193004/view
+

@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : The implementation of the Transforming Rehabilitation agenda in one case study area
+DOI   : https://doi.org/10.5255/ukda-sn-852202
+URL   : http://reshare.ukdataservice.ac.uk/id/eprint/852202
+

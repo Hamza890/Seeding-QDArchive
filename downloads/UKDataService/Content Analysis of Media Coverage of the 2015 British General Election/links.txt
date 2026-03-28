@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Content Analysis of Media Coverage of the 2015 British General Election
+DOI   : https://doi.org/10.5255/ukda-sn-8176-1
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/8176#doi
+
+Title : Content Analysis of Media Coverage of the 2015 British General Election
+DOI   : https://doi.org/10.5255/ukda-sn-8176-3
+URL   : http://discover.ukdataservice.ac.uk/doi?sn=8176#3
+

@@ -1,0 +1,15 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : American National Election Study: 1992-1993 Panel Study on Securing Electoral Success/1993 Pilot Study
+DOI   : https://doi.org/10.3886/icpsr06264
+URL   : http://www.icpsr.umich.edu/icpsrweb/ICPSR/studies/6264
+
+Title : American National Election Study: 1992-1993 Panel Study on Securing Electoral Success/1993 Pilot Study
+DOI   : https://doi.org/10.3886/icpsr06264.v1
+URL   : http://www.icpsr.umich.edu/icpsrweb/ICPSR/studies/6264/version/1
+
+Title : American National Election Study: 1992-1993 Panel Study on Securing Electoral Success/1993 Pilot Study
+DOI   : https://doi.org/10.3886/icpsr06264.v2
+URL   : http://www.icpsr.umich.edu/icpsrweb/ICPSR/studies/6264/version/2
+

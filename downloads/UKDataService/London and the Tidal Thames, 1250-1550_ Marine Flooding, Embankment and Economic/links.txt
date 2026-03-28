@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : London and the Tidal Thames, 1250-1550: Marine Flooding, Embankment and Economic Change
+DOI   : https://doi.org/10.5255/ukda-sn-6710-1
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/6710#doi
+

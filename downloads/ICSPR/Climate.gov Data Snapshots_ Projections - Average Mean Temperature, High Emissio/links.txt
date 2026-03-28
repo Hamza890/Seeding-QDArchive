@@ -1,0 +1,15 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Climate.gov Data Snapshots: Projections - Average Mean Temperature, High Emissions
+DOI   : https://doi.org/10.3886/e233262v2
+URL   : https://www.datalumos.org/datalumos/project/233262/version/V2/view
+
+Title : Climate.gov Data Snapshots: Projections - Average Mean Temperature, High Emissions
+DOI   : https://doi.org/10.3886/e233262
+URL   : https://www.datalumos.org/datalumos/project/233262/view
+
+Title : Climate.gov Data Snapshots: Projections - Average Mean Temperature, High Emissions
+DOI   : https://doi.org/10.3886/e233262v1
+URL   : https://www.datalumos.org/datalumos/project/233262/version/V1/view
+

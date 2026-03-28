@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Bayesian Hierarchical Models for the Design and Analysis of Studies to Individualize Healthcare [Methods Study], United States, 2015-2020
+DOI   : https://doi.org/10.3886/icpsr39613
+URL   : https://www.icpsr.umich.edu/web/pcodr/studies/39613
+
+Title : Bayesian Hierarchical Models for the Design and Analysis of Studies to Individualize Healthcare [Methods Study], United States, 2015-2020
+DOI   : https://doi.org/10.3886/icpsr39613.v1
+URL   : https://www.icpsr.umich.edu/web/pcodr/studies/39613/versions/V1
+

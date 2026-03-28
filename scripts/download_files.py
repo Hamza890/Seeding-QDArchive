@@ -45,10 +45,13 @@ PLACEHOLDER_EXTENSIONS = {'.study', '.dataset'}
 
 
 def safe_name(text: str, max_len: int = 80) -> str:
-    """Turn arbitrary text into a safe folder / file name."""
+    """Turn arbitrary text into a safe folder / file name (Windows-compatible)."""
     text = re.sub(r'[\\/:*?"<>|]', '_', text or 'Unknown')
     text = re.sub(r'\s+', ' ', text).strip()
-    return text[:max_len] or 'Unknown'
+    text = text[:max_len]
+    # Windows forbids names ending with a space or a dot
+    text = text.rstrip(' .')
+    return text or 'Unknown'
 
 
 def is_access_controlled(repo: str) -> bool:

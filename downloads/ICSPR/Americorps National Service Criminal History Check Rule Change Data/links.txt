@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Americorps National Service Criminal History Check Rule Change Data
+DOI   : https://doi.org/10.3886/e221707v2
+URL   : https://www.datalumos.org/datalumos/project/221707/version/V2/view
+
+Title : Americorps National Service Criminal History Check Rule Change Data
+DOI   : https://doi.org/10.3886/e221707
+URL   : https://www.datalumos.org/datalumos/project/221707/view
+

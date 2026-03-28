@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : American Community Survey (ACS): Public Use Microdata Sample (PUMS), 2003
+DOI   : https://doi.org/10.3886/icpsr04117
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/4117
+

@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Oral History of Cultural Consumption in Italy, 1936-1954
+DOI   : https://doi.org/10.5255/ukda-sn-6479-1
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/6479#doi
+

@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : A pre-post evaluation study of a social media-based COVID-19 communication campaign to improve attitudes and behaviors toward COVID-19 vaccination in Tanzania
+DOI   : https://doi.org/10.3886/e198162v1
+URL   : https://www.openicpsr.org/openicpsr/project/198162/version/V1/view
+
+Title : A pre-post evaluation study of a social media-based COVID-19 communication campaign to improve attitudes and behaviors toward COVID-19 vaccination in Tanzania
+DOI   : https://doi.org/10.3886/e198162
+URL   : https://www.openicpsr.org/openicpsr/project/198162/view
+

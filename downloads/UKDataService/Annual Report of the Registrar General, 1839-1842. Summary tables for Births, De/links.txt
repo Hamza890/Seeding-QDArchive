@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Annual Report of the Registrar General, 1839-1842. Summary tables for Births, Deaths and Marriages
+DOI   : https://doi.org/10.5255/ukda-sn-8700-1
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/8700#doi
+

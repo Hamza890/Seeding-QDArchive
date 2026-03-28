@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Audit of SGIM in Medical School Pre-Clinical Curriculum
+DOI   : https://doi.org/10.3886/e220587
+URL   : https://www.openicpsr.org/openicpsr/project/220587/view
+
+Title : Audit of SGIM in Medical School Pre-Clinical Curriculum
+DOI   : https://doi.org/10.3886/e220587v1
+URL   : https://www.openicpsr.org/openicpsr/project/220587/version/V1/view
+

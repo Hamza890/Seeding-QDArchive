@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Course of Domestic Abuse Among Chicago's Elderly: Risk Factors, Protective Behaviors, and Police Intervention, 2006-2009
+DOI   : https://doi.org/10.3886/icpsr29041
+URL   : http://www.icpsr.umich.edu/icpsrweb/NACJD/studies/29041
+
+Title : Course of Domestic Abuse Among Chicago's Elderly: Risk Factors, Protective Behaviors, and Police Intervention, 2006-2009
+DOI   : https://doi.org/10.3886/icpsr29041.v1
+URL   : http://www.icpsr.umich.edu/icpsrweb/NACJD/studies/29041/version/1
+

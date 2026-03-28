@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : British Household Panel Survey: Waves 1-18, 1991-2009
+DOI   : https://doi.org/10.5255/ukda-sn-5151-2
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/5151#doi
+

@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : What Do the Public Want from Libraries, 2010
+DOI   : https://doi.org/10.5255/ukda-sn-6841-1
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/6841#doi
+

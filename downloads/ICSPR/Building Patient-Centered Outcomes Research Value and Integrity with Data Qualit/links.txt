@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Building Patient-Centered Outcomes Research Value and Integrity with Data Quality and Transparency Standards [Methods Study], United States, 2013 - 2018
+DOI   : https://doi.org/10.3886/icpsr39529
+URL   : https://www.icpsr.umich.edu/web/pcodr/studies/39529
+
+Title : Building Patient-Centered Outcomes Research Value and Integrity with Data Quality and Transparency Standards [Methods Study], United States, 2013 - 2018
+DOI   : https://doi.org/10.3886/icpsr39529.v1
+URL   : https://www.icpsr.umich.edu/web/pcodr/studies/39529/versions/V1
+

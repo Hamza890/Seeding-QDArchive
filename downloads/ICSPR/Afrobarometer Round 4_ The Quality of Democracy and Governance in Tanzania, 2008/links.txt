@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Afrobarometer Round 4: The Quality of Democracy and Governance in Tanzania, 2008
+DOI   : https://doi.org/10.3886/icpsr34012
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/34012
+
+Title : Afrobarometer Round 4: The Quality of Democracy and Governance in Tanzania, 2008
+DOI   : https://doi.org/10.3886/icpsr34012.v2
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/34012/versions/V2
+

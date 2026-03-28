@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Arrestee Drug Abuse Monitoring (ADAM) Program in the United States, 1999
+DOI   : https://doi.org/10.3886/icpsr02994
+URL   : https://www.icpsr.umich.edu/web/NACJD/studies/2994
+
+Title : Arrestee Drug Abuse Monitoring (ADAM) Program in the United States, 1999
+DOI   : https://doi.org/10.3886/icpsr02994.v1
+URL   : https://www.icpsr.umich.edu/web/NACJD/studies/2994/versions/V1
+

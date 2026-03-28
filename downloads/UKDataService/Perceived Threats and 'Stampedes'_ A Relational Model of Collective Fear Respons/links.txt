@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Perceived Threats and 'Stampedes': A Relational Model of Collective Fear Responses, 2020-2023
+DOI   : https://doi.org/10.5255/ukda-sn-856228
+URL   : http://reshare.ukdataservice.ac.uk/id/eprint/856228
+

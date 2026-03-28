@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Census of Public Defender Offices: County-Based and Local Offices, 2007
+DOI   : https://doi.org/10.3886/icpsr29502
+URL   : https://www.icpsr.umich.edu/web/NACJD/studies/29502
+

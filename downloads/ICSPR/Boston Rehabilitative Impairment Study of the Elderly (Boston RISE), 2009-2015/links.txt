@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Boston Rehabilitative Impairment Study of the Elderly (Boston RISE), 2009-2015
+DOI   : https://doi.org/10.3886/icpsr37045
+URL   : https://www.icpsr.umich.edu/web/ADDEP/studies/37045
+
+Title : Boston Rehabilitative Impairment Study of the Elderly (Boston RISE), 2009-2015
+DOI   : https://doi.org/10.3886/icpsr37045.v2
+URL   : https://www.icpsr.umich.edu/web/ADDEP/studies/37045/versions/V2
+

@@ -1,0 +1,15 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : 2013 to 2016 Picture of Subsidized Housing Data
+DOI   : https://doi.org/10.3886/e100906v3
+URL   : https://www.datalumos.org/datalumos/project/100906/version/V3/view
+
+Title : 2013 to 2016 Picture of Subsidized Housing Data
+DOI   : https://doi.org/10.3886/e100906
+URL   : https://www.datalumos.org/datalumos/project/100906/view
+
+Title : 2013 to 2016 Picture of Subsidized Housing Data
+DOI   : https://doi.org/10.3886/e100906v2
+URL   : https://www.datalumos.org/datalumos/project/100906/version/V2/view
+

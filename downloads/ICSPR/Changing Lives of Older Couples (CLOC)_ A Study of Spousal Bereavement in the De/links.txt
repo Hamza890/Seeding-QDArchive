@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Changing Lives of Older Couples (CLOC): A Study of Spousal Bereavement in the Detroit Area, 1987-1993
+DOI   : https://doi.org/10.3886/icpsr03370
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/3370
+

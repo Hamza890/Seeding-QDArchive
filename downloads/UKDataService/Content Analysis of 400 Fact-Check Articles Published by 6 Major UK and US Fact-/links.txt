@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Content Analysis of 400 Fact-Check Articles Published by 6 Major UK and US Fact-Checking Organisations, 2024
+DOI   : https://doi.org/10.5255/ukda-sn-857931
+URL   : http://reshare.ukdataservice.ac.uk/id/eprint/857931
+

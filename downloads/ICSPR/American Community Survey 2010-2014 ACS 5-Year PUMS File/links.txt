@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : American Community Survey 2010-2014 ACS 5-Year PUMS File
+DOI   : https://doi.org/10.3886/e100486v1
+URL   : https://www.datalumos.org/datalumos/project/100486/version/V1/view
+

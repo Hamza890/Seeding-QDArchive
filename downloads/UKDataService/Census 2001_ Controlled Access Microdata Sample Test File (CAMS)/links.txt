@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Census 2001: Controlled Access Microdata Sample Test File (CAMS)
+DOI   : https://doi.org/10.5255/ukda-sn-7209-1
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/7209#doi
+

@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Power-Sharing and Voting: Conflict, Accountability and Electoral Behaviour at the 2015 Northern Ireland Assembly Election
+DOI   : https://doi.org/10.5255/ukda-sn-8293-1
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/8293#doi
+

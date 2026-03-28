@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : American Political Event Data, 1968-1972
+DOI   : https://doi.org/10.3886/icpsr07576
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/7576
+
+Title : American Political Event Data, 1968-1972
+DOI   : https://doi.org/10.3886/icpsr07576.v1
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/7576/versions/V1
+

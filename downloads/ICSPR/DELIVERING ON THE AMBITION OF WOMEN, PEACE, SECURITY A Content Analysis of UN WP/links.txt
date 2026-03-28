@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : DELIVERING ON THE AMBITION OF WOMEN, PEACE, SECURITY A Content Analysis of UN WPS Documents
+DOI   : https://doi.org/10.3886/e208706v1
+URL   : https://www.openicpsr.org/openicpsr/project/208706/version/V1/view
+
+Title : DELIVERING ON THE AMBITION OF WOMEN, PEACE, SECURITY A Content Analysis of UN WPS Documents
+DOI   : https://doi.org/10.3886/e208706
+URL   : https://www.openicpsr.org/openicpsr/project/208706/view
+

@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : CDC National Youth Risk Behavior Survey 2015-2023
+DOI   : https://doi.org/10.3886/e217321v2
+URL   : https://www.datalumos.org/datalumos/project/217321/version/V2/view
+
+Title : CDC National Youth Risk Behavior Survey 2015-2023
+DOI   : https://doi.org/10.3886/e217321
+URL   : https://www.datalumos.org/datalumos/project/217321/view
+

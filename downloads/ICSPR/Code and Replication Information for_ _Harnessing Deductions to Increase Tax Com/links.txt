@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Code and Replication Information for: "Harnessing Deductions to Increase Tax Compliance and Formalization"
+DOI   : https://doi.org/10.3886/e235602v1
+URL   : https://www.openicpsr.org/openicpsr/project/235602/version/V1/view
+
+Title : Code and Replication Information for: "Harnessing Deductions to Increase Tax Compliance and Formalization"
+DOI   : https://doi.org/10.3886/e235602
+URL   : https://www.openicpsr.org/openicpsr/project/235602/view
+

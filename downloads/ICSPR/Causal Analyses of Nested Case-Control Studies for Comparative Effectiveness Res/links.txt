@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Causal Analyses of Nested Case-Control Studies for Comparative Effectiveness Research [Methods Study], Washington, 2018-2021
+DOI   : https://doi.org/10.3886/icpsr39715.v1
+URL   : https://www.icpsr.umich.edu/web/pcodr/studies/39715/versions/V1
+
+Title : Causal Analyses of Nested Case-Control Studies for Comparative Effectiveness Research [Methods Study], Washington, 2018-2021
+DOI   : https://doi.org/10.3886/icpsr39715
+URL   : https://www.icpsr.umich.edu/web/pcodr/studies/39715
+

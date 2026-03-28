@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Changing Sociological Construct of the Family, 1930-1986
+DOI   : https://doi.org/10.5255/ukda-sn-4872-1
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/4872#doi
+

@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : What is Shared Care? An Understanding Society Associated Study of Separated Parents, 2019
+DOI   : https://doi.org/10.5255/ukda-sn-8593-1
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/8593#doi
+

@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : 500 Cities: Local Data for Better Health, 2016 release
+DOI   : https://doi.org/10.3886/e243541v1
+URL   : https://www.datalumos.org/datalumos/project/243541/version/V1/view
+
+Title : 500 Cities: Local Data for Better Health, 2016 release
+DOI   : https://doi.org/10.3886/e243541
+URL   : https://www.datalumos.org/datalumos/project/243541/view
+

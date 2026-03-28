@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : American Communities Project, United States, 2023-2024
+DOI   : https://doi.org/10.3886/icpsr39419
+URL   : https://www.icpsr.umich.edu/web/pcodr/studies/39419
+
+Title : American Communities Project, United States, 2023-2024
+DOI   : https://doi.org/10.3886/icpsr39419.v1
+URL   : https://www.icpsr.umich.edu/web/pcodr/studies/39419/versions/V1
+

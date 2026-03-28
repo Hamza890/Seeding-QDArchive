@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Quarterly Labour Force Survey, April - June, 2002
+DOI   : https://doi.org/10.5255/ukda-sn-5420-2
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/5420#doi
+

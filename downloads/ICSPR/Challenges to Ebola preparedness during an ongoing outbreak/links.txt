@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Challenges to Ebola preparedness during an ongoing outbreak
+DOI   : https://doi.org/10.3886/e117869
+URL   : https://www.openicpsr.org/openicpsr/project/117869
+
+Title : Challenges to Ebola preparedness during an ongoing outbreak
+DOI   : https://doi.org/10.3886/e117869v1
+URL   : https://www.openicpsr.org/openicpsr/project/117869/version/V1/view
+

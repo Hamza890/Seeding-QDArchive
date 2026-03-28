@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : British Election Study: October 1974, Scottish Cross-Section
+DOI   : https://doi.org/10.3886/icpsr07871
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/7871
+
+Title : British Election Study: October 1974, Scottish Cross-Section
+DOI   : https://doi.org/10.3886/icpsr07871.v1
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/7871/versions/V1
+

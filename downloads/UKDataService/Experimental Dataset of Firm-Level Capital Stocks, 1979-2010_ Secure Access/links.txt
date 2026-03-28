@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Experimental Dataset of Firm-Level Capital Stocks, 1979-2010: Secure Access
+DOI   : https://doi.org/10.5255/ukda-sn-8057-1
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/8057#doi
+

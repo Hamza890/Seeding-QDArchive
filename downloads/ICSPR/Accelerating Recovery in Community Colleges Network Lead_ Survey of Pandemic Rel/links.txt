@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Accelerating Recovery in Community Colleges Network Lead: Survey of Pandemic Relief Spending and Recovery Strategies, United States, 2020-2023
+DOI   : https://doi.org/10.3886/icpsr39258
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/39258
+
+Title : Accelerating Recovery in Community Colleges Network Lead: Survey of Pandemic Relief Spending and Recovery Strategies, United States, 2020-2023
+DOI   : https://doi.org/10.3886/icpsr39258.v1
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/39258/versions/V1
+

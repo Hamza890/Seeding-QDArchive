@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Classifying Inmates for Strategic Programming in the New York Department of Corrections, 1997-1998
+DOI   : https://doi.org/10.3886/icpsr03205
+URL   : https://www.icpsr.umich.edu/web/NACJD/studies/3205
+
+Title : Classifying Inmates for Strategic Programming in the New York Department of Corrections, 1997-1998
+DOI   : https://doi.org/10.3886/icpsr03205.v1
+URL   : https://www.icpsr.umich.edu/web/NACJD/studies/3205/versions/V1
+

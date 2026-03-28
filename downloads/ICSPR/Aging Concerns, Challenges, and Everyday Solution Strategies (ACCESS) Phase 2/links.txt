@@ -1,0 +1,23 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Aging Concerns, Challenges, and Everyday Solution Strategies (ACCESS) Phase 2
+DOI   : https://doi.org/10.3886/e220941v3
+URL   : https://www.openicpsr.org/openicpsr/project/220941/version/V3/view
+
+Title : Aging Concerns, Challenges, and Everyday Solution Strategies (ACCESS) Phase 2
+DOI   : https://doi.org/10.3886/e220941
+URL   : https://www.openicpsr.org/openicpsr/project/220941/view
+
+Title : Aging Concerns, Challenges, and Everyday Solution Strategies (ACCESS) Phase 2
+DOI   : https://doi.org/10.3886/e220941v2-191886
+URL   : https://www.openicpsr.org/openicpsr/project/220941/version/V2/view?path=/openicpsr/220941/fcr:versions/V2/Data/Late-deafened/Finalized-Transcripts/LD-03.docx&type=file
+
+Title : Aging Concerns, Challenges, and Everyday Solution Strategies (ACCESS) Phase 2
+DOI   : https://doi.org/10.3886/e220941v1
+URL   : https://www.openicpsr.org/openicpsr/project/220941/version/V1/view
+
+Title : Aging Concerns, Challenges, and Everyday Solution Strategies (ACCESS) Phase 2
+DOI   : https://doi.org/10.3886/e220941v2
+URL   : https://www.openicpsr.org/openicpsr/project/220941/version/V2/view
+

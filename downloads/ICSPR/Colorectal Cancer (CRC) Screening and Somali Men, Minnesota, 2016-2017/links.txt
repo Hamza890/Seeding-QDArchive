@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Colorectal Cancer (CRC) Screening and Somali Men, Minnesota, 2016-2017
+DOI   : https://doi.org/10.3886/icpsr38312
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/38312
+
+Title : Colorectal Cancer (CRC) Screening and Somali Men, Minnesota, 2016-2017
+DOI   : https://doi.org/10.3886/icpsr38312.v1
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/38312/versions/V1
+

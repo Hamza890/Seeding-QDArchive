@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Creating Data Visualizations to Understand the Impact of Structural Racism on Anti-Asian Hate Crime During COVID-19 and to Mitigate Its Effects, United States, 2023-2025
+DOI   : https://doi.org/10.3886/icpsr39503.v1
+URL   : https://www.icpsr.umich.edu/web/HMCA/studies/39503/versions/V1
+
+Title : Creating Data Visualizations to Understand the Impact of Structural Racism on Anti-Asian Hate Crime During COVID-19 and to Mitigate Its Effects, United States, 2023-2025
+DOI   : https://doi.org/10.3886/icpsr39503
+URL   : https://www.icpsr.umich.edu/web/HMCA/studies/39503
+

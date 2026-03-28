@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Arts and Cultural Production Satellite Account, United States, 1998-2023
+DOI   : https://doi.org/10.3886/icpsr36357
+URL   : https://www.icpsr.umich.edu/web/NADAC/studies/36357
+
+Title : Arts and Cultural Production Satellite Account, United States, 1998-2023
+DOI   : https://doi.org/10.3886/icpsr36357.v11
+URL   : https://www.icpsr.umich.edu/web/NADAC/studies/36357/versions/V11
+

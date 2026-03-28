@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Pensioners' Incomes, 2007/08-2022/23: Secure Access
+DOI   : https://doi.org/10.5255/ukda-sn-9257-1
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/9257#doi
+

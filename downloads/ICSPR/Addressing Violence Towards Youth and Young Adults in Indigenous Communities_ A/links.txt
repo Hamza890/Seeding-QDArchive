@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Addressing Violence Towards Youth and Young Adults in Indigenous Communities: A Tribal-Research Partnership, United States, 2022-2023
+DOI   : https://doi.org/10.3886/icpsr39178
+URL   : https://www.icpsr.umich.edu/web/NACJD/studies/39178
+
+Title : Addressing Violence Towards Youth and Young Adults in Indigenous Communities: A Tribal-Research Partnership, United States, 2022-2023
+DOI   : https://doi.org/10.3886/icpsr39178.v1
+URL   : https://www.icpsr.umich.edu/web/NACJD/studies/39178/versions/V1
+

@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : American Community Survey, 2011-2015 [United States]: Public Use Microdata Sample: Artist Extract
+DOI   : https://doi.org/10.3886/icpsr36854
+URL   : https://www.icpsr.umich.edu/web/NADAC/studies/36854
+
+Title : American Community Survey, 2011-2015 [United States]: Public Use Microdata Sample: Artist Extract
+DOI   : https://doi.org/10.3886/icpsr36854.v1
+URL   : https://www.icpsr.umich.edu/web/NADAC/studies/36854/versions/V1
+

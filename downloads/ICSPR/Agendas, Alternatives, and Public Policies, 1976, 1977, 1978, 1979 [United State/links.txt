@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Agendas, Alternatives, and Public Policies, 1976, 1977, 1978, 1979 [United States]
+DOI   : https://doi.org/10.3886/icpsr28024.v1
+URL   : http://www.icpsr.umich.edu/icpsrweb/ICPSR/studies/28024/version/1
+
+Title : Agendas, Alternatives, and Public Policies, 1976, 1977, 1978, 1979 [United States]
+DOI   : https://doi.org/10.3886/icpsr28024
+URL   : http://www.icpsr.umich.edu/icpsrweb/ICPSR/studies/28024
+

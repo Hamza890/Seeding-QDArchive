@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Understanding Society: Innovation Panel, Waves 1-10, 2008-2017: Special Licence Access, Census Area Statistics Wards
+DOI   : https://doi.org/10.5255/ukda-sn-6910-6
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/6910#doi
+

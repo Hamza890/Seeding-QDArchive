@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : A Randomized Controlled Trial on Community Infused Problem-Oriented Policing in Crime Hotspots, 2 U.S. cities, 2018-2020
+DOI   : https://doi.org/10.3886/icpsr38333
+URL   : https://www.icpsr.umich.edu/web/NACJD/studies/38333
+
+Title : A Randomized Controlled Trial on Community Infused Problem-Oriented Policing in Crime Hotspots, 2 U.S. cities, 2018-2020
+DOI   : https://doi.org/10.3886/icpsr38333.v1
+URL   : https://www.icpsr.umich.edu/web/NACJD/studies/38333/versions/V1
+

@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : County-Specific Net Migration by Five-Year Age Groups, Hispanic Origin, Race, and Sex, 2010-2020: [United States]
+DOI   : https://doi.org/10.3886/icpsr39582
+URL   : https://www.icpsr.umich.edu/web/DSDR/studies/39582
+
+Title : County-Specific Net Migration by Five-Year Age Groups, Hispanic Origin, Race, and Sex, 2010-2020: [United States]
+DOI   : https://doi.org/10.3886/icpsr39582.v1
+URL   : https://www.icpsr.umich.edu/web/DSDR/studies/39582/versions/V1
+

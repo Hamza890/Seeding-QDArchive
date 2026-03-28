@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : 2016 Latino Immigrant National Election Study (LINES), [United States]
+DOI   : https://doi.org/10.3886/icpsr38129
+URL   : https://www.icpsr.umich.edu/web/RCMD/studies/38129
+

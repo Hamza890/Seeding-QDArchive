@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Labour Force Survey Five-Quarter Longitudinal Dataset, January 2021 - March 2022
+DOI   : https://doi.org/10.5255/ukda-sn-8959-3
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/8959#doi
+

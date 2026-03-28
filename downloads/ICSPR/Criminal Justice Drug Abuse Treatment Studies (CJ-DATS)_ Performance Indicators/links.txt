@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Criminal Justice Drug Abuse Treatment Studies (CJ-DATS): Performance Indicators for Corrections (PIC), 2002-2006 [United States]
+DOI   : https://doi.org/10.3886/icpsr27942
+URL   : https://www.icpsr.umich.edu/web/NAHDAP/studies/27942
+
+Title : Criminal Justice Drug Abuse Treatment Studies (CJ-DATS): Performance Indicators for Corrections (PIC), 2002-2006 [United States]
+DOI   : https://doi.org/10.3886/icpsr27942.v2
+URL   : https://www.icpsr.umich.edu/web/NAHDAP/studies/27942/versions/V2
+

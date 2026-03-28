@@ -1,0 +1,19 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Adolescent family affects adult wellbeing in Japan and the U.S. (1976-2013)
+DOI   : https://doi.org/10.3886/e100117v1
+URL   : https://www.openicpsr.org/openicpsr/project/100117/version/V1/view
+
+Title : Adolescent family affects adult wellbeing in Japan and the U.S. (1976-2013)
+DOI   : https://doi.org/10.3886/e39266v1
+URL   : http://www.openicpsr.org/openicpsr/project/100117/version/V1/view?type=file&path=/openicpsr/100117/fcr:versions/V1/AdolFamG2.dta
+
+Title : Adolescent family affects adult wellbeing in Japan and the U.S. (1976-2013)
+DOI   : https://doi.org/10.3886/e39252v1
+URL   : http://www.openicpsr.org/openicpsr/project/100117/version/V1/view?type=file&path=/openicpsr/100117/fcr:versions/V1/AdolFamG1.dta
+
+Title : Adolescent family affects adult wellbeing in Japan and the U.S. (1976-2013)
+DOI   : https://doi.org/10.3886/e39232v1
+URL   : http://www.openicpsr.org/openicpsr/project/100117/version/V1/view
+

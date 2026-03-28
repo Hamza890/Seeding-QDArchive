@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : 2019 CDFI Program Awardee Performance Data Snapshot
+DOI   : https://doi.org/10.3886/e224366v2
+URL   : https://www.datalumos.org/datalumos/project/224366/version/V2/view
+
+Title : 2019 CDFI Program Awardee Performance Data Snapshot
+DOI   : https://doi.org/10.3886/e224366
+URL   : https://www.datalumos.org/datalumos/project/224366/view
+

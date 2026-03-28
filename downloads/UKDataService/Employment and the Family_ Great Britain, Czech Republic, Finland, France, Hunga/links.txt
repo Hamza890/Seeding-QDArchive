@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Employment and the Family: Great Britain, Czech Republic, Finland, France, Hungary, Norway and Portugal, 2002
+DOI   : https://doi.org/10.5255/ukda-sn-5229-1
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/5229#doi
+

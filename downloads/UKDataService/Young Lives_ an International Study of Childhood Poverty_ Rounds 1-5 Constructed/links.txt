@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Young Lives: an International Study of Childhood Poverty: Rounds 1-5 Constructed Files, 2002-2016
+DOI   : https://doi.org/10.5255/ukda-sn-7483-5
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/7483#doi
+

@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : An Analysis of the Effects of an Academic Summer Program for Middle School Students, 2012
+DOI   : https://doi.org/10.3886/icpsr36531
+URL   : http://www.icpsr.umich.edu/icpsrweb/ICPSR/studies/36531
+
+Title : An Analysis of the Effects of an Academic Summer Program for Middle School Students, 2012
+DOI   : https://doi.org/10.3886/icpsr36531.v1
+URL   : http://www.icpsr.umich.edu/icpsrweb/ICPSR/studies/36531/version/1
+

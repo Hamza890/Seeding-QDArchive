@@ -1,0 +1,15 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : A Qualitative Assessment of Post-Partum Screening After Gestational Diabetes, St. Louis, 2017-2018
+DOI   : https://doi.org/10.3886/icpsr38543
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/38543
+
+Title : A Qualitative Assessment of Post-Partum Screening After Gestational Diabetes, St. Louis, 2017-2018
+DOI   : https://doi.org/10.3886/icpsr38543.v2
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/38543/versions/V2
+
+Title : A Qualitative Assessment of Post-Partum Screening After Gestational Diabetes, St. Louis, 2017-2018
+DOI   : https://doi.org/10.3886/icpsr38543.v1
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/38543/versions/V1
+

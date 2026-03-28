@@ -1,0 +1,15 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Changing the culture of concussion reporting among college athletes: The role of vested interests, organizational culture, and cultural narrative
+DOI   : https://doi.org/10.3886/e109184v1
+URL   : https://www.openicpsr.org/openicpsr/project/109184/version/V1/view
+
+Title : Changing the culture of concussion reporting among college athletes: The role of vested interests, organizational culture, and cultural narrative
+DOI   : https://doi.org/10.3886/e109184v1-43834
+URL   : https://www.openicpsr.org/openicpsr/project/109184/version/V1/view?path=/openicpsr/109184/fcr:versions/V1/PLOSONE_ICPSR_1.sav&type=file
+
+Title : Changing the culture of concussion reporting among college athletes: The role of vested interests, organizational culture, and cultural narrative
+DOI   : https://doi.org/10.3886/e109184v1-11133
+URL   : https://www.openicpsr.org/openicpsr/project/109184/version/V1/view?path=/openicpsr/109184/fcr:versions/V1/NCAA_Concussion_Survey.docx&type=file
+

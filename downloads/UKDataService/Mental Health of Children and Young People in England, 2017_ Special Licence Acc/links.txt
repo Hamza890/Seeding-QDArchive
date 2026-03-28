@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Mental Health of Children and Young People in England, 2017: Special Licence Access
+DOI   : https://doi.org/10.5255/ukda-sn-8467-2
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/8467#doi
+

@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Computerized Homes Underwriting Management System (CHUMS) Data Files
+DOI   : https://doi.org/10.3886/e221745v2
+URL   : https://www.datalumos.org/datalumos/project/221745/version/V2/view
+
+Title : Computerized Homes Underwriting Management System (CHUMS) Data Files
+DOI   : https://doi.org/10.3886/e221745
+URL   : https://www.datalumos.org/datalumos/project/221745/view
+

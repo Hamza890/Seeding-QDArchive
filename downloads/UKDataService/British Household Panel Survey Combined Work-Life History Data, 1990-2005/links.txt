@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : British Household Panel Survey Combined Work-Life History Data, 1990-2005
+DOI   : https://doi.org/10.5255/ukda-sn-3954-1
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/3954#doi
+

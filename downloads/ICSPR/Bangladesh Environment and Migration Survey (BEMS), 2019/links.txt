@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Bangladesh Environment and Migration Survey (BEMS), 2019
+DOI   : https://doi.org/10.3886/icpsr38846
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/38846
+

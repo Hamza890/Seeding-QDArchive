@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Adapting the Safety Check Intervention for Wide-Scale Implementation in Health Systems as a universal suicide prevention strategy
+DOI   : https://doi.org/10.3886/e169601v1
+URL   : https://www.openicpsr.org/openicpsr/project/169601/version/V1/view
+
+Title : Adapting the Safety Check Intervention for Wide-Scale Implementation in Health Systems as a universal suicide prevention strategy
+DOI   : https://doi.org/10.3886/e169601
+URL   : https://www.openicpsr.org/openicpsr/project/169601/view
+

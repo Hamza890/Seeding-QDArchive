@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : 1971 Census Microdata for Great Britain: 9% Sample: Secure Access
+DOI   : https://doi.org/10.5255/ukda-sn-8271-1
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/8271#doi
+

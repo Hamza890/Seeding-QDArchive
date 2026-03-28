@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : AmeriCorps Member Race and Ethnicity National Figures
+DOI   : https://doi.org/10.3886/e221702v2
+URL   : https://www.datalumos.org/datalumos/project/221702/version/V2/view
+
+Title : AmeriCorps Member Race and Ethnicity National Figures
+DOI   : https://doi.org/10.3886/e221702
+URL   : https://www.datalumos.org/datalumos/project/221702/view
+

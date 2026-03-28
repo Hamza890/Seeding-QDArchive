@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : European State Finance Database; Forbonnais: Royal Revenues and Expenditure in France, 1661-1716
+DOI   : https://doi.org/10.5255/ukda-sn-3125-1
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/3125#doi
+

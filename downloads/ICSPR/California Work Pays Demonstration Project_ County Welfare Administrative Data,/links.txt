@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : California Work Pays Demonstration Project: County Welfare Administrative Data, 1992-1998, Public Use Version 4.1
+DOI   : https://doi.org/10.3886/icpsr04207
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/4207
+
+Title : California Work Pays Demonstration Project: County Welfare Administrative Data, 1992-1998, Public Use Version 4.1
+DOI   : https://doi.org/10.3886/icpsr04207.v1
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/4207/versions/V1
+

@@ -1,0 +1,31 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : CDC immunization data Feb 2025
+DOI   : https://doi.org/10.3886/e219174v7
+URL   : https://www.datalumos.org/datalumos/project/219174/version/V7/view
+
+Title : CDC immunization data Feb 2025
+DOI   : https://doi.org/10.3886/e219174
+URL   : https://www.datalumos.org/datalumos/project/219174/view
+
+Title : CDC immunization data Feb 2025
+DOI   : https://doi.org/10.3886/e219174v6
+URL   : https://www.datalumos.org/datalumos/project/219174/version/V6/view
+
+Title : CDC immunization data Feb 2025
+DOI   : https://doi.org/10.3886/e219174v5
+URL   : https://www.datalumos.org/datalumos/project/219174/version/V5/view
+
+Title : CDC immunization data Feb 2025
+DOI   : https://doi.org/10.3886/e219174v4
+URL   : https://www.datalumos.org/datalumos/project/219174/version/V4/view
+
+Title : CDC immunization data Feb 2025
+DOI   : https://doi.org/10.3886/e219174v3
+URL   : https://www.datalumos.org/datalumos/project/219174/version/V3/view
+
+Title : CDC immunization data Feb 2025
+DOI   : https://doi.org/10.3886/e219174v2
+URL   : https://www.datalumos.org/datalumos/project/219174/version/V2/view
+

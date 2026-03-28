@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Afrobarometer Round 4: The Quality of Democracy and Governance in Zambia, 2009
+DOI   : https://doi.org/10.3886/icpsr34014
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/34014
+
+Title : Afrobarometer Round 4: The Quality of Democracy and Governance in Zambia, 2009
+DOI   : https://doi.org/10.3886/icpsr34014.v1
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/34014/versions/V1
+

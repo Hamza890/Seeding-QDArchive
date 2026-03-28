@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Harmonized English Longitudinal Study of Ageing COVID-19 Study, 2020: Version A.2
+DOI   : https://doi.org/10.5255/ukda-sn-9228-2
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/9228#doi
+

@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Assessments of Effectiveness of Technologies Utilizations in VIHSCM Among Selected Health Facilities in Tanzania Mainland
+DOI   : https://doi.org/10.3886/e209303v1
+URL   : https://www.openicpsr.org/openicpsr/project/209303/version/V1/view
+
+Title : Assessments of Effectiveness of Technologies Utilizations in VIHSCM Among Selected Health Facilities in Tanzania Mainland
+DOI   : https://doi.org/10.3886/e209303
+URL   : https://www.openicpsr.org/openicpsr/project/209303/view
+

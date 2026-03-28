@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Interviews with Managers, Employees and Other Stakeholders on Automation Processes in Knowledge-Intensive Business Services, UK and Germany, 2022-2023
+DOI   : https://doi.org/10.5255/ukda-sn-858149
+URL   : http://reshare.ukdataservice.ac.uk/id/eprint/858149
+

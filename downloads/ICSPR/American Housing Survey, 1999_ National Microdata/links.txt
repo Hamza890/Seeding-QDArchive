@@ -1,0 +1,15 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : American Housing Survey, 1999: National Microdata
+DOI   : https://doi.org/10.3886/icpsr03204
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/3204
+
+Title : American Housing Survey, 1999: National Microdata
+DOI   : https://doi.org/10.3886/icpsr03204.v2
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/3204/versions/V2
+
+Title : American Housing Survey, 1999: National Microdata
+DOI   : https://doi.org/10.3886/icpsr03204.v1
+URL   : http://www.icpsr.umich.edu/icpsrweb/ICPSR/studies/3204/version/1
+

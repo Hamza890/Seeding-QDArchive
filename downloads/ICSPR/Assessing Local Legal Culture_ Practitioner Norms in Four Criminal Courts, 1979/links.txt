@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Assessing Local Legal Culture: Practitioner Norms in Four Criminal Courts, 1979
+DOI   : https://doi.org/10.3886/icpsr07808
+URL   : https://www.icpsr.umich.edu/web/NACJD/studies/7808
+
+Title : Assessing Local Legal Culture: Practitioner Norms in Four Criminal Courts, 1979
+DOI   : https://doi.org/10.3886/icpsr07808.v1
+URL   : https://www.icpsr.umich.edu/web/NACJD/studies/7808/versions/V1
+

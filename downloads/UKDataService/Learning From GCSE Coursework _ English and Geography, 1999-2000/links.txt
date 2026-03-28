@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Learning From GCSE Coursework : English and Geography, 1999-2000
+DOI   : https://doi.org/10.5255/ukda-sn-4228-1
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/4228#doi
+

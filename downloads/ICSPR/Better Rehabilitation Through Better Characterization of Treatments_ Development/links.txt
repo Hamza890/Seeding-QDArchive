@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Better Rehabilitation Through Better Characterization of Treatments: Development of the Manual for Rehabilitation Treatment Specification [Methods Study], United States, 2014-2018
+DOI   : https://doi.org/10.3886/icpsr39571
+URL   : https://www.icpsr.umich.edu/web/pcodr/studies/39571
+
+Title : Better Rehabilitation Through Better Characterization of Treatments: Development of the Manual for Rehabilitation Treatment Specification [Methods Study], United States, 2014-2018
+DOI   : https://doi.org/10.3886/icpsr39571.v1
+URL   : https://www.icpsr.umich.edu/web/pcodr/studies/39571/versions/V1
+

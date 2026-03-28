@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : American Housing Survey, 2015 National Data, Including an Arts and Culture Module
+DOI   : https://doi.org/10.3886/icpsr36801
+URL   : https://www.icpsr.umich.edu/web/NADAC/studies/36801
+
+Title : American Housing Survey, 2015 National Data, Including an Arts and Culture Module
+DOI   : https://doi.org/10.3886/icpsr36801.v1
+URL   : https://www.icpsr.umich.edu/web/NADAC/studies/36801/versions/V1
+

@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : COEP Replication package for "Indoor Vaccine Mandates in U.S. Cities, Vaccination Behavior, and COVID-19 Outcomes"
+DOI   : https://doi.org/10.3886/e238877v1
+URL   : https://www.openicpsr.org/openicpsr/project/238877/version/V1/view
+

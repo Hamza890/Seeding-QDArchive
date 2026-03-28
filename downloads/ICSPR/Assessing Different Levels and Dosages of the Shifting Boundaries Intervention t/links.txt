@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Assessing Different Levels and Dosages of the Shifting Boundaries Intervention to Prevent Youth Dating Violence in New York City Middle Schools: A Randomized Control Trial, 2011-2014
+DOI   : https://doi.org/10.3886/icpsr36355
+URL   : https://www.icpsr.umich.edu/web/NACJD/studies/36355
+

@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Between Transaction and Collaboration: Struggles for Coherence, Responsiveness, and Mutuality in a Fizzled-Out Research-Practice Partnership
+DOI   : https://doi.org/10.3886/e237648v1
+URL   : https://www.openicpsr.org/openicpsr/project/237648/version/V1/view
+
+Title : Between Transaction and Collaboration: Struggles for Coherence, Responsiveness, and Mutuality in a Fizzled-Out Research-Practice Partnership
+DOI   : https://doi.org/10.3886/e237648
+URL   : https://www.openicpsr.org/openicpsr/project/237648/view
+

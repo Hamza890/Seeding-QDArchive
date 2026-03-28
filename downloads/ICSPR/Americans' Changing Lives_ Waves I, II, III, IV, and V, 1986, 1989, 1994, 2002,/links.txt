@@ -1,0 +1,39 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Americans' Changing Lives: Waves I, II, III, IV, and V, 1986, 1989, 1994, 2002, and 2011
+DOI   : https://doi.org/10.3886/icpsr04690.v7
+URL   : https://www.icpsr.umich.edu/icpsrweb/NACDA/studies/4690/versions/V7
+
+Title : Americans' Changing Lives: Waves I, II, III, IV, and V, 1986, 1989, 1994, 2002, and 2011
+DOI   : https://doi.org/10.3886/icpsr04690.v8
+URL   : https://www.icpsr.umich.edu/icpsrweb/NACDA/studies/4690/versions/V8
+
+Title : Americans' Changing Lives: Waves I, II, III, IV, and V, 1986, 1989, 1994, 2002, and 2011
+DOI   : https://doi.org/10.3886/icpsr04690.v4
+URL   : https://www.icpsr.umich.edu/icpsrweb/NACDA/studies/4690/versions/V4
+
+Title : Americans' Changing Lives: Waves I, II, III, IV, and V, 1986, 1989, 1994, 2002, and 2011
+DOI   : https://doi.org/10.3886/icpsr04690.v3
+URL   : https://www.icpsr.umich.edu/icpsrweb/NACDA/studies/4690/versions/V3
+
+Title : Americans' Changing Lives: Waves I, II, III, IV, and V, 1986, 1989, 1994, 2002, and 2011
+DOI   : https://doi.org/10.3886/icpsr04690.v1
+URL   : https://www.icpsr.umich.edu/icpsrweb/NACDA/studies/4690/versions/V1
+
+Title : Americans' Changing Lives: Waves I, II, III, IV, and V, 1986, 1989, 1994, 2002, and 2011
+DOI   : https://doi.org/10.3886/icpsr04690.v6
+URL   : https://www.icpsr.umich.edu/icpsrweb/NACDA/studies/4690/versions/V6
+
+Title : Americans' Changing Lives: Waves I, II, III, IV, and V, 1986, 1989, 1994, 2002, and 2011
+DOI   : https://doi.org/10.3886/icpsr04690.v9
+URL   : https://www.icpsr.umich.edu/web/NACDA/studies/4690/versions/V9
+
+Title : Americans' Changing Lives: Waves I, II, III, IV, and V, 1986, 1989, 1994, 2002, and 2011
+DOI   : https://doi.org/10.3886/icpsr04690.v2
+URL   : https://www.icpsr.umich.edu/icpsrweb/NACDA/studies/4690/versions/V2
+
+Title : Americans' Changing Lives: Waves I, II, III, IV, and V, 1986, 1989, 1994, 2002, and 2011
+DOI   : https://doi.org/10.3886/icpsr04690.v5
+URL   : https://www.icpsr.umich.edu/icpsrweb/NACDA/studies/4690/versions/V5
+

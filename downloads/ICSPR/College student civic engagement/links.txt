@@ -1,0 +1,15 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : College student civic engagement
+DOI   : https://doi.org/10.3886/e195221v1-174861
+URL   : https://www.openicpsr.org/openicpsr/project/195221/version/V1/view?path=/openicpsr/195221/fcr:versions/V1/2016_2020-merged.sav&type=file
+
+Title : College student civic engagement
+DOI   : https://doi.org/10.3886/e195221
+URL   : https://www.openicpsr.org/openicpsr/project/195221/view
+
+Title : College student civic engagement
+DOI   : https://doi.org/10.3886/e195221v1
+URL   : https://www.openicpsr.org/openicpsr/project/195221/version/V1/view
+

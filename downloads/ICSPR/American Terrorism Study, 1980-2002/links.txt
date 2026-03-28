@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : American Terrorism Study, 1980-2002
+DOI   : https://doi.org/10.3886/icpsr04639
+URL   : https://www.icpsr.umich.edu/web/NACJD/studies/4639
+

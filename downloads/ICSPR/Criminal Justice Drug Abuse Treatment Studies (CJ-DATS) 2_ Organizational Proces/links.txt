@@ -1,0 +1,15 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Criminal Justice Drug Abuse Treatment Studies (CJ-DATS) 2: Organizational Process Improvement Intervention (OPII), 2010-2013 [United States]
+DOI   : https://doi.org/10.3886/icpsr35082
+URL   : https://www.icpsr.umich.edu/web/NAHDAP/studies/35082
+
+Title : Criminal Justice Drug Abuse Treatment Studies (CJ-DATS) 2: Organizational Process Improvement Intervention (OPII), 2010-2013 [United States]
+DOI   : https://doi.org/10.3886/icpsr35082.v2
+URL   : https://www.icpsr.umich.edu/web/NAHDAP/studies/35082/versions/V2
+
+Title : Criminal Justice Drug Abuse Treatment Studies (CJ-DATS) 2: Organizational Process Improvement Intervention (OPII), 2010-2013 [United States]
+DOI   : https://doi.org/10.3886/icpsr35082.v1
+URL   : http://www.icpsr.umich.edu/icpsrweb/NAHDAP/studies/35082/version/1
+

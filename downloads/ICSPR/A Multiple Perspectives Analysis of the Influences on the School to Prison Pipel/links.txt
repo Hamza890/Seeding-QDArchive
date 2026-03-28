@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : A Multiple Perspectives Analysis of the Influences on the School to Prison Pipeline in Virginia, 2013-2015
+DOI   : https://doi.org/10.3886/icpsr37300
+URL   : https://www.icpsr.umich.edu/web/NACJD/studies/37300
+
+Title : A Multiple Perspectives Analysis of the Influences on the School to Prison Pipeline in Virginia, 2013-2015
+DOI   : https://doi.org/10.3886/icpsr37300.v1
+URL   : https://www.icpsr.umich.edu/web/NACJD/studies/37300/versions/V1
+

@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Adaptation Fund in Alaotra-Mangoro, Madagascar
+DOI   : https://doi.org/10.3886/e162261v2
+URL   : https://www.openicpsr.org/openicpsr/project/162261/version/V2/view
+
+Title : Adaptation Fund in Alaotra-Mangoro, Madagascar
+DOI   : https://doi.org/10.3886/e162261
+URL   : https://www.openicpsr.org/openicpsr/project/162261/view
+

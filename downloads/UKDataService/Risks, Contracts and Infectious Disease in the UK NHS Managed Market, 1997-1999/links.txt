@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Risks, Contracts and Infectious Disease in the UK NHS Managed Market, 1997-1999
+DOI   : https://doi.org/10.5255/ukda-sn-4151-1
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/4151#doi
+

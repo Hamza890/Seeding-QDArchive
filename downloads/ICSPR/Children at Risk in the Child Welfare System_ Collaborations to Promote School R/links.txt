@@ -1,0 +1,15 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Children at Risk in the Child Welfare System: Collaborations to Promote School Readiness
+DOI   : https://doi.org/10.3886/icpsr30821
+URL   : https://www.childandfamilydataarchive.org/cfda/archives/CFDA/studies/30821
+
+Title : Children at Risk in the Child Welfare System: Collaborations to Promote School Readiness
+DOI   : https://doi.org/10.3886/icpsr30821.v2
+URL   : https://www.childandfamilydataarchive.org/cfda/archives/CFDA/studies/30821/versions/V2
+
+Title : Children at Risk in the Child Welfare System: Collaborations to Promote School Readiness
+DOI   : https://doi.org/10.3886/icpsr30821.v1
+URL   : https://www.childandfamilydataarchive.org/cfda/archives/CFDA/studies/30821/versions/V1
+

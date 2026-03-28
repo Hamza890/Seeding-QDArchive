@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Understanding Society: Innovation Panel, Waves 1-17, 2008-2024: Secure Access, National Grid Reference (Easting, Northing, OSGRDIND)
+DOI   : https://doi.org/10.5255/ukda-sn-7332-13
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/7332#doi
+

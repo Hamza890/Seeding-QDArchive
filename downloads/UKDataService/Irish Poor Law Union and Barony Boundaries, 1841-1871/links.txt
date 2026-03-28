@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Irish Poor Law Union and Barony Boundaries, 1841-1871
+DOI   : https://doi.org/10.5255/ukda-sn-4999-1
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/4999#doi
+

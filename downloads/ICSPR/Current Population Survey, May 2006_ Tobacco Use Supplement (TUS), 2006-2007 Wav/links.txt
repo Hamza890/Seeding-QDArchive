@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Current Population Survey, May 2006: Tobacco Use Supplement (TUS), 2006-2007 Wave
+DOI   : https://doi.org/10.3886/icpsr24781
+URL   : http://www.icpsr.umich.edu/icpsrweb/RCMD/studies/24781
+

@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Comparative Effectiveness of Anti-TNF in Combination with Low Dose Methotrexate vs Anti-TNF Monotherapy in Pediatrics Crohn's Disease (COMBINE), United States, 2015-2022
+DOI   : https://doi.org/10.3886/icpsr38680
+URL   : https://www.icpsr.umich.edu/web/pcodr/studies/38680
+
+Title : Comparative Effectiveness of Anti-TNF in Combination with Low Dose Methotrexate vs Anti-TNF Monotherapy in Pediatrics Crohn's Disease (COMBINE), United States, 2015-2022
+DOI   : https://doi.org/10.3886/icpsr38680.v1
+URL   : https://www.icpsr.umich.edu/web/pcodr/studies/38680/versions/V1
+

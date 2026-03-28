@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Consumer Expenditure Survey, 1989: Diary Survey
+DOI   : https://doi.org/10.3886/icpsr09714
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/9714
+

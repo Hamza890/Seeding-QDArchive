@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Bias Response Teams and Alternatives Study, 2021-2025
+DOI   : https://doi.org/10.3886/e221287
+URL   : https://www.openicpsr.org/openicpsr/project/221287/view
+
+Title : Bias Response Teams and Alternatives Study, 2021-2025
+DOI   : https://doi.org/10.3886/e221287v1
+URL   : https://www.openicpsr.org/openicpsr/project/221287/version/V1/view
+

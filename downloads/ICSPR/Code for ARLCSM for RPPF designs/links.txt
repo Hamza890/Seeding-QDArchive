@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Code for ARLCSM for RPPF designs
+DOI   : https://doi.org/10.3886/e208643v2
+URL   : https://www.openicpsr.org/openicpsr/project/208643/version/V2/view
+
+Title : Code for ARLCSM for RPPF designs
+DOI   : https://doi.org/10.3886/e208643
+URL   : https://www.openicpsr.org/openicpsr/project/208643/view
+

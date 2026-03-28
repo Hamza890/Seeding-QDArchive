@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : 2020 Annual Survey of Refugees
+DOI   : https://doi.org/10.3886/e195403v2-190949
+URL   : https://www.openicpsr.org/openicpsr/project/195403/version/V2/view?path=/openicpsr/195403/fcr:versions/V2/2020-ASR_Public_Use_File_correction_ver2.dta&type=file
+

@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Database of Selected British Gallup Opinion Polls, 1958-1991
+DOI   : https://doi.org/10.5255/ukda-sn-3803-1
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/3803#doi
+

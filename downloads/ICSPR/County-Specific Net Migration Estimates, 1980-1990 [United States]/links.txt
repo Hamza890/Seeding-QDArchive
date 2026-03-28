@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : County-Specific Net Migration Estimates, 1980-1990 [United States]
+DOI   : https://doi.org/10.3886/icpsr26761
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/26761
+
+Title : County-Specific Net Migration Estimates, 1980-1990 [United States]
+DOI   : https://doi.org/10.3886/icpsr26761.v1
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/26761/versions/V1
+

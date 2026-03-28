@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Contemporary Data on the Diffusion and Productivity of Coal Mechanisation in Britain to 1939
+DOI   : https://doi.org/10.5255/ukda-sn-4494-1
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/4494#doi
+

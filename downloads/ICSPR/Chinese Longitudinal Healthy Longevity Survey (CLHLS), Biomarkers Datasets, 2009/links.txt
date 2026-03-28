@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Chinese Longitudinal Healthy Longevity Survey (CLHLS), Biomarkers Datasets, 2009, 2012, 2014
+DOI   : https://doi.org/10.3886/icpsr37226
+URL   : https://www.icpsr.umich.edu/web/NACDA/studies/37226
+
+Title : Chinese Longitudinal Healthy Longevity Survey (CLHLS), Biomarkers Datasets, 2009, 2012, 2014
+DOI   : https://doi.org/10.3886/icpsr37226.v1
+URL   : https://www.icpsr.umich.edu/web/NACDA/studies/37226/versions/V1
+

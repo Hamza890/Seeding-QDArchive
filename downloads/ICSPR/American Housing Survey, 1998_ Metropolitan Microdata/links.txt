@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : American Housing Survey, 1998: Metropolitan Microdata
+DOI   : https://doi.org/10.3886/icpsr03174
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/3174
+
+Title : American Housing Survey, 1998: Metropolitan Microdata
+DOI   : https://doi.org/10.3886/icpsr03174.v1
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/3174/versions/V1
+

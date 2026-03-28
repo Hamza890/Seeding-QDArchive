@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Millennium Cohort Study: Age 5, Sweep 3, 2006: Foundation Stage Profile and Teacher Survey
+DOI   : https://doi.org/10.5255/ukda-sn-8785-1
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/8785#doi
+

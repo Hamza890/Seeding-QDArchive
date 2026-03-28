@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Child Abuse, Neglect, and Violent Criminal Behavior in a Midwest Metropolitan Area of the United States, 1967-1988
+DOI   : https://doi.org/10.3886/icpsr09480
+URL   : https://www.icpsr.umich.edu/web/NACJD/studies/9480
+
+Title : Child Abuse, Neglect, and Violent Criminal Behavior in a Midwest Metropolitan Area of the United States, 1967-1988
+DOI   : https://doi.org/10.3886/icpsr09480.v1
+URL   : https://www.icpsr.umich.edu/web/NACJD/studies/9480/versions/V1
+

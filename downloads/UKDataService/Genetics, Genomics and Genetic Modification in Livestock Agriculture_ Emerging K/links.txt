@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Genetics, Genomics and Genetic Modification in Livestock Agriculture: Emerging Knowledge-Practices in Making and Managing Farm Livestock, 2007-2010
+DOI   : https://doi.org/10.5255/ukda-sn-6901-1
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/6901#doi
+

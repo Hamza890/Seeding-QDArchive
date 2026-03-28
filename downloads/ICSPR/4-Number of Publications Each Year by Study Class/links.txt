@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : 4-Number of Publications Each Year by Study Class
+DOI   : https://doi.org/10.3886/e240977v1
+URL   : https://www.datalumos.org/datalumos/project/240977/version/V1/view
+
+Title : 4-Number of Publications Each Year by Study Class
+DOI   : https://doi.org/10.3886/e240977
+URL   : https://www.datalumos.org/datalumos/project/240977/view
+

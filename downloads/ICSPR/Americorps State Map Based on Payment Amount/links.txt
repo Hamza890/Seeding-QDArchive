@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Americorps State Map Based on Payment Amount
+DOI   : https://doi.org/10.3886/e221583v2
+URL   : https://www.datalumos.org/datalumos/project/221583/version/V2/view
+
+Title : Americorps State Map Based on Payment Amount
+DOI   : https://doi.org/10.3886/e221583
+URL   : https://www.datalumos.org/datalumos/project/221583/view
+

@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : United Kingdom Time Use Survey, 2014-2015
+DOI   : https://doi.org/10.5255/ukda-sn-8128-1
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/8128#doi
+

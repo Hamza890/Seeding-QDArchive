@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : A11y in Sci Professional Development Resources Study
+DOI   : https://doi.org/10.3886/e237431v1
+URL   : https://www.openicpsr.org/openicpsr/project/237431/version/V1/view
+
+Title : A11y in Sci Professional Development Resources Study
+DOI   : https://doi.org/10.3886/e237431
+URL   : https://www.openicpsr.org/openicpsr/project/237431/view
+

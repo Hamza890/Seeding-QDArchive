@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Addressing Replicability Concerns via Adversarial Collaboration: Discovering Hidden Moderators of the Minimal Intergroup Discrimination Effect
+DOI   : https://doi.org/10.3886/e100958v1
+URL   : https://www.openicpsr.org/openicpsr/project/100958/version/V1/view
+

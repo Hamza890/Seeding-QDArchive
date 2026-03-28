@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Census of Population and Housing, 1990 [United States]: Public Use Microdata Sample: 5-Percent Sample
+DOI   : https://doi.org/10.3886/icpsr09952
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/9952
+
+Title : Census of Population and Housing, 1990 [United States]: Public Use Microdata Sample: 5-Percent Sample
+DOI   : https://doi.org/10.3886/icpsr09952.v3
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/9952/versions/V3
+

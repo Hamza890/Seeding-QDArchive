@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Annual Population Survey, January - December, 2015
+DOI   : https://doi.org/10.5255/ukda-sn-7928-12
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/7928#doi
+

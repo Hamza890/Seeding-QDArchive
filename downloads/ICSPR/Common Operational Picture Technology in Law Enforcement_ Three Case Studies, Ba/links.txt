@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Common Operational Picture Technology in Law Enforcement: Three Case Studies, Baton Rouge, Louisiana, Camden County, New Jersey, Chicago, Illinois, 2015-2019
+DOI   : https://doi.org/10.3886/icpsr37582
+URL   : https://www.icpsr.umich.edu/web/NACJD/studies/37582
+
+Title : Common Operational Picture Technology in Law Enforcement: Three Case Studies, Baton Rouge, Louisiana, Camden County, New Jersey, Chicago, Illinois, 2015-2019
+DOI   : https://doi.org/10.3886/icpsr37582.v1
+URL   : https://www.icpsr.umich.edu/web/NACJD/studies/37582/versions/V1
+

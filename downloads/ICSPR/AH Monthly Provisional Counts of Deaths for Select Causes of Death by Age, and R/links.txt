@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : AH Monthly Provisional Counts of Deaths for Select Causes of Death by Age, and Race and Hispanic Origin
+DOI   : https://doi.org/10.3886/e243168v1
+URL   : https://www.datalumos.org/datalumos/project/243168/version/V1/view
+
+Title : AH Monthly Provisional Counts of Deaths for Select Causes of Death by Age, and Race and Hispanic Origin
+DOI   : https://doi.org/10.3886/e243168
+URL   : https://www.datalumos.org/datalumos/project/243168/view
+

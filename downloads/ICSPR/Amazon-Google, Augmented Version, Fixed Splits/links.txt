@@ -1,0 +1,15 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Amazon-Google, Augmented Version, Fixed Splits
+DOI   : https://doi.org/10.3886/e127241
+URL   : https://linkagelibrary.icpsr.umich.edu/linkagelibrary/project/127241/view
+
+Title : Amazon-Google, Augmented Version, Fixed Splits
+DOI   : https://doi.org/10.3886/e127241v1-157615
+URL   : https://linkagelibrary.icpsr.umich.edu/linkagelibrary/project/127241/version/V1/view?path=/linkagelibrary/127241/fcr:versions/V1/amazon-google.zip&type=file
+
+Title : Amazon-Google, Augmented Version, Fixed Splits
+DOI   : https://doi.org/10.3886/e127241v1
+URL   : https://linkagelibrary.icpsr.umich.edu/linkagelibrary/project/127241/version/V1/view
+

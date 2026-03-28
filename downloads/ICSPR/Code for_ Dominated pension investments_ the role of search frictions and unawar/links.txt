@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Code for: Dominated pension investments: the role of search frictions and unawareness
+DOI   : https://doi.org/10.3886/e215982v1
+URL   : https://www.openicpsr.org/openicpsr/project/215982/version/V1/view
+
+Title : Code for: Dominated pension investments: the role of search frictions and unawareness
+DOI   : https://doi.org/10.3886/e215982
+URL   : https://www.openicpsr.org/openicpsr/project/215982/view
+

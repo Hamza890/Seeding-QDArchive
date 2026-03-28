@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : 2000 Florida Ballots Project
+DOI   : https://doi.org/10.3886/icpsr36207
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/36207
+
+Title : 2000 Florida Ballots Project
+DOI   : https://doi.org/10.3886/icpsr36207.v1
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/36207/versions/V1
+

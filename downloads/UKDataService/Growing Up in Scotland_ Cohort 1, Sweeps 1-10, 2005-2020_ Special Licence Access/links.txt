@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Growing Up in Scotland: Cohort 1, Sweeps 1-10, 2005-2020: Special Licence Access
+DOI   : https://doi.org/10.5255/ukda-sn-5760-13
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/5760#doi
+

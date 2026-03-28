@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : CBS News State of the Union/War in the Middle East Poll, January 1991
+DOI   : https://doi.org/10.3886/icpsr04504
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/4504
+
+Title : CBS News State of the Union/War in the Middle East Poll, January 1991
+DOI   : https://doi.org/10.3886/icpsr04504.v1
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/4504/versions/V1
+

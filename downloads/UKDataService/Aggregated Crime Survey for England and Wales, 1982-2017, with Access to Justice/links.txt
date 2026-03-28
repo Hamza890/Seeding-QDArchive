@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Aggregated Crime Survey for England and Wales, 1982-2017, with Access to Justice Focus
+DOI   : https://doi.org/10.5255/ukda-sn-8716-1
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/8716#doi
+

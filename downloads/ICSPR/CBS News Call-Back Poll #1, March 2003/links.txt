@@ -1,0 +1,19 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : CBS News Call-Back Poll #1, March 2003
+DOI   : https://doi.org/10.3886/icpsr03757
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/3757
+
+Title : CBS News Call-Back Poll #1, March 2003
+DOI   : https://doi.org/10.3886/icpsr03757.v3
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/3757/versions/V3
+
+Title : CBS News Call-Back Poll #1, March 2003
+DOI   : https://doi.org/10.3886/icpsr03757.v2
+URL   : http://www.icpsr.umich.edu/icpsrweb/ICPSR/studies/3757/version/2
+
+Title : CBS News Call-Back Poll #1, March 2003
+DOI   : https://doi.org/10.3886/icpsr03757.v1
+URL   : http://www.icpsr.umich.edu/icpsrweb/ICPSR/studies/3757/version/1
+

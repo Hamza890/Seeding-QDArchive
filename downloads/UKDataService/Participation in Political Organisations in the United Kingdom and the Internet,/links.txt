@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Participation in Political Organisations in the United Kingdom and the Internet, 2001-2003
+DOI   : https://doi.org/10.5255/ukda-sn-5094-1
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/5094#doi
+

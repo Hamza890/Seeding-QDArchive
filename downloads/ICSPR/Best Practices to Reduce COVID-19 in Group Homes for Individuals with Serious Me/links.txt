@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Best Practices to Reduce COVID-19 in Group Homes for Individuals with Serious Mental Illness and Intellectual and Developmental Disabilities, Massachusetts, 2021-2022
+DOI   : https://doi.org/10.3886/icpsr39404
+URL   : https://www.icpsr.umich.edu/web/pcodr/studies/39404
+
+Title : Best Practices to Reduce COVID-19 in Group Homes for Individuals with Serious Mental Illness and Intellectual and Developmental Disabilities, Massachusetts, 2021-2022
+DOI   : https://doi.org/10.3886/icpsr39404.v1
+URL   : https://www.icpsr.umich.edu/web/pcodr/studies/39404/versions/V1
+

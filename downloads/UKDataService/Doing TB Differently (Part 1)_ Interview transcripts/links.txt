@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Doing TB Differently (Part 1): Interview transcripts
+DOI   : https://doi.org/10.5255/ukda-sn-852116
+URL   : http://reshare.ukdataservice.ac.uk/id/eprint/852116
+

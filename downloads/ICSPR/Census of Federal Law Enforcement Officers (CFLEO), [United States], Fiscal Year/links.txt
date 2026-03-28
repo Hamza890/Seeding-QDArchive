@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Census of Federal Law Enforcement Officers (CFLEO), [United States], Fiscal Year 2016
+DOI   : https://doi.org/10.3886/icpsr37607
+URL   : https://www.icpsr.umich.edu/web/NACJD/studies/37607
+
+Title : Census of Federal Law Enforcement Officers (CFLEO), [United States], Fiscal Year 2016
+DOI   : https://doi.org/10.3886/icpsr37607.v1
+URL   : https://www.icpsr.umich.edu/web/NACJD/studies/37607/versions/V1
+

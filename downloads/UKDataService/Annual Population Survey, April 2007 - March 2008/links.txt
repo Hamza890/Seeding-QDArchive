@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Annual Population Survey, April 2007 - March 2008
+DOI   : https://doi.org/10.5255/ukda-sn-6068-3
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/6068#doi
+

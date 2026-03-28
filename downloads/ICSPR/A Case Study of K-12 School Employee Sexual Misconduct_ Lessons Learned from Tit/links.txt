@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : A Case Study of K-12 School Employee Sexual Misconduct: Lessons Learned from Title IX Policy Implementation, United States, 1984-2014
+DOI   : https://doi.org/10.3886/icpsr36870
+URL   : https://www.icpsr.umich.edu/web/NACJD/studies/36870
+
+Title : A Case Study of K-12 School Employee Sexual Misconduct: Lessons Learned from Title IX Policy Implementation, United States, 1984-2014
+DOI   : https://doi.org/10.3886/icpsr36870.v1
+URL   : https://www.icpsr.umich.edu/web/NACJD/studies/36870/versions/V1
+

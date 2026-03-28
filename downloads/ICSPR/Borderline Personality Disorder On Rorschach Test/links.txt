@@ -1,0 +1,15 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Borderline Personality Disorder On Rorschach Test
+DOI   : https://doi.org/10.3886/e142881
+URL   : https://www.openicpsr.org/openicpsr/project/142881/view
+
+Title : Borderline Personality Disorder On Rorschach Test
+DOI   : https://doi.org/10.3886/e142881v1-164861
+URL   : https://www.openicpsr.org/openicpsr/project/142881/version/V1/view?path=/openicpsr/142881/fcr:versions/V1/Appereance_of_borderline_personality_disorder_on_rorschach_test.sav&type=file
+
+Title : Borderline Personality Disorder On Rorschach Test
+DOI   : https://doi.org/10.3886/e142881v1
+URL   : https://www.openicpsr.org/openicpsr/project/142881/version/V1/view
+

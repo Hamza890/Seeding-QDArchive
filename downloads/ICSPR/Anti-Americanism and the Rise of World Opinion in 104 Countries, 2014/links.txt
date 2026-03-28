@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Anti-Americanism and the Rise of World Opinion in 104 Countries, 2014
+DOI   : https://doi.org/10.3886/icpsr37637
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/37637
+

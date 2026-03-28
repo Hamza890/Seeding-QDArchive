@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Anxiety is Equal to Symptoms and Primordial
+DOI   : https://doi.org/10.3886/e175841v1
+URL   : https://www.openicpsr.org/openicpsr/project/175841/version/V1/view
+
+Title : Anxiety is Equal to Symptoms and Primordial
+DOI   : https://doi.org/10.3886/e175841
+URL   : https://www.openicpsr.org/openicpsr/project/175841/view
+

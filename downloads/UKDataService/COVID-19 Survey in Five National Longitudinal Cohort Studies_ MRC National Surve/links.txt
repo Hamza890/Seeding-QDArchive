@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : COVID-19 Survey in Five National Longitudinal Cohort Studies: MRC National Survey of Health and Development, 2020-2021: Special Licence Access
+DOI   : https://doi.org/10.5255/ukda-sn-8732-3
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/8732#doi
+

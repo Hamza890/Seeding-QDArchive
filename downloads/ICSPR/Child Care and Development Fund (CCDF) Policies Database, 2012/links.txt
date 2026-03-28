@@ -1,0 +1,15 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Child Care and Development Fund (CCDF) Policies Database, 2012
+DOI   : https://doi.org/10.3886/icpsr34902
+URL   : https://www.childandfamilydataarchive.org/cfda/archives/CFDA/studies/34902
+
+Title : Child Care and Development Fund (CCDF) Policies Database, 2012
+DOI   : https://doi.org/10.3886/icpsr34902.v2
+URL   : https://www.childandfamilydataarchive.org/cfda/archives/CFDA/studies/34902/versions/V2
+
+Title : Child Care and Development Fund (CCDF) Policies Database, 2012
+DOI   : https://doi.org/10.3886/icpsr34902.v1
+URL   : https://www.childandfamilydataarchive.org/cfda/archives/CFDA/studies/34902/versions/V1
+

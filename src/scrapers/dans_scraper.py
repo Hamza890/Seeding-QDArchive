@@ -1,203 +1,215 @@
 """
 Scraper for DANS (Data Archiving and Networked Services).
+
+DANS migrated from their legacy EASY/OAI-PMH platform to a new Dataverse-based
+"Data Station" architecture.  The Social Sciences and Humanities station is the
+primary destination for qualitative research data:
+    https://ssh.datastations.nl
+
+The old endpoint (easy.dans.knaw.nl/oai) now returns an HTML page, which
+caused the previous XML parser to fail with "mismatched tag" errors.
+
+Performance note
+----------------
+The DANS server is slow when handling individual ``datasets/:persistentId``
+calls (the secondary lookup done by the base DataverseScraper for every
+dataset result). This override searches ``type=dataset`` only and builds
+metadata *directly* from the search result fields, avoiding the expensive
+secondary API call entirely.
 """
-import requests
 import time
+import requests
 from typing import List, Dict, Any, Optional
-from xml.etree import ElementTree as ET
-from .base_scraper import BaseScraper
+from .dataverse_scraper import DataverseScraper
 
 
-class DANSScraper(BaseScraper):
-    """Scraper for DANS repository using OAI-PMH protocol."""
-    
+class DANSScraper(DataverseScraper):
+    """Scraper for DANS Data Station (SSH) — Dataverse-based."""
+
+    # Smaller page size keeps each request fast on the slow DANS server.
+    _PAGE_SIZE = 25
+
     def __init__(self, config_path: str = "config/qda_extensions.json"):
-        """Initialize DANS scraper."""
-        super().__init__(config_path)
-        self.oai_base = "https://easy.dans.knaw.nl/oai"
-        self.session = requests.Session()
-        self.session.headers.update({
-            'User-Agent': 'QDA-Archive-Bot/1.0 (Research Data Collection)'
-        })
-    
+        """Initialize DANS scraper pointing at the SSH Data Station."""
+        super().__init__(
+            base_url="https://ssh.datastations.nl",
+            config_path=config_path,
+        )
+
+    # ------------------------------------------------------------------
+    # Public interface
+    # ------------------------------------------------------------------
+
     def search(
-        self, 
-        query: Optional[str] = None, 
+        self,
+        query: Optional[str] = None,
         max_results: int = 100,
-        **kwargs
+        **kwargs,
     ) -> List[Dict[str, Any]]:
-        """
-        Search DANS for QDA files using OAI-PMH.
-        
+        """Search DANS Data Station for files and datasets matching *query*.
+
+        Two search passes are made — both without any secondary API call:
+
+        1. ``type=file``   — finds individual files whose *name* matches the
+           query term (e.g. "qdpx", "nvp", "MaxQDA").  Only files whose
+           extension is recognised as a QDA format are kept.
+        2. ``type=dataset`` — finds datasets whose metadata matches the query.
+           Metadata is built directly from the search result (title, DOI,
+           authors, subjects) without calling ``datasets/:persistentId``.
+
         Args:
-            query: Search query (not used for OAI-PMH)
-            max_results: Maximum number of results
-            **kwargs: Additional parameters
-            
+            query: Search term (defaults to "qualitative" when omitted).
+            max_results: Maximum number of records to return across both passes.
+            **kwargs: Extra params forwarded to the API (e.g. ``fq``).
+
         Returns:
-            List of metadata dictionaries
+            List of normalised metadata dicts.
         """
         self.clear_results()
-        
-        # OAI-PMH ListRecords request
-        params = {
-            'verb': 'ListRecords',
-            'metadataPrefix': 'oai_dc',
-            'set': kwargs.get('set', None)  # Optional set specification
-        }
-        
-        total_fetched = 0
-        resumption_token = None
-        
-        while total_fetched < max_results:
-            try:
-                if resumption_token:
-                    params = {
-                        'verb': 'ListRecords',
-                        'resumptionToken': resumption_token
-                    }
-                
-                response = self.session.get(self.oai_base, params=params, timeout=30)
-                response.raise_for_status()
-                
-                # Parse XML response
-                root = ET.fromstring(response.content)
-                
-                # Define namespace
-                ns = {'oai': 'http://www.openarchives.org/OAI/2.0/',
-                      'dc': 'http://purl.org/dc/elements/1.1/'}
-                
-                # Find all records
-                records = root.findall('.//oai:record', ns)
-                
-                if not records:
-                    break
-                
-                for record in records:
-                    if total_fetched >= max_results:
-                        break
-                    
-                    # Extract metadata
-                    metadata_elem = record.find('.//oai:metadata', ns)
-                    if metadata_elem is not None:
-                        file_meta = self._extract_metadata(record, ns)
-                        
-                        # Check if it's qualitative data (heuristic)
-                        if self._is_qualitative_data(file_meta):
-                            self.results.append(file_meta)
-                            total_fetched += 1
-                
-                # Check for resumption token
-                resumption_elem = root.find('.//oai:resumptionToken', ns)
-                if resumption_elem is not None and resumption_elem.text:
-                    resumption_token = resumption_elem.text
-                else:
-                    break
-                
-                time.sleep(1)  # Rate limiting
-                
-            except requests.exceptions.RequestException as e:
-                print(f"Error fetching from DANS: {e}")
-                break
-            except ET.ParseError as e:
-                print(f"Error parsing XML from DANS: {e}")
-                break
-        
+
+        q = query or "qualitative"
+
+        # Only search type=file for single-token queries (extensions / software
+        # names like "qdpx", "NVivo").  Phrase queries ("qualitative interview")
+        # rarely match file names and would page through thousands of PDFs.
+        is_phrase = " " in q.strip()
+        if not is_phrase:
+            half = max_results // 2 or max_results
+            self._search_by_type(q, "file", half, max_file_pages=5, **kwargs)
+
+        remaining = max_results - len(self.results)
+        if remaining > 0:
+            self._search_by_type(q, "dataset", remaining, **kwargs)
+
         return self.results
-    
-    def _extract_metadata(self, record: ET.Element, ns: Dict[str, str]) -> Dict[str, Any]:
-        """Extract metadata from OAI-PMH record."""
-        metadata = record.find('.//oai:metadata', ns)
-        dc = metadata.find('.//{http://purl.org/dc/elements/1.1/}' if metadata is not None else '')
-        
-        # Extract Dublin Core elements
-        def get_dc_element(name: str) -> str:
-            elem = metadata.find(f'.//dc:{name}', ns) if metadata is not None else None
-            return elem.text if elem is not None and elem.text else ''
-        
-        def get_all_dc_elements(name: str) -> str:
-            elems = metadata.findall(f'.//dc:{name}', ns) if metadata is not None else []
-            return '; '.join([e.text for e in elems if e.text])
-        
-        # Get identifier
-        identifier_elem = record.find('.//oai:header/oai:identifier', ns)
-        identifier = identifier_elem.text if identifier_elem is not None else ''
-        
-        # Build metadata
-        title = get_dc_element('title')
-        description = get_dc_element('description')
-        creators = get_all_dc_elements('creator')
-        subjects = get_all_dc_elements('subject')
-        date = get_dc_element('date')
-        rights = get_dc_element('rights')
-        
-        # Try to extract DOI or URL
-        identifiers = get_all_dc_elements('identifier')
-        doi = ''
-        source_url = ''
-        for ident in identifiers.split('; '):
-            if 'doi.org' in ident or ident.startswith('10.'):
-                doi = ident
-            elif ident.startswith('http'):
-                source_url = ident
-        
-        return self.normalize_metadata({
-            'filename': f"{identifier.split(':')[-1]}.dat",  # Placeholder
-            'file_extension': '',
-            'download_url': source_url,
-            'source_repository': 'DANS',
-            'source_url': source_url,
-            'source_id': identifier,
-            'license_type': rights,
-            'license_url': '',
-            'project_title': title,
-            'project_description': description,
-            'authors': creators,
-            'publication_date': date,
-            'keywords': subjects,
-            'doi': doi,
-            'qda_software': '',
-        })
-    
-    def _is_qualitative_data(self, metadata: Dict[str, Any]) -> bool:
-        """Check if metadata suggests qualitative data."""
-        qualitative_keywords = [
-            'qualitative', 'interview', 'focus group', 'ethnograph',
-            'case study', 'narrative', 'discourse', 'content analysis',
-            'grounded theory', 'phenomenolog', 'hermeneutic'
-        ]
-        
-        text_to_check = (
-            metadata.get('project_title', '').lower() + ' ' +
-            metadata.get('project_description', '').lower() + ' ' +
-            metadata.get('keywords', '').lower()
-        )
-        
-        return any(keyword in text_to_check for keyword in qualitative_keywords)
-    
-    def get_file_metadata(self, file_id: str) -> Dict[str, Any]:
-        """Get metadata for a specific record."""
-        try:
-            params = {
-                'verb': 'GetRecord',
-                'identifier': file_id,
-                'metadataPrefix': 'oai_dc'
+
+    # ------------------------------------------------------------------
+    # Internal search helper
+    # ------------------------------------------------------------------
+
+    def _search_by_type(
+        self,
+        q: str,
+        search_type: str,
+        limit: int,
+        max_file_pages: int = 999,
+        **kwargs,
+    ) -> None:
+        """Paginate through DANS search results for *search_type* and append to self.results."""
+        start = 0
+        fetched = 0
+        pages_fetched = 0
+
+        while fetched < limit and pages_fetched < max_file_pages:
+            params: Dict[str, Any] = {
+                "q": q,
+                "type": search_type,
+                "per_page": self._PAGE_SIZE,
+                "start": start,
             }
-            
-            response = self.session.get(self.oai_base, params=params, timeout=30)
-            response.raise_for_status()
-            
-            root = ET.fromstring(response.content)
-            ns = {'oai': 'http://www.openarchives.org/OAI/2.0/',
-                  'dc': 'http://purl.org/dc/elements/1.1/'}
-            
-            record = root.find('.//oai:record', ns)
-            if record is not None:
-                return self._extract_metadata(record, ns)
-            
-            return {}
-            
-        except Exception as e:
-            print(f"Error fetching record {file_id}: {e}")
-            return {}
+            params.update(kwargs)
+
+            try:
+                url = f"{self.api_base}/search"
+                response = self.session.get(url, params=params, timeout=30)
+                response.raise_for_status()
+
+                data = response.json()
+                if data.get("status") != "OK":
+                    break
+
+                items = data.get("data", {}).get("items", [])
+                if not items:
+                    break
+
+                for item in items:
+                    if fetched >= limit:
+                        break
+                    if search_type == "file":
+                        meta = self._file_item_to_metadata(item)
+                        if meta is None:
+                            continue  # skip non-QDA files
+                    else:
+                        meta = self._dataset_item_to_metadata(item)
+                    self.results.append(meta)
+                    fetched += 1
+
+                start += self._PAGE_SIZE
+                pages_fetched += 1
+                time.sleep(0.5)
+
+            except requests.exceptions.RequestException as e:
+                print(f"Error fetching from DANS (q={q!r}, type={search_type}): {e}")
+                break
+
+    # ------------------------------------------------------------------
+    # Private helpers
+    # ------------------------------------------------------------------
+
+    def _file_item_to_metadata(self, item: Dict[str, Any]) -> Optional[Dict[str, Any]]:
+        """Convert a file search result to normalised metadata.
+
+        Returns *None* if the file is not a recognised QDA format.
+        """
+        file_name = item.get("name", "")
+        if not self.is_qda_file(file_name):
+            return None
+
+        file_extension = ("." + file_name.rsplit(".", 1)[-1]) if "." in file_name else ""
+        file_id = str(item.get("file_id", item.get("entity_id", "")))
+        dataset_pid = item.get("dataset_persistent_id", "")
+        download_url = item.get("url", f"{self.api_base}/access/datafile/{file_id}" if file_id else "")
+
+        return self.normalize_metadata({
+            "filename": file_name,
+            "file_extension": file_extension.lower(),
+            "file_size": item.get("size_in_bytes"),
+            "download_url": download_url,
+            "source_repository": "DANS",
+            "source_url": f"{self.base_url}/dataset.xhtml?persistentId={dataset_pid}",
+            "source_id": file_id or dataset_pid,
+            "license_type": "",
+            "license_url": "",
+            "project_title": item.get("dataset_name", ""),
+            "project_description": item.get("description", ""),
+            "authors": "",
+            "publication_date": item.get("published_at", ""),
+            "keywords": "",
+            "doi": dataset_pid,
+            "qda_software": self.get_qda_software(file_name),
+        })
+
+    def _dataset_item_to_metadata(self, item: Dict[str, Any]) -> Dict[str, Any]:
+        """Convert a single dataset search-result item to normalised metadata."""
+        doi = item.get("global_id", "")
+        dataset_url = item.get("url", "")
+        authors = "; ".join(item.get("authors", []))
+        subjects = "; ".join(item.get("subjects", []))
+        title = item.get("name", "")
+        description = item.get("description", "")
+        published_at = item.get("published_at", "")
+
+        # Derive a stable synthetic filename from the DOI so dedup works.
+        safe_doi = doi.replace("doi:", "").replace("/", "_").replace(".", "_")
+        filename = f"{safe_doi}.dataset" if safe_doi else "dans_dataset.dataset"
+
+        return self.normalize_metadata({
+            "filename": filename,
+            "file_extension": ".dataset",
+            "file_size": None,
+            "download_url": dataset_url,
+            "source_repository": "DANS",
+            "source_url": dataset_url,
+            "source_id": doi,
+            "license_type": "",
+            "license_url": "",
+            "project_title": title,
+            "project_description": description,
+            "authors": authors,
+            "publication_date": published_at,
+            "keywords": subjects,
+            "doi": doi,
+            "qda_software": "",
+        })
+
 

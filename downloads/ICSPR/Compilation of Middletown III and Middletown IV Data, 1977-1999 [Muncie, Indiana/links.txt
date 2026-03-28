@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Compilation of Middletown III and Middletown IV Data, 1977-1999 [Muncie, Indiana]
+DOI   : https://doi.org/10.3886/icpsr04604
+URL   : http://www.icpsr.umich.edu/icpsrweb/ICPSR/studies/4604
+
+Title : Compilation of Middletown III and Middletown IV Data, 1977-1999 [Muncie, Indiana]
+DOI   : https://doi.org/10.3886/icpsr04604.v1
+URL   : http://www.icpsr.umich.edu/icpsrweb/ICPSR/studies/4604/version/1
+

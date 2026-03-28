@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : A Mixed-Methods Framework Combining Directed Acyclic Graphs and Alkire Foster Methodology for Evaluating Participatory Dynamics
+DOI   : https://doi.org/10.3886/e224181v1
+URL   : https://www.openicpsr.org/openicpsr/project/224181/version/V1/view
+

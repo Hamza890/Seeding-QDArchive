@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : COEP Replication Package for "Centralized Procurement: Use of Framework Agreements in Mexico"
+DOI   : https://doi.org/10.3886/e219822
+URL   : https://www.openicpsr.org/openicpsr/project/219822/view
+
+Title : COEP Replication Package for "Centralized Procurement: Use of Framework Agreements in Mexico"
+DOI   : https://doi.org/10.3886/e219822v1
+URL   : https://www.openicpsr.org/openicpsr/project/219822/version/V1/view
+

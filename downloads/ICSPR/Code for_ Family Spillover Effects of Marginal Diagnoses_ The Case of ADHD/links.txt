@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Code for: Family Spillover Effects of Marginal Diagnoses: The Case of ADHD
+DOI   : https://doi.org/10.3886/e203821v1
+URL   : https://www.openicpsr.org/openicpsr/project/203821/version/V1/view
+
+Title : Code for: Family Spillover Effects of Marginal Diagnoses: The Case of ADHD
+DOI   : https://doi.org/10.3886/e203821
+URL   : https://www.openicpsr.org/openicpsr/project/203821/view
+

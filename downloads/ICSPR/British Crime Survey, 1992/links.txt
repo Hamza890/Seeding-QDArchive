@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : British Crime Survey, 1992
+DOI   : https://doi.org/10.3886/icpsr06717
+URL   : https://www.icpsr.umich.edu/web/NACJD/studies/6717
+
+Title : British Crime Survey, 1992
+DOI   : https://doi.org/10.3886/icpsr06717.v1
+URL   : https://www.icpsr.umich.edu/web/NACJD/studies/6717/versions/V1
+

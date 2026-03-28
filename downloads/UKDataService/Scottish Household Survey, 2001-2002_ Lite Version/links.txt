@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Scottish Household Survey, 2001-2002: Lite Version
+DOI   : https://doi.org/10.5255/ukda-sn-5031-1
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/5031#doi
+

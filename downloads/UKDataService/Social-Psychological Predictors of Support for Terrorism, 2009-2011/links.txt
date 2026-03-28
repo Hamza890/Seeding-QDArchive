@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Social-Psychological Predictors of Support for Terrorism, 2009-2011
+DOI   : https://doi.org/10.5255/ukda-sn-7765-1
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/7765#doi
+

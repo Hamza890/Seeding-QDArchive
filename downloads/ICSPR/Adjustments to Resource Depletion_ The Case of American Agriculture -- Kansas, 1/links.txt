@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Adjustments to Resource Depletion: The Case of American Agriculture -- Kansas, 1874-1936
+DOI   : https://doi.org/10.3886/icpsr07594
+URL   : http://www.icpsr.umich.edu/icpsrweb/ICPSR/studies/7594
+

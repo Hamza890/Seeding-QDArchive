@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Code for: Public and Private Options in Practice: The Military Health System
+DOI   : https://doi.org/10.3886/e176401v1
+URL   : https://www.openicpsr.org/openicpsr/project/176401/version/V1/view
+
+Title : Code for: Public and Private Options in Practice: The Military Health System
+DOI   : https://doi.org/10.3886/e176401
+URL   : https://www.openicpsr.org/openicpsr/project/176401/view
+

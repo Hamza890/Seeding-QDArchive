@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Socio-Economic Position and Political Support of Black and Ethnic Minority Groups in the United Kingdom, 1972-2005
+DOI   : https://doi.org/10.5255/ukda-sn-5666-1
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/5666#doi
+

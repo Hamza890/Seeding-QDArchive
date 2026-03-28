@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Bridging the Gap/National Wellness Policy Study State Wellness Policy-Related Dataset, School Years 2006-2007 through 2013-2014
+DOI   : https://doi.org/10.3886/icpsr36527
+URL   : https://www.icpsr.umich.edu/web/HMCA/studies/36527
+
+Title : Bridging the Gap/National Wellness Policy Study State Wellness Policy-Related Dataset, School Years 2006-2007 through 2013-2014
+DOI   : https://doi.org/10.3886/icpsr36527.v1
+URL   : https://www.icpsr.umich.edu/web/HMCA/studies/36527/versions/V1
+

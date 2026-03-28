@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Couples and Well-Being Project, 1993-1995, Detroit Metropolitan Area
+DOI   : https://doi.org/10.3886/icpsr22081
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/22081
+
+Title : Couples and Well-Being Project, 1993-1995, Detroit Metropolitan Area
+DOI   : https://doi.org/10.3886/icpsr22081.v1
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/22081/versions/V1
+

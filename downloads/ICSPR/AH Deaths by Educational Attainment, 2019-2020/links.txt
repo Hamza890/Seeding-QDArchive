@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : AH Deaths by Educational Attainment, 2019-2020
+DOI   : https://doi.org/10.3886/e243153v1
+URL   : https://www.datalumos.org/datalumos/project/243153/version/V1/view
+
+Title : AH Deaths by Educational Attainment, 2019-2020
+DOI   : https://doi.org/10.3886/e243153
+URL   : https://www.datalumos.org/datalumos/project/243153/view
+

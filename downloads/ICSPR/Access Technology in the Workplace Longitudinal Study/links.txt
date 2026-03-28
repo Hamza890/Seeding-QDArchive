@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Access Technology in the Workplace Longitudinal Study
+DOI   : https://doi.org/10.3886/e246074v1
+URL   : https://www.openicpsr.org/openicpsr/project/246074/version/V1/view
+
+Title : Access Technology in the Workplace Longitudinal Study
+DOI   : https://doi.org/10.3886/e246074
+URL   : https://www.openicpsr.org/openicpsr/project/246074/view
+

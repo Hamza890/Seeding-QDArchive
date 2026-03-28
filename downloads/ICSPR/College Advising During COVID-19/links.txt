@@ -1,0 +1,35 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : College Advising During COVID-19
+DOI   : https://doi.org/10.3886/e139901
+URL   : https://www.openicpsr.org/openicpsr/project/139901/view
+
+Title : College Advising During COVID-19
+DOI   : https://doi.org/10.3886/e139901v1-171409
+URL   : https://www.openicpsr.org/openicpsr/project/139901/version/V1/view?path=/openicpsr/139901/fcr:versions/V1/Naughton_Adviser_Interview_18_Data.pdf&type=file
+
+Title : College Advising During COVID-19
+DOI   : https://doi.org/10.3886/e139901v1-171405
+URL   : https://www.openicpsr.org/openicpsr/project/139901/version/V1/view?path=/openicpsr/139901/fcr:versions/V1/Naughton_Adviser_Interview_5_Data.pdf&type=file
+
+Title : College Advising During COVID-19
+DOI   : https://doi.org/10.3886/e139901v1-171404
+URL   : https://www.openicpsr.org/openicpsr/project/139901/version/V1/view?path=/openicpsr/139901/fcr:versions/V1/Naughton_Adviser_Interview_10_-Data.pdf&type=file
+
+Title : College Advising During COVID-19
+DOI   : https://doi.org/10.3886/e139901v1-171403
+URL   : https://www.openicpsr.org/openicpsr/project/139901/version/V1/view?path=/openicpsr/139901/fcr:versions/V1/Naughton_Adviser_Interview_12_Data.pdf&type=file
+
+Title : College Advising During COVID-19
+DOI   : https://doi.org/10.3886/e139901v1-171402
+URL   : https://www.openicpsr.org/openicpsr/project/139901/version/V1/view?path=/openicpsr/139901/fcr:versions/V1/Naughton_Adviser_Interview_14_Data.pdf&type=file
+
+Title : College Advising During COVID-19
+DOI   : https://doi.org/10.3886/e139901v1-139802
+URL   : https://www.openicpsr.org/openicpsr/project/139901/version/V1/view?path=/openicpsr/139901/fcr:versions/V1/Naughton_Adviser_Interview_16_Data.pdf&type=file
+
+Title : College Advising During COVID-19
+DOI   : https://doi.org/10.3886/e139901v1
+URL   : https://www.openicpsr.org/openicpsr/project/139901/version/V1/view
+

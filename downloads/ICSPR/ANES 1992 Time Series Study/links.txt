@@ -1,0 +1,15 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : ANES 1992 Time Series Study
+DOI   : https://doi.org/10.3886/icpsr35138
+URL   : http://www.icpsr.umich.edu/icpsrweb/ICPSR/studies/35138
+
+Title : ANES 1992 Time Series Study
+DOI   : https://doi.org/10.3886/icpsr35138.v1
+URL   : http://www.icpsr.umich.edu/icpsrweb/ICPSR/studies/35138/version/1
+
+Title : ANES 1992 Time Series Study
+DOI   : https://doi.org/10.3886/icpsr06067
+URL   : http://www.icpsr.umich.edu/icpsrweb/ICPSR/studies/6067
+

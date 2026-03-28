@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Assessing Punitive and Cooperative Strategies of Corporate Crime Control for Select Companies Operating in 1995 Through 2000 [United States]
+DOI   : https://doi.org/10.3886/icpsr22180
+URL   : http://www.icpsr.umich.edu/icpsrweb/NACJD/studies/22180
+
+Title : Assessing Punitive and Cooperative Strategies of Corporate Crime Control for Select Companies Operating in 1995 Through 2000 [United States]
+DOI   : https://doi.org/10.3886/icpsr22180.v1
+URL   : http://www.icpsr.umich.edu/icpsrweb/NACJD/studies/22180/version/1
+

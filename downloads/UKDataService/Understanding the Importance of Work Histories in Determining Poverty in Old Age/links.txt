@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Understanding the Importance of Work Histories in Determining Poverty in Old Age: Variables Derived from the English Longitudinal Study of Ageing, 2002-2007
+DOI   : https://doi.org/10.5255/ukda-sn-6427-1
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/6427#doi
+

@@ -1,0 +1,59 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : A Qualitative Investigation of Black Students' Perceptions of School Racial Climate
+DOI   : https://doi.org/10.3886/e108801v1-149641
+URL   : https://www.openicpsr.org/openicpsr/project/108801/version/V1/view?path=/openicpsr/108801/fcr:versions/V1/Olivia-4-11-13.txt&type=file
+
+Title : A Qualitative Investigation of Black Students' Perceptions of School Racial Climate
+DOI   : https://doi.org/10.3886/e108801v1-148284
+URL   : https://www.openicpsr.org/openicpsr/project/108801/version/V1/view?path=/openicpsr/108801/fcr:versions/V1/Jamie-4-18-13.txt&type=file
+
+Title : A Qualitative Investigation of Black Students' Perceptions of School Racial Climate
+DOI   : https://doi.org/10.3886/e108801v1-147481
+URL   : https://www.openicpsr.org/openicpsr/project/108801/version/V1/view?path=/openicpsr/108801/fcr:versions/V1/Tee-4-18-13.txt&type=file
+
+Title : A Qualitative Investigation of Black Students' Perceptions of School Racial Climate
+DOI   : https://doi.org/10.3886/e108801v1-142624
+URL   : https://www.openicpsr.org/openicpsr/project/108801/version/V1/view?path=/openicpsr/108801/fcr:versions/V1/Shontae---4-10-13.txt&type=file
+
+Title : A Qualitative Investigation of Black Students' Perceptions of School Racial Climate
+DOI   : https://doi.org/10.3886/e108801v1-136240
+URL   : https://www.openicpsr.org/openicpsr/project/108801/version/V1/view?path=/openicpsr/108801/fcr:versions/V1/Olivia-Shontae-3-21-13.txt&type=file
+
+Title : A Qualitative Investigation of Black Students' Perceptions of School Racial Climate
+DOI   : https://doi.org/10.3886/e108801v1-125080
+URL   : https://www.openicpsr.org/openicpsr/project/108801/version/V1/view?path=/openicpsr/108801/fcr:versions/V1/Jason-4-17-13.txt&type=file
+
+Title : A Qualitative Investigation of Black Students' Perceptions of School Racial Climate
+DOI   : https://doi.org/10.3886/e108801v1-117084
+URL   : https://www.openicpsr.org/openicpsr/project/108801/version/V1/view?path=/openicpsr/108801/fcr:versions/V1/Jerry-4-9-13.txt&type=file
+
+Title : A Qualitative Investigation of Black Students' Perceptions of School Racial Climate
+DOI   : https://doi.org/10.3886/e108801v1-117083
+URL   : https://www.openicpsr.org/openicpsr/project/108801/version/V1/view?path=/openicpsr/108801/fcr:versions/V1/Jessica-4-17-13.txt&type=file
+
+Title : A Qualitative Investigation of Black Students' Perceptions of School Racial Climate
+DOI   : https://doi.org/10.3886/e108801v1-116980
+URL   : https://www.openicpsr.org/openicpsr/project/108801/version/V1/view?path=/openicpsr/108801/fcr:versions/V1/Jessica---4-8-13.txt&type=file
+
+Title : A Qualitative Investigation of Black Students' Perceptions of School Racial Climate
+DOI   : https://doi.org/10.3886/e108801v1-116720
+URL   : https://www.openicpsr.org/openicpsr/project/108801/version/V1/view?path=/openicpsr/108801/fcr:versions/V1/Barry-4-9-13.txt&type=file
+
+Title : A Qualitative Investigation of Black Students' Perceptions of School Racial Climate
+DOI   : https://doi.org/10.3886/e108801v1-113824
+URL   : https://www.openicpsr.org/openicpsr/project/108801/version/V1/view?path=/openicpsr/108801/fcr:versions/V1/Interview-Questions-2-19-13.doc&type=file
+
+Title : A Qualitative Investigation of Black Students' Perceptions of School Racial Climate
+DOI   : https://doi.org/10.3886/e108801v1-113823
+URL   : https://www.openicpsr.org/openicpsr/project/108801/version/V1/view?path=/openicpsr/108801/fcr:versions/V1/Amber-Jesse-Jerome-4-18-13.txt&type=file
+
+Title : A Qualitative Investigation of Black Students' Perceptions of School Racial Climate
+DOI   : https://doi.org/10.3886/e108801v1-11365
+URL   : https://www.openicpsr.org/openicpsr/project/108801/version/V1/view?path=/openicpsr/108801/fcr:versions/V1/Coco-5-23-13.txt&type=file
+
+Title : A Qualitative Investigation of Black Students' Perceptions of School Racial Climate
+DOI   : https://doi.org/10.3886/e108801v1
+URL   : https://www.openicpsr.org/openicpsr/project/108801/version/V1/view
+

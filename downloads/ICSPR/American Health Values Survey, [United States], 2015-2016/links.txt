@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : American Health Values Survey, [United States], 2015-2016
+DOI   : https://doi.org/10.3886/icpsr37403
+URL   : https://www.icpsr.umich.edu/web/HMCA/studies/37403
+
+Title : American Health Values Survey, [United States], 2015-2016
+DOI   : https://doi.org/10.3886/icpsr37403.v4
+URL   : https://www.icpsr.umich.edu/web/HMCA/studies/37403/versions/V4
+

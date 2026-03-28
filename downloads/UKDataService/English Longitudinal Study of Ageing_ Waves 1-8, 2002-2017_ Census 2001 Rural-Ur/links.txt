@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : English Longitudinal Study of Ageing: Waves 1-8, 2002-2017: Census 2001 Rural-Urban Indicators (Recoded): Special Licence Access
+DOI   : https://doi.org/10.5255/ukda-sn-8433-1
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/8433#doi
+

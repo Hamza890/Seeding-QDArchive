@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Individual and Household Strategies: a Decade of Change? 1986-1997
+DOI   : https://doi.org/10.5255/ukda-sn-4038-1
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/4038#doi
+

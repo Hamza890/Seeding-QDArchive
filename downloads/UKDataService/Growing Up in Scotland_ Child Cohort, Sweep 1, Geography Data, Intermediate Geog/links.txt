@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Growing Up in Scotland: Child Cohort, Sweep 1, Geography Data, Intermediate Geography and Local Authority, 2005-2006: Secure Acces
+DOI   : https://doi.org/10.5255/ukda-sn-8519-1
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/8519#doi
+

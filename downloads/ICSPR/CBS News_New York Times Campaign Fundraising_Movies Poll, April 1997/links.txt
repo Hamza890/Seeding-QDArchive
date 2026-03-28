@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : CBS News/New York Times Campaign Fundraising/Movies Poll, April 1997
+DOI   : https://doi.org/10.3886/icpsr04489
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/4489
+
+Title : CBS News/New York Times Campaign Fundraising/Movies Poll, April 1997
+DOI   : https://doi.org/10.3886/icpsr04489.v1
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/4489/versions/V1
+

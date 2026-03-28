@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Chicago Community Adult Health Study, 2001-2003
+DOI   : https://doi.org/10.3886/icpsr31142
+URL   : https://www.icpsr.umich.edu/web/RCMD/studies/31142
+
+Title : Chicago Community Adult Health Study, 2001-2003
+DOI   : https://doi.org/10.3886/icpsr31142.v1
+URL   : https://www.icpsr.umich.edu/web/RCMD/studies/31142/versions/V1
+

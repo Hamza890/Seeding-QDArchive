@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : 1970 British Cohort Study: Partnership Histories, 1986-2024
+DOI   : https://doi.org/10.5255/ukda-sn-6941-5
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/6941#doi
+

@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : National Diet and Nutrition Survey: Assessment of Dietary Sodium in Adults, 2006/09 and 2011/15
+DOI   : https://doi.org/10.5255/ukda-sn-8233-7
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/8233#doi
+

@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : A machine learning model for assessing IO legitimation in the media
+DOI   : https://doi.org/10.3886/e152961v1
+URL   : https://www.openicpsr.org/openicpsr/project/152961/version/V1/view
+
+Title : A machine learning model for assessing IO legitimation in the media
+DOI   : https://doi.org/10.3886/e152961
+URL   : https://www.openicpsr.org/openicpsr/project/152961/view
+

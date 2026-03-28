@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Americans' Use of Time, 1965-1966, and Time Use in Economic and Social Accounts, 1975-1976: Merged Data
+DOI   : https://doi.org/10.3886/icpsr07796
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/7796
+
+Title : Americans' Use of Time, 1965-1966, and Time Use in Economic and Social Accounts, 1975-1976: Merged Data
+DOI   : https://doi.org/10.3886/icpsr07796.v1
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/7796/versions/V1
+

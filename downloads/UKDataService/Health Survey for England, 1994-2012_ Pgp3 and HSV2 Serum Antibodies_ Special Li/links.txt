@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Health Survey for England, 1994-2012: Pgp3 and HSV2 Serum Antibodies: Special Licence Access
+DOI   : https://doi.org/10.5255/ukda-sn-8103-1
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/8103#doi
+

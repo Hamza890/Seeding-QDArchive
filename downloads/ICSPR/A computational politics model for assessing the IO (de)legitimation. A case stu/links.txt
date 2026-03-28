@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : A computational politics model for assessing the IO (de)legitimation. A case study of twelve IOs in six post-socialist countries
+DOI   : https://doi.org/10.3886/e150881v1
+URL   : https://www.openicpsr.org/openicpsr/project/150881/version/V1/view
+
+Title : A computational politics model for assessing the IO (de)legitimation. A case study of twelve IOs in six post-socialist countries
+DOI   : https://doi.org/10.3886/e150881
+URL   : https://www.openicpsr.org/openicpsr/project/150881/view
+

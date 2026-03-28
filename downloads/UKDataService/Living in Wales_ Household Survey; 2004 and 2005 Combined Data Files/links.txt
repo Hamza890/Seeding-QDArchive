@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Living in Wales: Household Survey; 2004 and 2005 Combined Data Files
+DOI   : https://doi.org/10.5255/ukda-sn-6352-1
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/6352#doi
+

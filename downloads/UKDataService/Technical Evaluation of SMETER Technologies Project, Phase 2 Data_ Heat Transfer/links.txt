@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Technical Evaluation of SMETER Technologies Project, Phase 2 Data: Heat Transfer Coefficients, In-Use Temperature and Energy Data, Local Weather, Dwelling Information, and Occupancy Surveys From 30 English Dwellings, 2019-2021.
+DOI   : https://doi.org/10.5255/ukda-sn-856978
+URL   : http://reshare.ukdataservice.ac.uk/id/eprint/856978
+

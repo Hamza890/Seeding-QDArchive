@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Antibiotic Prescribing in Care Homes: A Multidisciplinary Approach, 2022
+DOI   : https://doi.org/10.5255/ukda-sn-856006
+URL   : http://reshare.ukdataservice.ac.uk/id/eprint/856006
+

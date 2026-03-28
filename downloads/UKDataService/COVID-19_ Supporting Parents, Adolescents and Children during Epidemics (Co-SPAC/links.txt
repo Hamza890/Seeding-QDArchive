@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : COVID-19: Supporting Parents, Adolescents and Children during Epidemics (Co-SPACE), 2020-2021
+DOI   : https://doi.org/10.5255/ukda-sn-8900-1
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/8900#doi
+

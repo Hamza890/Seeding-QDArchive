@@ -1,0 +1,15 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Climate.gov Data Snapshots: Arctic Sea Ice Age
+DOI   : https://doi.org/10.3886/e233443v2
+URL   : https://www.datalumos.org/datalumos/project/233443/version/V2/view
+
+Title : Climate.gov Data Snapshots: Arctic Sea Ice Age
+DOI   : https://doi.org/10.3886/e233443
+URL   : https://www.datalumos.org/datalumos/project/233443/view
+
+Title : Climate.gov Data Snapshots: Arctic Sea Ice Age
+DOI   : https://doi.org/10.3886/e233443v1
+URL   : https://www.datalumos.org/datalumos/project/233443/version/V1/view
+

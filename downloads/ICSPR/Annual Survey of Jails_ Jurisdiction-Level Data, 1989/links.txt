@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Annual Survey of Jails: Jurisdiction-Level Data, 1989
+DOI   : https://doi.org/10.3886/icpsr09373
+URL   : https://www.icpsr.umich.edu/web/NACJD/studies/9373
+

@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Criminal Careers and Crime Control in Massachusetts [The Glueck Study]: A Matched-Sample Longitudinal Research Design, Phase I, 1939-1963
+DOI   : https://doi.org/10.3886/icpsr09735
+URL   : https://www.icpsr.umich.edu/web/NACJD/studies/9735
+
+Title : Criminal Careers and Crime Control in Massachusetts [The Glueck Study]: A Matched-Sample Longitudinal Research Design, Phase I, 1939-1963
+DOI   : https://doi.org/10.3886/icpsr09735.v1
+URL   : https://www.icpsr.umich.edu/web/NACJD/studies/9735/versions/V1
+

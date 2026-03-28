@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : ABC News/Stanford University/Time Magazine Environment Poll #1, March 2006
+DOI   : https://doi.org/10.3886/icpsr04658
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/4658
+
+Title : ABC News/Stanford University/Time Magazine Environment Poll #1, March 2006
+DOI   : https://doi.org/10.3886/icpsr04658.v1
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/4658/versions/V1
+

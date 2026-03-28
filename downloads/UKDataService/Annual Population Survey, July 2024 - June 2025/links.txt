@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Annual Population Survey, July 2024 - June 2025
+DOI   : https://doi.org/10.5255/ukda-sn-9452-1
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/9452#doi
+

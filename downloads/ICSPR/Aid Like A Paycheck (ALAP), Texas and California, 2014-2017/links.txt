@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Aid Like A Paycheck (ALAP), Texas and California, 2014-2017
+DOI   : https://doi.org/10.3886/icpsr38253
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/38253
+
+Title : Aid Like A Paycheck (ALAP), Texas and California, 2014-2017
+DOI   : https://doi.org/10.3886/icpsr38253.v1
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/38253/versions/V1
+

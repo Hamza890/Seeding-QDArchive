@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Impact of Dependent Interviewing on Interview Dynamics: Implications for Longitudinal Study Design, 2006
+DOI   : https://doi.org/10.5255/ukda-sn-6154-1
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/6154#doi
+

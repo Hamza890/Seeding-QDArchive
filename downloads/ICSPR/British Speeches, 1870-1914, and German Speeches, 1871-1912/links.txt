@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : British Speeches, 1870-1914, and German Speeches, 1871-1912
+DOI   : https://doi.org/10.3886/icpsr05902
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/5902
+
+Title : British Speeches, 1870-1914, and German Speeches, 1871-1912
+DOI   : https://doi.org/10.3886/icpsr05902.v1
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/5902/versions/V1
+

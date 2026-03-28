@@ -1,0 +1,15 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Aging, Status, and Sense of Control (ASOC), 1995, 1998, 2001 [United States]
+DOI   : https://doi.org/10.3886/icpsr03334
+URL   : https://www.icpsr.umich.edu/web/NACDA/studies/3334
+
+Title : Aging, Status, and Sense of Control (ASOC), 1995, 1998, 2001 [United States]
+DOI   : https://doi.org/10.3886/icpsr03334.v2
+URL   : https://www.icpsr.umich.edu/web/NACDA/studies/3334/versions/V2
+
+Title : Aging, Status, and Sense of Control (ASOC), 1995, 1998, 2001 [United States]
+DOI   : https://doi.org/10.3886/icpsr03334.v1
+URL   : http://www.icpsr.umich.edu/icpsrweb/NACDA/studies/3334/version/1
+

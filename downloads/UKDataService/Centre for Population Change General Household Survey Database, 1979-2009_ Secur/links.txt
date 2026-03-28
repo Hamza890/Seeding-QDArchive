@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Centre for Population Change General Household Survey Database, 1979-2009: Secure Access
+DOI   : https://doi.org/10.5255/ukda-sn-8099-1
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/8099#doi
+

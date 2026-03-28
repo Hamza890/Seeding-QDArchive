@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Comparative Analysis of Small and Large Group Health Care Utilization and Costs, 1988-1990: [Western Pennsylvania]
+DOI   : https://doi.org/10.3886/icpsr06859
+URL   : http://www.icpsr.umich.edu/icpsrweb/HMCA/studies/6859
+

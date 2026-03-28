@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : American National Election Studies, 1992-1997: Combined File
+DOI   : https://doi.org/10.3886/icpsr02407
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/2407
+

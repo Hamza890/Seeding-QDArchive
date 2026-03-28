@@ -1,0 +1,19 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Collective Teacher Efficacy and its Enabling Conditions
+DOI   : https://doi.org/10.3886/e188606
+URL   : https://www.openicpsr.org/openicpsr/project/188606/view
+
+Title : Collective Teacher Efficacy and its Enabling Conditions
+DOI   : https://doi.org/10.3886/e188606v1-156445
+URL   : https://www.openicpsr.org/openicpsr/project/188606/version/V1/view?path=/openicpsr/188606/fcr:versions/V1/READ_ME.docx&type=file
+
+Title : Collective Teacher Efficacy and its Enabling Conditions
+DOI   : https://doi.org/10.3886/e188606v1-141689
+URL   : https://www.openicpsr.org/openicpsr/project/188606/version/V1/view?path=/openicpsr/188606/fcr:versions/V1/CTE-merged-dataset-Clean.sav&type=file
+
+Title : Collective Teacher Efficacy and its Enabling Conditions
+DOI   : https://doi.org/10.3886/e188606v1
+URL   : https://www.openicpsr.org/openicpsr/project/188606/version/V1/view
+

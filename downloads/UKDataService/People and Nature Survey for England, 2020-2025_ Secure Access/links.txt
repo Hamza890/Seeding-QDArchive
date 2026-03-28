@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : People and Nature Survey for England, 2020-2025: Secure Access
+DOI   : https://doi.org/10.5255/ukda-sn-9094-12
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/9094#doi
+

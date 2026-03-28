@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Crime Hot Spot Forecasting with Data from the Pittsburgh [Pennsylvania] Bureau of Police, 1990-1998
+DOI   : https://doi.org/10.3886/icpsr03469
+URL   : http://www.icpsr.umich.edu/icpsrweb/NACJD/studies/3469
+

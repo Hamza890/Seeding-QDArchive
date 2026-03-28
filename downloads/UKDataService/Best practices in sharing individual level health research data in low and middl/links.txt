@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Best practices in sharing individual level health research data in low and middle income settings: A qualitative study of views of stakeholders in India
+DOI   : https://doi.org/10.5255/ukda-sn-852005
+URL   : http://reshare.ukdataservice.ac.uk/id/eprint/852005
+

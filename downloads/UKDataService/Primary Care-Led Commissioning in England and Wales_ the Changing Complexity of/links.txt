@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Primary Care-Led Commissioning in England and Wales: the Changing Complexity of Governance for Quality, 1991-2005
+DOI   : https://doi.org/10.5255/ukda-sn-5721-1
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/5721#doi
+

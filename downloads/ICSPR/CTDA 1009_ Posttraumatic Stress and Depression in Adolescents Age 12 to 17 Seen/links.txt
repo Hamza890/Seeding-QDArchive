@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : CTDA 1009: Posttraumatic Stress and Depression in Adolescents Age 12 to 17 Seen in the Emergency Department for Violent Injury, United States, 2001-2003
+DOI   : https://doi.org/10.3886/icpsr39195
+URL   : https://www.icpsr.umich.edu/web/DSDR/studies/39195
+

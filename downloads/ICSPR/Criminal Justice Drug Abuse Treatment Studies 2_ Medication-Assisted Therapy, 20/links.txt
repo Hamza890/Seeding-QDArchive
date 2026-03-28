@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Criminal Justice Drug Abuse Treatment Studies 2: Medication-Assisted Therapy, 2010-2013 [United States]
+DOI   : https://doi.org/10.3886/icpsr34988
+URL   : https://www.icpsr.umich.edu/web/NAHDAP/studies/34988
+
+Title : Criminal Justice Drug Abuse Treatment Studies 2: Medication-Assisted Therapy, 2010-2013 [United States]
+DOI   : https://doi.org/10.3886/icpsr34988.v1
+URL   : https://www.icpsr.umich.edu/web/NAHDAP/studies/34988/versions/V1
+

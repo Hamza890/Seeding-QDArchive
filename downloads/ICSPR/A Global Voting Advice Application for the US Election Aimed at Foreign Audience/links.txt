@@ -1,0 +1,19 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : A Global Voting Advice Application for the US Election Aimed at Foreign Audiences
+DOI   : https://doi.org/10.3886/e238229v3
+URL   : https://www.openicpsr.org/openicpsr/project/238229/version/V3/view
+
+Title : A Global Voting Advice Application for the US Election Aimed at Foreign Audiences
+DOI   : https://doi.org/10.3886/e238229
+URL   : https://www.openicpsr.org/openicpsr/project/238229/view
+
+Title : A Global Voting Advice Application for the US Election Aimed at Foreign Audiences
+DOI   : https://doi.org/10.3886/e238229v2
+URL   : https://www.openicpsr.org/openicpsr/project/238229/version/V2/view
+
+Title : A Global Voting Advice Application for the US Election Aimed at Foreign Audiences
+DOI   : https://doi.org/10.3886/e238229v1
+URL   : https://www.openicpsr.org/openicpsr/project/238229/version/V1/view
+

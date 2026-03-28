@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : ABC News/Washington Post Cease Fire Poll, March 1991
+DOI   : https://doi.org/10.3886/icpsr09608
+URL   : http://www.icpsr.umich.edu/icpsrweb/ICPSR/studies/9608
+
+Title : ABC News/Washington Post Cease Fire Poll, March 1991
+DOI   : https://doi.org/10.3886/icpsr09608.v1
+URL   : http://www.icpsr.umich.edu/icpsrweb/ICPSR/studies/9608/version/1
+

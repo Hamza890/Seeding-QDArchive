@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : A Randomized Impact Evaluation of Capturing Kids' Hearts, South Carolina, 2016-2018
+DOI   : https://doi.org/10.3886/icpsr37954
+URL   : https://www.icpsr.umich.edu/web/NACJD/studies/37954
+
+Title : A Randomized Impact Evaluation of Capturing Kids' Hearts, South Carolina, 2016-2018
+DOI   : https://doi.org/10.3886/icpsr37954.v1
+URL   : https://www.icpsr.umich.edu/web/NACJD/studies/37954/versions/V1
+

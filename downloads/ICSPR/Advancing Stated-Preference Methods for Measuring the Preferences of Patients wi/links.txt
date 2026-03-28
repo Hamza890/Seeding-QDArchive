@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Advancing Stated-Preference Methods for Measuring the Preferences of Patients with Type 2 Diabetes [Methods Study], United States, 2013-2018
+DOI   : https://doi.org/10.3886/icpsr39487
+URL   : https://www.icpsr.umich.edu/web/pcodr/studies/39487
+
+Title : Advancing Stated-Preference Methods for Measuring the Preferences of Patients with Type 2 Diabetes [Methods Study], United States, 2013-2018
+DOI   : https://doi.org/10.3886/icpsr39487.v1
+URL   : https://www.icpsr.umich.edu/web/pcodr/studies/39487/versions/V1
+

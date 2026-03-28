@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Census of State and Federal Adult Correctional Facilities, 2000
+DOI   : https://doi.org/10.3886/icpsr04021
+URL   : https://www.icpsr.umich.edu/web/NACJD/studies/4021
+

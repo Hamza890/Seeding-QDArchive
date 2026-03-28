@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : CDC - Provisional COVID-19 death counts and rates by month, jurisdiction of residence, and demographic characteristics
+DOI   : https://doi.org/10.3886/e238522v1
+URL   : https://www.datalumos.org/datalumos/project/238522/version/V1/view
+
+Title : CDC - Provisional COVID-19 death counts and rates by month, jurisdiction of residence, and demographic characteristics
+DOI   : https://doi.org/10.3886/e238522
+URL   : https://www.datalumos.org/datalumos/project/238522/view
+

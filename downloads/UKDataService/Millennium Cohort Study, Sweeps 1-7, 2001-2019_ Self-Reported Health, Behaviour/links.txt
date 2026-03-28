@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Millennium Cohort Study, Sweeps 1-7, 2001-2019: Self-Reported Health, Behaviour and Fertility: Secure Access
+DOI   : https://doi.org/10.5255/ukda-sn-8754-1
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/8754#doi
+

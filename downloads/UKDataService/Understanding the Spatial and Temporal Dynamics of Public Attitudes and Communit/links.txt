@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Understanding the Spatial and Temporal Dynamics of Public Attitudes and Community Responses to Shale Gas: an Integrated Approach, 2019-2022
+DOI   : https://doi.org/10.5255/ukda-sn-9090-1
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/9090#doi
+

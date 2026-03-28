@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Researchers of Tomorrow, 2009-2011
+DOI   : https://doi.org/10.5255/ukda-sn-7029-1
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/7029#doi
+

@@ -1,0 +1,15 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : A qualitative study of college students’ experiences using mobile apps to improve well-being during the COVID-19 pandemic
+DOI   : https://doi.org/10.3886/e182081v1
+URL   : https://www.openicpsr.org/openicpsr/project/182081/version/V1/view
+
+Title : A qualitative study of college students’ experiences using mobile apps to improve well-being during the COVID-19 pandemic
+DOI   : https://doi.org/10.3886/e182081v1-131416
+URL   : https://www.openicpsr.org/openicpsr/project/182081/version/V1/view?path=/openicpsr/182081/fcr:versions/V1/Quirk_Nagar_Anderson-Data_Set-A_qualitative_study_of_college_students_experiences_using_mobile_apps_to_improve_well-being_during_the_COVID-19_pandemic.xlsx&type=file
+
+Title : A qualitative study of college students’ experiences using mobile apps to improve well-being during the COVID-19 pandemic
+DOI   : https://doi.org/10.3886/e182081
+URL   : https://www.openicpsr.org/openicpsr/project/182081/view
+

@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Masculinities, Identities and Risk: Transition in the Lives of Men and Fathers, 2000-2009
+DOI   : https://doi.org/10.5255/ukda-sn-6984-1
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/6984#doi
+

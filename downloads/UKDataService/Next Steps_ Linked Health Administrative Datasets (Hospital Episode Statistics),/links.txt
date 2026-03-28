@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Next Steps: Linked Health Administrative Datasets (Hospital Episode Statistics), England, 1997-2017: Secure Access
+DOI   : https://doi.org/10.5255/ukda-sn-8681-1
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/8681#doi
+

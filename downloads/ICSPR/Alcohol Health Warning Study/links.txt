@@ -1,0 +1,15 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Alcohol Health Warning Study
+DOI   : https://doi.org/10.3886/e175721v1-129240
+URL   : https://www.openicpsr.org/openicpsr/project/175721/version/V1/view?path=/openicpsr/175721/fcr:versions/V1/Alcohol-Health-Warning-Study_Data-file.dta&type=file
+
+Title : Alcohol Health Warning Study
+DOI   : https://doi.org/10.3886/e175721v1
+URL   : https://www.openicpsr.org/openicpsr/project/175721/version/V1/view
+
+Title : Alcohol Health Warning Study
+DOI   : https://doi.org/10.3886/e175721
+URL   : https://www.openicpsr.org/openicpsr/project/175721/view
+

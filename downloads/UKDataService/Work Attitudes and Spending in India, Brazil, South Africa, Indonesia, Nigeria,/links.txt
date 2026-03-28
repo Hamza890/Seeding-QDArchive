@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Work Attitudes and Spending in India, Brazil, South Africa, Indonesia, Nigeria, Kenya and Egypt, 1992-2007
+DOI   : https://doi.org/10.5255/ukda-sn-3290-1
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/3290#doi
+

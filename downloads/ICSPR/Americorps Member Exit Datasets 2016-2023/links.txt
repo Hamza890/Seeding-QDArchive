@@ -1,0 +1,15 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Americorps Member Exit Datasets 2016-2023
+DOI   : https://doi.org/10.3886/e222043v3
+URL   : https://www.datalumos.org/datalumos/project/222043/version/V3/view
+
+Title : Americorps Member Exit Datasets 2016-2023
+DOI   : https://doi.org/10.3886/e222043
+URL   : https://www.datalumos.org/datalumos/project/222043/view
+
+Title : Americorps Member Exit Datasets 2016-2023
+DOI   : https://doi.org/10.3886/e222043v2
+URL   : https://www.datalumos.org/datalumos/project/222043/version/V2/view
+

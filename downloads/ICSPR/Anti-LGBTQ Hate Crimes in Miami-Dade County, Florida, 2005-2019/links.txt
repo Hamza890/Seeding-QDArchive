@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Anti-LGBTQ Hate Crimes in Miami-Dade County, Florida, 2005-2019
+DOI   : https://doi.org/10.3886/icpsr37933
+URL   : https://www.icpsr.umich.edu/web/NACJD/studies/37933
+
+Title : Anti-LGBTQ Hate Crimes in Miami-Dade County, Florida, 2005-2019
+DOI   : https://doi.org/10.3886/icpsr37933.v1
+URL   : https://www.icpsr.umich.edu/web/NACJD/studies/37933/versions/V1
+

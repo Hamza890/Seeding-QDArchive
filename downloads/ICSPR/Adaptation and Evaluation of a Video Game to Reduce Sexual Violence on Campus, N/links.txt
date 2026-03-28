@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Adaptation and Evaluation of a Video Game to Reduce Sexual Violence on Campus, New Hampshire, 2016
+DOI   : https://doi.org/10.3886/icpsr37101
+URL   : https://www.icpsr.umich.edu/web/NACJD/studies/37101
+
+Title : Adaptation and Evaluation of a Video Game to Reduce Sexual Violence on Campus, New Hampshire, 2016
+DOI   : https://doi.org/10.3886/icpsr37101.v1
+URL   : https://www.icpsr.umich.edu/web/NACJD/studies/37101/versions/V1
+

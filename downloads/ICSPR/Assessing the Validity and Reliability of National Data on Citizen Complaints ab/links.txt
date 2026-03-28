@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Assessing the Validity and Reliability of National Data on Citizen Complaints about Police Use of Force, 2003 and 2007
+DOI   : https://doi.org/10.3886/icpsr36042.v1
+URL   : http://www.icpsr.umich.edu/icpsrweb/NACJD/studies/36042/version/1
+
+Title : Assessing the Validity and Reliability of National Data on Citizen Complaints about Police Use of Force, 2003 and 2007
+DOI   : https://doi.org/10.3886/icpsr36042
+URL   : http://www.icpsr.umich.edu/icpsrweb/NACJD/studies/36042
+

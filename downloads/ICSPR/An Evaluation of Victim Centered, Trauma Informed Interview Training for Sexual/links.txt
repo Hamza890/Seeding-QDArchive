@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : An Evaluation of Victim Centered, Trauma Informed Interview Training for Sexual Assault Investigators using Standardized Patient Actors: A Randomized Controlled Trial, Kentucky, 2019-2022
+DOI   : https://doi.org/10.3886/icpsr38497
+URL   : https://www.icpsr.umich.edu/web/NACJD/studies/38497
+
+Title : An Evaluation of Victim Centered, Trauma Informed Interview Training for Sexual Assault Investigators using Standardized Patient Actors: A Randomized Controlled Trial, Kentucky, 2019-2022
+DOI   : https://doi.org/10.3886/icpsr38497.v1
+URL   : https://www.icpsr.umich.edu/web/NACJD/studies/38497/versions/V1
+

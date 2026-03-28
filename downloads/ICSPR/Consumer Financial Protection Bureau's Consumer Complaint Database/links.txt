@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Consumer Financial Protection Bureau's Consumer Complaint Database
+DOI   : https://doi.org/10.3886/e219041v2
+URL   : https://www.datalumos.org/datalumos/project/219041/version/V2/view
+
+Title : Consumer Financial Protection Bureau's Consumer Complaint Database
+DOI   : https://doi.org/10.3886/e219041
+URL   : https://www.datalumos.org/datalumos/project/219041/view
+

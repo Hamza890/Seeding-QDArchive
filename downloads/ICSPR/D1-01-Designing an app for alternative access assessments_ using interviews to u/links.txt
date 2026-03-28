@@ -1,0 +1,19 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : D1-01-Designing an app for alternative access assessments: using interviews to uncover and define user needs
+DOI   : https://doi.org/10.3886/e189382v3
+URL   : https://www.openicpsr.org/openicpsr/project/189382/version/V3/view
+
+Title : D1-01-Designing an app for alternative access assessments: using interviews to uncover and define user needs
+DOI   : https://doi.org/10.3886/e189382
+URL   : https://www.openicpsr.org/openicpsr/project/189382/view
+
+Title : D1-01-Designing an app for alternative access assessments: using interviews to uncover and define user needs
+DOI   : https://doi.org/10.3886/e189382v1
+URL   : https://www.openicpsr.org/openicpsr/project/189382/version/V1/view
+
+Title : D1-01-Designing an app for alternative access assessments: using interviews to uncover and define user needs
+DOI   : https://doi.org/10.3886/e189382v2
+URL   : https://www.openicpsr.org/openicpsr/project/189382/version/V2/view
+

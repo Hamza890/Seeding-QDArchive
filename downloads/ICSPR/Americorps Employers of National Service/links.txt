@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Americorps Employers of National Service
+DOI   : https://doi.org/10.3886/e222042v2
+URL   : https://www.datalumos.org/datalumos/project/222042/version/V2/view
+
+Title : Americorps Employers of National Service
+DOI   : https://doi.org/10.3886/e222042
+URL   : https://www.datalumos.org/datalumos/project/222042/view
+

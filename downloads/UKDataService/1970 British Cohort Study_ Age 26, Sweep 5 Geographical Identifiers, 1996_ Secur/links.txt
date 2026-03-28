@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : 1970 British Cohort Study: Age 26, Sweep 5 Geographical Identifiers, 1996: Secure Access
+DOI   : https://doi.org/10.5255/ukda-sn-8213-2
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/8213#doi
+

@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : 2006 Civil Rights Data Collection
+DOI   : https://doi.org/10.3886/e219641v2
+URL   : https://www.datalumos.org/datalumos/project/219641/version/V2/view
+
+Title : 2006 Civil Rights Data Collection
+DOI   : https://doi.org/10.3886/e219641
+URL   : https://www.datalumos.org/datalumos/project/219641/view
+

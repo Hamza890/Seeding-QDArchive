@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Correlation between graphitic carbon and elemental carbon in diesel particulate matter in workplace atmospheres-Dataset
+DOI   : https://doi.org/10.3886/e233573v1
+URL   : https://www.datalumos.org/datalumos/project/233573/version/V1/view
+
+Title : Correlation between graphitic carbon and elemental carbon in diesel particulate matter in workplace atmospheres-Dataset
+DOI   : https://doi.org/10.3886/e233573
+URL   : https://www.datalumos.org/datalumos/project/233573/view
+

@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Agricultural and Demographic Records of 21,118 Rural Households Selected from the 1860 Manuscript Censuses
+DOI   : https://doi.org/10.3886/icpsr09117
+URL   : http://www.icpsr.umich.edu/icpsrweb/ICPSR/studies/9117
+

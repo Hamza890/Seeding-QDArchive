@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : European State Finance Database; Seventeenth Century French Revenues and Expenditure, Malet Files
+DOI   : https://doi.org/10.5255/ukda-sn-3068-1
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/3068#doi
+

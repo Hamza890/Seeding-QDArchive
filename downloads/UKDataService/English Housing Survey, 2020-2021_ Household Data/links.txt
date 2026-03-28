@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : English Housing Survey, 2020-2021: Household Data
+DOI   : https://doi.org/10.5255/ukda-sn-9057-1
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/9057#doi
+

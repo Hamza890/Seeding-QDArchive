@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Content Analysis of Asian Newspapers: 1962, 1966, 1970, 1972
+DOI   : https://doi.org/10.3886/icpsr07489
+URL   : http://www.icpsr.umich.edu/icpsrweb/ICPSR/studies/7489
+
+Title : Content Analysis of Asian Newspapers: 1962, 1966, 1970, 1972
+DOI   : https://doi.org/10.3886/icpsr07489.v1
+URL   : http://www.icpsr.umich.edu/icpsrweb/ICPSR/studies/7489/version/1
+

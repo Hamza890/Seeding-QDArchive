@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Chinese Longitudinal Healthy Longevity Survey (CLHLS), 1998-2014
+DOI   : https://doi.org/10.3886/icpsr36692
+URL   : https://www.icpsr.umich.edu/web/NACDA/studies/36692
+
+Title : Chinese Longitudinal Healthy Longevity Survey (CLHLS), 1998-2014
+DOI   : https://doi.org/10.3886/icpsr36692.v1
+URL   : https://www.icpsr.umich.edu/web/NACDA/studies/36692/versions/V1
+

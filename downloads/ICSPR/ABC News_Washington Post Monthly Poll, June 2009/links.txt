@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : ABC News/Washington Post Monthly Poll, June 2009
+DOI   : https://doi.org/10.3886/icpsr27765
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/27765
+
+Title : ABC News/Washington Post Monthly Poll, June 2009
+DOI   : https://doi.org/10.3886/icpsr27765.v2
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/27765/versions/V2
+

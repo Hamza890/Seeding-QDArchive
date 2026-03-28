@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Consumer Expenditure Survey, 1980-1981: Diary Survey
+DOI   : https://doi.org/10.3886/icpsr08235
+URL   : http://www.icpsr.umich.edu/icpsrweb/ICPSR/studies/8235
+

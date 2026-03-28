@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Afrobarometer Round 4: The Quality of Democracy and Governance in Malawi, 2008
+DOI   : https://doi.org/10.3886/icpsr34005
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/34005
+
+Title : Afrobarometer Round 4: The Quality of Democracy and Governance in Malawi, 2008
+DOI   : https://doi.org/10.3886/icpsr34005.v1
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/34005/versions/V1
+

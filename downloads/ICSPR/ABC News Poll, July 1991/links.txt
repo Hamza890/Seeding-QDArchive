@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : ABC News Poll, July 1991
+DOI   : https://doi.org/10.3886/icpsr09758
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/9758
+
+Title : ABC News Poll, July 1991
+DOI   : https://doi.org/10.3886/icpsr09758.v1
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/9758/versions/V1
+

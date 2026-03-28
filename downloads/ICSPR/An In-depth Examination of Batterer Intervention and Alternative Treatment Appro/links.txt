@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : An In-depth Examination of Batterer Intervention and Alternative Treatment Approaches for Domestic Violence Offenders, Utah, 2015-2018
+DOI   : https://doi.org/10.3886/icpsr37123
+URL   : https://www.icpsr.umich.edu/icpsrweb/NACJD/studies/37123
+
+Title : An In-depth Examination of Batterer Intervention and Alternative Treatment Approaches for Domestic Violence Offenders, Utah, 2015-2018
+DOI   : https://doi.org/10.3886/icpsr37123.v1
+URL   : https://www.icpsr.umich.edu/icpsrweb/NACJD/studies/37123/versions/V1
+

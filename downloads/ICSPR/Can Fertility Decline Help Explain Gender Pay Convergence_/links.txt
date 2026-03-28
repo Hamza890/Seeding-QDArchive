@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Can Fertility Decline Help Explain Gender Pay Convergence?
+DOI   : https://doi.org/10.3886/e209567v1
+URL   : https://www.icpsr.umich.edu/sites/psid/view/studies/209567/versions/V1.1
+
+Title : Can Fertility Decline Help Explain Gender Pay Convergence?
+DOI   : https://doi.org/10.3886/e209567
+URL   : https://www.icpsr.umich.edu/sites/psid/view/studies/209567
+

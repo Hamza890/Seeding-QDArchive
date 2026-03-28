@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Understanding Society: Waves 1-3, 2009-2012: Special Licence Access, Geographical Accessibility
+DOI   : https://doi.org/10.5255/ukda-sn-7533-1
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/7533#doi
+

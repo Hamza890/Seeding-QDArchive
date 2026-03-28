@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Child Care and Development Fund Administrative Data, Federal Fiscal Year 2007
+DOI   : https://doi.org/10.3886/icpsr27061
+URL   : https://www.childandfamilydataarchive.org/cfda/archives/CFDA/studies/27061
+

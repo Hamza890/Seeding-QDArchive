@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Criminal Careers, Criminal Violence, and Substance Abuse in California, 1963-1983
+DOI   : https://doi.org/10.3886/icpsr09964
+URL   : https://www.icpsr.umich.edu/web/NACJD/studies/9964
+
+Title : Criminal Careers, Criminal Violence, and Substance Abuse in California, 1963-1983
+DOI   : https://doi.org/10.3886/icpsr09964.v1
+URL   : https://www.icpsr.umich.edu/web/NACJD/studies/9964/versions/V1
+

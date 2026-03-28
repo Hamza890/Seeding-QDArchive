@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : A low‑cost robotic oculomotor simulator for assessing eye tracking accuracy in health and disease
+DOI   : https://doi.org/10.3886/e207801
+URL   : https://www.openicpsr.org/openicpsr/project/207801/view
+
+Title : A low‑cost robotic oculomotor simulator for assessing eye tracking accuracy in health and disease
+DOI   : https://doi.org/10.3886/e207801v1
+URL   : https://www.openicpsr.org/openicpsr/project/207801/version/V1/view
+

@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Understanding Society: Waves 1-8, 2009-2017 and Harmonised BHPS: Waves 1-18, 1991-2009: Special Licence Access, Westminster Parliamentary Constituencies
+DOI   : https://doi.org/10.5255/ukda-sn-6668-10
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/6668#doi
+

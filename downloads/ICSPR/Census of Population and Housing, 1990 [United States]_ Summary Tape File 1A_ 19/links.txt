@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Census of Population and Housing, 1990 [United States]: Summary Tape File 1A: 1988 Dress Rehearsal, St. Louis City, East Central Missouri, and Eastern Washington
+DOI   : https://doi.org/10.3886/icpsr09467
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/9467
+
+Title : Census of Population and Housing, 1990 [United States]: Summary Tape File 1A: 1988 Dress Rehearsal, St. Louis City, East Central Missouri, and Eastern Washington
+DOI   : https://doi.org/10.3886/icpsr09467.v1
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/9467/versions/V1
+

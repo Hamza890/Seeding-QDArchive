@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Digital Library of Historical Directories, 1750-1919: Essex, Hertfordshire, Kent, Middlesex, Surrey and Sussex, 1905-1918
+DOI   : https://doi.org/10.5255/ukda-sn-5119-1
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/5119#doi
+

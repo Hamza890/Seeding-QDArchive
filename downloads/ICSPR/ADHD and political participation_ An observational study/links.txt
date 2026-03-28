@@ -1,0 +1,15 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : ADHD and political participation: An observational study
+DOI   : https://doi.org/10.3886/e183882
+URL   : https://www.openicpsr.org/openicpsr/project/183882/view
+
+Title : ADHD and political participation: An observational study
+DOI   : https://doi.org/10.3886/e183882v1-160081
+URL   : https://www.openicpsr.org/openicpsr/project/183882/version/V1/view?path=/openicpsr/183882/fcr:versions/V1/ADHD-and-Political-Participation-Data-File_Plos-One.zsav&type=file
+
+Title : ADHD and political participation: An observational study
+DOI   : https://doi.org/10.3886/e183882v1
+URL   : https://www.openicpsr.org/openicpsr/project/183882/version/V1/view
+

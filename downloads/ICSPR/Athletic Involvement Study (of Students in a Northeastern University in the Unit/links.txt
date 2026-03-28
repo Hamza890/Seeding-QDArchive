@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Athletic Involvement Study (of Students in a Northeastern University in the United States), 2006
+DOI   : https://doi.org/10.3886/icpsr33661
+URL   : https://www.icpsr.umich.edu/web/NAHDAP/studies/33661
+

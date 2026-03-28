@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Annual Business Survey, 2005-2022: Secure Access
+DOI   : https://doi.org/10.5255/ukda-sn-7451-18
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/7451#doi
+

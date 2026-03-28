@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Quarterly Labour Force Survey Household Dataset, September - November 1999
+DOI   : https://doi.org/10.5255/ukda-sn-4087-1
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/4087#doi
+

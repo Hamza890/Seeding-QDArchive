@@ -1,0 +1,15 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Companion Files for Uncovering MCH Disparities among MENA Women and Children in the US
+DOI   : https://doi.org/10.3886/e181841v3
+URL   : https://www.openicpsr.org/openicpsr/project/181841/version/V3/view
+
+Title : Companion Files for Uncovering MCH Disparities among MENA Women and Children in the US
+DOI   : https://doi.org/10.3886/e181841
+URL   : https://www.openicpsr.org/openicpsr/project/181841/view
+
+Title : Companion Files for Uncovering MCH Disparities among MENA Women and Children in the US
+DOI   : https://doi.org/10.3886/e181841v2
+URL   : https://www.openicpsr.org/openicpsr/project/181841/version/V2/view
+

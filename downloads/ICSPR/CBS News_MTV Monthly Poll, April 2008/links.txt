@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : CBS News/MTV Monthly Poll, April 2008
+DOI   : https://doi.org/10.3886/icpsr26147
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/26147
+
+Title : CBS News/MTV Monthly Poll, April 2008
+DOI   : https://doi.org/10.3886/icpsr26147.v1
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/26147/versions/V1
+

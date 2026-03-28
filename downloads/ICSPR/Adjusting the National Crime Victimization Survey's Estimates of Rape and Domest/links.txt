@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Adjusting the National Crime Victimization Survey's Estimates of Rape and Domestic Violence for Gag Factors, 1986-1990
+DOI   : https://doi.org/10.3886/icpsr06558
+URL   : https://www.icpsr.umich.edu/web/NACJD/studies/6558
+
+Title : Adjusting the National Crime Victimization Survey's Estimates of Rape and Domestic Violence for Gag Factors, 1986-1990
+DOI   : https://doi.org/10.3886/icpsr06558.v1
+URL   : https://www.icpsr.umich.edu/web/NACJD/studies/6558/versions/V1
+

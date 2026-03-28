@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : British Household Panel Survey Employment Histories: Waves 1-11, 1991-2002
+DOI   : https://doi.org/10.5255/ukda-sn-4705-1
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/4705#doi
+

@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Case Outcomes Following Investigative Interviews of Suspected Victims of Child Sexual Abuse in Salt Lake City and County, Utah, 1994-2000
+DOI   : https://doi.org/10.3886/icpsr27721
+URL   : http://www.icpsr.umich.edu/icpsrweb/NACJD/studies/27721
+
+Title : Case Outcomes Following Investigative Interviews of Suspected Victims of Child Sexual Abuse in Salt Lake City and County, Utah, 1994-2000
+DOI   : https://doi.org/10.3886/icpsr27721.v1
+URL   : http://www.icpsr.umich.edu/icpsrweb/NACJD/studies/27721/version/1
+

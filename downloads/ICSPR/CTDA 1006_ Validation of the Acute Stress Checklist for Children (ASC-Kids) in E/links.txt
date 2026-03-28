@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : CTDA 1006: Validation of the Acute Stress Checklist for Children (ASC-Kids) in English &amp; Spanish in Children Age 8 to 17, United States, 2007-2010
+DOI   : https://doi.org/10.3886/icpsr39036
+URL   : https://www.icpsr.umich.edu/web/DSDR/studies/39036
+
+Title : CTDA 1006: Validation of the Acute Stress Checklist for Children (ASC-Kids) in English &amp; Spanish in Children Age 8 to 17, United States, 2007-2010
+DOI   : https://doi.org/10.3886/icpsr39036.v1
+URL   : https://www.icpsr.umich.edu/web/DSDR/studies/39036/versions/V1
+

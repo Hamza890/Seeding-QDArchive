@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Understanding Society: Waves 1-8, 2009-2017: Special Licence Access, School Codes
+DOI   : https://doi.org/10.5255/ukda-sn-7182-5
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/7182#doi
+

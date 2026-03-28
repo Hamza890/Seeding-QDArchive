@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Next Steps: Sweeps 1-9, 2004-2023: Secure Access
+DOI   : https://doi.org/10.5255/ukda-sn-8656-3
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/8656#doi
+

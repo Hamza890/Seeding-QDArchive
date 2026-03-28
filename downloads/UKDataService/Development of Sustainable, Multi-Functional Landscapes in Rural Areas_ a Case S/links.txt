@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Development of Sustainable, Multi-Functional Landscapes in Rural Areas: a Case Study of a Norfolk Broads River Valley, 2010
+DOI   : https://doi.org/10.5255/ukda-sn-7054-1
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/7054#doi
+

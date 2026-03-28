@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Afrobarometer Round 4: The Quality of Democracy and Governance in Senegal, 2008
+DOI   : https://doi.org/10.3886/icpsr34010
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/34010
+
+Title : Afrobarometer Round 4: The Quality of Democracy and Governance in Senegal, 2008
+DOI   : https://doi.org/10.3886/icpsr34010.v1
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/34010/versions/V1
+

@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Behavioral Risk Factor Surveillance System (BRFSS), United States, 2017
+DOI   : https://doi.org/10.3886/icpsr37989
+URL   : https://www.icpsr.umich.edu/web/RCMD/studies/37989
+
+Title : Behavioral Risk Factor Surveillance System (BRFSS), United States, 2017
+DOI   : https://doi.org/10.3886/icpsr37989.v1
+URL   : https://www.icpsr.umich.edu/web/RCMD/studies/37989/versions/V1
+

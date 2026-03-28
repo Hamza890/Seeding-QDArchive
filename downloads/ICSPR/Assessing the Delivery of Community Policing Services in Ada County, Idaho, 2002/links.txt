@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Assessing the Delivery of Community Policing Services in Ada County, Idaho, 2002
+DOI   : https://doi.org/10.3886/icpsr04152
+URL   : https://www.icpsr.umich.edu/web/NACJD/studies/4152
+
+Title : Assessing the Delivery of Community Policing Services in Ada County, Idaho, 2002
+DOI   : https://doi.org/10.3886/icpsr04152.v1
+URL   : https://www.icpsr.umich.edu/web/NACJD/studies/4152/versions/V1
+

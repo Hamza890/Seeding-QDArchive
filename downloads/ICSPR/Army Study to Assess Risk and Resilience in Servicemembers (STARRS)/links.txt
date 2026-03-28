@@ -1,0 +1,39 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Army Study to Assess Risk and Resilience in Servicemembers (STARRS)
+DOI   : https://doi.org/10.3886/icpsr35197
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/35197
+
+Title : Army Study to Assess Risk and Resilience in Servicemembers (STARRS)
+DOI   : https://doi.org/10.3886/icpsr35197.v14
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/35197/versions/V14
+
+Title : Army Study to Assess Risk and Resilience in Servicemembers (STARRS)
+DOI   : https://doi.org/10.3886/icpsr35197.v13
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/35197/versions/V13
+
+Title : Army Study to Assess Risk and Resilience in Servicemembers (STARRS)
+DOI   : https://doi.org/10.3886/icpsr35197.v10
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/35197/versions/V10
+
+Title : Army Study to Assess Risk and Resilience in Servicemembers (STARRS)
+DOI   : https://doi.org/10.3886/icpsr35197.v7
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/35197/versions/V7
+
+Title : Army Study to Assess Risk and Resilience in Servicemembers (STARRS)
+DOI   : https://doi.org/10.3886/icpsr35197.v8
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/35197/versions/V8
+
+Title : Army Study to Assess Risk and Resilience in Servicemembers (STARRS)
+DOI   : https://doi.org/10.3886/icpsr35197.v9
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/35197/versions/V9
+
+Title : Army Study to Assess Risk and Resilience in Servicemembers (STARRS)
+DOI   : https://doi.org/10.3886/icpsr35197.v11
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/35197/versions/V11
+
+Title : Army Study to Assess Risk and Resilience in Servicemembers (STARRS)
+DOI   : https://doi.org/10.3886/icpsr35197.v12
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/35197/versions/V12
+

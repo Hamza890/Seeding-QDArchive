@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : A Defense-Adjusted National Accounting of the US Economy and its Implications, 1791-2023
+DOI   : https://doi.org/10.3886/e217062v1
+URL   : https://www.openicpsr.org/openicpsr/project/217062/version/V1/view
+
+Title : A Defense-Adjusted National Accounting of the US Economy and its Implications, 1791-2023
+DOI   : https://doi.org/10.3886/e217062
+URL   : https://www.openicpsr.org/openicpsr/project/217062/view
+

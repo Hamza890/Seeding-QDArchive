@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : British Household Panel Survey: Waves 1-13, 1991-2004: Teaching Dataset (Time Use, Leisure and Social Memberships)
+DOI   : https://doi.org/10.5255/ukda-sn-5355-2
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/5355#doi
+

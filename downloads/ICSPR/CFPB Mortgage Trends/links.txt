@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : CFPB Mortgage Trends
+DOI   : https://doi.org/10.3886/e220502v2
+URL   : https://www.datalumos.org/datalumos/project/220502/version/V2/view
+
+Title : CFPB Mortgage Trends
+DOI   : https://doi.org/10.3886/e220502
+URL   : https://www.datalumos.org/datalumos/project/220502/view
+

@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : English Longitudinal Study of Ageing COVID-19 Study, Waves 1-2, 2020: Special Licence Access
+DOI   : https://doi.org/10.5255/ukda-sn-8918-1
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/8918#doi
+

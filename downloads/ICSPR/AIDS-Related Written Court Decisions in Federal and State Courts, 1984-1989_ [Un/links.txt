@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : AIDS-Related Written Court Decisions in Federal and State Courts, 1984-1989: [United States]
+DOI   : https://doi.org/10.3886/icpsr06502
+URL   : https://www.icpsr.umich.edu/web/NACJD/studies/6502
+
+Title : AIDS-Related Written Court Decisions in Federal and State Courts, 1984-1989: [United States]
+DOI   : https://doi.org/10.3886/icpsr06502.v1
+URL   : https://www.icpsr.umich.edu/web/NACJD/studies/6502/versions/V1
+

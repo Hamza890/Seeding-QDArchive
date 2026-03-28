@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Afrobarometer Round 3: The Quality of Democracy and Governance in South Africa, 2005
+DOI   : https://doi.org/10.3886/icpsr22211
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/22211
+
+Title : Afrobarometer Round 3: The Quality of Democracy and Governance in South Africa, 2005
+DOI   : https://doi.org/10.3886/icpsr22211.v1
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/22211/versions/V1
+

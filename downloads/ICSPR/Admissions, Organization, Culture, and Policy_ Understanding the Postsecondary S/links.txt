@@ -1,0 +1,15 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Admissions, Organization, Culture, and Policy: Understanding the Postsecondary Structures that Shape Women’s Entry into Computing Bachelor’s Programs
+DOI   : https://doi.org/10.3886/e208623
+URL   : https://www.openicpsr.org/openicpsr/project/208623/view
+
+Title : Admissions, Organization, Culture, and Policy: Understanding the Postsecondary Structures that Shape Women’s Entry into Computing Bachelor’s Programs
+DOI   : https://doi.org/10.3886/e208623v2
+URL   : https://www.openicpsr.org/openicpsr/project/208623/version/V2/view
+
+Title : Admissions, Organization, Culture, and Policy: Understanding the Postsecondary Structures that Shape Women’s Entry into Computing Bachelor’s Programs
+DOI   : https://doi.org/10.3886/e208623v1
+URL   : https://www.openicpsr.org/openicpsr/project/208623/version/V1/view
+

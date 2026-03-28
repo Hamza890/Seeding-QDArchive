@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Community Health Center: Core Data Project, 2001-2002
+DOI   : https://doi.org/10.3886/icpsr21520.v1
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/21520/versions/V1
+

@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Growing Up in Scotland: Cohort 1, Primary 6 Teacher Survey, 2014-2015: Special Licence Access
+DOI   : https://doi.org/10.5255/ukda-sn-8366-1
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/8366#doi
+

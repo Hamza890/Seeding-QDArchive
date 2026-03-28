@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Adoption of Juncao Technology in the Developing Countries
+DOI   : https://doi.org/10.3886/e244821v1
+URL   : https://www.openicpsr.org/openicpsr/project/244821/version/V1/view
+
+Title : Adoption of Juncao Technology in the Developing Countries
+DOI   : https://doi.org/10.3886/e244821
+URL   : https://www.openicpsr.org/openicpsr/project/244821/view
+

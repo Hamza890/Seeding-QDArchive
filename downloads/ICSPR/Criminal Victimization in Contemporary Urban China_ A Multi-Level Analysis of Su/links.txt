@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Criminal Victimization in Contemporary Urban China: A Multi-Level Analysis of Survey Data for the City of Tianjin, 2004
+DOI   : https://doi.org/10.3886/icpsr21740
+URL   : http://www.icpsr.umich.edu/icpsrweb/ICPSR/studies/21740
+

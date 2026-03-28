@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : CBS News/New York Times Monthly Poll, June 1992
+DOI   : https://doi.org/10.3886/icpsr06079
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/6079
+
+Title : CBS News/New York Times Monthly Poll, June 1992
+DOI   : https://doi.org/10.3886/icpsr06079.v1
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/6079/versions/V1
+

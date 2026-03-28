@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Community Reporting Thresholds: Sharing Information with Authorities Concerning Terrorism and Targeted Violence, California and Illinois, 2021
+DOI   : https://doi.org/10.3886/icpsr38318
+URL   : https://www.icpsr.umich.edu/web/NACJD/studies/38318
+
+Title : Community Reporting Thresholds: Sharing Information with Authorities Concerning Terrorism and Targeted Violence, California and Illinois, 2021
+DOI   : https://doi.org/10.3886/icpsr38318.v1
+URL   : https://www.icpsr.umich.edu/web/NACJD/studies/38318/versions/V1
+

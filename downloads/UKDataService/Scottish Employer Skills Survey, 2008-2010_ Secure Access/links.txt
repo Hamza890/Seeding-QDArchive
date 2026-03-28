@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Scottish Employer Skills Survey, 2008-2010: Secure Access
+DOI   : https://doi.org/10.5255/ukda-sn-6857-2
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/6857#doi
+

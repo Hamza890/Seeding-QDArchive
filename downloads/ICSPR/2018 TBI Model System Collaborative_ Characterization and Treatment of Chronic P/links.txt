@@ -1,0 +1,15 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : 2018 TBI Model System Collaborative: Characterization and Treatment of Chronic Pain after Moderate to Severe Traumatic Brain Injury
+DOI   : https://doi.org/10.3886/e193506
+URL   : https://www.openicpsr.org/openicpsr/project/193506/view
+
+Title : 2018 TBI Model System Collaborative: Characterization and Treatment of Chronic Pain after Moderate to Severe Traumatic Brain Injury
+DOI   : https://doi.org/10.3886/e193506v1-164741
+URL   : https://www.openicpsr.org/openicpsr/project/193506/version/V1/view?path=/openicpsr/193506/fcr:versions/V1/ICPSR-Archive/Chronic-Pain-Dataset/Pain.csv&type=file
+
+Title : 2018 TBI Model System Collaborative: Characterization and Treatment of Chronic Pain after Moderate to Severe Traumatic Brain Injury
+DOI   : https://doi.org/10.3886/e193506v1
+URL   : https://www.openicpsr.org/openicpsr/project/193506/version/V1/view
+

@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Assessment of Crossover Youth in Maryland, 1989-2014
+DOI   : https://doi.org/10.3886/icpsr35253.v1
+URL   : http://www.icpsr.umich.edu/icpsrweb/NACJD/studies/35253/version/1
+
+Title : Assessment of Crossover Youth in Maryland, 1989-2014
+DOI   : https://doi.org/10.3886/icpsr35253
+URL   : http://www.icpsr.umich.edu/icpsrweb/NACJD/studies/35253
+

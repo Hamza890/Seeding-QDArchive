@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : A Roadmap to Evidence-Based School Safety: Safe Communities Safe Schools, Colorado, 2016-2020
+DOI   : https://doi.org/10.3886/icpsr37913
+URL   : https://www.icpsr.umich.edu/web/NACJD/studies/37913
+
+Title : A Roadmap to Evidence-Based School Safety: Safe Communities Safe Schools, Colorado, 2016-2020
+DOI   : https://doi.org/10.3886/icpsr37913.v1
+URL   : https://www.icpsr.umich.edu/web/NACJD/studies/37913/versions/V1
+

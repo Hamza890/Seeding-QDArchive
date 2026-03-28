@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : CTDA 1010: Posttraumatic Stress in Children Age 6 to 16 Hospitalized for Accident-Related Injury and Their Parents, Australia, 2000-2004
+DOI   : https://doi.org/10.3886/icpsr39198
+URL   : https://www.icpsr.umich.edu/web/DSDR/studies/39198
+

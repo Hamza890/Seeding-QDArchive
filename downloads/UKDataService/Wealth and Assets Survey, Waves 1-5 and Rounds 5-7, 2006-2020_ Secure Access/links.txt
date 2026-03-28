@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Wealth and Assets Survey, Waves 1-5 and Rounds 5-7, 2006-2020: Secure Access
+DOI   : https://doi.org/10.5255/ukda-sn-6709-8
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/6709#doi
+

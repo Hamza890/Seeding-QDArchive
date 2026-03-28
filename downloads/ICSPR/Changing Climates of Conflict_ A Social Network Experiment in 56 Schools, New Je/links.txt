@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Changing Climates of Conflict: A Social Network Experiment in 56 Schools, New Jersey, 2012-2013
+DOI   : https://doi.org/10.3886/icpsr37070
+URL   : https://www.icpsr.umich.edu/web/civicleads/studies/37070
+

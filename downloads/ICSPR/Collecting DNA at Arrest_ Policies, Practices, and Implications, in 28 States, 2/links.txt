@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Collecting DNA at Arrest: Policies, Practices, and Implications, in 28 States, 2005-2012
+DOI   : https://doi.org/10.3886/icpsr34682
+URL   : http://www.icpsr.umich.edu/icpsrweb/NACJD/studies/34682
+
+Title : Collecting DNA at Arrest: Policies, Practices, and Implications, in 28 States, 2005-2012
+DOI   : https://doi.org/10.3886/icpsr34682.v1
+URL   : http://www.icpsr.umich.edu/icpsrweb/NACJD/studies/34682/version/1
+

@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Misophonia in the UK: Prevalence and Norms for the S-Five in a UK Representative Sample, 2020-2022
+DOI   : https://doi.org/10.5255/ukda-sn-856149
+URL   : http://reshare.ukdataservice.ac.uk/id/eprint/856149
+

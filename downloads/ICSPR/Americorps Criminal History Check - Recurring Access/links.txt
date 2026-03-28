@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Americorps Criminal History Check - Recurring Access
+DOI   : https://doi.org/10.3886/e221706v2
+URL   : https://www.datalumos.org/datalumos/project/221706/version/V2/view
+
+Title : Americorps Criminal History Check - Recurring Access
+DOI   : https://doi.org/10.3886/e221706
+URL   : https://www.datalumos.org/datalumos/project/221706/view
+

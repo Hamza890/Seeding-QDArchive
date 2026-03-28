@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Cross-age Peer Mentoring to Enhance Resilience Among Low-Income Urban Youth Living in High Violence Chicago Communities, 2014-2019
+DOI   : https://doi.org/10.3886/icpsr37494
+URL   : https://www.icpsr.umich.edu/web/NACJD/studies/37494
+
+Title : Cross-age Peer Mentoring to Enhance Resilience Among Low-Income Urban Youth Living in High Violence Chicago Communities, 2014-2019
+DOI   : https://doi.org/10.3886/icpsr37494.v1
+URL   : https://www.icpsr.umich.edu/web/NACJD/studies/37494/versions/V1
+

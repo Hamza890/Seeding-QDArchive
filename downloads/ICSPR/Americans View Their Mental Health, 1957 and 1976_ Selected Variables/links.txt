@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Americans View Their Mental Health, 1957 and 1976: Selected Variables
+DOI   : https://doi.org/10.3886/icpsr07949
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/7949
+
+Title : Americans View Their Mental Health, 1957 and 1976: Selected Variables
+DOI   : https://doi.org/10.3886/icpsr07949.v1
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/7949/versions/V1
+

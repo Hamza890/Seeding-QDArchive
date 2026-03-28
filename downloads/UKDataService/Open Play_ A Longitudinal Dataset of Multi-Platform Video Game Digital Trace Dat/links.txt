@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Open Play: A Longitudinal Dataset of Multi-Platform Video Game Digital Trace Data and Psychological Measures, 2022-2025
+DOI   : https://doi.org/10.5255/ukda-sn-858275
+URL   : http://reshare.ukdataservice.ac.uk/id/eprint/858275
+

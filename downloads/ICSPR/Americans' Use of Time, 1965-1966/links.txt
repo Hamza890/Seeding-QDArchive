@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Americans' Use of Time, 1965-1966
+DOI   : https://doi.org/10.3886/icpsr07254
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/7254
+
+Title : Americans' Use of Time, 1965-1966
+DOI   : https://doi.org/10.3886/icpsr07254.v1
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/7254/versions/V1
+

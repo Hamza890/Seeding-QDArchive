@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Transcribed Historic Data from the Last Recorded Smallpox Outbreaks in Somalia, 1976-1977
+DOI   : https://doi.org/10.5255/ukda-sn-857734
+URL   : http://reshare.ukdataservice.ac.uk/id/eprint/857734
+

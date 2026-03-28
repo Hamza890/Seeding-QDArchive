@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Towards Better Sexual Health: a Survey of Sexual Attitudes and Lifestyles of Young People in Northern Ireland, 2000-2002
+DOI   : https://doi.org/10.5255/ukda-sn-6145-1
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/6145#doi
+

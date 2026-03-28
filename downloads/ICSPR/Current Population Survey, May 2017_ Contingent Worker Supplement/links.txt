@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Current Population Survey, May 2017: Contingent Worker Supplement
+DOI   : https://doi.org/10.3886/icpsr37191
+URL   : https://www.icpsr.umich.edu/web/NADAC/studies/37191
+

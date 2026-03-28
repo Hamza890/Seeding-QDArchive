@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : CBS News New Hampshire Primary Poll #2, January 2000
+DOI   : https://doi.org/10.3886/icpsr02923
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/2923
+
+Title : CBS News New Hampshire Primary Poll #2, January 2000
+DOI   : https://doi.org/10.3886/icpsr02923.v3
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/2923/versions/V3
+

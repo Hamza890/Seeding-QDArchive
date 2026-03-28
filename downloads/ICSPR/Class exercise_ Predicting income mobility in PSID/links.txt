@@ -1,0 +1,19 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Class exercise: Predicting income mobility in PSID
+DOI   : https://doi.org/10.3886/e185941v2
+URL   : https://www.icpsr.umich.edu/sites/psid/view/studies/185941/versions/V2.1
+
+Title : Class exercise: Predicting income mobility in PSID
+DOI   : https://doi.org/10.3886/e185941
+URL   : https://www.icpsr.umich.edu/sites/psid/view/studies/185941
+
+Title : Class exercise: Predicting income mobility in PSID
+DOI   : https://doi.org/10.3886/e185941v2-198342
+URL   : https://www.openicpsr.org/openicpsr/project/185941/version/V2/view?path=/openicpsr/185941/fcr:versions/V2/for_students.zip&type=file
+
+Title : Class exercise: Predicting income mobility in PSID
+DOI   : https://doi.org/10.3886/e185941v1
+URL   : https://www.icpsr.umich.edu/sites/psid/view/studies/185941/versions/V1.0
+

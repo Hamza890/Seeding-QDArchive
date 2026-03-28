@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : American Time Use Survey (ATUS): CATI Paradata, 2010
+DOI   : https://doi.org/10.3886/icpsr37318.v1
+URL   : https://www.icpsr.umich.edu/icpsrweb/ICPSR/studies/37318/versions/V1
+
+Title : American Time Use Survey (ATUS): CATI Paradata, 2010
+DOI   : https://doi.org/10.3886/icpsr37318
+URL   : https://www.icpsr.umich.edu/icpsrweb/ICPSR/studies/37318
+

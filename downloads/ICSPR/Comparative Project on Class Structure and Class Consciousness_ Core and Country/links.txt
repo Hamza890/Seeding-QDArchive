@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Comparative Project on Class Structure and Class Consciousness: Core and Country-Specific Files
+DOI   : https://doi.org/10.3886/icpsr09323
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/9323
+
+Title : Comparative Project on Class Structure and Class Consciousness: Core and Country-Specific Files
+DOI   : https://doi.org/10.3886/icpsr09323.v1
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/9323/versions/V1
+

@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : American Symphony Orchestra Repertoires 1842-1970 [United States]
+DOI   : https://doi.org/10.3886/icpsr35235
+URL   : https://www.icpsr.umich.edu/web/NADAC/studies/35235
+
+Title : American Symphony Orchestra Repertoires 1842-1970 [United States]
+DOI   : https://doi.org/10.3886/icpsr35235.v1
+URL   : https://www.icpsr.umich.edu/web/NADAC/studies/35235/versions/V1
+

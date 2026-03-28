@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Components Study of Relationship Education and Leadership Essentials Data, United States, 2022-2023
+DOI   : https://doi.org/10.3886/icpsr39494
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/39494
+
+Title : Components Study of Relationship Education and Leadership Essentials Data, United States, 2022-2023
+DOI   : https://doi.org/10.3886/icpsr39494.v1
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/39494/versions/V1
+

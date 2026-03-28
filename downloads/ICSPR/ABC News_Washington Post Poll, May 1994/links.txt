@@ -1,0 +1,15 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : ABC News/Washington Post Poll, May 1994
+DOI   : https://doi.org/10.3886/icpsr06625
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/6625
+
+Title : ABC News/Washington Post Poll, May 1994
+DOI   : https://doi.org/10.3886/icpsr06625.v2
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/6625/versions/V2
+
+Title : ABC News/Washington Post Poll, May 1994
+DOI   : https://doi.org/10.3886/icpsr06625.v1
+URL   : http://www.icpsr.umich.edu/icpsrweb/ICPSR/studies/6625/version/1
+

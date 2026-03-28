@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Art Museum Black Trustee Survey, Canada, Mexico, United States, 2022
+DOI   : https://doi.org/10.3886/icpsr39106
+URL   : https://www.icpsr.umich.edu/web/NADAC/studies/39106
+
+Title : Art Museum Black Trustee Survey, Canada, Mexico, United States, 2022
+DOI   : https://doi.org/10.3886/icpsr39106.v1
+URL   : https://www.icpsr.umich.edu/web/NADAC/studies/39106/versions/V1
+

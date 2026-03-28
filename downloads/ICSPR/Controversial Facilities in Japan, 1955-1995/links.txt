@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Controversial Facilities in Japan, 1955-1995
+DOI   : https://doi.org/10.3886/icpsr04725
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/4725
+
+Title : Controversial Facilities in Japan, 1955-1995
+DOI   : https://doi.org/10.3886/icpsr04725.v1
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/4725/versions/V1
+

@@ -1,0 +1,15 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : College and Beyond II (CBII) Administrative Data, [United States], 2000-2021
+DOI   : https://doi.org/10.3886/icpsr38488
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/38488
+
+Title : College and Beyond II (CBII) Administrative Data, [United States], 2000-2021
+DOI   : https://doi.org/10.3886/icpsr38488.v2
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/38488/versions/V2
+
+Title : College and Beyond II (CBII) Administrative Data, [United States], 2000-2021
+DOI   : https://doi.org/10.3886/icpsr38488.v1
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/38488/versions/V1
+

@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Acculturation of International Students: Perceptions of the Role of International Students’ Engagement in Higher Education Institutions
+DOI   : https://doi.org/10.3886/e230262
+URL   : https://www.openicpsr.org/openicpsr/project/230262/view
+
+Title : Acculturation of International Students: Perceptions of the Role of International Students’ Engagement in Higher Education Institutions
+DOI   : https://doi.org/10.3886/e230262v1
+URL   : https://www.openicpsr.org/openicpsr/project/230262/version/V1/view
+

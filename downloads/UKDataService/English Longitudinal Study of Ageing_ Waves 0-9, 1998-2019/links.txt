@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : English Longitudinal Study of Ageing: Waves 0-9, 1998-2019
+DOI   : https://doi.org/10.5255/ukda-sn-5050-18
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/5050#doi
+

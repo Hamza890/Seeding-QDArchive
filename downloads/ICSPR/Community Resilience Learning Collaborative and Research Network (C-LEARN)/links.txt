@@ -1,0 +1,31 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Community Resilience Learning Collaborative and Research Network (C-LEARN)
+DOI   : https://doi.org/10.3886/e130842v1-149561
+URL   : https://www.openicpsr.org/openicpsr/project/130842/version/V1/view?path=/openicpsr/130842/fcr:versions/V1/C-LEARN-Part-3/C-LEARN-Part-3-Redacted-Transcripts.zip&type=file
+
+Title : Community Resilience Learning Collaborative and Research Network (C-LEARN)
+DOI   : https://doi.org/10.3886/e130842v1-114600
+URL   : https://www.openicpsr.org/openicpsr/project/130842/version/V1/view?path=/openicpsr/130842/fcr:versions/V1/C-LEARN-Part-1/Read-me--CLEARN-Part-1-.txt&type=file
+
+Title : Community Resilience Learning Collaborative and Research Network (C-LEARN)
+DOI   : https://doi.org/10.3886/e130842v1-92100
+URL   : https://www.openicpsr.org/openicpsr/project/130842/version/V1/view?path=/openicpsr/130842/fcr:versions/V1/C-LEARN-Part-3/C-LEARN-Part-3-COVID-Rapid-Assessment---Code-List.xlsx&type=file
+
+Title : Community Resilience Learning Collaborative and Research Network (C-LEARN)
+DOI   : https://doi.org/10.3886/e130842v1-79141
+URL   : https://www.openicpsr.org/openicpsr/project/130842/version/V1/view?path=/openicpsr/130842/fcr:versions/V1/C-LEARN-Part-1&type=folder
+
+Title : Community Resilience Learning Collaborative and Research Network (C-LEARN)
+DOI   : https://doi.org/10.3886/e130842v1-79140
+URL   : https://www.openicpsr.org/openicpsr/project/130842/version/V1/view?path=/openicpsr/130842/fcr:versions/V1/C-LEARN-Part-3&type=folder
+
+Title : Community Resilience Learning Collaborative and Research Network (C-LEARN)
+DOI   : https://doi.org/10.3886/e130842v1
+URL   : https://www.openicpsr.org/openicpsr/project/130842/version/V1/view
+
+Title : Community Resilience Learning Collaborative and Research Network (C-LEARN)
+DOI   : https://doi.org/10.3886/e130842
+URL   : https://www.openicpsr.org/openicpsr/project/130842/view
+

@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : British Oral Archive of Political and Administrative History, 1920-1980
+DOI   : https://doi.org/10.5255/ukda-sn-5252-1
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/5252#doi
+

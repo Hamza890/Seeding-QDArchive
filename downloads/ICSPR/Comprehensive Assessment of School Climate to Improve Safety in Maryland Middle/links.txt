@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Comprehensive Assessment of School Climate to Improve Safety in Maryland Middle Schools, 2015-2018
+DOI   : https://doi.org/10.3886/icpsr37488
+URL   : https://www.icpsr.umich.edu/web/NACJD/studies/37488
+
+Title : Comprehensive Assessment of School Climate to Improve Safety in Maryland Middle Schools, 2015-2018
+DOI   : https://doi.org/10.3886/icpsr37488.v1
+URL   : https://www.icpsr.umich.edu/web/NACJD/studies/37488/versions/V1
+

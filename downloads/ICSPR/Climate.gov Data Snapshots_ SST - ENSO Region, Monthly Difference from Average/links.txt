@@ -1,0 +1,15 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Climate.gov Data Snapshots: SST - ENSO Region, Monthly Difference from Average
+DOI   : https://doi.org/10.3886/e233228v2
+URL   : https://www.datalumos.org/datalumos/project/233228/version/V2/view
+
+Title : Climate.gov Data Snapshots: SST - ENSO Region, Monthly Difference from Average
+DOI   : https://doi.org/10.3886/e233228
+URL   : https://www.datalumos.org/datalumos/project/233228/view
+
+Title : Climate.gov Data Snapshots: SST - ENSO Region, Monthly Difference from Average
+DOI   : https://doi.org/10.3886/e233228v1
+URL   : https://www.datalumos.org/datalumos/project/233228/version/V1/view
+

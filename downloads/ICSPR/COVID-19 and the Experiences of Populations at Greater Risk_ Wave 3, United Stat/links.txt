@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : COVID-19 and the Experiences of Populations at Greater Risk: Wave 3, United States, 2020-2021
+DOI   : https://doi.org/10.3886/icpsr38734
+URL   : https://www.icpsr.umich.edu/web/HMCA/studies/38734
+
+Title : COVID-19 and the Experiences of Populations at Greater Risk: Wave 3, United States, 2020-2021
+DOI   : https://doi.org/10.3886/icpsr38734.v1
+URL   : https://www.icpsr.umich.edu/web/HMCA/studies/38734/versions/V1
+

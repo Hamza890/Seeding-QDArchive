@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : AHRQ Social Determinants of Health Database (Beta Version) - Archived
+DOI   : https://doi.org/10.3886/e220327v2
+URL   : https://www.datalumos.org/datalumos/project/220327/version/V2/view
+
+Title : AHRQ Social Determinants of Health Database (Beta Version) - Archived
+DOI   : https://doi.org/10.3886/e220327
+URL   : https://www.datalumos.org/datalumos/project/220327/view
+

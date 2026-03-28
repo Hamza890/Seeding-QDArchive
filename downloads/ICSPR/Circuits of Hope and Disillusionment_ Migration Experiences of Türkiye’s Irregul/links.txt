@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Circuits of Hope and Disillusionment: Migration Experiences of Türkiye’s Irregular Migrants to EU
+DOI   : https://doi.org/10.3886/e235021v1
+URL   : https://www.openicpsr.org/openicpsr/project/235021/version/V1/view
+
+Title : Circuits of Hope and Disillusionment: Migration Experiences of Türkiye’s Irregular Migrants to EU
+DOI   : https://doi.org/10.3886/e235021
+URL   : https://www.openicpsr.org/openicpsr/project/235021/view
+

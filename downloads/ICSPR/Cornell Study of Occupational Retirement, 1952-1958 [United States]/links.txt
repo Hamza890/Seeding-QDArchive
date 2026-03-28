@@ -1,0 +1,15 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Cornell Study of Occupational Retirement, 1952-1958 [United States]
+DOI   : https://doi.org/10.3886/icpsr29223.v2
+URL   : http://www.icpsr.umich.edu/icpsrweb/NACDA/studies/29223/version/2
+
+Title : Cornell Study of Occupational Retirement, 1952-1958 [United States]
+DOI   : https://doi.org/10.3886/icpsr29223
+URL   : http://www.icpsr.umich.edu/icpsrweb/NACDA/studies/29223
+
+Title : Cornell Study of Occupational Retirement, 1952-1958 [United States]
+DOI   : https://doi.org/10.3886/icpsr29223.v1
+URL   : http://www.icpsr.umich.edu/icpsrweb/NACDA/studies/29223/version/1
+

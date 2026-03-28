@@ -1,0 +1,19 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Analysis of Social Media Discourse and Life Cycle Evolution
+DOI   : https://doi.org/10.3886/e132341v1-118020
+URL   : https://www.openicpsr.org/openicpsr/project/132341/version/V1/view?path=/openicpsr/132341/fcr:versions/V1/Twitter-July-November.xlsx&type=file
+
+Title : Analysis of Social Media Discourse and Life Cycle Evolution
+DOI   : https://doi.org/10.3886/e132341v1-81401
+URL   : https://www.openicpsr.org/openicpsr/project/132341/version/V1/view?path=/openicpsr/132341/fcr:versions/V1/Weibo-July-November.xlsx&type=file
+
+Title : Analysis of Social Media Discourse and Life Cycle Evolution
+DOI   : https://doi.org/10.3886/e132341v1
+URL   : https://www.openicpsr.org/openicpsr/project/132341/version/V1/view
+
+Title : Analysis of Social Media Discourse and Life Cycle Evolution
+DOI   : https://doi.org/10.3886/e132341
+URL   : https://www.openicpsr.org/openicpsr/project/132341/view
+

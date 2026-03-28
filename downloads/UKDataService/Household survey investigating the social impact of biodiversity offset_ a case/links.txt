@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Household survey investigating the social impact of biodiversity offset: a case study from Madagascar
+DOI   : https://doi.org/10.5255/ukda-sn-852341
+URL   : http://reshare.ukdataservice.ac.uk/id/eprint/852341
+

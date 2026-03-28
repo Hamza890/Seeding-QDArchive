@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : A Process &amp; Impact Evaluation of the Veterans Moving Forward: Best Practices, Outcomes, and Cost-Effectiveness, United States, 2015-2016
+DOI   : https://doi.org/10.3886/icpsr37192
+URL   : https://www.icpsr.umich.edu/web/NACJD/studies/37192
+
+Title : A Process &amp; Impact Evaluation of the Veterans Moving Forward: Best Practices, Outcomes, and Cost-Effectiveness, United States, 2015-2016
+DOI   : https://doi.org/10.3886/icpsr37192.v1
+URL   : https://www.icpsr.umich.edu/web/NACJD/studies/37192/versions/V1
+

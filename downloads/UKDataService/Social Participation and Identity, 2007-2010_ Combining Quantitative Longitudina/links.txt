@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Social Participation and Identity, 2007-2010: Combining Quantitative Longitudinal Data with a Qualitative Investigation of a Sub-Sample of the 1958 National Child Development Study
+DOI   : https://doi.org/10.5255/ukda-sn-6691-1
+URL   : http://discover.ukdataservice.ac.uk/doi/?sn=6691#
+

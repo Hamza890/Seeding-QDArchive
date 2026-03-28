@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Entering e-Society: Young Children's Development of e-Literacies, 2005
+DOI   : https://doi.org/10.5255/ukda-sn-5698-1
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/5698#doi
+

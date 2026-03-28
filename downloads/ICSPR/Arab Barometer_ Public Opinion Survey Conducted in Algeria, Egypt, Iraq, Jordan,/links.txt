@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Arab Barometer: Public Opinion Survey Conducted in Algeria, Egypt, Iraq, Jordan, Kuwait, Lebanon, Libya, Morocco, Palestine, Sudan, Tunisia, and Yemen, 2012-2014
+DOI   : https://doi.org/10.3886/icpsr36273
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/36273
+
+Title : Arab Barometer: Public Opinion Survey Conducted in Algeria, Egypt, Iraq, Jordan, Kuwait, Lebanon, Libya, Morocco, Palestine, Sudan, Tunisia, and Yemen, 2012-2014
+DOI   : https://doi.org/10.3886/icpsr36273.v1
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/36273/versions/V1
+

@@ -1,0 +1,15 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : 2019 New Markets Tax Credit (NMTC) Public Data Release COMMUNITY DEVELOPMENT FINANCIAL INSTITUTIONS FUND
+DOI   : https://doi.org/10.3886/e225661v2
+URL   : https://www.datalumos.org/datalumos/project/225661/version/V2/view
+
+Title : 2019 New Markets Tax Credit (NMTC) Public Data Release COMMUNITY DEVELOPMENT FINANCIAL INSTITUTIONS FUND
+DOI   : https://doi.org/10.3886/e225661
+URL   : https://www.datalumos.org/datalumos/project/225661/view
+
+Title : 2019 New Markets Tax Credit (NMTC) Public Data Release COMMUNITY DEVELOPMENT FINANCIAL INSTITUTIONS FUND
+DOI   : https://doi.org/10.3886/e225661v1
+URL   : https://www.datalumos.org/datalumos/project/225661/version/V1/view
+

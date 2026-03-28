@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Labor Provisions in Trade Agreements (LABPTA) Codebook and Coding, 1990-2015
+DOI   : https://doi.org/10.5255/ukda-sn-855014
+URL   : http://reshare.ukdataservice.ac.uk/id/eprint/855014
+

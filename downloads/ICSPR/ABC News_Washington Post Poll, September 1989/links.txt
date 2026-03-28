@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : ABC News/Washington Post Poll, September 1989
+DOI   : https://doi.org/10.3886/icpsr09356
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/9356
+
+Title : ABC News/Washington Post Poll, September 1989
+DOI   : https://doi.org/10.3886/icpsr09356.v1
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/9356/versions/V1
+

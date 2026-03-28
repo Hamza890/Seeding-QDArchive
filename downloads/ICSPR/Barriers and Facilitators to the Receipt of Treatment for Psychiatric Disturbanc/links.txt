@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Barriers and Facilitators to the Receipt of Treatment for Psychiatric Disturbances following Traumatic Brain Injury, United States, 2015-2016
+DOI   : https://doi.org/10.3886/icpsr38039
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/38039
+
+Title : Barriers and Facilitators to the Receipt of Treatment for Psychiatric Disturbances following Traumatic Brain Injury, United States, 2015-2016
+DOI   : https://doi.org/10.3886/icpsr38039.v1
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/38039/versions/V1
+

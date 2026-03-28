@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : CDFI/NACA FA and CDFI RRP Program Award Recipients: A Snapshot of FY 2022 Reported Activities
+DOI   : https://doi.org/10.3886/e224342v2
+URL   : https://www.datalumos.org/datalumos/project/224342/version/V2/view
+
+Title : CDFI/NACA FA and CDFI RRP Program Award Recipients: A Snapshot of FY 2022 Reported Activities
+DOI   : https://doi.org/10.3886/e224342
+URL   : https://www.datalumos.org/datalumos/project/224342/view
+

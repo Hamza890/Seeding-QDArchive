@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Brooklyn Museum Art Controversy Survey 1999 [United States]
+DOI   : https://doi.org/10.3886/icpsr35236
+URL   : https://www.icpsr.umich.edu/web/NADAC/studies/35236
+

@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : CBS News Monthly Poll, February 2004
+DOI   : https://doi.org/10.3886/icpsr04013
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/4013
+
+Title : CBS News Monthly Poll, February 2004
+DOI   : https://doi.org/10.3886/icpsr04013.v3
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/4013/versions/V3
+

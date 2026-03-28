@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Cross-National Comparison of Interagency Coordination Between Law Enforcement and Public Health
+DOI   : https://doi.org/10.3886/icpsr29522
+URL   : http://www.icpsr.umich.edu/icpsrweb/NACJD/studies/29522
+

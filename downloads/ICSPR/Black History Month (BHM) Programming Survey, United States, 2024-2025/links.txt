@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Black History Month (BHM) Programming Survey, United States, 2024-2025
+DOI   : https://doi.org/10.3886/icpsr39671.v1
+URL   : https://www.icpsr.umich.edu/web/RCMD/studies/39671/versions/V1
+
+Title : Black History Month (BHM) Programming Survey, United States, 2024-2025
+DOI   : https://doi.org/10.3886/icpsr39671
+URL   : https://www.icpsr.umich.edu/web/RCMD/studies/39671
+

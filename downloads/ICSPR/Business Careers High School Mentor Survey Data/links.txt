@@ -1,0 +1,15 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Business Careers High School Mentor Survey Data
+DOI   : https://doi.org/10.3886/e188321
+URL   : https://www.openicpsr.org/openicpsr/project/188321/view
+
+Title : Business Careers High School Mentor Survey Data
+DOI   : https://doi.org/10.3886/e188321v2-157861
+URL   : https://www.openicpsr.org/openicpsr/project/188321/version/V2/view?path=/openicpsr/188321/fcr:versions/V2/Data_All_180826--1-.docx&type=file
+
+Title : Business Careers High School Mentor Survey Data
+DOI   : https://doi.org/10.3886/e188321v2
+URL   : https://www.openicpsr.org/openicpsr/project/188321/version/V2/view
+

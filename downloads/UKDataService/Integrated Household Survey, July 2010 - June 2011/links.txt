@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Integrated Household Survey, July 2010 - June 2011
+DOI   : https://doi.org/10.5255/ukda-sn-6954-2
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/6954#doi
+

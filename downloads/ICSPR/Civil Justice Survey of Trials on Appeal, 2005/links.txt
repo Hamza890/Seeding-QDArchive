@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Civil Justice Survey of Trials on Appeal, 2005
+DOI   : https://doi.org/10.3886/icpsr32501
+URL   : https://www.icpsr.umich.edu/web/NACJD/studies/32501
+

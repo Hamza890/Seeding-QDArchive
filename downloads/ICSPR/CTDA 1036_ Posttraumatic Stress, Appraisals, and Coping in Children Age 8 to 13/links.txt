@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : CTDA 1036: Posttraumatic Stress, Appraisals, and Coping in Children Age 8 to 13 Hospitalized for Injury and Their Parents, United States, 2012-2015
+DOI   : https://doi.org/10.3886/icpsr39433
+URL   : https://www.icpsr.umich.edu/web/DSDR/studies/39433
+
+Title : CTDA 1036: Posttraumatic Stress, Appraisals, and Coping in Children Age 8 to 13 Hospitalized for Injury and Their Parents, United States, 2012-2015
+DOI   : https://doi.org/10.3886/icpsr39433.v1
+URL   : https://www.icpsr.umich.edu/web/DSDR/studies/39433/versions/V1
+

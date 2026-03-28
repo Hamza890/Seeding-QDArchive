@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : ONS Opinions and Lifestyle Survey, Covid-19 Module, 2020-2022: Secure Access
+DOI   : https://doi.org/10.5255/ukda-sn-8635-6
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/8635#doi
+

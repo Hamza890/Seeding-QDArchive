@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : ABC News/Washington Post Monthly Poll #1, January 2006
+DOI   : https://doi.org/10.3886/icpsr04654
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/4654
+
+Title : ABC News/Washington Post Monthly Poll #1, January 2006
+DOI   : https://doi.org/10.3886/icpsr04654.v1
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/4654/versions/V1
+

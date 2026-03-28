@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : A Place In Time: Colonial Middlesex County, VA, 1650-1750
+DOI   : https://doi.org/10.3886/icpsr35057
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/35057
+
+Title : A Place In Time: Colonial Middlesex County, VA, 1650-1750
+DOI   : https://doi.org/10.3886/icpsr35057.v1
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/35057/versions/V1
+

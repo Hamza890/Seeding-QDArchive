@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Assessing the Efficacy of Treatment Modalities in the Context of Adult Drug Courts in Four Jurisdictions in the United States, 1997-2002
+DOI   : https://doi.org/10.3886/icpsr03922
+URL   : https://www.icpsr.umich.edu/web/NACJD/studies/3922
+
+Title : Assessing the Efficacy of Treatment Modalities in the Context of Adult Drug Courts in Four Jurisdictions in the United States, 1997-2002
+DOI   : https://doi.org/10.3886/icpsr03922.v1
+URL   : https://www.icpsr.umich.edu/web/NACJD/studies/3922/versions/V1
+

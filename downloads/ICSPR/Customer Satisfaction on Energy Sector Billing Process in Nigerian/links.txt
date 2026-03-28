@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Customer Satisfaction on Energy Sector Billing Process in Nigerian
+DOI   : https://doi.org/10.3886/e194922v1
+URL   : https://www.openicpsr.org/openicpsr/project/194922/version/V1/view
+
+Title : Customer Satisfaction on Energy Sector Billing Process in Nigerian
+DOI   : https://doi.org/10.3886/e194922
+URL   : https://www.openicpsr.org/openicpsr/project/194922/view
+

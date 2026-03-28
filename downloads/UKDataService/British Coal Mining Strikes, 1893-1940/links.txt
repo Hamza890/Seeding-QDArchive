@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : British Coal Mining Strikes, 1893-1940
+DOI   : https://doi.org/10.5255/ukda-sn-3899-1
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/3899#doi
+

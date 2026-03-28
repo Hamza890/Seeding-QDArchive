@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Addressing Health Pensions Database, 1860-1908
+DOI   : https://doi.org/10.5255/ukda-sn-9325-1
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/9325#doi
+

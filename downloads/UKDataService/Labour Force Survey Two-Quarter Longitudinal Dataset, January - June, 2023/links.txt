@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Labour Force Survey Two-Quarter Longitudinal Dataset, January - June, 2023
+DOI   : https://doi.org/10.5255/ukda-sn-9132-2
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/9132#doi
+

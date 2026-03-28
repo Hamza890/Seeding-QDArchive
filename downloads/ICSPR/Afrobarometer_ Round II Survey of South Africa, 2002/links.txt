@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Afrobarometer: Round II Survey of South Africa, 2002
+DOI   : https://doi.org/10.3886/icpsr04236
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/4236
+
+Title : Afrobarometer: Round II Survey of South Africa, 2002
+DOI   : https://doi.org/10.3886/icpsr04236.v2
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/4236/versions/V2
+

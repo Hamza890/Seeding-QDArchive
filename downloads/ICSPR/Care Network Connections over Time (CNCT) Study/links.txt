@@ -1,0 +1,19 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Care Network Connections over Time (CNCT) Study
+DOI   : https://doi.org/10.3886/e240866v1-193482
+URL   : https://www.openicpsr.org/openicpsr/project/240866/version/V1/view?path=/openicpsr/240866/fcr:versions/V1/Wave-1/CNCT-CODEBOOK-Wave1-Respondent-Level.docx&type=file
+
+Title : Care Network Connections over Time (CNCT) Study
+DOI   : https://doi.org/10.3886/e240866v1-193481
+URL   : https://www.openicpsr.org/openicpsr/project/240866/version/V1/view?path=/openicpsr/240866/fcr:versions/V1/Wave-1/CNCT-CODEBOOK-Wave1-Alter-Level.docx&type=file
+
+Title : Care Network Connections over Time (CNCT) Study
+DOI   : https://doi.org/10.3886/e240866v1
+URL   : https://www.openicpsr.org/openicpsr/project/240866/version/V1/view
+
+Title : Care Network Connections over Time (CNCT) Study
+DOI   : https://doi.org/10.3886/e240866
+URL   : https://www.openicpsr.org/openicpsr/project/240866/view
+

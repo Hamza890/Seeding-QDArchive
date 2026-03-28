@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Teaching Adults With Learning Disabilities To Use Virtual Environments : Observational Data, 2000
+DOI   : https://doi.org/10.5255/ukda-sn-4403-1
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/4403#doi
+

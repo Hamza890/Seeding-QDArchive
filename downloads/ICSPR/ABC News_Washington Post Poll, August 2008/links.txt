@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : ABC News/Washington Post Poll, August 2008
+DOI   : https://doi.org/10.3886/icpsr27324
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/27324
+
+Title : ABC News/Washington Post Poll, August 2008
+DOI   : https://doi.org/10.3886/icpsr27324.v1
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/27324/versions/V1
+

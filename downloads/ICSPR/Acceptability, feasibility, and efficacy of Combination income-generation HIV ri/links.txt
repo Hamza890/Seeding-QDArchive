@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Acceptability, feasibility, and efficacy of Combination income-generation HIV risk-reduction intervention for in-school adolescent girls in Nigeria: A Quasi-experiment:
+DOI   : https://doi.org/10.3886/e123201v1
+URL   : https://www.openicpsr.org/openicpsr/project/123201/version/V1/view
+
+Title : Acceptability, feasibility, and efficacy of Combination income-generation HIV risk-reduction intervention for in-school adolescent girls in Nigeria: A Quasi-experiment:
+DOI   : https://doi.org/10.3886/e123201
+URL   : https://www.openicpsr.org/openicpsr/project/123201/view
+

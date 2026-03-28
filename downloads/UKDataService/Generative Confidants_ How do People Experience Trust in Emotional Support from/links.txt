@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Generative Confidants: How do People Experience Trust in Emotional Support from Generative AI (Dataset), 2025
+DOI   : https://doi.org/10.5255/ukda-sn-858165
+URL   : http://reshare.ukdataservice.ac.uk/id/eprint/858165
+

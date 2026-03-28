@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Criminal Justice Drug Abuse Treatment Studies (CJ-DATS): Transitional Care Management (TCM), Increasing Aftercare Participation for Parolees, 2004-2008 [United States]
+DOI   : https://doi.org/10.3886/icpsr31621
+URL   : https://www.icpsr.umich.edu/web/NAHDAP/studies/31621
+

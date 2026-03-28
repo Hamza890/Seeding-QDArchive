@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : CBS News/New York Times Monthly Poll #2, January 2006
+DOI   : https://doi.org/10.3886/icpsr04611
+URL   : http://www.icpsr.umich.edu/icpsrweb/ICPSR/studies/4611
+
+Title : CBS News/New York Times Monthly Poll #2, January 2006
+DOI   : https://doi.org/10.3886/icpsr04611.v1
+URL   : http://www.icpsr.umich.edu/icpsrweb/ICPSR/studies/4611/version/1
+

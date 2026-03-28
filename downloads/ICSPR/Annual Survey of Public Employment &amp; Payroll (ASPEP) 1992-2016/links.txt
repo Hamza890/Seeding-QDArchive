@@ -1,0 +1,27 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Annual Survey of Public Employment &amp; Payroll (ASPEP) 1992-2016
+DOI   : https://doi.org/10.3886/e101399v1
+URL   : https://www.openicpsr.org/openicpsr/project/101399/version/V1/view
+
+Title : Annual Survey of Public Employment &amp; Payroll (ASPEP) 1992-2016
+DOI   : https://doi.org/10.3886/e101399v2
+URL   : https://www.openicpsr.org/openicpsr/project/101399/version/V2/view
+
+Title : Annual Survey of Public Employment &amp; Payroll (ASPEP) 1992-2016
+DOI   : https://doi.org/10.3886/e101399v3
+URL   : https://www.openicpsr.org/openicpsr/project/101399/version/V3/view
+
+Title : Annual Survey of Public Employment &amp; Payroll (ASPEP) 1992-2016
+DOI   : https://doi.org/10.3886/e101399v4
+URL   : https://www.openicpsr.org/openicpsr/project/101399/version/V4/view
+
+Title : Annual Survey of Public Employment &amp; Payroll (ASPEP) 1992-2016
+DOI   : https://doi.org/10.3886/e101399v5
+URL   : https://www.openicpsr.org/openicpsr/project/101399/version/V5/view
+
+Title : Annual Survey of Public Employment &amp; Payroll (ASPEP) 1992-2016
+DOI   : https://doi.org/10.3886/e101399v6
+URL   : https://www.openicpsr.org/openicpsr/project/101399/version/V6/view
+

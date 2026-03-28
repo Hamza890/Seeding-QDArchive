@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Bicol Multipurpose Survey (BMS), 1978: [Philippines]
+DOI   : https://doi.org/10.3886/icpsr06878
+URL   : http://www.icpsr.umich.edu/icpsrweb/NACDA/studies/6878
+

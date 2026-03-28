@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Criminal Protective Orders as a Critical Strategy to Reduce Domestic Violence, Connecticut, 2012-2016
+DOI   : https://doi.org/10.3886/icpsr36605
+URL   : https://www.icpsr.umich.edu/web/NACJD/studies/36605
+
+Title : Criminal Protective Orders as a Critical Strategy to Reduce Domestic Violence, Connecticut, 2012-2016
+DOI   : https://doi.org/10.3886/icpsr36605.v1
+URL   : https://www.icpsr.umich.edu/web/NACJD/studies/36605/versions/V1
+

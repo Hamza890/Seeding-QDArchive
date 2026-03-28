@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : A Multi-Method Evaluation of Risk Responsive and Neighborhood-Oriented Probation Models in New York City, New York, 2010-2016
+DOI   : https://doi.org/10.3886/icpsr37978
+URL   : https://www.icpsr.umich.edu/web/NACJD/studies/37978
+
+Title : A Multi-Method Evaluation of Risk Responsive and Neighborhood-Oriented Probation Models in New York City, New York, 2010-2016
+DOI   : https://doi.org/10.3886/icpsr37978.v1
+URL   : https://www.icpsr.umich.edu/web/NACJD/studies/37978/versions/V1
+

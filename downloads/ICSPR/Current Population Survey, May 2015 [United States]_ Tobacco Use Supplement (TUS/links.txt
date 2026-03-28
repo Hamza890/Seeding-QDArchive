@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Current Population Survey, May 2015 [United States]: Tobacco Use Supplement (TUS)
+DOI   : https://doi.org/10.3886/icpsr36848
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/36848
+

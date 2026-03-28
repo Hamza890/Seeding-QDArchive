@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Blind Collaborative Justice Survey, 2014 [UNITED STATES]
+DOI   : https://doi.org/10.3886/icpsr35258.v1
+URL   : http://www.icpsr.umich.edu/icpsrweb/NACJD/studies/35258/version/1
+
+Title : Blind Collaborative Justice Survey, 2014 [UNITED STATES]
+DOI   : https://doi.org/10.3886/icpsr35258
+URL   : http://www.icpsr.umich.edu/icpsrweb/NACJD/studies/35258
+

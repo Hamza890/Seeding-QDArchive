@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Fuel and Transport Poverty in the UK Energy Transition, 2022
+DOI   : https://doi.org/10.5255/ukda-sn-856805
+URL   : http://reshare.ukdataservice.ac.uk/id/eprint/856805
+

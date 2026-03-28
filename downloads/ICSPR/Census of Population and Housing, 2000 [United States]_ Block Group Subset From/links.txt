@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Census of Population and Housing, 2000 [United States]: Block Group Subset From Summary File 3
+DOI   : https://doi.org/10.3886/icpsr13576
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/13576
+
+Title : Census of Population and Housing, 2000 [United States]: Block Group Subset From Summary File 3
+DOI   : https://doi.org/10.3886/icpsr13576.v1
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/13576/versions/V1
+

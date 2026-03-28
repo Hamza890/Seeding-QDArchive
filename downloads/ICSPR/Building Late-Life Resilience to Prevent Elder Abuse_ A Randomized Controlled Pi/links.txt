@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Building Late-Life Resilience to Prevent Elder Abuse: A Randomized Controlled Pilot Study of the EMPOWER Program, Arizona, 2019-2021
+DOI   : https://doi.org/10.3886/icpsr38332
+URL   : https://www.icpsr.umich.edu/web/NACJD/studies/38332
+
+Title : Building Late-Life Resilience to Prevent Elder Abuse: A Randomized Controlled Pilot Study of the EMPOWER Program, Arizona, 2019-2021
+DOI   : https://doi.org/10.3886/icpsr38332.v1
+URL   : https://www.icpsr.umich.edu/web/NACJD/studies/38332/versions/V1
+

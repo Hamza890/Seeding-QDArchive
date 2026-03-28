@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : ABC News/Washington Post Clarence Thomas Hearing Poll, September 1991
+DOI   : https://doi.org/10.3886/icpsr09767
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/9767
+

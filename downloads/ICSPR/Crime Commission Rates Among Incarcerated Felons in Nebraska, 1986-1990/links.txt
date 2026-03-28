@@ -1,0 +1,15 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Crime Commission Rates Among Incarcerated Felons in Nebraska, 1986-1990
+DOI   : https://doi.org/10.3886/icpsr09916
+URL   : https://www.icpsr.umich.edu/web/NACJD/studies/9916
+
+Title : Crime Commission Rates Among Incarcerated Felons in Nebraska, 1986-1990
+DOI   : https://doi.org/10.3886/icpsr09916.v2
+URL   : https://www.icpsr.umich.edu/web/NACJD/studies/9916/versions/V2
+
+Title : Crime Commission Rates Among Incarcerated Felons in Nebraska, 1986-1990
+DOI   : https://doi.org/10.3886/icpsr09916.v1
+URL   : http://www.icpsr.umich.edu/icpsrweb/NACJD/studies/9916/version/1
+

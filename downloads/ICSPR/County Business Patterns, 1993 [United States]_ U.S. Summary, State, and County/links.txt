@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : County Business Patterns, 1993 [United States]: U.S. Summary, State, and County Data
+DOI   : https://doi.org/10.3886/icpsr02343
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/2343
+

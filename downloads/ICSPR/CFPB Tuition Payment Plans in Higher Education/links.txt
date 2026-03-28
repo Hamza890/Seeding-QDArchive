@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : CFPB Tuition Payment Plans in Higher Education
+DOI   : https://doi.org/10.3886/e220842v2
+URL   : https://www.datalumos.org/datalumos/project/220842/version/V2/view
+
+Title : CFPB Tuition Payment Plans in Higher Education
+DOI   : https://doi.org/10.3886/e220842
+URL   : https://www.datalumos.org/datalumos/project/220842/view
+

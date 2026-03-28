@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Labour Force Survey Five-Quarter Longitudinal Dataset, October 2001 - December 2002
+DOI   : https://doi.org/10.5255/ukda-sn-5968-2
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/5968#doi
+

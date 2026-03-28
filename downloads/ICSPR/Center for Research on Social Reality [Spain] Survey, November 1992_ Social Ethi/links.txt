@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Center for Research on Social Reality [Spain] Survey, November 1992: Social Ethics
+DOI   : https://doi.org/10.3886/icpsr06058
+URL   : http://www.icpsr.umich.edu/icpsrweb/ICPSR/studies/6058
+

@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : ANES 1962 Time Series Study
+DOI   : https://doi.org/10.3886/icpsr07217
+URL   : http://www.icpsr.umich.edu/icpsrweb/ICPSR/studies/7217
+

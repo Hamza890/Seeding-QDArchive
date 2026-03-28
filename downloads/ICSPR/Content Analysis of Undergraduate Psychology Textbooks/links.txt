@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Content Analysis of Undergraduate Psychology Textbooks
+DOI   : https://doi.org/10.3886/icpsr36966
+URL   : http://www.icpsr.umich.edu/icpsrweb/ICPSR/studies/36966
+
+Title : Content Analysis of Undergraduate Psychology Textbooks
+DOI   : https://doi.org/10.3886/icpsr36966.v1
+URL   : http://www.icpsr.umich.edu/icpsrweb/ICPSR/studies/36966/version/1
+

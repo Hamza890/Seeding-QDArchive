@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Collecting DNA from Juveniles in 30 U.S. States, 2009-2010
+DOI   : https://doi.org/10.3886/icpsr31281.v1
+URL   : http://www.icpsr.umich.edu/icpsrweb/NACJD/studies/31281/version/1
+
+Title : Collecting DNA from Juveniles in 30 U.S. States, 2009-2010
+DOI   : https://doi.org/10.3886/icpsr31281
+URL   : http://www.icpsr.umich.edu/icpsrweb/NACJD/studies/31281
+

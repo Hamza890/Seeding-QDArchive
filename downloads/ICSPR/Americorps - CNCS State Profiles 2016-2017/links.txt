@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Americorps - CNCS State Profiles 2016-2017
+DOI   : https://doi.org/10.3886/e221581v2
+URL   : https://www.datalumos.org/datalumos/project/221581/version/V2/view
+
+Title : Americorps - CNCS State Profiles 2016-2017
+DOI   : https://doi.org/10.3886/e221581
+URL   : https://www.datalumos.org/datalumos/project/221581/view
+

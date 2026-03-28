@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Consumer Expenditure Survey, 2004: Interview Survey and Detailed Expenditure Files
+DOI   : https://doi.org/10.3886/icpsr04416
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/4416
+

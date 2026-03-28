@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Culturally meaningful social hierarchy in a small-scale society of forager-farmers: Age, gender and lifestyle during economic transition
+DOI   : https://doi.org/10.3886/e104423v1
+URL   : https://www.openicpsr.org/openicpsr/project/104423/version/V1/view
+

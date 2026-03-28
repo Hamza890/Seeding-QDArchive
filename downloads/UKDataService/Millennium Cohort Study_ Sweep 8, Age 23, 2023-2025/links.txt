@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Millennium Cohort Study: Sweep 8, Age 23, 2023-2025
+DOI   : https://doi.org/10.5255/ukda-sn-9509-1
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/9509#doi
+

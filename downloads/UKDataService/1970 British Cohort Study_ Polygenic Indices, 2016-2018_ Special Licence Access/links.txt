@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : 1970 British Cohort Study: Polygenic Indices, 2016-2018: Special Licence Access
+DOI   : https://doi.org/10.5255/ukda-sn-9439-1
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/9439#doi
+

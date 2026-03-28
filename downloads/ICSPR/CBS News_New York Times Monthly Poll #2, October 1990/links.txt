@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : CBS News/New York Times Monthly Poll #2, October 1990
+DOI   : https://doi.org/10.3886/icpsr09616
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/9616
+
+Title : CBS News/New York Times Monthly Poll #2, October 1990
+DOI   : https://doi.org/10.3886/icpsr09616.v2
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/9616/versions/V2
+

@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Consumer Pyramids Survey, 2014 [India]
+DOI   : https://doi.org/10.3886/icpsr36782
+URL   : https://www.icpsr.umich.edu/web/DSDR/studies/36782
+

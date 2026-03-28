@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : European Working Conditions Survey Integrated Data File, 1991-2024
+DOI   : https://doi.org/10.5255/ukda-sn-7363-10
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/7363#doi
+

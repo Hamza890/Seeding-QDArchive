@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Children Caring on the Move (CCoM), 2019-2023
+DOI   : https://doi.org/10.5255/ukda-sn-856744
+URL   : http://reshare.ukdataservice.ac.uk/id/eprint/856744
+

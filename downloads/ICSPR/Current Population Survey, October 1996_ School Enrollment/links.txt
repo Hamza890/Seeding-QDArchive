@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Current Population Survey, October 1996: School Enrollment
+DOI   : https://doi.org/10.3886/icpsr02364
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/2364
+

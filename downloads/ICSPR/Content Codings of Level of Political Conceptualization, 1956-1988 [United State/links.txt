@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Content Codings of Level of Political Conceptualization, 1956-1988 [United States]
+DOI   : https://doi.org/10.3886/icpsr08151
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/8151
+
+Title : Content Codings of Level of Political Conceptualization, 1956-1988 [United States]
+DOI   : https://doi.org/10.3886/icpsr08151.v4
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/8151/versions/V4
+

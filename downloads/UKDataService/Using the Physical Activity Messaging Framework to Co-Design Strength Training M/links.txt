@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Using the Physical Activity Messaging Framework to Co-Design Strength Training Messaging: Metadata and Documentation, 2023-2024
+DOI   : https://doi.org/10.5255/ukda-sn-857873
+URL   : http://reshare.ukdataservice.ac.uk/id/eprint/857873
+

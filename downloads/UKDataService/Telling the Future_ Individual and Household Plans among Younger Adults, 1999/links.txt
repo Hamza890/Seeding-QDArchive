@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Telling the Future: Individual and Household Plans among Younger Adults, 1999
+DOI   : https://doi.org/10.5255/ukda-sn-4185-1
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/4185#doi
+

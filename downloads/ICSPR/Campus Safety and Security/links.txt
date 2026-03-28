@@ -1,0 +1,15 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Campus Safety and Security
+DOI   : https://doi.org/10.3886/e218101v3
+URL   : https://www.datalumos.org/datalumos/project/218101/version/V3/view
+
+Title : Campus Safety and Security
+DOI   : https://doi.org/10.3886/e218101
+URL   : https://www.datalumos.org/datalumos/project/218101/view
+
+Title : Campus Safety and Security
+DOI   : https://doi.org/10.3886/e218101v2
+URL   : https://www.datalumos.org/datalumos/project/218101/version/V2/view
+

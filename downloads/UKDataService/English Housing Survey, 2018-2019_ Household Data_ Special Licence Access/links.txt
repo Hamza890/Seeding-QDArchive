@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : English Housing Survey, 2018-2019: Household Data: Special Licence Access
+DOI   : https://doi.org/10.5255/ukda-sn-8719-1
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/8719#doi
+

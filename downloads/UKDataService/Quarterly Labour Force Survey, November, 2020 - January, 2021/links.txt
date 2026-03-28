@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Quarterly Labour Force Survey, November, 2020 - January, 2021
+DOI   : https://doi.org/10.5255/ukda-sn-8788-3
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/8788#doi
+

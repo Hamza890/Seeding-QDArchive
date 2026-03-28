@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Americorps Member Demographics
+DOI   : https://doi.org/10.3886/e221704v2
+URL   : https://www.datalumos.org/datalumos/project/221704/version/V2/view
+
+Title : Americorps Member Demographics
+DOI   : https://doi.org/10.3886/e221704
+URL   : https://www.datalumos.org/datalumos/project/221704/view
+

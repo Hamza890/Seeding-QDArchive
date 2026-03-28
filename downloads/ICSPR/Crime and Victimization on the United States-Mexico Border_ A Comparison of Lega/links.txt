@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Crime and Victimization on the United States-Mexico Border: A Comparison of Legal Residents, Illegal Residents and Native-Born Citizens, Texas, 2019-2023
+DOI   : https://doi.org/10.3886/icpsr39110
+URL   : https://www.icpsr.umich.edu/web/NACJD/studies/39110
+
+Title : Crime and Victimization on the United States-Mexico Border: A Comparison of Legal Residents, Illegal Residents and Native-Born Citizens, Texas, 2019-2023
+DOI   : https://doi.org/10.3886/icpsr39110.v1
+URL   : https://www.icpsr.umich.edu/web/NACJD/studies/39110/versions/V1
+

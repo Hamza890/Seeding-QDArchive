@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Mental Health of Children and Young People in England, 2023: Wave 4, Special Licence Access
+DOI   : https://doi.org/10.5255/ukda-sn-9476-1
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/9476#doi
+

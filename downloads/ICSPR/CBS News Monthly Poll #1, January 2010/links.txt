@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : CBS News Monthly Poll #1, January 2010
+DOI   : https://doi.org/10.3886/icpsr31562
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/31562
+
+Title : CBS News Monthly Poll #1, January 2010
+DOI   : https://doi.org/10.3886/icpsr31562.v1
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/31562/versions/V1
+

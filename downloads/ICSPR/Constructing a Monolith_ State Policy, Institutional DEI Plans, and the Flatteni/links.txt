@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Constructing a Monolith: State Policy, Institutional DEI Plans, and the Flattening of Latinx Identity at Hispanic Serving Institutions
+DOI   : https://doi.org/10.3886/e154481v1
+URL   : https://www.openicpsr.org/openicpsr/project/154481/version/V1/view
+
+Title : Constructing a Monolith: State Policy, Institutional DEI Plans, and the Flattening of Latinx Identity at Hispanic Serving Institutions
+DOI   : https://doi.org/10.3886/e154481
+URL   : https://www.openicpsr.org/openicpsr/project/154481/view
+

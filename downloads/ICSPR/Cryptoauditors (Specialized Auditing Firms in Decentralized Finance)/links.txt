@@ -1,0 +1,19 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Cryptoauditors (Specialized Auditing Firms in Decentralized Finance)
+DOI   : https://doi.org/10.3886/e243009v2-200462
+URL   : https://www.openicpsr.org/openicpsr/project/243009/version/V2/view?path=/openicpsr/243009/fcr:versions/V2/Cryptoauditors---Firms-in-DeFi---Vanessa-Villanueva.xls&type=file
+
+Title : Cryptoauditors (Specialized Auditing Firms in Decentralized Finance)
+DOI   : https://doi.org/10.3886/e243009v2
+URL   : https://www.openicpsr.org/openicpsr/project/243009/version/V2/view
+
+Title : Cryptoauditors (Specialized Auditing Firms in Decentralized Finance)
+DOI   : https://doi.org/10.3886/e243009
+URL   : https://www.openicpsr.org/openicpsr/project/243009/view
+
+Title : Cryptoauditors (Specialized Auditing Firms in Decentralized Finance)
+DOI   : https://doi.org/10.3886/e243009v1
+URL   : https://www.openicpsr.org/openicpsr/project/243009/version/V1/view
+

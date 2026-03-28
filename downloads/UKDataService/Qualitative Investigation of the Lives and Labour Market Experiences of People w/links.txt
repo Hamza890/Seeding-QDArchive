@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Qualitative Investigation of the Lives and Labour Market Experiences of People with Multiple Problems and Needs, 2001-2002
+DOI   : https://doi.org/10.5255/ukda-sn-4739-1
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/4739#doi
+

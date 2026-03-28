@@ -1,0 +1,15 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Building Support for Climate Migrants in Divided Societies: Experimental Evidence from Nigeria's Farmer-Herder Conflict
+DOI   : https://doi.org/10.3886/e240313v2
+URL   : https://www.openicpsr.org/openicpsr/project/240313/version/V2/view
+
+Title : Building Support for Climate Migrants in Divided Societies: Experimental Evidence from Nigeria's Farmer-Herder Conflict
+DOI   : https://doi.org/10.3886/e240313
+URL   : https://www.openicpsr.org/openicpsr/project/240313/view
+
+Title : Building Support for Climate Migrants in Divided Societies: Experimental Evidence from Nigeria's Farmer-Herder Conflict
+DOI   : https://doi.org/10.3886/e240313v1
+URL   : https://www.openicpsr.org/openicpsr/project/240313/version/V1/view
+

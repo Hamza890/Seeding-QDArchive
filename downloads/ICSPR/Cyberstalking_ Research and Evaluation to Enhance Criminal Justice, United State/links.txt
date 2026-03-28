@@ -1,0 +1,15 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Cyberstalking: Research and Evaluation to Enhance Criminal Justice, United States, 2021-2023
+DOI   : https://doi.org/10.3886/icpsr38905
+URL   : https://www.icpsr.umich.edu/web/NACJD/studies/38905
+
+Title : Cyberstalking: Research and Evaluation to Enhance Criminal Justice, United States, 2021-2023
+DOI   : https://doi.org/10.3886/icpsr38905.v2
+URL   : https://www.icpsr.umich.edu/web/NACJD/studies/38905/versions/V2
+
+Title : Cyberstalking: Research and Evaluation to Enhance Criminal Justice, United States, 2021-2023
+DOI   : https://doi.org/10.3886/icpsr38905.v1
+URL   : https://www.icpsr.umich.edu/web/NACJD/studies/38905/versions/V1
+

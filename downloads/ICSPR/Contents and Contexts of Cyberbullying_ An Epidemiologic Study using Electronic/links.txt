@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Contents and Contexts of Cyberbullying: An Epidemiologic Study using Electronic Detection and Social Network Analysis, Iowa, 2014-2015
+DOI   : https://doi.org/10.3886/icpsr36991
+URL   : https://www.icpsr.umich.edu/web/NACJD/studies/36991
+
+Title : Contents and Contexts of Cyberbullying: An Epidemiologic Study using Electronic Detection and Social Network Analysis, Iowa, 2014-2015
+DOI   : https://doi.org/10.3886/icpsr36991.v1
+URL   : https://www.icpsr.umich.edu/web/NACJD/studies/36991/versions/V1
+

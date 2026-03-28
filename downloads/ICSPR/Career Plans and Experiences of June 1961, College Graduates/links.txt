@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Career Plans and Experiences of June 1961, College Graduates
+DOI   : https://doi.org/10.3886/icpsr07344
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/7344
+

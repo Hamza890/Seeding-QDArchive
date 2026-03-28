@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Crime Control Effects of Sentencing in Essex County, New Jersey, 1976-1997
+DOI   : https://doi.org/10.3886/icpsr02857
+URL   : https://www.icpsr.umich.edu/web/NACJD/studies/2857
+
+Title : Crime Control Effects of Sentencing in Essex County, New Jersey, 1976-1997
+DOI   : https://doi.org/10.3886/icpsr02857.v1
+URL   : https://www.icpsr.umich.edu/web/NACJD/studies/2857/versions/V1
+

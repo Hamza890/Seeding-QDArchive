@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Changing Patterns of Drug Abuse and Criminality Among Crack Cocaine Users in New York City: Criminal Histories and Criminal Justice System Processing, 1983-1984, 1986
+DOI   : https://doi.org/10.3886/icpsr09790
+URL   : https://www.icpsr.umich.edu/web/NACJD/studies/9790
+
+Title : Changing Patterns of Drug Abuse and Criminality Among Crack Cocaine Users in New York City: Criminal Histories and Criminal Justice System Processing, 1983-1984, 1986
+DOI   : https://doi.org/10.3886/icpsr09790.v1
+URL   : https://www.icpsr.umich.edu/web/NACJD/studies/9790/versions/V1
+

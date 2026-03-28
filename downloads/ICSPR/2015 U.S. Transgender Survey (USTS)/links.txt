@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : 2015 U.S. Transgender Survey (USTS)
+DOI   : https://doi.org/10.3886/icpsr37229
+URL   : https://www.icpsr.umich.edu/web/RCMD/studies/37229
+
+Title : 2015 U.S. Transgender Survey (USTS)
+DOI   : https://doi.org/10.3886/icpsr37229.v1
+URL   : https://www.icpsr.umich.edu/web/RCMD/studies/37229/versions/V1
+

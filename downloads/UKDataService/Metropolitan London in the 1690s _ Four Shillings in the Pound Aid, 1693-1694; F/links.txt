@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Metropolitan London in the 1690s : Four Shillings in the Pound Aid, 1693-1694; For the City of London, the City of Westminster, and Metropolitan Middlesex
+DOI   : https://doi.org/10.5255/ukda-sn-3497-1
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/3497#doi
+

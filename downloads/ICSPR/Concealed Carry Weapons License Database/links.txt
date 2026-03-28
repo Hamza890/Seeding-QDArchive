@@ -1,0 +1,27 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Concealed Carry Weapons License Database
+DOI   : https://doi.org/10.3886/e149062v1-183001
+URL   : https://www.openicpsr.org/openicpsr/project/149062/version/V1/view?path=/openicpsr/149062/fcr:versions/V1/CCWLD-Codebooks.docx&type=file
+
+Title : Concealed Carry Weapons License Database
+DOI   : https://doi.org/10.3886/e149062
+URL   : https://www.openicpsr.org/openicpsr/project/149062/view
+
+Title : Concealed Carry Weapons License Database
+DOI   : https://doi.org/10.3886/e149062v1-168681
+URL   : https://www.openicpsr.org/openicpsr/project/149062/version/V1/view?path=/openicpsr/149062/fcr:versions/V1/raw_state_data.zip&type=file
+
+Title : Concealed Carry Weapons License Database
+DOI   : https://doi.org/10.3886/e149062v1-145630
+URL   : https://www.openicpsr.org/openicpsr/project/149062/version/V1/view?path=/openicpsr/149062/fcr:versions/V1/CCWLD.dta&type=file
+
+Title : Concealed Carry Weapons License Database
+DOI   : https://doi.org/10.3886/e149062v1-134660
+URL   : https://www.openicpsr.org/openicpsr/project/149062/version/V1/view?path=/openicpsr/149062/fcr:versions/V1/state_memos.zip&type=file
+
+Title : Concealed Carry Weapons License Database
+DOI   : https://doi.org/10.3886/e149062v1
+URL   : https://www.openicpsr.org/openicpsr/project/149062/version/V1/view
+

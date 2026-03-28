@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Census of Population and Housing, 1970 [United States]: Master Enumeration District (MED) Lists
+DOI   : https://doi.org/10.3886/icpsr08109
+URL   : http://www.icpsr.umich.edu/icpsrweb/ICPSR/studies/8109
+

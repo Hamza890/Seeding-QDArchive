@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Millennium Cohort Study, Sweeps 1-6, 2001-2015: Linked to MEDIx Air Pollution Deciles
+DOI   : https://doi.org/10.5255/ukda-sn-8153-2
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/8153#doi
+

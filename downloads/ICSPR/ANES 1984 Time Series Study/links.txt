@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : ANES 1984 Time Series Study
+DOI   : https://doi.org/10.3886/icpsr08298
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/8298
+

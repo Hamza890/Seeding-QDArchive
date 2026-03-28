@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : English Housing Survey
+DOI   : https://doi.org/10.5255/ukda-series-200010
+URL   : https://datacatalogue.ukdataservice.ac.uk/series/series/200010#doi
+

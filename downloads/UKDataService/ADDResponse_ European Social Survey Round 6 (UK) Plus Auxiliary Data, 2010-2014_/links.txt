@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : ADDResponse: European Social Survey Round 6 (UK) Plus Auxiliary Data, 2010-2014: Secure Access
+DOI   : https://doi.org/10.5255/ukda-sn-8066-1
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/8066#doi
+

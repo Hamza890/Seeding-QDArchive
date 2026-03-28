@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Food and You Survey, Waves 1-2 Combined Dataset, 2010-2012
+DOI   : https://doi.org/10.5255/ukda-sn-7701-1
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/7701#doi
+

@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Disability Follow-Up to the 1996/97 Family Resources Survey
+DOI   : https://doi.org/10.5255/ukda-sn-4090-1
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/4090#doi
+

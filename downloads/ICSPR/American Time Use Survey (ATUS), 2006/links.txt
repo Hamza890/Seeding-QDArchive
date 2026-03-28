@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : American Time Use Survey (ATUS), 2006
+DOI   : https://doi.org/10.3886/icpsr23024
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/23024
+
+Title : American Time Use Survey (ATUS), 2006
+DOI   : https://doi.org/10.3886/icpsr23024.v1
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/23024/versions/V1
+

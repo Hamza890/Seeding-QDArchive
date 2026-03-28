@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : COVID-19 Case Surveillance Public Use Data with Geography
+DOI   : https://doi.org/10.3886/e243469v1
+URL   : https://www.datalumos.org/datalumos/project/243469/version/V1/view
+
+Title : COVID-19 Case Surveillance Public Use Data with Geography
+DOI   : https://doi.org/10.3886/e243469
+URL   : https://www.datalumos.org/datalumos/project/243469/view
+

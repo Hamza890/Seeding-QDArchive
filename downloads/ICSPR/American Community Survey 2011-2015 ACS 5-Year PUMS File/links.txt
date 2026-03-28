@@ -1,0 +1,23 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : American Community Survey 2011-2015 ACS 5-Year PUMS File
+DOI   : https://doi.org/10.3886/e100521v3
+URL   : https://www.datalumos.org/datalumos/project/100521/version/V3/view
+
+Title : American Community Survey 2011-2015 ACS 5-Year PUMS File
+DOI   : https://doi.org/10.3886/e100521
+URL   : https://www.datalumos.org/datalumos/project/100521/view
+
+Title : American Community Survey 2011-2015 ACS 5-Year PUMS File
+DOI   : https://doi.org/10.3886/e100521v2-98660
+URL   : https://www.datalumos.org/datalumos/project/100521/version/V2/view?path=/datalumos/100521/fcr:versions/V2/PUMS_Data_Dictionary_2011-2015.pdf&type=file
+
+Title : American Community Survey 2011-2015 ACS 5-Year PUMS File
+DOI   : https://doi.org/10.3886/e100521v2-6941
+URL   : https://www.datalumos.org/datalumos/project/100521/version/V2/view?type=file&path=/datalumos/100521/fcr:versions/V2/ACS2011_2015_PUMS_README.pdf
+
+Title : American Community Survey 2011-2015 ACS 5-Year PUMS File
+DOI   : https://doi.org/10.3886/e100521v2-4772
+URL   : https://www.datalumos.org/datalumos/project/100521/version/V2/view?type=file&path=/datalumos/100521/fcr:versions/V2/ss15husa.csv
+

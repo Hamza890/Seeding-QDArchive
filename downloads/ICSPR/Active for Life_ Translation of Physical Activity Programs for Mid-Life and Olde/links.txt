@@ -1,0 +1,19 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Active for Life: Translation of Physical Activity Programs for Mid-Life and Older Adults, 2003-2007 [United States]
+DOI   : https://doi.org/10.3886/icpsr24723
+URL   : https://www.icpsr.umich.edu/web/HMCA/studies/24723
+
+Title : Active for Life: Translation of Physical Activity Programs for Mid-Life and Older Adults, 2003-2007 [United States]
+DOI   : https://doi.org/10.3886/icpsr24723.v3
+URL   : https://www.icpsr.umich.edu/web/HMCA/studies/24723/versions/V3
+
+Title : Active for Life: Translation of Physical Activity Programs for Mid-Life and Older Adults, 2003-2007 [United States]
+DOI   : https://doi.org/10.3886/icpsr24723.v1
+URL   : http://www.icpsr.umich.edu/icpsrweb/HMCA/studies/24723/version/1
+
+Title : Active for Life: Translation of Physical Activity Programs for Mid-Life and Older Adults, 2003-2007 [United States]
+DOI   : https://doi.org/10.3886/icpsr24723.v2
+URL   : http://www.icpsr.umich.edu/icpsrweb/HMCA/studies/24723/version/2
+

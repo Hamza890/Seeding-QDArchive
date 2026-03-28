@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : A Diachronic Corpus of Liǎnhóng in Chinese
+DOI   : https://doi.org/10.3886/e244622v1
+URL   : https://www.openicpsr.org/openicpsr/project/244622/version/V1/view
+
+Title : A Diachronic Corpus of Liǎnhóng in Chinese
+DOI   : https://doi.org/10.3886/e244622
+URL   : https://www.openicpsr.org/openicpsr/project/244622/view
+

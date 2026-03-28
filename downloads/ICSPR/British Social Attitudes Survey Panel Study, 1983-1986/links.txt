@@ -1,0 +1,15 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : British Social Attitudes Survey Panel Study, 1983-1986
+DOI   : https://doi.org/10.3886/icpsr03090
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/3090
+
+Title : British Social Attitudes Survey Panel Study, 1983-1986
+DOI   : https://doi.org/10.3886/icpsr03090.v2
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/3090/versions/V2
+
+Title : British Social Attitudes Survey Panel Study, 1983-1986
+DOI   : https://doi.org/10.3886/icpsr03090.v1
+URL   : http://www.icpsr.umich.edu/icpsrweb/ICPSR/studies/3090/version/1
+

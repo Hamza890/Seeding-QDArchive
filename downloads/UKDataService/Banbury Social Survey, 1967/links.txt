@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Banbury Social Survey, 1967
+DOI   : https://doi.org/10.5255/ukda-sn-67016-1
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/67016#doi
+

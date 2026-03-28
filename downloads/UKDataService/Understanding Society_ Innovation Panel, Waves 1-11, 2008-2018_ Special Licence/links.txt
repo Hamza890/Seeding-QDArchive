@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Understanding Society: Innovation Panel, Waves 1-11, 2008-2018: Special Licence Access, Westminster Parliamentary Constituencies
+DOI   : https://doi.org/10.5255/ukda-sn-6909-7
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/6909#doi
+

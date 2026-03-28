@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : American Time Use Survey (ATUS): Arts Activities, [United States], 2003-2019
+DOI   : https://doi.org/10.3886/icpsr36268.v6
+URL   : https://www.icpsr.umich.edu/web/NADAC/studies/36268/versions/V6
+

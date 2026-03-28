@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : A Process and Outcome Evaluation of the use of NIBIN and its Effects on Criminal Investigations in the United States, 2006-2012
+DOI   : https://doi.org/10.3886/icpsr34970
+URL   : https://www.icpsr.umich.edu/web/NACJD/studies/34970
+
+Title : A Process and Outcome Evaluation of the use of NIBIN and its Effects on Criminal Investigations in the United States, 2006-2012
+DOI   : https://doi.org/10.3886/icpsr34970.v1
+URL   : https://www.icpsr.umich.edu/web/NACJD/studies/34970/versions/V1
+

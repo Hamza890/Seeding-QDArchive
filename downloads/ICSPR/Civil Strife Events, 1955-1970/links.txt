@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Civil Strife Events, 1955-1970
+DOI   : https://doi.org/10.3886/icpsr07531
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/7531
+
+Title : Civil Strife Events, 1955-1970
+DOI   : https://doi.org/10.3886/icpsr07531.v1
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/7531/versions/V1
+

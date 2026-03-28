@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Academic Harms of Missing High School and the Accuracy of Current Policy Thresholds: Analysis of pre-registered administrative data from a California school district
+DOI   : https://doi.org/10.3886/e119926
+URL   : https://www.openicpsr.org/openicpsr/project/119926
+
+Title : Academic Harms of Missing High School and the Accuracy of Current Policy Thresholds: Analysis of pre-registered administrative data from a California school district
+DOI   : https://doi.org/10.3886/e119926v1
+URL   : https://www.openicpsr.org/openicpsr/project/119926/version/V1/view
+

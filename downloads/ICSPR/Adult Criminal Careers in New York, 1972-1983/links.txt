@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Adult Criminal Careers in New York, 1972-1983
+DOI   : https://doi.org/10.3886/icpsr09353
+URL   : https://www.icpsr.umich.edu/web/NACJD/studies/9353
+
+Title : Adult Criminal Careers in New York, 1972-1983
+DOI   : https://doi.org/10.3886/icpsr09353.v1
+URL   : https://www.icpsr.umich.edu/web/NACJD/studies/9353/versions/V1
+

@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Americorps US Census Place Shape Data
+DOI   : https://doi.org/10.3886/e221708v2
+URL   : https://www.datalumos.org/datalumos/project/221708/version/V2/view
+
+Title : Americorps US Census Place Shape Data
+DOI   : https://doi.org/10.3886/e221708
+URL   : https://www.datalumos.org/datalumos/project/221708/view
+

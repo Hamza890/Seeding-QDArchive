@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : ABC News/Good Housekeeping Mother's Day Poll, January 2006
+DOI   : https://doi.org/10.3886/icpsr04655
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/4655
+
+Title : ABC News/Good Housekeeping Mother's Day Poll, January 2006
+DOI   : https://doi.org/10.3886/icpsr04655.v1
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/4655/versions/V1
+

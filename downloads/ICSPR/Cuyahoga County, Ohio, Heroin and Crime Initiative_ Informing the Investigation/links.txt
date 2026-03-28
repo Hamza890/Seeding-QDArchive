@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Cuyahoga County, Ohio, Heroin and Crime Initiative: Informing the Investigation and Prosecution of Heroin-Related Overdose, 2012-2021
+DOI   : https://doi.org/10.3886/icpsr38295
+URL   : https://www.icpsr.umich.edu/web/NACJD/studies/38295
+
+Title : Cuyahoga County, Ohio, Heroin and Crime Initiative: Informing the Investigation and Prosecution of Heroin-Related Overdose, 2012-2021
+DOI   : https://doi.org/10.3886/icpsr38295.v1
+URL   : https://www.icpsr.umich.edu/web/NACJD/studies/38295/versions/V1
+

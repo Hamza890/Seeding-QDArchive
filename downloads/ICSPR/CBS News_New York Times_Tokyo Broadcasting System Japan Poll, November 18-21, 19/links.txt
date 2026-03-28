@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : CBS News/New York Times/Tokyo Broadcasting System Japan Poll, November 18-21, 1991
+DOI   : https://doi.org/10.3886/icpsr09860
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/9860
+
+Title : CBS News/New York Times/Tokyo Broadcasting System Japan Poll, November 18-21, 1991
+DOI   : https://doi.org/10.3886/icpsr09860.v2
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/9860/versions/V2
+

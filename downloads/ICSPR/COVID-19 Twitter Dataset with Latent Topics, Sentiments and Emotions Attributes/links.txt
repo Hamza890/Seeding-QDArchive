@@ -1,0 +1,119 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : COVID-19 Twitter Dataset with Latent Topics, Sentiments and Emotions Attributes
+DOI   : https://doi.org/10.3886/e120321v1
+URL   : https://www.openicpsr.org/openicpsr/project/120321/version/V1/view
+
+Title : COVID-19 Twitter Dataset with Latent Topics, Sentiments and Emotions Attributes
+DOI   : https://doi.org/10.3886/e120321v12-199139
+URL   : https://www.openicpsr.org/openicpsr/project/120321/version/V12/view?path=/openicpsr/120321/fcr:versions/V12/Twitter-COVID-dataset---June2022/tweetid_userid_keyword_sentiments_emotions_United-Kingdom.zip&type=file
+
+Title : COVID-19 Twitter Dataset with Latent Topics, Sentiments and Emotions Attributes
+DOI   : https://doi.org/10.3886/e120321v12-179121
+URL   : https://www.openicpsr.org/openicpsr/project/120321/version/V12/view?path=/openicpsr/120321/fcr:versions/V12/Twitter-COVID-dataset---June2022/tweetid_userid_keyword_sentiments_emotions_Australia.zip&type=file
+
+Title : COVID-19 Twitter Dataset with Latent Topics, Sentiments and Emotions Attributes
+DOI   : https://doi.org/10.3886/e120321
+URL   : https://www.openicpsr.org/openicpsr/project/120321/view
+
+Title : COVID-19 Twitter Dataset with Latent Topics, Sentiments and Emotions Attributes
+DOI   : https://doi.org/10.3886/e120321v12-178871
+URL   : https://www.openicpsr.org/openicpsr/project/120321/version/V12/view?path=/openicpsr/120321/fcr:versions/V12/Twitter-COVID-dataset---June2022&type=folder
+
+Title : COVID-19 Twitter Dataset with Latent Topics, Sentiments and Emotions Attributes
+DOI   : https://doi.org/10.3886/e120321v12
+URL   : https://www.openicpsr.org/openicpsr/project/120321/version/V12/view
+
+Title : COVID-19 Twitter Dataset with Latent Topics, Sentiments and Emotions Attributes
+DOI   : https://doi.org/10.3886/e120321v12-147581
+URL   : https://www.openicpsr.org/openicpsr/project/120321/version/V12/view?path=/openicpsr/120321/fcr:versions/V12/Twitter-COVID-dataset---June2022/tweetid_userid_keyword_sentiments_emotions_Brazil.zip&type=file
+
+Title : COVID-19 Twitter Dataset with Latent Topics, Sentiments and Emotions Attributes
+DOI   : https://doi.org/10.3886/e120321v12-146984
+URL   : https://www.openicpsr.org/openicpsr/project/120321/version/V12/view?path=/openicpsr/120321/fcr:versions/V12/Twitter-COVID-dataset---June2022/tweetid_userid_keyword_sentiments_emotions_United-States.zip&type=file
+
+Title : COVID-19 Twitter Dataset with Latent Topics, Sentiments and Emotions Attributes
+DOI   : https://doi.org/10.3886/e120321v12-141504
+URL   : https://www.openicpsr.org/openicpsr/project/120321/version/V12/view?path=/openicpsr/120321/fcr:versions/V12/Twitter-COVID-dataset---June2022/tweetid_userid_keyword_sentiments_emotions_Canada.zip&type=file
+
+Title : COVID-19 Twitter Dataset with Latent Topics, Sentiments and Emotions Attributes
+DOI   : https://doi.org/10.3886/e120321v12-138191
+URL   : https://www.openicpsr.org/openicpsr/project/120321/version/V12/view?path=/openicpsr/120321/fcr:versions/V12/Twitter-COVID-dataset---June2022/tweetid_userid_keyword_sentiments_emotions_Colombia.zip&type=file
+
+Title : COVID-19 Twitter Dataset with Latent Topics, Sentiments and Emotions Attributes
+DOI   : https://doi.org/10.3886/e120321v12-130408
+URL   : https://www.openicpsr.org/openicpsr/project/120321/version/V12/view?path=/openicpsr/120321/fcr:versions/V12/Twitter-COVID-dataset---June2022/COVID-Twitter-dataset-descriptor-paper---update-2022-06-25.pdf&type=file
+
+Title : COVID-19 Twitter Dataset with Latent Topics, Sentiments and Emotions Attributes
+DOI   : https://doi.org/10.3886/e120321v12-128960
+URL   : https://www.openicpsr.org/openicpsr/project/120321/version/V12/view?path=/openicpsr/120321/fcr:versions/V12/Twitter-COVID-dataset---June2022/vaccine_tweetid_userid_keyword_sentiments_emotions.zip&type=file
+
+Title : COVID-19 Twitter Dataset with Latent Topics, Sentiments and Emotions Attributes
+DOI   : https://doi.org/10.3886/e120321v12-128660
+URL   : https://www.openicpsr.org/openicpsr/project/120321/version/V12/view?path=/openicpsr/120321/fcr:versions/V12/Twitter-COVID-dataset---June2022/tweetid_userid_keyword_sentiments_emotions_Singapore.zip&type=file
+
+Title : COVID-19 Twitter Dataset with Latent Topics, Sentiments and Emotions Attributes
+DOI   : https://doi.org/10.3886/e120321v12-128320
+URL   : https://www.openicpsr.org/openicpsr/project/120321/version/V12/view?path=/openicpsr/120321/fcr:versions/V12/Twitter-COVID-dataset---June2022/tweetid_userid_keyword_sentiments_emotions.zip&type=file
+
+Title : COVID-19 Twitter Dataset with Latent Topics, Sentiments and Emotions Attributes
+DOI   : https://doi.org/10.3886/e120321v12-125480
+URL   : https://www.openicpsr.org/openicpsr/project/120321/version/V12/view?path=/openicpsr/120321/fcr:versions/V12/Twitter-COVID-dataset---June2022/COVID19_twitter_full_dataset.csv.zip&type=file
+
+Title : COVID-19 Twitter Dataset with Latent Topics, Sentiments and Emotions Attributes
+DOI   : https://doi.org/10.3886/e120321v12-125040
+URL   : https://www.openicpsr.org/openicpsr/project/120321/version/V12/view?path=/openicpsr/120321/fcr:versions/V12/Twitter-COVID-dataset---June2022/tweetid_userid_keyword_sentiments_emotions_Italy.zip&type=file
+
+Title : COVID-19 Twitter Dataset with Latent Topics, Sentiments and Emotions Attributes
+DOI   : https://doi.org/10.3886/e120321v12-124700
+URL   : https://www.openicpsr.org/openicpsr/project/120321/version/V12/view?path=/openicpsr/120321/fcr:versions/V12/Twitter-COVID-dataset---June2022/tweetid_userid_keyword_sentiments_emotions_Malaysia.zip&type=file
+
+Title : COVID-19 Twitter Dataset with Latent Topics, Sentiments and Emotions Attributes
+DOI   : https://doi.org/10.3886/e120321v11
+URL   : https://www.openicpsr.org/openicpsr/project/120321/version/V11/view
+
+Title : COVID-19 Twitter Dataset with Latent Topics, Sentiments and Emotions Attributes
+DOI   : https://doi.org/10.3886/e120321v11-113100
+URL   : https://www.openicpsr.org/openicpsr/project/120321/version/V11/view?path=/openicpsr/120321/fcr:versions/V11/Twitter-COVID-dataset---Sep2021/COVID_Twitter_database_paper.pdf&type=file
+
+Title : COVID-19 Twitter Dataset with Latent Topics, Sentiments and Emotions Attributes
+DOI   : https://doi.org/10.3886/e120321v11-110820
+URL   : https://www.openicpsr.org/openicpsr/project/120321/version/V11/view?path=/openicpsr/120321/fcr:versions/V11/Twitter-COVID-dataset---Sep2021/tweetid_userid_keyword_sentiments_emotions_Pakistan.csv.zip&type=file
+
+Title : COVID-19 Twitter Dataset with Latent Topics, Sentiments and Emotions Attributes
+DOI   : https://doi.org/10.3886/e120321v11-110463
+URL   : https://www.openicpsr.org/openicpsr/project/120321/version/V11/view?path=/openicpsr/120321/fcr:versions/V11/Twitter-COVID-dataset---Sep2021/tweetid_userid_keyword_sentiments_emotions_Australia.csv.zip&type=file
+
+Title : COVID-19 Twitter Dataset with Latent Topics, Sentiments and Emotions Attributes
+DOI   : https://doi.org/10.3886/e120321v11-108060
+URL   : https://www.openicpsr.org/openicpsr/project/120321/version/V11/view?path=/openicpsr/120321/fcr:versions/V11/Twitter-COVID-dataset---Sep2021/tweetid_userid_keyword_sentiments_emotions_United-States.csv.zip&type=file
+
+Title : COVID-19 Twitter Dataset with Latent Topics, Sentiments and Emotions Attributes
+DOI   : https://doi.org/10.3886/e120321v11-107642
+URL   : https://www.openicpsr.org/openicpsr/project/120321/version/V11/view?path=/openicpsr/120321/fcr:versions/V11/Twitter-COVID-dataset---Sep2021/tweetid_userid_keyword_topics_sentiments_emotions-full-.zip&type=file
+
+Title : COVID-19 Twitter Dataset with Latent Topics, Sentiments and Emotions Attributes
+DOI   : https://doi.org/10.3886/e120321v11-107242
+URL   : https://www.openicpsr.org/openicpsr/project/120321/version/V11/view?path=/openicpsr/120321/fcr:versions/V11/Twitter-COVID-dataset---Sep2021/tweetid_userid_keyword_sentiments_emotions_United-Kingdom.csv.zip&type=file
+
+Title : COVID-19 Twitter Dataset with Latent Topics, Sentiments and Emotions Attributes
+DOI   : https://doi.org/10.3886/e120321v11-106980
+URL   : https://www.openicpsr.org/openicpsr/project/120321/version/V11/view?path=/openicpsr/120321/fcr:versions/V11/Twitter-COVID-dataset---Sep2021/tweetid_userid_keyword_sentiments_emotions_Malaysia.csv.zip&type=file
+
+Title : COVID-19 Twitter Dataset with Latent Topics, Sentiments and Emotions Attributes
+DOI   : https://doi.org/10.3886/e120321v11-102120
+URL   : https://www.openicpsr.org/openicpsr/project/120321/version/V11/view?path=/openicpsr/120321/fcr:versions/V11/Twitter-COVID-dataset---Sep2021/COVID19_twitter_full_dataset.csv.zip&type=file
+
+Title : COVID-19 Twitter Dataset with Latent Topics, Sentiments and Emotions Attributes
+DOI   : https://doi.org/10.3886/e120321v11-101620
+URL   : https://www.openicpsr.org/openicpsr/project/120321/version/V11/view?path=/openicpsr/120321/fcr:versions/V11/Twitter-COVID-dataset---Sep2021/tweetid_userid_keyword_sentiments_emotions_India.csv.zip&type=file
+
+Title : COVID-19 Twitter Dataset with Latent Topics, Sentiments and Emotions Attributes
+DOI   : https://doi.org/10.3886/e120321v11-101600
+URL   : https://www.openicpsr.org/openicpsr/project/120321/version/V11/view?path=/openicpsr/120321/fcr:versions/V11/Twitter-COVID-dataset---Sep2021&type=folder
+
+Title : COVID-19 Twitter Dataset with Latent Topics, Sentiments and Emotions Attributes
+DOI   : https://doi.org/10.3886/e120321v11-101460
+URL   : https://www.openicpsr.org/openicpsr/project/120321/version/V11/view?path=/openicpsr/120321/fcr:versions/V11/Twitter-COVID-dataset---Sep2021/tweetid_userid_keyword_sentiments_emotions_Brazil.csv.zip&type=file
+

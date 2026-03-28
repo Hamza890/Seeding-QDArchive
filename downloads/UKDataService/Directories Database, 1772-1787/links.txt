@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Directories Database, 1772-1787
+DOI   : https://doi.org/10.5255/ukda-sn-3443-1
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/3443#doi
+

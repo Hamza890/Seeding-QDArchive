@@ -1,0 +1,15 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Climate.gov Data Snapshots: SST - Sea Surface Temperature
+DOI   : https://doi.org/10.3886/e233444v2
+URL   : https://www.datalumos.org/datalumos/project/233444/version/V2/view
+
+Title : Climate.gov Data Snapshots: SST - Sea Surface Temperature
+DOI   : https://doi.org/10.3886/e233444
+URL   : https://www.datalumos.org/datalumos/project/233444/view
+
+Title : Climate.gov Data Snapshots: SST - Sea Surface Temperature
+DOI   : https://doi.org/10.3886/e233444v1
+URL   : https://www.datalumos.org/datalumos/project/233444/version/V1/view
+

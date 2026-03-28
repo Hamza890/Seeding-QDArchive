@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Life Table According to Age, Sex and Individual Socio-economic Status for the England and Wales Population, 2011
+DOI   : https://doi.org/10.5255/ukda-sn-855689
+URL   : http://reshare.ukdataservice.ac.uk/id/eprint/855689
+

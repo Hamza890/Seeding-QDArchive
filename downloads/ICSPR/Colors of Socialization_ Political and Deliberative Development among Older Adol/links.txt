@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Colors of Socialization: Political and Deliberative Development among Older Adolescents in 10 States, 2006-2007
+DOI   : https://doi.org/10.3886/icpsr36602
+URL   : https://www.icpsr.umich.edu/web/civicleads/studies/36602
+
+Title : Colors of Socialization: Political and Deliberative Development among Older Adolescents in 10 States, 2006-2007
+DOI   : https://doi.org/10.3886/icpsr36602.v1
+URL   : https://www.icpsr.umich.edu/web/civicleads/studies/36602/versions/V1
+

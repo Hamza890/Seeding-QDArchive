@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Assessing Identity Theft Offenders' Strategies and Perceptions of Risk in the United States, 2006-2007
+DOI   : https://doi.org/10.3886/icpsr20622
+URL   : https://www.icpsr.umich.edu/web/NACJD/studies/20622
+
+Title : Assessing Identity Theft Offenders' Strategies and Perceptions of Risk in the United States, 2006-2007
+DOI   : https://doi.org/10.3886/icpsr20622.v1
+URL   : https://www.icpsr.umich.edu/web/NACJD/studies/20622/versions/V1
+

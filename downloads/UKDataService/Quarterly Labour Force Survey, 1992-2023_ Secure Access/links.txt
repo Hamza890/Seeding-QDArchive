@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Quarterly Labour Force Survey, 1992-2023: Secure Access
+DOI   : https://doi.org/10.5255/ukda-sn-6727-39
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/6727#doi
+

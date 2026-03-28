@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Afrobarometer: Round 1.5 Survey of Nigeria, 2001
+DOI   : https://doi.org/10.3886/icpsr04235
+URL   : http://www.icpsr.umich.edu/icpsrweb/ICPSR/studies/4235
+
+Title : Afrobarometer: Round 1.5 Survey of Nigeria, 2001
+DOI   : https://doi.org/10.3886/icpsr04235.v1
+URL   : http://www.icpsr.umich.edu/icpsrweb/ICPSR/studies/4235/version/1
+

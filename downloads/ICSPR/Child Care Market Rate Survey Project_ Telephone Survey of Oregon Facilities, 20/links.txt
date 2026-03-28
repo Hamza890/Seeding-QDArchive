@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Child Care Market Rate Survey Project: Telephone Survey of Oregon Facilities, 2006
+DOI   : https://doi.org/10.3886/icpsr23262
+URL   : https://www.childandfamilydataarchive.org/cfda/archives/CFDA/studies/23262
+
+Title : Child Care Market Rate Survey Project: Telephone Survey of Oregon Facilities, 2006
+DOI   : https://doi.org/10.3886/icpsr23262.v2
+URL   : https://www.childandfamilydataarchive.org/cfda/archives/CFDA/studies/23262/versions/V2
+

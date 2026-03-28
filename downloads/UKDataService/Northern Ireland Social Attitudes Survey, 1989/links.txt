@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Northern Ireland Social Attitudes Survey, 1989
+DOI   : https://doi.org/10.5255/ukda-sn-2792-1
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/2792#doi
+

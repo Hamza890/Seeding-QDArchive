@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Institute for Fiscal Studies Households Below Average Income Dataset, 1961-1991
+DOI   : https://doi.org/10.5255/ukda-sn-3300-1
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/3300#doi
+

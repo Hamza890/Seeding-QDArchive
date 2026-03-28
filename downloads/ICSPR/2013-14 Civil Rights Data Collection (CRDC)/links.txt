@@ -1,0 +1,19 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : 2013-14 Civil Rights Data Collection (CRDC)
+DOI   : https://doi.org/10.3886/e4437v1
+URL   : https://www.datalumos.org/datalumos/project/100445/version/V1/view?path=/datalumos/100445/fcr:versions/V1/CRDC-2013-14-Public-Use-Data-File-Users-Manual.pdf&type=file
+
+Title : 2013-14 Civil Rights Data Collection (CRDC)
+DOI   : https://doi.org/10.3886/e100445v1
+URL   : https://www.datalumos.org/datalumos/project/100445/version/V1/view
+
+Title : 2013-14 Civil Rights Data Collection (CRDC)
+DOI   : https://doi.org/10.3886/e100445v1-24480
+URL   : https://www.datalumos.org/datalumos/project/100445/version/V1/view?path=/datalumos/100445/fcr:versions/V1/CRDC2013_14_SCH.csv&type=file
+
+Title : 2013-14 Civil Rights Data Collection (CRDC)
+DOI   : https://doi.org/10.3886/e100445
+URL   : https://www.datalumos.org/datalumos/project/100445
+

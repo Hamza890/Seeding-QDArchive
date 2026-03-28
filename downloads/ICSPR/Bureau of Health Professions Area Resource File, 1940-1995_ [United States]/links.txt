@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Bureau of Health Professions Area Resource File, 1940-1995: [United States]
+DOI   : https://doi.org/10.3886/icpsr06897.v1
+URL   : http://www.icpsr.umich.edu/icpsrweb/ICPSR/studies/6897/version/1
+
+Title : Bureau of Health Professions Area Resource File, 1940-1995: [United States]
+DOI   : https://doi.org/10.3886/icpsr06897
+URL   : http://www.icpsr.umich.edu/icpsrweb/ICPSR/studies/6897
+

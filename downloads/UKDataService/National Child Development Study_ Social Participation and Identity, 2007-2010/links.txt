@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : National Child Development Study: Social Participation and Identity, 2007-2010
+DOI   : https://doi.org/10.5255/ukda-sn-6691-3
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/6691#doi
+

@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Chicago Crimes, 2001-2018
+DOI   : https://doi.org/10.3886/icpsr37256
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/37256
+
+Title : Chicago Crimes, 2001-2018
+DOI   : https://doi.org/10.3886/icpsr37256.v1
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/37256/versions/V1
+

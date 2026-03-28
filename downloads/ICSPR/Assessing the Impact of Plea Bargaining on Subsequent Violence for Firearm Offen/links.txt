@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Assessing the Impact of Plea Bargaining on Subsequent Violence for Firearm Offenders, Maryland, 2015-2019
+DOI   : https://doi.org/10.3886/icpsr39244.v1
+URL   : https://www.icpsr.umich.edu/web/NACJD/studies/39244/versions/V1
+
+Title : Assessing the Impact of Plea Bargaining on Subsequent Violence for Firearm Offenders, Maryland, 2015-2019
+DOI   : https://doi.org/10.3886/icpsr39244
+URL   : https://www.icpsr.umich.edu/web/NACJD/studies/39244
+

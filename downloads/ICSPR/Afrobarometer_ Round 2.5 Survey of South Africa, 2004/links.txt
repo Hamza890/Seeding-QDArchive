@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Afrobarometer: Round 2.5 Survey of South Africa, 2004
+DOI   : https://doi.org/10.3886/icpsr04702
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/4702
+

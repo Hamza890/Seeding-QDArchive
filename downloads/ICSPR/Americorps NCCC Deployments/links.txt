@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Americorps NCCC Deployments
+DOI   : https://doi.org/10.3886/e221701v2
+URL   : https://www.datalumos.org/datalumos/project/221701/version/V2/view
+
+Title : Americorps NCCC Deployments
+DOI   : https://doi.org/10.3886/e221701
+URL   : https://www.datalumos.org/datalumos/project/221701/view
+

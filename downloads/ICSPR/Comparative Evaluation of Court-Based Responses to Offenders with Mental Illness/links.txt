@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Comparative Evaluation of Court-Based Responses to Offenders with Mental Illnesses, Cook County, Illinois, 1953-2014
+DOI   : https://doi.org/10.3886/icpsr35650
+URL   : https://www.icpsr.umich.edu/icpsrweb/NACJD/studies/35650
+
+Title : Comparative Evaluation of Court-Based Responses to Offenders with Mental Illnesses, Cook County, Illinois, 1953-2014
+DOI   : https://doi.org/10.3886/icpsr35650.v1
+URL   : https://www.icpsr.umich.edu/icpsrweb/NACJD/studies/35650/versions/V1
+

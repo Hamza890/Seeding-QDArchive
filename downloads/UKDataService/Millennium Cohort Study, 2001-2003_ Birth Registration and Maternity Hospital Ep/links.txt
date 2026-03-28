@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Millennium Cohort Study, 2001-2003: Birth Registration and Maternity Hospital Episode Data
+DOI   : https://doi.org/10.5255/ukda-sn-5614-1
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/5614#doi
+

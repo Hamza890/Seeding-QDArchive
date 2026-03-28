@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : 1970 British Cohort Study: Sixteen-Year Follow-Up, 1986
+DOI   : https://doi.org/10.5255/ukda-sn-3535-4
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/3535#doi
+

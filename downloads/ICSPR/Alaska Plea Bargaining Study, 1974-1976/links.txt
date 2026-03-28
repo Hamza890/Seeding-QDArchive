@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Alaska Plea Bargaining Study, 1974-1976
+DOI   : https://doi.org/10.3886/icpsr07714
+URL   : http://www.icpsr.umich.edu/icpsrweb/NACJD/studies/7714
+

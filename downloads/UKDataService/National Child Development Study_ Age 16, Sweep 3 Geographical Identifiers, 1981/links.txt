@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : National Child Development Study: Age 16, Sweep 3 Geographical Identifiers, 1981 Census Boundaries, 1974: Secure Access
+DOI   : https://doi.org/10.5255/ukda-sn-8219-1
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/8219#doi
+

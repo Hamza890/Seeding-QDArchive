@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : An Investigation of the Use of Artificial Intelligence and Machine Learning in Store-level Hiring at Walmart, United States of America, 2020
+DOI   : https://doi.org/10.5255/ukda-sn-856526
+URL   : http://reshare.ukdataservice.ac.uk/id/eprint/856526
+

@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Census of Population and Housing, 1990 [United States]: Extract Data
+DOI   : https://doi.org/10.3886/icpsr02889
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/2889
+

@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : DQS Medicaid coverage among persons under age 65, by selected characteristics: United States (Archived)
+DOI   : https://doi.org/10.3886/e242794v1
+URL   : https://www.datalumos.org/datalumos/project/242794/version/V1/view
+
+Title : DQS Medicaid coverage among persons under age 65, by selected characteristics: United States (Archived)
+DOI   : https://doi.org/10.3886/e242794
+URL   : https://www.datalumos.org/datalumos/project/242794/view
+

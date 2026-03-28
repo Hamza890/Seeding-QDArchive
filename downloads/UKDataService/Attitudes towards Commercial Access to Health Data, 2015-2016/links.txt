@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Attitudes towards Commercial Access to Health Data, 2015-2016
+DOI   : https://doi.org/10.5255/ukda-sn-8049-1
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/8049#doi
+

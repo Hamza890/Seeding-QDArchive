@@ -1,0 +1,15 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : A Model of the Marginal Labor Supply Response to Transfer Programs, with a Historical Illustration
+DOI   : https://doi.org/10.3886/e238265v2
+URL   : https://www.openicpsr.org/openicpsr/project/238265/version/V2/view
+
+Title : A Model of the Marginal Labor Supply Response to Transfer Programs, with a Historical Illustration
+DOI   : https://doi.org/10.3886/e238265
+URL   : https://www.openicpsr.org/openicpsr/project/238265/view
+
+Title : A Model of the Marginal Labor Supply Response to Transfer Programs, with a Historical Illustration
+DOI   : https://doi.org/10.3886/e238265v1
+URL   : https://www.openicpsr.org/openicpsr/project/238265/version/V1/view
+

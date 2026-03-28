@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Census of Population and Housing, 2000 [United States]: Summary File 3, Tennessee
+DOI   : https://doi.org/10.3886/icpsr13384
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/13384
+

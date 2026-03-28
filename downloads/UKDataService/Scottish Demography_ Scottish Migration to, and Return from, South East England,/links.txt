@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Scottish Demography: Scottish Migration to, and Return from, South East England, 2005-2006
+DOI   : https://doi.org/10.5255/ukda-sn-6087-1
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/6087#doi
+

@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Americorps Segal AmeriCorps Education Award Datasets
+DOI   : https://doi.org/10.3886/e221710v3
+URL   : https://www.datalumos.org/datalumos/project/221710/version/V3/view
+
+Title : Americorps Segal AmeriCorps Education Award Datasets
+DOI   : https://doi.org/10.3886/e221710
+URL   : https://www.datalumos.org/datalumos/project/221710/view
+

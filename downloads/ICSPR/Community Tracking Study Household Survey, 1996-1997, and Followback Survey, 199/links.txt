@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Community Tracking Study Household Survey, 1996-1997, and Followback Survey, 1997-1998: [United States]
+DOI   : https://doi.org/10.3886/icpsr02524
+URL   : https://www.icpsr.umich.edu/web/HMCA/studies/2524
+

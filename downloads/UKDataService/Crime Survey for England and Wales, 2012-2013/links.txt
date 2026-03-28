@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Crime Survey for England and Wales, 2012-2013
+DOI   : https://doi.org/10.5255/ukda-sn-7422-1
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/7422#doi
+

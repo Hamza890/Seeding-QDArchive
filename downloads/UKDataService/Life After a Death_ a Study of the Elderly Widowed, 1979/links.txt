@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Life After a Death: a Study of the Elderly Widowed, 1979
+DOI   : https://doi.org/10.5255/ukda-sn-1786-2
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/1786#doi
+

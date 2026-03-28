@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : An Examination of Child Support, Debt and Prisoner Reentry Using the SVORI Adult Male Dataset, 2004-2007 (United States)
+DOI   : https://doi.org/10.3886/icpsr36066
+URL   : https://www.icpsr.umich.edu/web/NACJD/studies/36066
+
+Title : An Examination of Child Support, Debt and Prisoner Reentry Using the SVORI Adult Male Dataset, 2004-2007 (United States)
+DOI   : https://doi.org/10.3886/icpsr36066.v1
+URL   : https://www.icpsr.umich.edu/web/NACJD/studies/36066/versions/V1
+

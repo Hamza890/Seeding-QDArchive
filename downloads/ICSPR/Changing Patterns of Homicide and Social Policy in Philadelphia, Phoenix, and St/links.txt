@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Changing Patterns of Homicide and Social Policy in Philadelphia, Phoenix, and St. Louis, 1980-1994
+DOI   : https://doi.org/10.3886/icpsr02729
+URL   : http://www.icpsr.umich.edu/icpsrweb/NACJD/studies/2729
+

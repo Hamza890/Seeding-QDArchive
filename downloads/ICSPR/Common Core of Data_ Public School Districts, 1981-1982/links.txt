@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Common Core of Data: Public School Districts, 1981-1982
+DOI   : https://doi.org/10.3886/icpsr02133
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/2133
+
+Title : Common Core of Data: Public School Districts, 1981-1982
+DOI   : https://doi.org/10.3886/icpsr02133.v1
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/2133/versions/V1
+

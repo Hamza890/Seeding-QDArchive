@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Code For: Price Floors and Employer Preferences: Evidence from a Minimum Wage Experiment
+DOI   : https://doi.org/10.3886/e208551v1
+URL   : https://www.openicpsr.org/openicpsr/project/208551/version/V1/view
+
+Title : Code For: Price Floors and Employer Preferences: Evidence from a Minimum Wage Experiment
+DOI   : https://doi.org/10.3886/e208551
+URL   : https://www.openicpsr.org/openicpsr/project/208551/view
+

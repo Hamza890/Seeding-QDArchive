@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : ConnectionsRx: A Distance-Based, Community Participation Intervention for Young Adults with Serious Mental Illness (SMI)
+DOI   : https://doi.org/10.3886/e240561v1
+URL   : https://www.openicpsr.org/openicpsr/project/240561/version/V1/view
+
+Title : ConnectionsRx: A Distance-Based, Community Participation Intervention for Young Adults with Serious Mental Illness (SMI)
+DOI   : https://doi.org/10.3886/e240561
+URL   : https://www.openicpsr.org/openicpsr/project/240561/view
+

@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Comparative Effectiveness PTSD Trial of Sequenced Pharmacotherapy and Psychotherapy in Primary Care, 11 U.S. States, 2021-2024
+DOI   : https://doi.org/10.3886/icpsr39425
+URL   : https://www.icpsr.umich.edu/web/pcodr/studies/39425
+
+Title : Comparative Effectiveness PTSD Trial of Sequenced Pharmacotherapy and Psychotherapy in Primary Care, 11 U.S. States, 2021-2024
+DOI   : https://doi.org/10.3886/icpsr39425.v1
+URL   : https://www.icpsr.umich.edu/web/pcodr/studies/39425/versions/V1
+

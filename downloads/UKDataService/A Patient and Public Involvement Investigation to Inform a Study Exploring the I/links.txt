@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : A Patient and Public Involvement Investigation to Inform a Study Exploring the Impact of Low Energy Availability on Cardiovascular Health in Physically Active Females, 2022-2023
+DOI   : https://doi.org/10.5255/ukda-sn-858301
+URL   : http://reshare.ukdataservice.ac.uk/id/eprint/858301
+

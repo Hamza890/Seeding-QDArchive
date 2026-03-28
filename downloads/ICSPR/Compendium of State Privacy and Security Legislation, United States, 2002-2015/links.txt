@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Compendium of State Privacy and Security Legislation, United States, 2002-2015
+DOI   : https://doi.org/10.3886/icpsr37826
+URL   : https://www.icpsr.umich.edu/web/NACJD/studies/37826
+
+Title : Compendium of State Privacy and Security Legislation, United States, 2002-2015
+DOI   : https://doi.org/10.3886/icpsr37826.v1
+URL   : https://www.icpsr.umich.edu/web/NACJD/studies/37826/versions/V1
+

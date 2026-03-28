@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Ashford, 1840 - 1870: a Socio-demographic Study
+DOI   : https://doi.org/10.5255/ukda-sn-2948-1
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/2948#doi
+

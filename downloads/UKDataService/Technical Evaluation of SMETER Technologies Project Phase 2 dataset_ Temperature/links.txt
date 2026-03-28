@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Technical Evaluation of SMETER Technologies Project Phase 2 dataset: Temperature, Relative Humidity, Dwelling Information, and Local Weather, 2019-2020
+DOI   : https://doi.org/10.5255/ukda-sn-854701
+URL   : http://reshare.ukdataservice.ac.uk/id/eprint/854701
+

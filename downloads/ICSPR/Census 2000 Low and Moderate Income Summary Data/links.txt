@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Census 2000 Low and Moderate Income Summary Data
+DOI   : https://doi.org/10.3886/e220601v3
+URL   : https://www.datalumos.org/datalumos/project/220601/version/V3/view
+
+Title : Census 2000 Low and Moderate Income Summary Data
+DOI   : https://doi.org/10.3886/e220601
+URL   : https://www.datalumos.org/datalumos/project/220601/view
+

@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Boys Town Study of Youth Development, United States, mid-1970s
+DOI   : https://doi.org/10.3886/icpsr34595
+URL   : https://www.icpsr.umich.edu/web/NAHDAP/studies/34595
+
+Title : Boys Town Study of Youth Development, United States, mid-1970s
+DOI   : https://doi.org/10.3886/icpsr34595.v3
+URL   : https://www.icpsr.umich.edu/web/NAHDAP/studies/34595/versions/V3
+

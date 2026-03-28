@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Changing Attitudes and Motivation in Parolees (CHAMPS) Pilot Study in Dallas, Denver, and Des Moines, 2015-2016
+DOI   : https://doi.org/10.3886/icpsr37091.v1
+URL   : https://www.icpsr.umich.edu/icpsrweb/NACJD/studies/37091/versions/V1
+
+Title : Changing Attitudes and Motivation in Parolees (CHAMPS) Pilot Study in Dallas, Denver, and Des Moines, 2015-2016
+DOI   : https://doi.org/10.3886/icpsr37091
+URL   : https://www.icpsr.umich.edu/icpsrweb/NACJD/studies/37091
+

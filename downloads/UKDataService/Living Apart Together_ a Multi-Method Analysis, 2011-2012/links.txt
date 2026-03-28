@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Living Apart Together: a Multi-Method Analysis, 2011-2012
+DOI   : https://doi.org/10.5255/ukda-sn-7411-1
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/7411#doi
+

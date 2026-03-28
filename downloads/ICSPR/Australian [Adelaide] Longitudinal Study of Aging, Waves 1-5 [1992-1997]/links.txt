@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Australian [Adelaide] Longitudinal Study of Aging, Waves 1-5 [1992-1997]
+DOI   : https://doi.org/10.3886/icpsr06707
+URL   : https://www.icpsr.umich.edu/web/NACDA/studies/6707
+

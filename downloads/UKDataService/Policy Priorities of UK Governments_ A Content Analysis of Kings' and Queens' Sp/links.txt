@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Policy Priorities of UK Governments: A Content Analysis of Kings' and Queens' Speeches, 1940-2005
+DOI   : https://doi.org/10.5255/ukda-sn-5776-1
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/5776#doi
+

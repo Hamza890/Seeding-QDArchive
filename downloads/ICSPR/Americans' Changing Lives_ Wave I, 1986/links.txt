@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Americans' Changing Lives: Wave I, 1986
+DOI   : https://doi.org/10.3886/icpsr09267.v1
+URL   : http://www.icpsr.umich.edu/icpsrweb/ICPSR/studies/9267/version/1
+
+Title : Americans' Changing Lives: Wave I, 1986
+DOI   : https://doi.org/10.3886/icpsr09267
+URL   : http://www.icpsr.umich.edu/icpsrweb/ICPSR/studies/9267
+

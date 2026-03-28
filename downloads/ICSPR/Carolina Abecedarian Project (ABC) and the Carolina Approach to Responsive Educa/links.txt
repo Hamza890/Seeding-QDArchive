@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Carolina Abecedarian Project (ABC) and the Carolina Approach to Responsive Education (CARE), Age 21 Follow Up Study, 1993 - 2003
+DOI   : https://doi.org/10.3886/icpsr32262
+URL   : https://www.childandfamilydataarchive.org/cfda/archives/CFDA/studies/32262
+
+Title : Carolina Abecedarian Project (ABC) and the Carolina Approach to Responsive Education (CARE), Age 21 Follow Up Study, 1993 - 2003
+DOI   : https://doi.org/10.3886/icpsr32262.v1
+URL   : https://www.childandfamilydataarchive.org/cfda/archives/CFDA/studies/32262/versions/V1
+

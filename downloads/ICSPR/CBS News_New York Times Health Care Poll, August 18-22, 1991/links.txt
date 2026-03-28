@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : CBS News/New York Times Health Care Poll, August 18-22, 1991
+DOI   : https://doi.org/10.3886/icpsr09862
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/9862
+
+Title : CBS News/New York Times Health Care Poll, August 18-22, 1991
+DOI   : https://doi.org/10.3886/icpsr09862.v1
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/9862/versions/V1
+

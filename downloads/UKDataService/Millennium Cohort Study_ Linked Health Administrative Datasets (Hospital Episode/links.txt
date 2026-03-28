@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Millennium Cohort Study: Linked Health Administrative Datasets (Hospital Episode Statistics), England, 2000-2023: Secure Access
+DOI   : https://doi.org/10.5255/ukda-sn-9030-3
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/9030#doi
+

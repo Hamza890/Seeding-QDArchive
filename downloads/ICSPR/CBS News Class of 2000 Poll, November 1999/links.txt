@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : CBS News Class of 2000 Poll, November 1999
+DOI   : https://doi.org/10.3886/icpsr02871
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/2871
+
+Title : CBS News Class of 2000 Poll, November 1999
+DOI   : https://doi.org/10.3886/icpsr02871.v1
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/2871/versions/V1
+

@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Local Economic Development Survey : North West and Eastern Region, 1995-1996
+DOI   : https://doi.org/10.5255/ukda-sn-3973-1
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/3973#doi
+

@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Electrification of Heat Demonstration Project: Heat Pump Performance Raw Data, 2020-2022
+DOI   : https://doi.org/10.5255/ukda-sn-9049-1
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/9049#doi
+

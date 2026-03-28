@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : CBS News/New York Times O.J. Simpson Poll #1, July 1994
+DOI   : https://doi.org/10.3886/icpsr06601
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/6601
+
+Title : CBS News/New York Times O.J. Simpson Poll #1, July 1994
+DOI   : https://doi.org/10.3886/icpsr06601.v1
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/6601/versions/V1
+

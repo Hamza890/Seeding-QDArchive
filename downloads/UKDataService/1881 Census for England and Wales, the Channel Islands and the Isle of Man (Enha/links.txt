@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : 1881 Census for England and Wales, the Channel Islands and the Isle of Man (Enhanced Version)
+DOI   : https://doi.org/10.5255/ukda-sn-4177-1
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/4177#doi
+

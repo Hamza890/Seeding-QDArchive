@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Association Between Lifetime Noise Exposure and Audiometric Thresholds using the Noise Exposure Structured Interview
+DOI   : https://doi.org/10.3886/e246864v1
+URL   : https://www.openicpsr.org/openicpsr/project/246864/version/V1/view
+
+Title : Association Between Lifetime Noise Exposure and Audiometric Thresholds using the Noise Exposure Structured Interview
+DOI   : https://doi.org/10.3886/e246864
+URL   : https://www.openicpsr.org/openicpsr/project/246864/view
+

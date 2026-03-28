@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : CDC - Percent Positivity of Respiratory Syncytial Virus Nucleic Acid Amplification Tests by HHS Region, National Respiratory and Enteric Virus Surveillance System
+DOI   : https://doi.org/10.3886/e238549v1
+URL   : https://www.datalumos.org/datalumos/project/238549/version/V1/view
+
+Title : CDC - Percent Positivity of Respiratory Syncytial Virus Nucleic Acid Amplification Tests by HHS Region, National Respiratory and Enteric Virus Surveillance System
+DOI   : https://doi.org/10.3886/e238549
+URL   : https://www.datalumos.org/datalumos/project/238549/view
+

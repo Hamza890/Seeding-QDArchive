@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : National Diet, Nutrition and Dental Survey of Children Aged 1 1/2 to 4 1/2 Years, 1992-1993
+DOI   : https://doi.org/10.5255/ukda-sn-3481-1
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/3481#doi
+

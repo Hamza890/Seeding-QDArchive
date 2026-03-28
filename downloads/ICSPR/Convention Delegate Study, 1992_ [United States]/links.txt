@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Convention Delegate Study, 1992: [United States]
+DOI   : https://doi.org/10.3886/icpsr06353
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/6353
+
+Title : Convention Delegate Study, 1992: [United States]
+DOI   : https://doi.org/10.3886/icpsr06353.v1
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/6353/versions/V1
+

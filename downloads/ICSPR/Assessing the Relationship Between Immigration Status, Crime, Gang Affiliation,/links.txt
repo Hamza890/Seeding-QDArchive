@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Assessing the Relationship Between Immigration Status, Crime, Gang Affiliation, and Victimization, Arizona, 2007-2023
+DOI   : https://doi.org/10.3886/icpsr39107
+URL   : https://www.icpsr.umich.edu/web/NACJD/studies/39107
+
+Title : Assessing the Relationship Between Immigration Status, Crime, Gang Affiliation, and Victimization, Arizona, 2007-2023
+DOI   : https://doi.org/10.3886/icpsr39107.v1
+URL   : https://www.icpsr.umich.edu/web/NACJD/studies/39107/versions/V1
+

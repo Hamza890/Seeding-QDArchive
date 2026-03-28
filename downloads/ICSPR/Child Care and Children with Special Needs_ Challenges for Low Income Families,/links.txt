@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Child Care and Children with Special Needs: Challenges for Low Income Families, Maine, United States, 2002-2005
+DOI   : https://doi.org/10.3886/icpsr27001
+URL   : https://www.childandfamilydataarchive.org/cfda/archives/CFDA/studies/27001
+
+Title : Child Care and Children with Special Needs: Challenges for Low Income Families, Maine, United States, 2002-2005
+DOI   : https://doi.org/10.3886/icpsr27001.v2
+URL   : https://www.childandfamilydataarchive.org/cfda/archives/CFDA/studies/27001/versions/V2
+

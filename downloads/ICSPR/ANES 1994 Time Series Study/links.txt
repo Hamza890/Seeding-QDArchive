@@ -1,0 +1,19 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : ANES 1994 Time Series Study
+DOI   : https://doi.org/10.3886/icpsr06507
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/6507
+
+Title : ANES 1994 Time Series Study
+DOI   : https://doi.org/10.3886/icpsr06507.v3
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/6507/versions/V3
+
+Title : ANES 1994 Time Series Study
+DOI   : https://doi.org/10.3886/icpsr06507.v1
+URL   : http://www.icpsr.umich.edu/icpsrweb/ICPSR/studies/6507/version/1
+
+Title : ANES 1994 Time Series Study
+DOI   : https://doi.org/10.3886/icpsr06507.v2
+URL   : http://www.icpsr.umich.edu/icpsrweb/ICPSR/studies/6507/version/2
+

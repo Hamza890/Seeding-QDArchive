@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : National Child Development Study: Biomedical Survey: Medication, Childhood Adversity and Sensitive Biomeasures, 2002-2004: Special Licence Access
+DOI   : https://doi.org/10.5255/ukda-sn-5594-3
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/5594#doi
+

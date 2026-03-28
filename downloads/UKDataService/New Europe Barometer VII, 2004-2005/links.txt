@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : New Europe Barometer VII, 2004-2005
+DOI   : https://doi.org/10.5255/ukda-sn-5243-1
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/5243#doi
+

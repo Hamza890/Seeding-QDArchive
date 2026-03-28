@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Center for Education and Drug Abuse Research (CEDAR): Etiological and Prospective Family Study in Southwestern Pennsylvania, Baseline and Follow-Up Data, 1990-2014
+DOI   : https://doi.org/10.3886/icpsr33444
+URL   : https://www.icpsr.umich.edu/web/NAHDAP/studies/33444
+
+Title : Center for Education and Drug Abuse Research (CEDAR): Etiological and Prospective Family Study in Southwestern Pennsylvania, Baseline and Follow-Up Data, 1990-2014
+DOI   : https://doi.org/10.3886/icpsr33444.v2
+URL   : https://www.icpsr.umich.edu/web/NAHDAP/studies/33444/versions/V2
+

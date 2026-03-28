@@ -1,0 +1,19 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : CBS News/New York Times New Jersey State Survey, October 2002
+DOI   : https://doi.org/10.3886/icpsr03709
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/3709
+
+Title : CBS News/New York Times New Jersey State Survey, October 2002
+DOI   : https://doi.org/10.3886/icpsr03709.v3
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/3709/versions/V3
+
+Title : CBS News/New York Times New Jersey State Survey, October 2002
+DOI   : https://doi.org/10.3886/icpsr03709.v2
+URL   : http://www.icpsr.umich.edu/icpsrweb/ICPSR/studies/3709/version/2
+
+Title : CBS News/New York Times New Jersey State Survey, October 2002
+DOI   : https://doi.org/10.3886/icpsr03709.v1
+URL   : http://www.icpsr.umich.edu/icpsrweb/ICPSR/studies/3709/version/1
+

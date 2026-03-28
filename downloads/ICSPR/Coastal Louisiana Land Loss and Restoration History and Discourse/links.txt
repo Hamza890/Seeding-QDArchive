@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Coastal Louisiana Land Loss and Restoration History and Discourse
+DOI   : https://doi.org/10.3886/e196045v1
+URL   : https://www.openicpsr.org/openicpsr/project/196045/version/V1/view
+
+Title : Coastal Louisiana Land Loss and Restoration History and Discourse
+DOI   : https://doi.org/10.3886/e196045
+URL   : https://www.openicpsr.org/openicpsr/project/196045/view
+

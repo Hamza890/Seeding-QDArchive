@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Controlling Victimization in Schools: Effective Discipline and Control Strategies in a County in Ohio, 1994
+DOI   : https://doi.org/10.3886/icpsr02587
+URL   : http://www.icpsr.umich.edu/icpsrweb/NACJD/studies/2587
+
+Title : Controlling Victimization in Schools: Effective Discipline and Control Strategies in a County in Ohio, 1994
+DOI   : https://doi.org/10.3886/icpsr02587.v1
+URL   : http://www.icpsr.umich.edu/icpsrweb/NACJD/studies/2587/version/1
+

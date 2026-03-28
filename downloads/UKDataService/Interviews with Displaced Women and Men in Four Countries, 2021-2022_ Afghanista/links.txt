@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Interviews with Displaced Women and Men in Four Countries, 2021-2022: Afghanistan, Ethiopia, Jordan, and Kenya
+DOI   : https://doi.org/10.5255/ukda-sn-9261-1
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/9261#doi
+

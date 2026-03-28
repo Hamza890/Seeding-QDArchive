@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Labour Force Survey Five-Quarter Longitudinal Dataset, July 2012 - September 2013
+DOI   : https://doi.org/10.5255/ukda-sn-7652-4
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/7652#doi
+

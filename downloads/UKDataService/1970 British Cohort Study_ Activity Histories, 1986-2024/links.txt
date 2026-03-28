@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : 1970 British Cohort Study: Activity Histories, 1986-2024
+DOI   : https://doi.org/10.5255/ukda-sn-6943-5
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/6943#doi
+

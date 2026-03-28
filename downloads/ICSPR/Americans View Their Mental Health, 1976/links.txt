@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Americans View Their Mental Health, 1976
+DOI   : https://doi.org/10.3886/icpsr07948
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/7948
+
+Title : Americans View Their Mental Health, 1976
+DOI   : https://doi.org/10.3886/icpsr07948.v1
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/7948/versions/V1
+

@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Chinese STEM faculty interviews
+DOI   : https://doi.org/10.3886/e150661v1
+URL   : https://www.openicpsr.org/openicpsr/project/150661/version/V1/view
+
+Title : Chinese STEM faculty interviews
+DOI   : https://doi.org/10.3886/e150661
+URL   : https://www.openicpsr.org/openicpsr/project/150661/view
+

@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : 2022 Annual Survey of Refugees
+DOI   : https://doi.org/10.3886/e209224v1-191832
+URL   : https://www.openicpsr.org/openicpsr/project/209224/version/V1/view?path=/openicpsr/209224/fcr:versions/V1/2022-ASR_Public_Use.sav&type=file
+
+Title : 2022 Annual Survey of Refugees
+DOI   : https://doi.org/10.3886/e209224v1-189673
+URL   : https://www.openicpsr.org/openicpsr/project/209224/version/V1/view?path=/openicpsr/209224/fcr:versions/V1/Data-Dictionary--person-level-variables-weighted-.pdf&type=file
+

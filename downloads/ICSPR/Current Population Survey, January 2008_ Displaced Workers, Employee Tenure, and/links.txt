@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Current Population Survey, January 2008: Displaced Workers, Employee Tenure, and Occupational Mobility Supplement
+DOI   : https://doi.org/10.3886/icpsr24562
+URL   : http://www.icpsr.umich.edu/icpsrweb/RCMD/studies/24562
+

@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Comparison of Drug Control Strategies in San Diego, 1989
+DOI   : https://doi.org/10.3886/icpsr09990
+URL   : https://www.icpsr.umich.edu/web/NACJD/studies/9990
+
+Title : Comparison of Drug Control Strategies in San Diego, 1989
+DOI   : https://doi.org/10.3886/icpsr09990.v2
+URL   : https://www.icpsr.umich.edu/web/NACJD/studies/9990/versions/V2
+

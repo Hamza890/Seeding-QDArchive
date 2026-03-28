@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Growing up on the Streets: Research with and for young people on the streets, 2012-2016
+DOI   : https://doi.org/10.5255/ukda-sn-854123
+URL   : http://reshare.ukdataservice.ac.uk/id/eprint/854123
+

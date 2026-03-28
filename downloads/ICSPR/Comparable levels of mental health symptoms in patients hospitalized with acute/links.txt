@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Comparable levels of mental health symptoms in patients hospitalized with acute illness and patients hospitalized with injury, 2018 - 2021
+DOI   : https://doi.org/10.3886/e193190v2-191708
+URL   : https://www.openicpsr.org/openicpsr/project/193190/version/V2/view?path=/openicpsr/193190/fcr:versions/V2/Data/Carlson-MH-Illness-Injury-data.sav&type=file
+

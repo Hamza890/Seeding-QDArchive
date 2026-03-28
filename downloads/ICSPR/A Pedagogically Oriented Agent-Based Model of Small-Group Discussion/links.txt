@@ -1,0 +1,15 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : A Pedagogically Oriented Agent-Based Model of Small-Group Discussion
+DOI   : https://doi.org/10.3886/e225081v2
+URL   : https://www.openicpsr.org/openicpsr/project/225081/version/V2/view
+
+Title : A Pedagogically Oriented Agent-Based Model of Small-Group Discussion
+DOI   : https://doi.org/10.3886/e225081v1
+URL   : https://www.openicpsr.org/openicpsr/project/225081/version/V1/view
+
+Title : A Pedagogically Oriented Agent-Based Model of Small-Group Discussion
+DOI   : https://doi.org/10.3886/e225081
+URL   : https://www.openicpsr.org/openicpsr/project/225081/view
+

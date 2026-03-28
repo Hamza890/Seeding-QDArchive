@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Annual Population Survey, July 2019 - June 2020
+DOI   : https://doi.org/10.5255/ukda-sn-8685-6
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/8685#doi
+

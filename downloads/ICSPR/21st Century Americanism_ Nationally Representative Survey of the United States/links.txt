@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : 21st Century Americanism: Nationally Representative Survey of the United States Population, 2004
+DOI   : https://doi.org/10.3886/icpsr27601.v1
+URL   : http://www.icpsr.umich.edu/icpsrweb/RCMD/studies/27601/version/1
+
+Title : 21st Century Americanism: Nationally Representative Survey of the United States Population, 2004
+DOI   : https://doi.org/10.3886/icpsr27601.v2
+URL   : http://www.icpsr.umich.edu/icpsrweb/RCMD/studies/27601/version/2
+

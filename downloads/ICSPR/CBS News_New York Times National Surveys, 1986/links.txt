@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : CBS News/New York Times National Surveys, 1986
+DOI   : https://doi.org/10.3886/icpsr08695
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/8695
+
+Title : CBS News/New York Times National Surveys, 1986
+DOI   : https://doi.org/10.3886/icpsr08695.v1
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/8695/versions/V1
+

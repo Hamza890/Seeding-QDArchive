@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Annual Population Survey, October 2016 - September 2017
+DOI   : https://doi.org/10.5255/ukda-sn-8304-4
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/8304#doi
+

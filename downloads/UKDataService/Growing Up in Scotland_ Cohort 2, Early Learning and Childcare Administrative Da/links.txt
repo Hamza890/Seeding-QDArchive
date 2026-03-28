@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Growing Up in Scotland: Cohort 2, Early Learning and Childcare Administrative Data, 2013-2015: Secure Access
+DOI   : https://doi.org/10.5255/ukda-sn-8544-1
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/8544#doi
+

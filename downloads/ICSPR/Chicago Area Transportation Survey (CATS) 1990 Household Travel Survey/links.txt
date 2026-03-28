@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Chicago Area Transportation Survey (CATS) 1990 Household Travel Survey
+DOI   : https://doi.org/10.3886/icpsr34908
+URL   : http://www.icpsr.umich.edu/icpsrweb/ICPSR/studies/34908
+
+Title : Chicago Area Transportation Survey (CATS) 1990 Household Travel Survey
+DOI   : https://doi.org/10.3886/icpsr34908.v1
+URL   : http://www.icpsr.umich.edu/icpsrweb/ICPSR/studies/34908/version/1
+

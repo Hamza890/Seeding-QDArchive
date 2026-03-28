@@ -1,0 +1,19 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Building Strong Families (BSF) Project Data Collection, 2005-2008, United States
+DOI   : https://doi.org/10.3886/icpsr29781.v1
+URL   : http://www.icpsr.umich.edu/icpsrweb/ICPSR/studies/29781/version/1
+
+Title : Building Strong Families (BSF) Project Data Collection, 2005-2008, United States
+DOI   : https://doi.org/10.3886/icpsr29781.v2
+URL   : http://www.icpsr.umich.edu/icpsrweb/ICPSR/studies/29781/version/2
+
+Title : Building Strong Families (BSF) Project Data Collection, 2005-2008, United States
+DOI   : https://doi.org/10.3886/icpsr29781
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/29781
+
+Title : Building Strong Families (BSF) Project Data Collection, 2005-2008, United States
+DOI   : https://doi.org/10.3886/icpsr29781.v3
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/29781/versions/V3
+

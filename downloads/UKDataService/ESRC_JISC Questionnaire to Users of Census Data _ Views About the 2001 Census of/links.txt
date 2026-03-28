@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : ESRC/JISC Questionnaire to Users of Census Data : Views About the 2001 Census of Population, 1997
+DOI   : https://doi.org/10.5255/ukda-sn-3950-1
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/3950#doi
+

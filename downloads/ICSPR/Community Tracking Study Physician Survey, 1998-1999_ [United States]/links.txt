@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Community Tracking Study Physician Survey, 1998-1999: [United States]
+DOI   : https://doi.org/10.3886/icpsr03267
+URL   : https://www.icpsr.umich.edu/web/HMCA/studies/3267
+

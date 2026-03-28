@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Asthma in children younger than age 18, by selected characteristics: United States.
+DOI   : https://doi.org/10.3886/e242795v1
+URL   : https://www.datalumos.org/datalumos/project/242795/version/V1/view
+
+Title : Asthma in children younger than age 18, by selected characteristics: United States.
+DOI   : https://doi.org/10.3886/e242795
+URL   : https://www.datalumos.org/datalumos/project/242795/view
+

@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Art and Anti-Racism in Latin America, 2023
+DOI   : https://doi.org/10.5255/ukda-sn-856647
+URL   : http://reshare.ukdataservice.ac.uk/id/eprint/856647
+

@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Adult Respite Care Funded or Provided by State Governments, 1992: [United States]
+DOI   : https://doi.org/10.3886/icpsr06584
+URL   : http://www.icpsr.umich.edu/icpsrweb/HMCA/studies/6584
+
+Title : Adult Respite Care Funded or Provided by State Governments, 1992: [United States]
+DOI   : https://doi.org/10.3886/icpsr06584.v1
+URL   : http://www.icpsr.umich.edu/icpsrweb/HMCA/studies/6584/version/1
+

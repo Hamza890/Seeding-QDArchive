@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : English House Condition Survey, 1986: Interview and Market Value Surveys
+DOI   : https://doi.org/10.5255/ukda-sn-3209-1
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/3209#doi
+
+Title : English House Condition Survey, 1986: Interview and Market Value Surveys
+DOI   : https://doi.org/10.5255/ukda-sn-3209-3
+URL   : http://discover.ukdataservice.ac.uk/doi?sn=3209#3
+

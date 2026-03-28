@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Charleston Heart Study, Charleston, South Carolina, 1960-2000
+DOI   : https://doi.org/10.3886/icpsr04050
+URL   : https://www.icpsr.umich.edu/web/NACDA/studies/4050
+

@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Commissioning Public Art Through Community Engagement Arts to Improve Health and Social-Emotional Well-Being by Reducing Youth Firearm Injury, Detroit, Michigan, 2022-2025
+DOI   : https://doi.org/10.3886/icpsr39450
+URL   : https://www.icpsr.umich.edu/web/NADAC/studies/39450
+
+Title : Commissioning Public Art Through Community Engagement Arts to Improve Health and Social-Emotional Well-Being by Reducing Youth Firearm Injury, Detroit, Michigan, 2022-2025
+DOI   : https://doi.org/10.3886/icpsr39450.v1
+URL   : https://www.icpsr.umich.edu/web/NADAC/studies/39450/versions/V1
+

@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Comparison of Youth Released From a Residential Substance Abuse Treatment Center to Youth at a Traditional Juvenile Correctional Center in Virginia, 1998-2000
+DOI   : https://doi.org/10.3886/icpsr03538
+URL   : https://www.icpsr.umich.edu/web/NACJD/studies/3538
+
+Title : Comparison of Youth Released From a Residential Substance Abuse Treatment Center to Youth at a Traditional Juvenile Correctional Center in Virginia, 1998-2000
+DOI   : https://doi.org/10.3886/icpsr03538.v1
+URL   : https://www.icpsr.umich.edu/web/NACJD/studies/3538/versions/V1
+

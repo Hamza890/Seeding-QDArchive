@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : ANES 1978 Time Series Study
+DOI   : https://doi.org/10.3886/icpsr07655
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/7655
+
+Title : ANES 1978 Time Series Study
+DOI   : https://doi.org/10.3886/icpsr07655.v4
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/7655/versions/V4
+

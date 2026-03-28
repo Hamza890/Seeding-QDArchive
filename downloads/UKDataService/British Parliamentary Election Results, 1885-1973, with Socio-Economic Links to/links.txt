@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : British Parliamentary Election Results, 1885-1973, with Socio-Economic Links to 1931 Census
+DOI   : https://doi.org/10.5255/ukda-sn-8046-1
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/8046#doi
+

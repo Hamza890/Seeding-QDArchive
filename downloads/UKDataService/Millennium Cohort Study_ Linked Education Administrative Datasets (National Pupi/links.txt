@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Millennium Cohort Study: Linked Education Administrative Datasets (National Pupil Database - KS1-KS5), England, 2003-2021: Secure Access
+DOI   : https://doi.org/10.5255/ukda-sn-8481-3
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/8481#doi
+

@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : CFPB Making Ends Meet Survey Public Use Data
+DOI   : https://doi.org/10.3886/e237670v1
+URL   : https://www.datalumos.org/datalumos/project/237670/version/V1/view
+
+Title : CFPB Making Ends Meet Survey Public Use Data
+DOI   : https://doi.org/10.3886/e237670
+URL   : https://www.datalumos.org/datalumos/project/237670/view
+

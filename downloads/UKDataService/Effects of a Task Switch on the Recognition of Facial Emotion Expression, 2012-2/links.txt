@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Effects of a Task Switch on the Recognition of Facial Emotion Expression, 2012-2013
+DOI   : https://doi.org/10.5255/ukda-sn-855092
+URL   : http://reshare.ukdataservice.ac.uk/id/eprint/855092
+

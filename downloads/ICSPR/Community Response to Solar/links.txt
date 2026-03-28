@@ -1,0 +1,15 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Community Response to Solar
+DOI   : https://doi.org/10.3886/e131561v2
+URL   : https://www.openicpsr.org/openicpsr/project/131561/version/V2/view
+
+Title : Community Response to Solar
+DOI   : https://doi.org/10.3886/e131561
+URL   : https://www.openicpsr.org/openicpsr/project/131561/view
+
+Title : Community Response to Solar
+DOI   : https://doi.org/10.3886/e131561v1
+URL   : https://www.openicpsr.org/openicpsr/project/131561/version/V1/view
+

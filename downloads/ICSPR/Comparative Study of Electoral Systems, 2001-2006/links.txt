@@ -1,0 +1,15 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Comparative Study of Electoral Systems, 2001-2006
+DOI   : https://doi.org/10.3886/icpsr03808
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/3808
+
+Title : Comparative Study of Electoral Systems, 2001-2006
+DOI   : https://doi.org/10.3886/icpsr03808.v2
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/3808/versions/V2
+
+Title : Comparative Study of Electoral Systems, 2001-2006
+DOI   : https://doi.org/10.3886/icpsr03808.v1
+URL   : http://www.icpsr.umich.edu/icpsrweb/ICPSR/studies/3808/version/1
+

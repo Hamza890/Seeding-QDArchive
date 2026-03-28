@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Afrobarometer Round 6: The Quality of Democracy and Governance in Burundi, 2014
+DOI   : https://doi.org/10.3886/icpsr36645
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/36645
+
+Title : Afrobarometer Round 6: The Quality of Democracy and Governance in Burundi, 2014
+DOI   : https://doi.org/10.3886/icpsr36645.v1
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/36645/versions/V1
+

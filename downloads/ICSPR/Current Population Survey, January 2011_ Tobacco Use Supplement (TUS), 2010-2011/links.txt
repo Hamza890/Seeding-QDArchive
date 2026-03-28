@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Current Population Survey, January 2011: Tobacco Use Supplement (TUS), 2010-2011 Wave
+DOI   : https://doi.org/10.3886/icpsr36416
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/36416
+

@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : School Leavers Study, 1978
+DOI   : https://doi.org/10.5255/ukda-sn-4867-1
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/4867#doi
+

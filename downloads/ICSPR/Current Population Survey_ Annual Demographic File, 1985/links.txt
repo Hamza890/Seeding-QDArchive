@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Current Population Survey: Annual Demographic File, 1985
+DOI   : https://doi.org/10.3886/icpsr08432
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/8432
+
+Title : Current Population Survey: Annual Demographic File, 1985
+DOI   : https://doi.org/10.3886/icpsr08432.v1
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/8432/versions/V1
+

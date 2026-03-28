@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Afrobarometer Round 4: The Quality of Democracy and Governance in Benin, 2008
+DOI   : https://doi.org/10.3886/icpsr33823
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/33823
+
+Title : Afrobarometer Round 4: The Quality of Democracy and Governance in Benin, 2008
+DOI   : https://doi.org/10.3886/icpsr33823.v1
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/33823/versions/V1
+

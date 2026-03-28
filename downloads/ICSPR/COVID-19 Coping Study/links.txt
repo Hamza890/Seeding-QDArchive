@@ -1,0 +1,43 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : COVID-19 Coping Study
+DOI   : https://doi.org/10.3886/e131022v3-142861
+URL   : https://www.openicpsr.org/openicpsr/project/131022/version/V3/view?path=/openicpsr/131022/fcr:versions/V3/1-Month-questionnaire.pdf&type=file
+
+Title : COVID-19 Coping Study
+DOI   : https://doi.org/10.3886/e131022v3-131417
+URL   : https://www.openicpsr.org/openicpsr/project/131022/version/V3/view?path=/openicpsr/131022/fcr:versions/V3/10-Month-questionnaire.pdf&type=file
+
+Title : COVID-19 Coping Study
+DOI   : https://doi.org/10.3886/e131022v3
+URL   : https://www.openicpsr.org/openicpsr/project/131022/version/V3/view
+
+Title : COVID-19 Coping Study
+DOI   : https://doi.org/10.3886/e131022
+URL   : https://www.openicpsr.org/openicpsr/project/131022/view
+
+Title : COVID-19 Coping Study
+DOI   : https://doi.org/10.3886/e131022v2
+URL   : https://www.openicpsr.org/openicpsr/project/131022/version/V2/view
+
+Title : COVID-19 Coping Study
+DOI   : https://doi.org/10.3886/e131022v1-107820
+URL   : https://www.openicpsr.org/openicpsr/project/131022/version/V1/view?path=/openicpsr/131022/fcr:versions/V1.1/C19CS-Data-Numeric.csv&type=file
+
+Title : COVID-19 Coping Study
+DOI   : https://doi.org/10.3886/e131022v1-101182
+URL   : https://www.openicpsr.org/openicpsr/project/131022/version/V1/view?path=/openicpsr/131022/fcr:versions/V1.1/C19CS-Codebook-t0-t6.xlsx&type=file
+
+Title : COVID-19 Coping Study
+DOI   : https://doi.org/10.3886/e131022v1-100441
+URL   : https://www.openicpsr.org/openicpsr/project/131022/version/V1/view?path=/openicpsr/131022/fcr:versions/V1.1/C19CS-Data-Labeled.csv&type=file
+
+Title : COVID-19 Coping Study
+DOI   : https://doi.org/10.3886/e131022v1-99960
+URL   : https://www.openicpsr.org/openicpsr/project/131022/version/V1/view?path=/openicpsr/131022/fcr:versions/V1.1/ICPSR-Study-Recruitment-Diagram.pdf&type=file
+
+Title : COVID-19 Coping Study
+DOI   : https://doi.org/10.3886/e131022v1
+URL   : https://www.openicpsr.org/openicpsr/project/131022/version/V1/view
+

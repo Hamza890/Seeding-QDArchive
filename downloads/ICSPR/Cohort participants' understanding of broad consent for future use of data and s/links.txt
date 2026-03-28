@@ -1,0 +1,15 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Cohort participants' understanding of broad consent for future use of data and samples. A cognitive interview study of the University of California at Berkeley's template informed consent form for biomedical research.
+DOI   : https://doi.org/10.3886/e173322v2
+URL   : https://www.openicpsr.org/openicpsr/project/173322/version/V2/view
+
+Title : Cohort participants' understanding of broad consent for future use of data and samples. A cognitive interview study of the University of California at Berkeley's template informed consent form for biomedical research.
+DOI   : https://doi.org/10.3886/e173322
+URL   : https://www.openicpsr.org/openicpsr/project/173322/view
+
+Title : Cohort participants' understanding of broad consent for future use of data and samples. A cognitive interview study of the University of California at Berkeley's template informed consent form for biomedical research.
+DOI   : https://doi.org/10.3886/e173322v1
+URL   : https://www.openicpsr.org/openicpsr/project/173322/version/V1/view
+

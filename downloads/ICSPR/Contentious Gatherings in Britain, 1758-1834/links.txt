@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Contentious Gatherings in Britain, 1758-1834
+DOI   : https://doi.org/10.3886/icpsr08872
+URL   : http://www.icpsr.umich.edu/icpsrweb/ICPSR/studies/8872
+

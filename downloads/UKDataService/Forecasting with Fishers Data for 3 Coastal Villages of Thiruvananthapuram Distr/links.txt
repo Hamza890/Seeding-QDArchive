@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Forecasting with Fishers Data for 3 Coastal Villages of Thiruvananthapuram District, India, 2020-2022
+DOI   : https://doi.org/10.5255/ukda-sn-856463
+URL   : http://reshare.ukdataservice.ac.uk/id/eprint/856463
+

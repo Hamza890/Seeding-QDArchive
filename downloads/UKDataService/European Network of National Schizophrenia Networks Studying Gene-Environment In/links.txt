@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : European Network of National Schizophrenia Networks Studying Gene-Environment Interactions, 2010-2015
+DOI   : https://doi.org/10.5255/ukda-sn-858069
+URL   : http://reshare.ukdataservice.ac.uk/id/eprint/858069
+

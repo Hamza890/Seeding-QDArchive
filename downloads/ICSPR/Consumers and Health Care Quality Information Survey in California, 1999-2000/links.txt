@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Consumers and Health Care Quality Information Survey in California, 1999-2000
+DOI   : https://doi.org/10.3886/icpsr03427
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/3427
+

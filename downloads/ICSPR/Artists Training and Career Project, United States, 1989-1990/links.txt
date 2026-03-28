@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Artists Training and Career Project, United States, 1989-1990
+DOI   : https://doi.org/10.3886/icpsr35599
+URL   : https://www.icpsr.umich.edu/web/NADAC/studies/35599
+
+Title : Artists Training and Career Project, United States, 1989-1990
+DOI   : https://doi.org/10.3886/icpsr35599.v1
+URL   : https://www.icpsr.umich.edu/web/NADAC/studies/35599/versions/V1
+

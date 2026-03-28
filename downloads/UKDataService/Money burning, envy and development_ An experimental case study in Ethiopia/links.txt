@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Money burning, envy and development: An experimental case study in Ethiopia
+DOI   : https://doi.org/10.5255/ukda-sn-850415
+URL   : http://reshare.ukdataservice.ac.uk/id/eprint/850415
+

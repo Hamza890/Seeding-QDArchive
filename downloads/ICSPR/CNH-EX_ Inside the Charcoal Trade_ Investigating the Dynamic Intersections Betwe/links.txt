@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : CNH-EX: Inside the Charcoal Trade: Investigating the Dynamic Intersections Between Economic Development, Urbanization, and Forest Degradation in Mozambique, 2012-2015
+DOI   : https://doi.org/10.3886/icpsr38700
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/38700
+
+Title : CNH-EX: Inside the Charcoal Trade: Investigating the Dynamic Intersections Between Economic Development, Urbanization, and Forest Degradation in Mozambique, 2012-2015
+DOI   : https://doi.org/10.3886/icpsr38700.v1
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/38700/versions/V1
+

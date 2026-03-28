@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Digital Library of Historical Directories, 1750-1919: Cumberland and Westmorland, 1829-1914
+DOI   : https://doi.org/10.5255/ukda-sn-5110-1
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/5110#doi
+

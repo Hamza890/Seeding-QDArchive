@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Children's Out-of-Court Statements: Effects of Hearsay on Jurors' Decisions in Sacramento County, California, and Maricopa County, Arizona, 1994-1997
+DOI   : https://doi.org/10.3886/icpsr02791
+URL   : http://www.icpsr.umich.edu/icpsrweb/NACJD/studies/2791
+
+Title : Children's Out-of-Court Statements: Effects of Hearsay on Jurors' Decisions in Sacramento County, California, and Maricopa County, Arizona, 1994-1997
+DOI   : https://doi.org/10.3886/icpsr02791.v1
+URL   : http://www.icpsr.umich.edu/icpsrweb/NACJD/studies/2791/version/1
+

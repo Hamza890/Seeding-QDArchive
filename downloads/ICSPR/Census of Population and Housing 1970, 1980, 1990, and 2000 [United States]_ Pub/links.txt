@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Census of Population and Housing 1970, 1980, 1990, and 2000 [United States]: Public Use Microdata Sample: Artist Extract Files
+DOI   : https://doi.org/10.3886/icpsr35534
+URL   : https://www.icpsr.umich.edu/web/NADAC/studies/35534
+
+Title : Census of Population and Housing 1970, 1980, 1990, and 2000 [United States]: Public Use Microdata Sample: Artist Extract Files
+DOI   : https://doi.org/10.3886/icpsr35534.v1
+URL   : https://www.icpsr.umich.edu/web/NADAC/studies/35534/versions/V1
+

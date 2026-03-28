@@ -1,0 +1,19 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Child Care and Development Fund Administrative Data, Federal Fiscal Year 2013
+DOI   : https://doi.org/10.3886/icpsr36466
+URL   : https://www.childandfamilydataarchive.org/cfda/archives/CFDA/studies/36466
+
+Title : Child Care and Development Fund Administrative Data, Federal Fiscal Year 2013
+DOI   : https://doi.org/10.3886/icpsr36466.v3
+URL   : https://www.childandfamilydataarchive.org/cfda/archives/CFDA/studies/36466/versions/V3
+
+Title : Child Care and Development Fund Administrative Data, Federal Fiscal Year 2013
+DOI   : https://doi.org/10.3886/icpsr36466.v2
+URL   : https://www.childandfamilydataarchive.org/cfda/archives/CFDA/studies/36466/versions/V2
+
+Title : Child Care and Development Fund Administrative Data, Federal Fiscal Year 2013
+DOI   : https://doi.org/10.3886/icpsr36466.v1
+URL   : https://www.childandfamilydataarchive.org/cfda/archives/CFDA/studies/36466/versions/V1
+

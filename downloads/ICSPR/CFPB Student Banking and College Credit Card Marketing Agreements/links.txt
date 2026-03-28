@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : CFPB Student Banking and College Credit Card Marketing Agreements
+DOI   : https://doi.org/10.3886/e219741v2
+URL   : https://www.datalumos.org/datalumos/project/219741/version/V2/view
+
+Title : CFPB Student Banking and College Credit Card Marketing Agreements
+DOI   : https://doi.org/10.3886/e219741
+URL   : https://www.datalumos.org/datalumos/project/219741/view
+

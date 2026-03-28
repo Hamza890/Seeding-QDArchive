@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Annual Population Survey, October 2021 - September 2022
+DOI   : https://doi.org/10.5255/ukda-sn-9039-5
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/9039#doi
+

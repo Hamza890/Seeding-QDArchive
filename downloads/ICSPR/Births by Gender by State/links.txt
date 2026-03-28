@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Births by Gender by State
+DOI   : https://doi.org/10.3886/e101397v2
+URL   : https://www.datalumos.org/datalumos/project/101397/version/V2/view
+
+Title : Births by Gender by State
+DOI   : https://doi.org/10.3886/e101397
+URL   : https://www.datalumos.org/datalumos/project/101397/view
+

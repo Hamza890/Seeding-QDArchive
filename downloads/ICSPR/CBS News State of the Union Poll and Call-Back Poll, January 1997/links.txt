@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : CBS News State of the Union Poll and Call-Back Poll, January 1997
+DOI   : https://doi.org/10.3886/icpsr04486
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/4486
+
+Title : CBS News State of the Union Poll and Call-Back Poll, January 1997
+DOI   : https://doi.org/10.3886/icpsr04486.v1
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/4486/versions/V1
+

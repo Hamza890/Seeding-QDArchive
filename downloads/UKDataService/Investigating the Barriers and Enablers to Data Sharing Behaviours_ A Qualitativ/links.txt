@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Investigating the Barriers and Enablers to Data Sharing Behaviours: A Qualitative Registered Report: Interview Data, 2023
+DOI   : https://doi.org/10.5255/ukda-sn-857915
+URL   : http://reshare.ukdataservice.ac.uk/id/eprint/857915
+

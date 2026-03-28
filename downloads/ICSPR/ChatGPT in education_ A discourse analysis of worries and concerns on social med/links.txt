@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : ChatGPT in education: A discourse analysis of worries and concerns on social media
+DOI   : https://doi.org/10.3886/jg8j-6t78
+URL   : https://www.icpsr.umich.edu/sites/somar/view/studies/300429
+

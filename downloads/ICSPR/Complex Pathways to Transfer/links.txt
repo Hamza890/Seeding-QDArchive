@@ -1,0 +1,15 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Complex Pathways to Transfer
+DOI   : https://doi.org/10.3886/e118023v1-44386
+URL   : https://www.openicpsr.org/openicpsr/project/118023/version/V1/view?path=/openicpsr/118023/fcr:versions/V1/Conditions-Paper-Coding-for-Analysis-Revised-7.05.18.csv&type=file
+
+Title : Complex Pathways to Transfer
+DOI   : https://doi.org/10.3886/e118023
+URL   : https://www.openicpsr.org/openicpsr/project/118023
+
+Title : Complex Pathways to Transfer
+DOI   : https://doi.org/10.3886/e118023v1
+URL   : https://www.openicpsr.org/openicpsr/project/118023/version/V1/view
+

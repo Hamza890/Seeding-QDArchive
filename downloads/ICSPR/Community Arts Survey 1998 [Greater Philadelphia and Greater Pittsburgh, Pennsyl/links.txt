@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Community Arts Survey 1998 [Greater Philadelphia and Greater Pittsburgh, Pennsylvania]
+DOI   : https://doi.org/10.3886/icpsr35193
+URL   : https://www.icpsr.umich.edu/web/NADAC/studies/35193
+
+Title : Community Arts Survey 1998 [Greater Philadelphia and Greater Pittsburgh, Pennsylvania]
+DOI   : https://doi.org/10.3886/icpsr35193.v1
+URL   : https://www.icpsr.umich.edu/web/NADAC/studies/35193/versions/V1
+

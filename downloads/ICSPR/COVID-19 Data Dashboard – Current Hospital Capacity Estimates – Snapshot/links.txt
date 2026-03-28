@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : COVID-19 Data Dashboard – Current Hospital Capacity Estimates – Snapshot
+DOI   : https://doi.org/10.3886/e120450v2
+URL   : https://www.datalumos.org/datalumos/project/120450/version/V2/view
+
+Title : COVID-19 Data Dashboard – Current Hospital Capacity Estimates – Snapshot
+DOI   : https://doi.org/10.3886/e120450
+URL   : https://www.datalumos.org/datalumos/project/120450/view
+

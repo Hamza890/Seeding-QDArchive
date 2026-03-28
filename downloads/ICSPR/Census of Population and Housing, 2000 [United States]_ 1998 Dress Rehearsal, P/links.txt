@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Census of Population and Housing, 2000 [United States]: 1998 Dress Rehearsal, P.L. 94-171 Redistricting Data, Geographic Files for 11 Counties in South Carolina, Sacramento, California, and Menominee County, Wisconsin
+DOI   : https://doi.org/10.3886/icpsr02913
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/2913
+
+Title : Census of Population and Housing, 2000 [United States]: 1998 Dress Rehearsal, P.L. 94-171 Redistricting Data, Geographic Files for 11 Counties in South Carolina, Sacramento, California, and Menominee County, Wisconsin
+DOI   : https://doi.org/10.3886/icpsr02913.v1
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/2913/versions/V1
+

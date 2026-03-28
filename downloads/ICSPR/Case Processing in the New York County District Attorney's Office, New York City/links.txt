@@ -1,0 +1,19 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Case Processing in the New York County District Attorney's Office, New York City, 2010-2011
+DOI   : https://doi.org/10.3886/icpsr34681
+URL   : https://www.icpsr.umich.edu/web/NACJD/studies/34681
+
+Title : Case Processing in the New York County District Attorney's Office, New York City, 2010-2011
+DOI   : https://doi.org/10.3886/icpsr34681.v3
+URL   : https://www.icpsr.umich.edu/web/NACJD/studies/34681/versions/V3
+
+Title : Case Processing in the New York County District Attorney's Office, New York City, 2010-2011
+DOI   : https://doi.org/10.3886/icpsr34681.v1
+URL   : https://www.icpsr.umich.edu/icpsrweb/NACJD/studies/34681/versions/V1
+
+Title : Case Processing in the New York County District Attorney's Office, New York City, 2010-2011
+DOI   : https://doi.org/10.3886/icpsr34681.v2
+URL   : https://www.icpsr.umich.edu/icpsrweb/NACJD/studies/34681/versions/V2
+

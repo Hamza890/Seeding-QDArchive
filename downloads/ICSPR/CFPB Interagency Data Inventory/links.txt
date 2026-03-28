@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : CFPB Interagency Data Inventory
+DOI   : https://doi.org/10.3886/e220501v2
+URL   : https://www.datalumos.org/datalumos/project/220501/version/V2/view
+
+Title : CFPB Interagency Data Inventory
+DOI   : https://doi.org/10.3886/e220501
+URL   : https://www.datalumos.org/datalumos/project/220501/view
+

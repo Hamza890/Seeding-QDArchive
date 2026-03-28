@@ -1,0 +1,15 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Are Parents’ Ratings and Satisfaction with Preschools related to Program Features
+DOI   : https://doi.org/10.3886/e119567v2
+URL   : https://www.openicpsr.org/openicpsr/project/119567/version/V2/view
+
+Title : Are Parents’ Ratings and Satisfaction with Preschools related to Program Features
+DOI   : https://doi.org/10.3886/e119567
+URL   : https://www.openicpsr.org/openicpsr/project/119567
+
+Title : Are Parents’ Ratings and Satisfaction with Preschools related to Program Features
+DOI   : https://doi.org/10.3886/e119567v1
+URL   : https://www.openicpsr.org/openicpsr/project/119567/version/V1/view
+

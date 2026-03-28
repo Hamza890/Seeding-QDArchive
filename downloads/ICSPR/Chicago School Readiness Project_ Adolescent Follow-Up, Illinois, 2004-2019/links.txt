@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Chicago School Readiness Project: Adolescent Follow-Up, Illinois, 2004-2019
+DOI   : https://doi.org/10.3886/icpsr38425
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/38425
+

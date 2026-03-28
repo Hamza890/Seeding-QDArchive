@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Adoption of Innovations in Private Alcohol and Drug Treatment Centers in the United States [Restricted-Use], 2009-2013
+DOI   : https://doi.org/10.3886/icpsr37621
+URL   : https://www.icpsr.umich.edu/icpsrweb/NAHDAP/studies/37621
+

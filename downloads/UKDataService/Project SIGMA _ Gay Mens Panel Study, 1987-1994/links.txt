@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Project SIGMA : Gay Mens Panel Study, 1987-1994
+DOI   : https://doi.org/10.5255/ukda-sn-4476-1
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/4476#doi
+

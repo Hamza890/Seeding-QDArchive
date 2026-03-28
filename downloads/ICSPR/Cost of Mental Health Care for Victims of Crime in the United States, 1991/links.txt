@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Cost of Mental Health Care for Victims of Crime in the United States, 1991
+DOI   : https://doi.org/10.3886/icpsr06581
+URL   : https://www.icpsr.umich.edu/web/NACJD/studies/6581
+
+Title : Cost of Mental Health Care for Victims of Crime in the United States, 1991
+DOI   : https://doi.org/10.3886/icpsr06581.v1
+URL   : https://www.icpsr.umich.edu/web/NACJD/studies/6581/versions/V1
+

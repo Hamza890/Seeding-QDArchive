@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Going for Gold: the Intangible Effects of the 2012 Olympic Games in London, Paris and Berlin, 2011-2013
+DOI   : https://doi.org/10.5255/ukda-sn-8267-1
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/8267#doi
+

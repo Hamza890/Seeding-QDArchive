@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Current Population Survey, December 2006: Food Security Supplement
+DOI   : https://doi.org/10.3886/icpsr21962
+URL   : http://www.icpsr.umich.edu/icpsrweb/RCMD/studies/21962
+

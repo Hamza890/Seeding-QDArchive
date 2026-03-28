@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Campaign Expenditures in the United States, 1981-1982
+DOI   : https://doi.org/10.3886/icpsr08238
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/8238
+
+Title : Campaign Expenditures in the United States, 1981-1982
+DOI   : https://doi.org/10.3886/icpsr08238.v1
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/8238/versions/V1
+

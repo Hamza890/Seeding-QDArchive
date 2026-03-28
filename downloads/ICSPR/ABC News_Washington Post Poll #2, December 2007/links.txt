@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : ABC News/Washington Post Poll #2, December 2007
+DOI   : https://doi.org/10.3886/icpsr24594
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/24594
+
+Title : ABC News/Washington Post Poll #2, December 2007
+DOI   : https://doi.org/10.3886/icpsr24594.v1
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/24594/versions/V1
+

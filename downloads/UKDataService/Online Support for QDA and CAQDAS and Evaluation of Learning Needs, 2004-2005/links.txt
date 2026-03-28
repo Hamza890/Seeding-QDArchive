@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Online Support for QDA and CAQDAS and Evaluation of Learning Needs, 2004-2005
+DOI   : https://doi.org/10.5255/ukda-sn-6374-1
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/6374#doi
+

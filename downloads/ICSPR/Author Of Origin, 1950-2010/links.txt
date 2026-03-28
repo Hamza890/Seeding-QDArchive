@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Author Of Origin, 1950-2010
+DOI   : https://doi.org/10.3886/icpsr36156
+URL   : http://www.icpsr.umich.edu/icpsrweb/ICPSR/studies/36156
+
+Title : Author Of Origin, 1950-2010
+DOI   : https://doi.org/10.3886/icpsr36156.v1
+URL   : http://www.icpsr.umich.edu/icpsrweb/ICPSR/studies/36156/version/1
+

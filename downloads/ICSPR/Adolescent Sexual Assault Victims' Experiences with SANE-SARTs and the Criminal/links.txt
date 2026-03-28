@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Adolescent Sexual Assault Victims' Experiences with SANE-SARTs and the Criminal Justice System, 1998-2007
+DOI   : https://doi.org/10.3886/icpsr29721
+URL   : http://www.icpsr.umich.edu/icpsrweb/NACJD/studies/29721
+
+Title : Adolescent Sexual Assault Victims' Experiences with SANE-SARTs and the Criminal Justice System, 1998-2007
+DOI   : https://doi.org/10.3886/icpsr29721.v1
+URL   : http://www.icpsr.umich.edu/icpsrweb/NACJD/studies/29721/version/1
+

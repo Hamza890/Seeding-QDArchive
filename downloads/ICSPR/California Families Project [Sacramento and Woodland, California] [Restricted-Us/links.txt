@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : California Families Project [Sacramento and Woodland, California] [Restricted-Use Files]
+DOI   : https://doi.org/10.3886/icpsr35476
+URL   : https://www.icpsr.umich.edu/web/NAHDAP/studies/35476
+
+Title : California Families Project [Sacramento and Woodland, California] [Restricted-Use Files]
+DOI   : https://doi.org/10.3886/icpsr35476.v1
+URL   : https://www.icpsr.umich.edu/web/NAHDAP/studies/35476/versions/V1
+

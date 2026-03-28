@@ -1,0 +1,19 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Comparison of defense mechanisms, family functionality, and attachment styles of codependent individuals with and without dependent relatives
+DOI   : https://doi.org/10.3886/e167581v2-142964
+URL   : https://www.openicpsr.org/openicpsr/project/167581/version/V2/view?path=/openicpsr/167581/fcr:versions/V2/Codependency.EN.sav&type=file
+
+Title : Comparison of defense mechanisms, family functionality, and attachment styles of codependent individuals with and without dependent relatives
+DOI   : https://doi.org/10.3886/e167581v1
+URL   : https://www.openicpsr.org/openicpsr/project/167581/version/V1/view
+
+Title : Comparison of defense mechanisms, family functionality, and attachment styles of codependent individuals with and without dependent relatives
+DOI   : https://doi.org/10.3886/e167581v2
+URL   : https://www.openicpsr.org/openicpsr/project/167581/version/V2/view
+
+Title : Comparison of defense mechanisms, family functionality, and attachment styles of codependent individuals with and without dependent relatives
+DOI   : https://doi.org/10.3886/e167581
+URL   : https://www.openicpsr.org/openicpsr/project/167581/view
+

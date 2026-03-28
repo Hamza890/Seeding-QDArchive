@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Community-Centered School Leadership: Promising Aperturas During COVID-19
+DOI   : https://doi.org/10.3886/e164001v1
+URL   : https://www.openicpsr.org/openicpsr/project/164001/version/V1/view
+
+Title : Community-Centered School Leadership: Promising Aperturas During COVID-19
+DOI   : https://doi.org/10.3886/e164001
+URL   : https://www.openicpsr.org/openicpsr/project/164001/view
+

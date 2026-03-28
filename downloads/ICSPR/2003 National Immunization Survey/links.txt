@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : 2003 National Immunization Survey
+DOI   : https://doi.org/10.3886/e101387v3
+URL   : https://www.datalumos.org/datalumos/project/101387/version/V3/view
+
+Title : 2003 National Immunization Survey
+DOI   : https://doi.org/10.3886/e101387
+URL   : https://www.datalumos.org/datalumos/project/101387
+

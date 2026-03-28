@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Smart Enforcement in Environmental Legal Systems: A Socio-Legal Analysis of Regulatory Satellite Monitoring in Australia, 2009-2010
+DOI   : https://doi.org/10.5255/ukda-sn-6756-1
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/6756#doi
+

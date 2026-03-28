@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Transnational Seafarers, 1999-2001
+DOI   : https://doi.org/10.5255/ukda-sn-4634-1
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/4634#doi
+

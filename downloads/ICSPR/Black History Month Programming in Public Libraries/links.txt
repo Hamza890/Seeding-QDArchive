@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Black History Month Programming in Public Libraries
+DOI   : https://doi.org/10.3886/e177701v1
+URL   : https://www.openicpsr.org/openicpsr/project/177701/version/V1/view
+
+Title : Black History Month Programming in Public Libraries
+DOI   : https://doi.org/10.3886/e177701
+URL   : https://www.openicpsr.org/openicpsr/project/177701/view
+

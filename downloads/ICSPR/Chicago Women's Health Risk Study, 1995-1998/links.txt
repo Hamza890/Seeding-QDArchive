@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Chicago Women's Health Risk Study, 1995-1998
+DOI   : https://doi.org/10.3886/icpsr03002
+URL   : https://www.icpsr.umich.edu/web/NACJD/studies/3002
+
+Title : Chicago Women's Health Risk Study, 1995-1998
+DOI   : https://doi.org/10.3886/icpsr03002.v1
+URL   : https://www.icpsr.umich.edu/web/NACJD/studies/3002/versions/V1
+

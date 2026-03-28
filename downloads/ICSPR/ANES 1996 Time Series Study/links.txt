@@ -1,0 +1,39 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : ANES 1996 Time Series Study
+DOI   : https://doi.org/10.3886/icpsr06896
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/6896
+
+Title : ANES 1996 Time Series Study
+DOI   : https://doi.org/10.3886/icpsr06896.v6
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/6896/versions/V6
+
+Title : ANES 1996 Time Series Study
+DOI   : https://doi.org/10.3886/icpsr06896.v5
+URL   : http://www.icpsr.umich.edu/icpsrweb/ICPSR/studies/6896/version/5
+
+Title : ANES 1996 Time Series Study
+DOI   : https://doi.org/10.3886/icpsr35142.v1
+URL   : http://www.icpsr.umich.edu/icpsrweb/ICPSR/studies/35142/version/1
+
+Title : ANES 1996 Time Series Study
+DOI   : https://doi.org/10.3886/icpsr35142
+URL   : http://www.icpsr.umich.edu/icpsrweb/ICPSR/studies/35142
+
+Title : ANES 1996 Time Series Study
+DOI   : https://doi.org/10.3886/icpsr06896.v1
+URL   : http://www.icpsr.umich.edu/icpsrweb/ICPSR/studies/6896/version/1
+
+Title : ANES 1996 Time Series Study
+DOI   : https://doi.org/10.3886/icpsr06896.v4
+URL   : http://www.icpsr.umich.edu/icpsrweb/ICPSR/studies/6896/version/4
+
+Title : ANES 1996 Time Series Study
+DOI   : https://doi.org/10.3886/icpsr06896.v2
+URL   : http://www.icpsr.umich.edu/icpsrweb/ICPSR/studies/6896/version/2
+
+Title : ANES 1996 Time Series Study
+DOI   : https://doi.org/10.3886/icpsr06896.v3
+URL   : http://www.icpsr.umich.edu/icpsrweb/ICPSR/studies/6896/version/3
+

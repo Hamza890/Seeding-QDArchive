@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Dartington Amenity Research Trust Studies on Water Recreation, 1970-1972
+DOI   : https://doi.org/10.5255/ukda-sn-58-1
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/58#doi
+

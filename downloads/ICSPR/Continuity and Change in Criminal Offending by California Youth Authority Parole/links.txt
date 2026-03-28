@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Continuity and Change in Criminal Offending by California Youth Authority Parolees Released 1965-1984
+DOI   : https://doi.org/10.3886/icpsr03136
+URL   : https://www.icpsr.umich.edu/web/NACJD/studies/3136
+
+Title : Continuity and Change in Criminal Offending by California Youth Authority Parolees Released 1965-1984
+DOI   : https://doi.org/10.3886/icpsr03136.v1
+URL   : https://www.icpsr.umich.edu/web/NACJD/studies/3136/versions/V1
+

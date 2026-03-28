@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : American Bar Foundation: State Criminal Court Cases, 1962
+DOI   : https://doi.org/10.3886/icpsr07272
+URL   : https://www.icpsr.umich.edu/web/NACJD/studies/7272
+
+Title : American Bar Foundation: State Criminal Court Cases, 1962
+DOI   : https://doi.org/10.3886/icpsr07272.v1
+URL   : https://www.icpsr.umich.edu/web/NACJD/studies/7272/versions/V1
+

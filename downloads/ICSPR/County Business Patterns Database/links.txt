@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : County Business Patterns Database
+DOI   : https://doi.org/10.3886/e117464v2
+URL   : https://www.datalumos.org/datalumos/project/117464/version/V2/view
+
+Title : County Business Patterns Database
+DOI   : https://doi.org/10.3886/e117464
+URL   : https://www.datalumos.org/datalumos/project/117464
+

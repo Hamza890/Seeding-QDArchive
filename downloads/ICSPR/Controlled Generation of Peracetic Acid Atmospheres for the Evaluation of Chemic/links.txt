@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Controlled Generation of Peracetic Acid Atmospheres for the Evaluation of Chemical Samplers
+DOI   : https://doi.org/10.3886/e233562v1
+URL   : https://www.datalumos.org/datalumos/project/233562/version/V1/view
+
+Title : Controlled Generation of Peracetic Acid Atmospheres for the Evaluation of Chemical Samplers
+DOI   : https://doi.org/10.3886/e233562
+URL   : https://www.datalumos.org/datalumos/project/233562/view
+

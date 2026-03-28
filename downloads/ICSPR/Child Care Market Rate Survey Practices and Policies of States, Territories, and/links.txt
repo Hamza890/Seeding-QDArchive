@@ -1,0 +1,15 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Child Care Market Rate Survey Practices and Policies of States, Territories, and Tribes, 2005-2006
+DOI   : https://doi.org/10.3886/icpsr21402
+URL   : https://www.childandfamilydataarchive.org/cfda/archives/CFDA/studies/21402
+
+Title : Child Care Market Rate Survey Practices and Policies of States, Territories, and Tribes, 2005-2006
+DOI   : https://doi.org/10.3886/icpsr21402.v2
+URL   : https://www.childandfamilydataarchive.org/cfda/archives/CFDA/studies/21402/versions/V2
+
+Title : Child Care Market Rate Survey Practices and Policies of States, Territories, and Tribes, 2005-2006
+DOI   : https://doi.org/10.3886/icpsr21402.v1
+URL   : https://www.childandfamilydataarchive.org/cfda/archives/CFDA/studies/21402/versions/V1
+

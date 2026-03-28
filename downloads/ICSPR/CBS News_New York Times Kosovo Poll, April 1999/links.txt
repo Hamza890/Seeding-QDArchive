@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : CBS News/New York Times Kosovo Poll, April 1999
+DOI   : https://doi.org/10.3886/icpsr04492
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/4492
+
+Title : CBS News/New York Times Kosovo Poll, April 1999
+DOI   : https://doi.org/10.3886/icpsr04492.v1
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/4492/versions/V1
+

@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : How Public Management Matters: Strategy, Networking and Local Service Performance, 2001-2009
+DOI   : https://doi.org/10.5255/ukda-sn-6779-1
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/6779#doi
+

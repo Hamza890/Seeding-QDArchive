@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : ANES 1993 Pilot Study
+DOI   : https://doi.org/10.3886/icpsr35139.v1
+URL   : http://www.icpsr.umich.edu/icpsrweb/ICPSR/studies/35139/version/1
+
+Title : ANES 1993 Pilot Study
+DOI   : https://doi.org/10.3886/icpsr35139
+URL   : http://www.icpsr.umich.edu/icpsrweb/ICPSR/studies/35139
+

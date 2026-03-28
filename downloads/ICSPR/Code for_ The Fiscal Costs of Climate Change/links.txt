@@ -1,0 +1,15 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Code for: The Fiscal Costs of Climate Change
+DOI   : https://doi.org/10.3886/e120750v1-139421
+URL   : https://www.openicpsr.org/openicpsr/project/120750/version/V1/view?path=/openicpsr/120750/fcr:versions/V1/COMET_Fiscal_Code_Barrage2020/ReadMe.pdf&type=file
+
+Title : Code for: The Fiscal Costs of Climate Change
+DOI   : https://doi.org/10.3886/e120750v1-130885
+URL   : https://www.openicpsr.org/openicpsr/project/120750/version/V1/view?path=/openicpsr/120750/fcr:versions/V1/COMET_Fiscal_Code_Barrage2020/x_taolconst_taok3457_A_alphag.mat&type=file
+
+Title : Code for: The Fiscal Costs of Climate Change
+DOI   : https://doi.org/10.3886/e120750v1
+URL   : https://www.openicpsr.org/openicpsr/project/120750
+

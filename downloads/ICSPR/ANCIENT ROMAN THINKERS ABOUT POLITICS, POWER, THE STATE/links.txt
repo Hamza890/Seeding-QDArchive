@@ -1,0 +1,23 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : ANCIENT ROMAN THINKERS ABOUT POLITICS, POWER, THE STATE
+DOI   : https://doi.org/10.3886/e102761v1
+URL   : https://www.icpsr.umich.edu/sites/jeh/view/studies/102761/versions/V1.0
+
+Title : ANCIENT ROMAN THINKERS ABOUT POLITICS, POWER, THE STATE
+DOI   : https://doi.org/10.3886/e102761
+URL   : https://www.icpsr.umich.edu/sites/jeh/view/studies/102761
+
+Title : ANCIENT ROMAN THINKERS ABOUT POLITICS, POWER, THE STATE
+DOI   : https://doi.org/10.3886/e102761v2
+URL   : https://www.icpsr.umich.edu/sites/jeh/view/studies/102761/versions/V2.1
+
+Title : ANCIENT ROMAN THINKERS ABOUT POLITICS, POWER, THE STATE
+DOI   : https://doi.org/10.3886/e102761v2-6225
+URL   : https://www.openicpsr.org/openicpsr/project/102761/version/V2/view?type=file&path=/openicpsr/102761/fcr:versions/V2/Ershov_2.pdf
+
+Title : ANCIENT ROMAN THINKERS ABOUT POLITICS, POWER, THE STATE
+DOI   : https://doi.org/10.3886/e102761v1-5901
+URL   : https://www.openicpsr.org/openicpsr/project/102761/version/V1/view?type=file&path=/openicpsr/102761/fcr:versions/V1/Ershov_2.pdf
+

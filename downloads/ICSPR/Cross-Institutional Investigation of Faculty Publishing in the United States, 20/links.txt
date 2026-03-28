@@ -1,0 +1,19 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Cross-Institutional Investigation of Faculty Publishing in the United States, 2021-2022
+DOI   : https://doi.org/10.3886/icpsr39429
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/39429
+
+Title : Cross-Institutional Investigation of Faculty Publishing in the United States, 2021-2022
+DOI   : https://doi.org/10.3886/icpsr39429.v1
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/39429/versions/V1
+
+Title : Cross-Institutional Investigation of Faculty Publishing in the United States, 2021-2022
+DOI   : https://doi.org/10.3886/e237082v1
+URL   : https://www.openicpsr.org/openicpsr/project/237082/version/V1/view
+
+Title : Cross-Institutional Investigation of Faculty Publishing in the United States, 2021-2022
+DOI   : https://doi.org/10.3886/e237082
+URL   : https://www.openicpsr.org/openicpsr/project/237082/view
+

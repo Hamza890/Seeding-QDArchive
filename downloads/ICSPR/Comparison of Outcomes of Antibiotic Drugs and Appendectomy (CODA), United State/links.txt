@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Comparison of Outcomes of Antibiotic Drugs and Appendectomy (CODA), United States, 2016-2020
+DOI   : https://doi.org/10.3886/icpsr38541
+URL   : https://www.icpsr.umich.edu/web/pcodr/studies/38541
+
+Title : Comparison of Outcomes of Antibiotic Drugs and Appendectomy (CODA), United States, 2016-2020
+DOI   : https://doi.org/10.3886/icpsr38541.v1
+URL   : https://www.icpsr.umich.edu/web/pcodr/studies/38541/versions/V1
+

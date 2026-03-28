@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Knowledge Production and Collaboration in the Life Sciences: Interviews with Scientists in Industry, Universities and the National Health Service, 2005-2006
+DOI   : https://doi.org/10.5255/ukda-sn-6229-1
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/6229#doi
+

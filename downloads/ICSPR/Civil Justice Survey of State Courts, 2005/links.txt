@@ -1,0 +1,15 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Civil Justice Survey of State Courts, 2005
+DOI   : https://doi.org/10.3886/icpsr23862
+URL   : https://www.icpsr.umich.edu/web/NACJD/studies/23862
+
+Title : Civil Justice Survey of State Courts, 2005
+DOI   : https://doi.org/10.3886/icpsr23862.v2
+URL   : https://www.icpsr.umich.edu/web/NACJD/studies/23862/versions/V2
+
+Title : Civil Justice Survey of State Courts, 2005
+DOI   : https://doi.org/10.3886/icpsr23862.v1
+URL   : http://www.icpsr.umich.edu/icpsrweb/NACJD/studies/23862/version/1
+

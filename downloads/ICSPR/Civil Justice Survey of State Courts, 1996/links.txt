@@ -1,0 +1,23 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Civil Justice Survey of State Courts, 1996
+DOI   : https://doi.org/10.3886/icpsr02883
+URL   : https://www.icpsr.umich.edu/web/NACJD/studies/2883
+
+Title : Civil Justice Survey of State Courts, 1996
+DOI   : https://doi.org/10.3886/icpsr02883.v4
+URL   : https://www.icpsr.umich.edu/web/NACJD/studies/2883/versions/V4
+
+Title : Civil Justice Survey of State Courts, 1996
+DOI   : https://doi.org/10.3886/icpsr02883.v3
+URL   : http://www.icpsr.umich.edu/icpsrweb/NACJD/studies/2883/version/3
+
+Title : Civil Justice Survey of State Courts, 1996
+DOI   : https://doi.org/10.3886/icpsr02883.v2
+URL   : http://www.icpsr.umich.edu/icpsrweb/NACJD/studies/2883/version/2
+
+Title : Civil Justice Survey of State Courts, 1996
+DOI   : https://doi.org/10.3886/icpsr02883.v1
+URL   : http://www.icpsr.umich.edu/icpsrweb/NACJD/studies/2883/version/1
+

@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Census Data Workflow using IPUMS NHGIS API: Data Request and Download
+DOI   : https://doi.org/10.3886/e120305v1-200517
+URL   : https://www.openicpsr.org/openicpsr/project/120305/version/V1/view?path=/openicpsr/120305/fcr:versions/V1/NHGIS_2_getdata_2020-07-29.ipynb&type=file
+

@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Census of Population and Housing, 1970 [United States]: Summary Statistic File 4C -- Population [Fourth Count]
+DOI   : https://doi.org/10.3886/icpsr08107
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/8107
+

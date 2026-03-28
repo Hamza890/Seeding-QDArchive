@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Arms Transfers to Developing Countries, 1945-1968
+DOI   : https://doi.org/10.3886/icpsr05404
+URL   : http://www.icpsr.umich.edu/icpsrweb/ICPSR/studies/5404
+

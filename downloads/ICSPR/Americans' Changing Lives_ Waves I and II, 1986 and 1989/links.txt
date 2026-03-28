@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Americans' Changing Lives: Waves I and II, 1986 and 1989
+DOI   : https://doi.org/10.3886/icpsr06438
+URL   : http://www.icpsr.umich.edu/icpsrweb/NACDA/studies/6438
+
+Title : Americans' Changing Lives: Waves I and II, 1986 and 1989
+DOI   : https://doi.org/10.3886/icpsr06438.v1
+URL   : http://www.icpsr.umich.edu/icpsrweb/NACDA/studies/6438/version/1
+

@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Annual Arts Basic Survey, 2015 [United States]
+DOI   : https://doi.org/10.3886/icpsr36424
+URL   : https://www.icpsr.umich.edu/web/NADAC/studies/36424
+

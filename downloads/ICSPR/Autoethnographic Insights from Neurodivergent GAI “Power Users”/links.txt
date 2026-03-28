@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Autoethnographic Insights from Neurodivergent GAI “Power Users”
+DOI   : https://doi.org/10.3886/e228641
+URL   : https://www.openicpsr.org/openicpsr/project/228641/view
+
+Title : Autoethnographic Insights from Neurodivergent GAI “Power Users”
+DOI   : https://doi.org/10.3886/e228641v1
+URL   : https://www.openicpsr.org/openicpsr/project/228641/version/V1/view
+

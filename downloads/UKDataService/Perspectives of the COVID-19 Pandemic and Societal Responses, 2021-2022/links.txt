@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Perspectives of the COVID-19 Pandemic and Societal Responses, 2021-2022
+DOI   : https://doi.org/10.5255/ukda-sn-855895
+URL   : http://reshare.ukdataservice.ac.uk/id/eprint/855895
+

@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Alcohol Availability, Type of Alcohol Establishment, Distribution Policies, and Their Relationship to Crime and Disorder in the District of Columbia, 2000-2006
+DOI   : https://doi.org/10.3886/icpsr25763
+URL   : http://www.icpsr.umich.edu/icpsrweb/NACJD/studies/25763
+

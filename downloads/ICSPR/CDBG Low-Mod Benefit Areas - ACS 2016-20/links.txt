@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : CDBG Low-Mod Benefit Areas - ACS 2016-20
+DOI   : https://doi.org/10.3886/e247035v1
+URL   : https://www.datalumos.org/datalumos/project/247035/version/V1/view
+
+Title : CDBG Low-Mod Benefit Areas - ACS 2016-20
+DOI   : https://doi.org/10.3886/e247035
+URL   : https://www.datalumos.org/datalumos/project/247035/view
+

@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Análisis cualitativo asistido por LLMs: Una metodología híbrida para el estudio territorial de la participación ciudadana
+DOI   : https://doi.org/10.3886/e239202v1
+URL   : https://www.openicpsr.org/openicpsr/project/239202/version/V1/view
+
+Title : Análisis cualitativo asistido por LLMs: Una metodología híbrida para el estudio territorial de la participación ciudadana
+DOI   : https://doi.org/10.3886/e239202
+URL   : https://www.openicpsr.org/openicpsr/project/239202/view
+

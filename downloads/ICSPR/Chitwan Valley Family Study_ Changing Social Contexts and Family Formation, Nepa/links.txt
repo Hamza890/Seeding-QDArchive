@@ -1,0 +1,15 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Chitwan Valley Family Study: Changing Social Contexts and Family Formation, Nepal, 1995-2019
+DOI   : https://doi.org/10.3886/icpsr04538
+URL   : https://www.icpsr.umich.edu/web/DSDR/studies/4538
+
+Title : Chitwan Valley Family Study: Changing Social Contexts and Family Formation, Nepal, 1995-2019
+DOI   : https://doi.org/10.3886/icpsr04538.v22
+URL   : https://www.icpsr.umich.edu/web/DSDR/studies/4538/versions/V22
+
+Title : Chitwan Valley Family Study: Changing Social Contexts and Family Formation, Nepal, 1995-2019
+DOI   : https://doi.org/10.3886/icpsr04538.v21
+URL   : https://www.icpsr.umich.edu/web/DSDR/studies/4538/versions/V21
+

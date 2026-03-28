@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Towards Dialogue: A Linguistic Ethnographic Study of Classroom Interaction and Change
+DOI   : https://doi.org/10.5255/ukda-sn-850448
+URL   : http://reshare.ukdataservice.ac.uk/id/eprint/850448
+

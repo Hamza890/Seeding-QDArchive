@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Community Policing and Police Agency Accreditation in the United States, 1992 and 1994
+DOI   : https://doi.org/10.3886/icpsr02560
+URL   : https://www.icpsr.umich.edu/web/NACJD/studies/2560
+
+Title : Community Policing and Police Agency Accreditation in the United States, 1992 and 1994
+DOI   : https://doi.org/10.3886/icpsr02560.v1
+URL   : https://www.icpsr.umich.edu/web/NACJD/studies/2560/versions/V1
+

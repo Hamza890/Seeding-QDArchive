@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : COVID-19 Vaccine Hesitancy Surveys
+DOI   : https://doi.org/10.3886/e130422v3-189533
+URL   : https://www.openicpsr.org/openicpsr/project/130422/version/V3/view?path=/openicpsr/130422/fcr:versions/V3/_codebook.xlsx&type=file
+

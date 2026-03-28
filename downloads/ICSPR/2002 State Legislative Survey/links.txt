@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : 2002 State Legislative Survey
+DOI   : https://doi.org/10.3886/icpsr20960
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/20960
+

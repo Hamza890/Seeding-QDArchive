@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : American National Election Study: Pooled Senate Election Study, 1988, 1990, 1992
+DOI   : https://doi.org/10.3886/icpsr09580
+URL   : http://www.icpsr.umich.edu/icpsrweb/ICPSR/studies/9580
+

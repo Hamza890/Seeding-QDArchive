@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Integrated Census Microdata (I-CeM) Names and Addresses, 1851-1911: Special Licence Access
+DOI   : https://doi.org/10.5255/ukda-sn-7856-2
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/7856#doi
+

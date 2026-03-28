@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Comparative Effectiveness of Single-Site and Scattered-Site Permanent Supportive Housing on Patient-Centered and COVID-19-Related Outcomes for People Experiencing Homelessness, California, 2021-2023
+DOI   : https://doi.org/10.3886/icpsr39155
+URL   : https://www.icpsr.umich.edu/web/pcodr/studies/39155
+
+Title : Comparative Effectiveness of Single-Site and Scattered-Site Permanent Supportive Housing on Patient-Centered and COVID-19-Related Outcomes for People Experiencing Homelessness, California, 2021-2023
+DOI   : https://doi.org/10.3886/icpsr39155.v1
+URL   : https://www.icpsr.umich.edu/web/pcodr/studies/39155/versions/V1
+

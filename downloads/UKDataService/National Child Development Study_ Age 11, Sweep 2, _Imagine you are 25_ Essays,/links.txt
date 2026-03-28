@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : National Child Development Study: Age 11, Sweep 2, "Imagine you are 25" Essays, 1969
+DOI   : https://doi.org/10.5255/ukda-sn-8313-1
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/8313#doi
+

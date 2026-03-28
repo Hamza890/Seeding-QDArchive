@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : CBS News Monthly Poll #1, October 2000
+DOI   : https://doi.org/10.3886/icpsr03216
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/3216
+
+Title : CBS News Monthly Poll #1, October 2000
+DOI   : https://doi.org/10.3886/icpsr03216.v1
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/3216/versions/V1
+

@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Census of Population and Housing, 2000 [United States]: Special Tabulation on Aging
+DOI   : https://doi.org/10.3886/icpsr13577
+URL   : https://www.icpsr.umich.edu/web/NACDA/studies/13577
+
+Title : Census of Population and Housing, 2000 [United States]: Special Tabulation on Aging
+DOI   : https://doi.org/10.3886/icpsr13577.v1
+URL   : https://www.icpsr.umich.edu/web/NACDA/studies/13577/versions/V1
+

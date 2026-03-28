@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Cooperative Agreement for AIDS Community-Based Outreach/Intervention Research Program, 1992-1998: [United States]
+DOI   : https://doi.org/10.3886/icpsr03023
+URL   : https://www.icpsr.umich.edu/web/NAHDAP/studies/3023
+
+Title : Cooperative Agreement for AIDS Community-Based Outreach/Intervention Research Program, 1992-1998: [United States]
+DOI   : https://doi.org/10.3886/icpsr03023.v1
+URL   : https://www.icpsr.umich.edu/web/NAHDAP/studies/3023/versions/V1
+

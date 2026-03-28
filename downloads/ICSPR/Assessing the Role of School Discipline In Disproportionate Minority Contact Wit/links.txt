@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Assessing the Role of School Discipline In Disproportionate Minority Contact With the Juvenile Justice System, Texas, 1999-2008
+DOI   : https://doi.org/10.3886/icpsr37186
+URL   : https://www.icpsr.umich.edu/icpsrweb/NACJD/studies/37186
+

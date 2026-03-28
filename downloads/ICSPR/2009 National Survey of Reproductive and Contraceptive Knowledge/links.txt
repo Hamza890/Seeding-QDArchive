@@ -1,0 +1,23 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : 2009 National Survey of Reproductive and Contraceptive Knowledge
+DOI   : https://doi.org/10.3886/e164142v1-146384
+URL   : https://www.openicpsr.org/openicpsr/project/164142/version/V1/view?path=/openicpsr/164142/fcr:versions/V1/Guttmacher-2009-Survey-of-contraceptive-knowledge--Fog-Zone-.dta&type=file
+
+Title : 2009 National Survey of Reproductive and Contraceptive Knowledge
+DOI   : https://doi.org/10.3886/e164142v1-135563
+URL   : https://www.openicpsr.org/openicpsr/project/164142/version/V1/view?path=/openicpsr/164142/fcr:versions/V1/Guttmacher-2009-Survey-of-contraceptive-knowledge--Fog-Zone--Questionnaire.pdf&type=file
+
+Title : 2009 National Survey of Reproductive and Contraceptive Knowledge
+DOI   : https://doi.org/10.3886/e164142v1-131024
+URL   : https://www.openicpsr.org/openicpsr/project/164142/version/V1/view?path=/openicpsr/164142/fcr:versions/V1/Guttmacher-2009-Survey-of-contraceptive-knowledge--Fog-Zone--user-guide-and-codebook.pdf&type=file
+
+Title : 2009 National Survey of Reproductive and Contraceptive Knowledge
+DOI   : https://doi.org/10.3886/e164142v1
+URL   : https://www.openicpsr.org/openicpsr/project/164142/version/V1/view
+
+Title : 2009 National Survey of Reproductive and Contraceptive Knowledge
+DOI   : https://doi.org/10.3886/e164142
+URL   : https://www.openicpsr.org/openicpsr/project/164142/view
+

@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Counselling and Society: a Case Study of Voluntary Sector Counselling Provision in Scotland, 1960-2002
+DOI   : https://doi.org/10.5255/ukda-sn-4948-1
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/4948#doi
+

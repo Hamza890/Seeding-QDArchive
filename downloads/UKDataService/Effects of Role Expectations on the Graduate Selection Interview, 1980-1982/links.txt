@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Effects of Role Expectations on the Graduate Selection Interview, 1980-1982
+DOI   : https://doi.org/10.5255/ukda-sn-2058-1
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/2058#doi
+
+Title : Effects of Role Expectations on the Graduate Selection Interview, 1980-1982
+DOI   : https://doi.org/10.5255/ukda-sn-2058-3
+URL   : http://discover.ukdataservice.ac.uk/doi?sn=2058#3
+

@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Alcohol and Drug Services Study (ADSS), 1996-1999: [United States]
+DOI   : https://doi.org/10.3886/icpsr03088
+URL   : https://www.icpsr.umich.edu/web/NAHDAP/studies/3088
+

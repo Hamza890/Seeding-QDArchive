@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : A Natural Experiment in Reform: Analyzing Drug Law Policy in New York City, New York, Quantitative Data, 2006-2012
+DOI   : https://doi.org/10.3886/icpsr34883
+URL   : https://www.icpsr.umich.edu/web/NACJD/studies/34883
+
+Title : A Natural Experiment in Reform: Analyzing Drug Law Policy in New York City, New York, Quantitative Data, 2006-2012
+DOI   : https://doi.org/10.3886/icpsr34883.v1
+URL   : https://www.icpsr.umich.edu/web/NACJD/studies/34883/versions/V1
+

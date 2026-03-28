@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Family Resources Survey, 2005/06-2017/18 and Households Below Average Income, 1994/95-2017/18: Safe Room Access
+DOI   : https://doi.org/10.5255/ukda-sn-7196-11
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/7196#doi
+

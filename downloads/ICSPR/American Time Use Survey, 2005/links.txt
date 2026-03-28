@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : American Time Use Survey, 2005
+DOI   : https://doi.org/10.3886/icpsr04709
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/4709
+
+Title : American Time Use Survey, 2005
+DOI   : https://doi.org/10.3886/icpsr04709.v1
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/4709/versions/V1
+

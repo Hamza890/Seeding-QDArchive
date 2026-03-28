@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Consumer Financial Protection Bureau Auto Loan Credit Trends
+DOI   : https://doi.org/10.3886/e221921v2
+URL   : https://www.datalumos.org/datalumos/project/221921/version/V2/view
+
+Title : Consumer Financial Protection Bureau Auto Loan Credit Trends
+DOI   : https://doi.org/10.3886/e221921
+URL   : https://www.datalumos.org/datalumos/project/221921/view
+

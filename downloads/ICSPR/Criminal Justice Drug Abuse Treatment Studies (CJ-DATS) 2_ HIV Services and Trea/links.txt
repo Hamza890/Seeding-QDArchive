@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Criminal Justice Drug Abuse Treatment Studies (CJ-DATS) 2: HIV Services and Treatment Implementation in Corrections 2010-2013 [United States]
+DOI   : https://doi.org/10.3886/icpsr34983
+URL   : https://www.icpsr.umich.edu/web/NAHDAP/studies/34983
+
+Title : Criminal Justice Drug Abuse Treatment Studies (CJ-DATS) 2: HIV Services and Treatment Implementation in Corrections 2010-2013 [United States]
+DOI   : https://doi.org/10.3886/icpsr34983.v1
+URL   : https://www.icpsr.umich.edu/web/NAHDAP/studies/34983/versions/V1
+

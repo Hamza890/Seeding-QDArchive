@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Comparing Ways to Monitor Patients with COVID-19 at Home (COVID Watch), New Jersey, Pennsylvania, Delaware, 2020-2021
+DOI   : https://doi.org/10.3886/icpsr38951
+URL   : https://www.icpsr.umich.edu/web/pcodr/studies/38951
+
+Title : Comparing Ways to Monitor Patients with COVID-19 at Home (COVID Watch), New Jersey, Pennsylvania, Delaware, 2020-2021
+DOI   : https://doi.org/10.3886/icpsr38951.v1
+URL   : https://www.icpsr.umich.edu/web/pcodr/studies/38951/versions/V1
+

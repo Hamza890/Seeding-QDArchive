@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : A Critical Analysis of Young Children Composing Nationalist Narratives as Part of the Larger Body Politic
+DOI   : https://doi.org/10.3886/e161941v1
+URL   : https://www.openicpsr.org/openicpsr/project/161941/version/V1/view
+
+Title : A Critical Analysis of Young Children Composing Nationalist Narratives as Part of the Larger Body Politic
+DOI   : https://doi.org/10.3886/e161941
+URL   : https://www.openicpsr.org/openicpsr/project/161941/view
+

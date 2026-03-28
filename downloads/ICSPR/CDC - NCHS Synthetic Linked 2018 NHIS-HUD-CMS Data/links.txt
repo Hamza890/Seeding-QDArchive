@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : CDC - NCHS Synthetic Linked 2018 NHIS-HUD-CMS Data
+DOI   : https://doi.org/10.3886/e239088v1
+URL   : https://www.datalumos.org/datalumos/project/239088/version/V1/view
+
+Title : CDC - NCHS Synthetic Linked 2018 NHIS-HUD-CMS Data
+DOI   : https://doi.org/10.3886/e239088
+URL   : https://www.datalumos.org/datalumos/project/239088/view
+

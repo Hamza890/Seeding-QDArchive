@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Understanding Society: Wave 1, 2009-2011: Linked National Pupil Database: Secure Access
+DOI   : https://doi.org/10.5255/ukda-sn-7642-2
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/7642#doi
+

@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Computers and the Law: Mechanised Searching of Legal Documents, 1975-1977
+DOI   : https://doi.org/10.5255/ukda-sn-1373-1
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/1373#doi
+

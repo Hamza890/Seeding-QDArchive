@@ -1,0 +1,15 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Challenges in the distribution of antimicrobial medications in community dispensaries in Accra, Ghana
+DOI   : https://doi.org/10.3886/e192062
+URL   : https://www.openicpsr.org/openicpsr/project/192062/view
+
+Title : Challenges in the distribution of antimicrobial medications in community dispensaries in Accra, Ghana
+DOI   : https://doi.org/10.3886/e192062v2
+URL   : https://www.openicpsr.org/openicpsr/project/192062/version/V2/view
+
+Title : Challenges in the distribution of antimicrobial medications in community dispensaries in Accra, Ghana
+DOI   : https://doi.org/10.3886/e192062v1
+URL   : https://www.openicpsr.org/openicpsr/project/192062/version/V1/view
+

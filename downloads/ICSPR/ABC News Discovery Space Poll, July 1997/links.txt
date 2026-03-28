@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : ABC News Discovery Space Poll, July 1997
+DOI   : https://doi.org/10.3886/icpsr02500
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/2500
+
+Title : ABC News Discovery Space Poll, July 1997
+DOI   : https://doi.org/10.3886/icpsr02500.v1
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/2500/versions/V1
+

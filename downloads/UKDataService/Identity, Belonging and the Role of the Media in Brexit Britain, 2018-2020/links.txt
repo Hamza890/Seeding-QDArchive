@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Identity, Belonging and the Role of the Media in Brexit Britain, 2018-2020
+DOI   : https://doi.org/10.5255/ukda-sn-9002-1
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/9002#doi
+

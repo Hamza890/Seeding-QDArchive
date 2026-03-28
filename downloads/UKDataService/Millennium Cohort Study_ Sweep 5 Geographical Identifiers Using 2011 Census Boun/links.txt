@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Millennium Cohort Study: Sweep 5 Geographical Identifiers Using 2011 Census Boundaries: Secure Access
+DOI   : https://doi.org/10.5255/ukda-sn-7763-2
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/7763#doi
+

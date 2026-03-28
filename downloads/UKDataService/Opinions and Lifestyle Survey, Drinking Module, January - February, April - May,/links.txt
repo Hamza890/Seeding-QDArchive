@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Opinions and Lifestyle Survey, Drinking Module, January - February, April - May, July - August and October - November, 2016
+DOI   : https://doi.org/10.5255/ukda-sn-8284-2
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/8284#doi
+

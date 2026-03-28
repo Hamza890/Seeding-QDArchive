@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : College and Beyond II (CBII) Contextual Data, [United States], 2004-2021
+DOI   : https://doi.org/10.3886/icpsr38560
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/38560
+
+Title : College and Beyond II (CBII) Contextual Data, [United States], 2004-2021
+DOI   : https://doi.org/10.3886/icpsr38560.v1
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/38560/versions/V1
+

@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Millennium Cohort Study, Sweeps 1-7, 2001-2019: Demographics, Language and Religion: Secure Access
+DOI   : https://doi.org/10.5255/ukda-sn-8755-1
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/8755#doi
+

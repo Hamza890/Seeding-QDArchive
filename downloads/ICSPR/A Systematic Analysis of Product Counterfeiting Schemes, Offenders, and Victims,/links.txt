@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : A Systematic Analysis of Product Counterfeiting Schemes, Offenders, and Victims, 43 states and 42 countries, 2000-2015
+DOI   : https://doi.org/10.3886/icpsr37177
+URL   : https://www.icpsr.umich.edu/web/NACJD/studies/37177
+
+Title : A Systematic Analysis of Product Counterfeiting Schemes, Offenders, and Victims, 43 states and 42 countries, 2000-2015
+DOI   : https://doi.org/10.3886/icpsr37177.v2
+URL   : https://www.icpsr.umich.edu/web/NACJD/studies/37177/versions/V2
+

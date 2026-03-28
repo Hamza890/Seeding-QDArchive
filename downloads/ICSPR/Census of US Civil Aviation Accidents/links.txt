@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Census of US Civil Aviation Accidents
+DOI   : https://doi.org/10.3886/e227322
+URL   : https://www.datalumos.org/datalumos/project/227322/view
+
+Title : Census of US Civil Aviation Accidents
+DOI   : https://doi.org/10.3886/e227322v1
+URL   : https://www.datalumos.org/datalumos/project/227322/version/V1/view
+

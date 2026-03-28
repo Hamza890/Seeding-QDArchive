@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Congressional Campaign Study, 1978
+DOI   : https://doi.org/10.3886/icpsr08431
+URL   : http://www.icpsr.umich.edu/icpsrweb/ICPSR/studies/8431
+
+Title : Congressional Campaign Study, 1978
+DOI   : https://doi.org/10.3886/icpsr08431.v1
+URL   : http://www.icpsr.umich.edu/icpsrweb/ICPSR/studies/8431/version/1
+

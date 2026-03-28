@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : CRELES: Costa Rican Longevity and Healthy Aging Study - Wave 1, 2005 (Costa Rica Estudio de Longevidad y Envejecimiento Saludable)
+DOI   : https://doi.org/10.3886/icpsr26681
+URL   : https://www.icpsr.umich.edu/web/NACDA/studies/26681
+

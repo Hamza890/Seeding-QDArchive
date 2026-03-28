@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Civic Cohort: Parent-Youth Dyad Interviews during the 2002-2004 Election Cycles in Arizona, Colorado, and Florida
+DOI   : https://doi.org/10.3886/icpsr36529
+URL   : https://www.icpsr.umich.edu/web/civicleads/studies/36529
+

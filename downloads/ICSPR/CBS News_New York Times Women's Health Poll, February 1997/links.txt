@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : CBS News/New York Times Women's Health Poll, February 1997
+DOI   : https://doi.org/10.3886/icpsr04487
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/4487
+
+Title : CBS News/New York Times Women's Health Poll, February 1997
+DOI   : https://doi.org/10.3886/icpsr04487.v1
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/4487/versions/V1
+

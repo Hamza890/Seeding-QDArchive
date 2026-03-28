@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Aspirin Dosing: A Patient-Centric Trial Assessing Benefits and Long-term Effectiveness (ADAPTABLE), United States, 2015-2020
+DOI   : https://doi.org/10.3886/icpsr38609
+URL   : https://www.icpsr.umich.edu/web/pcodr/studies/38609
+
+Title : Aspirin Dosing: A Patient-Centric Trial Assessing Benefits and Long-term Effectiveness (ADAPTABLE), United States, 2015-2020
+DOI   : https://doi.org/10.3886/icpsr38609.v1
+URL   : https://www.icpsr.umich.edu/web/pcodr/studies/38609/versions/V1
+

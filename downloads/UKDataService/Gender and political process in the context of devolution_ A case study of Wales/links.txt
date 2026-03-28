@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Gender and political process in the context of devolution: A case study of Wales
+DOI   : https://doi.org/10.5255/ukda-sn-852639
+URL   : http://reshare.ukdataservice.ac.uk/id/eprint/852639
+

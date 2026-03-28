@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Millennium Cohort Study: Age 9 months, Sweep 1, 2003: Survey of Mothers who Received Assisted Fertility Treatment
+DOI   : https://doi.org/10.5255/ukda-sn-5559-1
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/5559#doi
+

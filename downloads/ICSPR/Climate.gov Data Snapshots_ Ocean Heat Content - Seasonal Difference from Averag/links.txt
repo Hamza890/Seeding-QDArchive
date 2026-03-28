@@ -1,0 +1,15 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Climate.gov Data Snapshots: Ocean Heat Content - Seasonal Difference from Average
+DOI   : https://doi.org/10.3886/e233223v2
+URL   : https://www.datalumos.org/datalumos/project/233223/version/V2/view
+
+Title : Climate.gov Data Snapshots: Ocean Heat Content - Seasonal Difference from Average
+DOI   : https://doi.org/10.3886/e233223
+URL   : https://www.datalumos.org/datalumos/project/233223/view
+
+Title : Climate.gov Data Snapshots: Ocean Heat Content - Seasonal Difference from Average
+DOI   : https://doi.org/10.3886/e233223v1
+URL   : https://www.datalumos.org/datalumos/project/233223/version/V1/view
+

@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : 1961 Census Microdata Teaching Dataset for Great Britain: 1% Sample: Open Access
+DOI   : https://doi.org/10.5255/ukda-sn-8274-1
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/8274#doi
+

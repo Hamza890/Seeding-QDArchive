@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : CTDA 1035: Posttraumatic Stress in Children Age 8 to 16 and Their Parents After Hurricane, United States, 2005-2008
+DOI   : https://doi.org/10.3886/icpsr39322
+URL   : https://www.icpsr.umich.edu/web/DSDR/studies/39322
+
+Title : CTDA 1035: Posttraumatic Stress in Children Age 8 to 16 and Their Parents After Hurricane, United States, 2005-2008
+DOI   : https://doi.org/10.3886/icpsr39322.v1
+URL   : https://www.icpsr.umich.edu/web/DSDR/studies/39322/versions/V1
+

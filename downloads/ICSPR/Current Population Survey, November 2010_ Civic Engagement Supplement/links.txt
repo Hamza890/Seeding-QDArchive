@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Current Population Survey, November 2010: Civic Engagement Supplement
+DOI   : https://doi.org/10.3886/icpsr32341
+URL   : https://www.icpsr.umich.edu/web/civicleads/studies/32341
+

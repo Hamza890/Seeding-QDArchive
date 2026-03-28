@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Assessment of Defense and Prosecutorial Strategies in Terrorism Trials in the United States, 1980-2004
+DOI   : https://doi.org/10.3886/icpsr26241
+URL   : http://www.icpsr.umich.edu/icpsrweb/NACJD/studies/26241
+

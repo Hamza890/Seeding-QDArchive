@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Great Britain Historical Database : Economic Distress and Labour Markets Data : Government Unemployment Statistics, 1901-1974
+DOI   : https://doi.org/10.5255/ukda-sn-4563-2
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/4563#doi
+

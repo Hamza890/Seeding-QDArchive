@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Adult Ohioans who use HCBS waiver services, including 1:1 match of participants who use Remote Support Services Technologies vs. participants who do NOT use remote support services technologies
+DOI   : https://doi.org/10.3886/e240637v2
+URL   : https://www.openicpsr.org/openicpsr/project/240637/version/V2/view
+
+Title : Adult Ohioans who use HCBS waiver services, including 1:1 match of participants who use Remote Support Services Technologies vs. participants who do NOT use remote support services technologies
+DOI   : https://doi.org/10.3886/e240637
+URL   : https://www.openicpsr.org/openicpsr/project/240637/view
+

@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Understanding Environmental Knowledge Controversies: the Case for Flood Risk Management, 2007-2010
+DOI   : https://doi.org/10.5255/ukda-sn-6620-1
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/6620#doi
+

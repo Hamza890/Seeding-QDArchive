@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Workplace Employment Relations Survey, 2004: Teaching Dataset
+DOI   : https://doi.org/10.5255/ukda-sn-5897-1
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/5897#doi
+

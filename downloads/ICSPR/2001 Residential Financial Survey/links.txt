@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : 2001 Residential Financial Survey
+DOI   : https://doi.org/10.3886/e218541v2
+URL   : https://www.datalumos.org/datalumos/project/218541/version/V2/view
+
+Title : 2001 Residential Financial Survey
+DOI   : https://doi.org/10.3886/e218541
+URL   : https://www.datalumos.org/datalumos/project/218541/view
+

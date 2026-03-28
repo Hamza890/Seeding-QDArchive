@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : ACS 5-Year Demographic Characteristics DC
+DOI   : https://doi.org/10.3886/e238112v1
+URL   : https://www.datalumos.org/datalumos/project/238112/version/V1/view
+
+Title : ACS 5-Year Demographic Characteristics DC
+DOI   : https://doi.org/10.3886/e238112
+URL   : https://www.datalumos.org/datalumos/project/238112/view
+

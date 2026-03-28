@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : A multilevel, agent-centered analysis of intersectionality in a Hispanic Serving Institution: The case of college internship access for Latinx students
+DOI   : https://doi.org/10.3886/e170081v1
+URL   : https://www.openicpsr.org/openicpsr/project/170081/version/V1/view
+
+Title : A multilevel, agent-centered analysis of intersectionality in a Hispanic Serving Institution: The case of college internship access for Latinx students
+DOI   : https://doi.org/10.3886/e170081
+URL   : https://www.openicpsr.org/openicpsr/project/170081/view
+

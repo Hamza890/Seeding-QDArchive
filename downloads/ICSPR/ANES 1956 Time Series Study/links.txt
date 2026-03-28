@@ -1,0 +1,19 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : ANES 1956 Time Series Study
+DOI   : https://doi.org/10.3886/icpsr07214
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/7214
+
+Title : ANES 1956 Time Series Study
+DOI   : https://doi.org/10.3886/icpsr07214.v4
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/7214/versions/V4
+
+Title : ANES 1956 Time Series Study
+DOI   : https://doi.org/10.3886/icpsr07214.v2
+URL   : http://www.icpsr.umich.edu/icpsrweb/ICPSR/studies/7214/version/2
+
+Title : ANES 1956 Time Series Study
+DOI   : https://doi.org/10.3886/icpsr07214.v1
+URL   : http://www.icpsr.umich.edu/icpsrweb/ICPSR/studies/7214/version/1
+

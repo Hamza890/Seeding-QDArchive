@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Creating Locally Relevant Health Solutions with the Appreciative Inquiry and Boot Camp Translation Method [Methods Study], Colorado, 2013-2018
+DOI   : https://doi.org/10.3886/icpsr39478
+URL   : https://www.icpsr.umich.edu/web/pcodr/studies/39478
+
+Title : Creating Locally Relevant Health Solutions with the Appreciative Inquiry and Boot Camp Translation Method [Methods Study], Colorado, 2013-2018
+DOI   : https://doi.org/10.3886/icpsr39478.v1
+URL   : https://www.icpsr.umich.edu/web/pcodr/studies/39478/versions/V1
+

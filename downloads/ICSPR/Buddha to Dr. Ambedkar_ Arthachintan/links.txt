@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Buddha to Dr. Ambedkar: Arthachintan
+DOI   : https://doi.org/10.3886/e152061v1
+URL   : https://www.openicpsr.org/openicpsr/project/152061/version/V1/view
+
+Title : Buddha to Dr. Ambedkar: Arthachintan
+DOI   : https://doi.org/10.3886/e152061
+URL   : https://www.openicpsr.org/openicpsr/project/152061/view
+

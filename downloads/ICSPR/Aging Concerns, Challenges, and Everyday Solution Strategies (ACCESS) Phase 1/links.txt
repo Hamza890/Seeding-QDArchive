@@ -1,0 +1,15 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Aging Concerns, Challenges, and Everyday Solution Strategies (ACCESS) Phase 1
+DOI   : https://doi.org/10.3886/e237650v1-199586
+URL   : https://www.openicpsr.org/openicpsr/project/237650/version/V1/view?path=/openicpsr/237650/fcr:versions/V1/Technical-Reports&type=folder
+
+Title : Aging Concerns, Challenges, and Everyday Solution Strategies (ACCESS) Phase 1
+DOI   : https://doi.org/10.3886/e237650v1
+URL   : https://www.openicpsr.org/openicpsr/project/237650/version/V1/view
+
+Title : Aging Concerns, Challenges, and Everyday Solution Strategies (ACCESS) Phase 1
+DOI   : https://doi.org/10.3886/e237650
+URL   : https://www.openicpsr.org/openicpsr/project/237650/view
+

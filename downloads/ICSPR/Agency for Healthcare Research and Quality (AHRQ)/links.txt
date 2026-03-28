@@ -1,0 +1,15 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Agency for Healthcare Research and Quality (AHRQ)
+DOI   : https://doi.org/10.3886/e220585v4
+URL   : https://www.datalumos.org/datalumos/project/220585/version/V4/view
+
+Title : Agency for Healthcare Research and Quality (AHRQ)
+DOI   : https://doi.org/10.3886/e220585
+URL   : https://www.datalumos.org/datalumos/project/220585/view
+
+Title : Agency for Healthcare Research and Quality (AHRQ)
+DOI   : https://doi.org/10.3886/e220585v3
+URL   : https://www.datalumos.org/datalumos/project/220585/version/V3/view
+

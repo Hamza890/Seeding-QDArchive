@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Childhood Victimization and Delinquency, Adult Criminality, and Violent Criminal Behavior in a Large Urban County in the Northwest United States, 1980-1997
+DOI   : https://doi.org/10.3886/icpsr03548
+URL   : https://www.icpsr.umich.edu/web/NACJD/studies/3548
+
+Title : Childhood Victimization and Delinquency, Adult Criminality, and Violent Criminal Behavior in a Large Urban County in the Northwest United States, 1980-1997
+DOI   : https://doi.org/10.3886/icpsr03548.v1
+URL   : https://www.icpsr.umich.edu/web/NACJD/studies/3548/versions/V1
+

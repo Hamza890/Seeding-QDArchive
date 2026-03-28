@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Bullying, Sexual, and Dating Violence Trajectories From Early to Late Adolescence in the Midwestern United States, 2007-2013.
+DOI   : https://doi.org/10.3886/icpsr34835
+URL   : https://www.icpsr.umich.edu/web/NACJD/studies/34835
+
+Title : Bullying, Sexual, and Dating Violence Trajectories From Early to Late Adolescence in the Midwestern United States, 2007-2013.
+DOI   : https://doi.org/10.3886/icpsr34835.v1
+URL   : https://www.icpsr.umich.edu/web/NACJD/studies/34835/versions/V1
+

@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : CBS News "48 Hours" Monthly Poll #4, January 1998
+DOI   : https://doi.org/10.3886/icpsr02454
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/2454
+
+Title : CBS News "48 Hours" Monthly Poll #4, January 1998
+DOI   : https://doi.org/10.3886/icpsr02454.v1
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/2454/versions/V1
+

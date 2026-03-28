@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Comprehensive Investigation of the Role of Individuals, the Immediate Social Environment, and Neighborhoods in Trajectories of Adolescent Antisocial Behavior in Chicago, Illinois, 1994-2002
+DOI   : https://doi.org/10.3886/icpsr33921
+URL   : http://www.icpsr.umich.edu/icpsrweb/NACJD/studies/33921
+
+Title : Comprehensive Investigation of the Role of Individuals, the Immediate Social Environment, and Neighborhoods in Trajectories of Adolescent Antisocial Behavior in Chicago, Illinois, 1994-2002
+DOI   : https://doi.org/10.3886/icpsr33921.v1
+URL   : http://www.icpsr.umich.edu/icpsrweb/NACJD/studies/33921/version/1
+

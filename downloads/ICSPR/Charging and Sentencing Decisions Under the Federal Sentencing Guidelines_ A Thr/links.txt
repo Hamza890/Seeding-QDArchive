@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Charging and Sentencing Decisions Under the Federal Sentencing Guidelines: A Three District Study, 1998-2000
+DOI   : https://doi.org/10.3886/icpsr31141
+URL   : http://www.icpsr.umich.edu/icpsrweb/ICPSR/studies/31141
+
+Title : Charging and Sentencing Decisions Under the Federal Sentencing Guidelines: A Three District Study, 1998-2000
+DOI   : https://doi.org/10.3886/icpsr31141.v1
+URL   : http://www.icpsr.umich.edu/icpsrweb/ICPSR/studies/31141/version/1
+

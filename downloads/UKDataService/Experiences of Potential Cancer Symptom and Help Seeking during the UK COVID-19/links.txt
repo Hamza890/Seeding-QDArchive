@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Experiences of Potential Cancer Symptom and Help Seeking during the UK COVID-19 Pandemic, 2020-2021
+DOI   : https://doi.org/10.5255/ukda-sn-855905
+URL   : http://reshare.ukdataservice.ac.uk/id/eprint/855905
+

@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Custody Evaluators' Beliefs about Domestic Abuse Allegations, 2009-2010 [United States]
+DOI   : https://doi.org/10.3886/icpsr30962
+URL   : https://www.icpsr.umich.edu/web/NACJD/studies/30962
+
+Title : Custody Evaluators' Beliefs about Domestic Abuse Allegations, 2009-2010 [United States]
+DOI   : https://doi.org/10.3886/icpsr30962.v1
+URL   : https://www.icpsr.umich.edu/web/NACJD/studies/30962/versions/V1
+

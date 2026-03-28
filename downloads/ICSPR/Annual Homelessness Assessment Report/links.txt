@@ -1,0 +1,15 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Annual Homelessness Assessment Report
+DOI   : https://doi.org/10.3886/e222981v3
+URL   : https://www.datalumos.org/datalumos/project/222981/version/V3/view
+
+Title : Annual Homelessness Assessment Report
+DOI   : https://doi.org/10.3886/e222981
+URL   : https://www.datalumos.org/datalumos/project/222981/view
+
+Title : Annual Homelessness Assessment Report
+DOI   : https://doi.org/10.3886/e222981v2
+URL   : https://www.datalumos.org/datalumos/project/222981/version/V2/view
+

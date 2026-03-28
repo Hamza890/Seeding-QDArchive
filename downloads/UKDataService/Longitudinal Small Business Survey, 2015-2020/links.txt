@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Longitudinal Small Business Survey, 2015-2020
+DOI   : https://doi.org/10.5255/ukda-sn-7973-6
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/7973#doi
+

@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : CLUST, INDEX, THRAN, and CONID Computer Programs
+DOI   : https://doi.org/10.3886/icpsr05910
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/5910
+
+Title : CLUST, INDEX, THRAN, and CONID Computer Programs
+DOI   : https://doi.org/10.3886/icpsr05910.v1
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/5910/versions/V1
+

@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : 1970 British Cohort Study: Age 42, Sweep 9, 2012
+DOI   : https://doi.org/10.5255/ukda-sn-7473-3
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/7473#doi
+

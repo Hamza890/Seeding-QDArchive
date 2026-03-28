@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : 2014 Minority Veteran Report | Department of Veterans Affairs Open Data Portal
+DOI   : https://doi.org/10.3886/e222881v2
+URL   : https://www.datalumos.org/datalumos/project/222881/version/V2/view
+
+Title : 2014 Minority Veteran Report | Department of Veterans Affairs Open Data Portal
+DOI   : https://doi.org/10.3886/e222881
+URL   : https://www.datalumos.org/datalumos/project/222881/view
+

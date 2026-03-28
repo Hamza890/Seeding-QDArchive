@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Congressmen's Voting Decisions, 1969
+DOI   : https://doi.org/10.3886/icpsr33301.v1
+URL   : http://www.icpsr.umich.edu/icpsrweb/ICPSR/studies/33301/version/1
+
+Title : Congressmen's Voting Decisions, 1969
+DOI   : https://doi.org/10.3886/icpsr33301
+URL   : http://www.icpsr.umich.edu/icpsrweb/ICPSR/studies/33301
+

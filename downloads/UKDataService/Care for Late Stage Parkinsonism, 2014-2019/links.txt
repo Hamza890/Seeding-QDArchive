@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Care for Late Stage Parkinsonism, 2014-2019
+DOI   : https://doi.org/10.5255/ukda-sn-854876
+URL   : http://reshare.ukdataservice.ac.uk/id/eprint/854876
+

@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : 1961 Census Microdata Household File for Great Britain: 0.95% Sample
+DOI   : https://doi.org/10.5255/ukda-sn-8273-1
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/8273#doi
+

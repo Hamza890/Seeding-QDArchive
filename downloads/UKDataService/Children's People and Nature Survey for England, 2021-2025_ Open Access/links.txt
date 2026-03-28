@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Children's People and Nature Survey for England, 2021-2025: Open Access
+DOI   : https://doi.org/10.5255/ukda-sn-9174-3
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/9174#doi
+

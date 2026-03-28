@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : A Survey of the Arts in Everyday Life 2002
+DOI   : https://doi.org/10.3886/icpsr35242
+URL   : https://www.icpsr.umich.edu/web/NADAC/studies/35242
+
+Title : A Survey of the Arts in Everyday Life 2002
+DOI   : https://doi.org/10.3886/icpsr35242.v1
+URL   : https://www.icpsr.umich.edu/web/NADAC/studies/35242/versions/V1
+

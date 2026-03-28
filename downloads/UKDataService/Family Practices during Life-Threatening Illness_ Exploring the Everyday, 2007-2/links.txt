@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Family Practices during Life-Threatening Illness: Exploring the Everyday, 2007-2008
+DOI   : https://doi.org/10.5255/ukda-sn-7389-1
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/7389#doi
+

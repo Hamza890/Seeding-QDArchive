@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Battering, Work, and Welfare in Allegheny County, Pennsylvania, 2001-2002
+DOI   : https://doi.org/10.3886/icpsr04081
+URL   : http://www.icpsr.umich.edu/icpsrweb/NACJD/studies/4081
+
+Title : Battering, Work, and Welfare in Allegheny County, Pennsylvania, 2001-2002
+DOI   : https://doi.org/10.3886/icpsr04081.v1
+URL   : http://www.icpsr.umich.edu/icpsrweb/NACJD/studies/4081/version/1
+

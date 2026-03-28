@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : DQS NHIS Child Summary Health Statistics
+DOI   : https://doi.org/10.3886/e242720v1
+URL   : https://www.datalumos.org/datalumos/project/242720/version/V1/view
+
+Title : DQS NHIS Child Summary Health Statistics
+DOI   : https://doi.org/10.3886/e242720
+URL   : https://www.datalumos.org/datalumos/project/242720/view
+

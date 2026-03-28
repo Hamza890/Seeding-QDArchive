@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : English Longitudinal Study of Ageing: Waves 1-10, 2002-2023: Local Authority Type Pre-2009 Boundaries: Special Licence Access
+DOI   : https://doi.org/10.5255/ukda-sn-8430-2
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/8430#doi
+

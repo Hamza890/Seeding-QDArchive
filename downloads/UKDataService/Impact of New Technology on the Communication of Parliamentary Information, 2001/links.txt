@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Impact of New Technology on the Communication of Parliamentary Information, 2001
+DOI   : https://doi.org/10.5255/ukda-sn-4524-1
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/4524#doi
+

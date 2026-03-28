@@ -1,0 +1,15 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Conformity and Mask-Wearing
+DOI   : https://doi.org/10.3886/e144983v1-93620
+URL   : https://www.openicpsr.org/openicpsr/project/144983/version/V1/view?path=/openicpsr/144983/fcr:versions/V1/Mask-Master-Dataset-Public.sav&type=file
+
+Title : Conformity and Mask-Wearing
+DOI   : https://doi.org/10.3886/e144983v1
+URL   : https://www.openicpsr.org/openicpsr/project/144983/version/V1/view
+
+Title : Conformity and Mask-Wearing
+DOI   : https://doi.org/10.3886/e144983
+URL   : https://www.openicpsr.org/openicpsr/project/144983/view
+

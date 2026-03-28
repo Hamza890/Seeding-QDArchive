@@ -1,0 +1,23 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : COVID-19, Crises, and Public Support for the Rule of Law Teaching Modules
+DOI   : https://doi.org/10.3886/e120596v4
+URL   : https://www.openicpsr.org/openicpsr/project/120596/version/V4/view
+
+Title : COVID-19, Crises, and Public Support for the Rule of Law Teaching Modules
+DOI   : https://doi.org/10.3886/e120596
+URL   : https://www.openicpsr.org/openicpsr/project/120596/view
+
+Title : COVID-19, Crises, and Public Support for the Rule of Law Teaching Modules
+DOI   : https://doi.org/10.3886/e120596v3
+URL   : https://www.openicpsr.org/openicpsr/project/120596/version/V3/view
+
+Title : COVID-19, Crises, and Public Support for the Rule of Law Teaching Modules
+DOI   : https://doi.org/10.3886/e120596v2
+URL   : https://www.openicpsr.org/openicpsr/project/120596/version/V2/view
+
+Title : COVID-19, Crises, and Public Support for the Rule of Law Teaching Modules
+DOI   : https://doi.org/10.3886/e120596v1
+URL   : https://www.openicpsr.org/openicpsr/project/120596/version/V1/view
+

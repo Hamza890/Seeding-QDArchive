@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Assessing for Impact: Key Elements to Successful Group Mentoring at the Boys and Girls Club of Metro Atlanta, Georgia, 2018-2019
+DOI   : https://doi.org/10.3886/icpsr38272
+URL   : https://www.icpsr.umich.edu/web/NACJD/studies/38272
+
+Title : Assessing for Impact: Key Elements to Successful Group Mentoring at the Boys and Girls Club of Metro Atlanta, Georgia, 2018-2019
+DOI   : https://doi.org/10.3886/icpsr38272.v1
+URL   : https://www.icpsr.umich.edu/web/NACJD/studies/38272/versions/V1
+

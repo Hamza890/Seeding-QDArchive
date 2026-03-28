@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Broadening the Reach, Impact, and Delivery of Genetic Services (BRIDGE) Family History Interviews, New York and Utah, 2021
+DOI   : https://doi.org/10.3886/icpsr38831
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/38831
+
+Title : Broadening the Reach, Impact, and Delivery of Genetic Services (BRIDGE) Family History Interviews, New York and Utah, 2021
+DOI   : https://doi.org/10.3886/icpsr38831.v1
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/38831/versions/V1
+

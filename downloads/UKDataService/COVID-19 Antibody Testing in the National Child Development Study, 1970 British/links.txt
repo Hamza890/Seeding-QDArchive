@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : COVID-19 Antibody Testing in the National Child Development Study, 1970 British Cohort Study, Next Steps and Millennium Cohort Study, 2021
+DOI   : https://doi.org/10.5255/ukda-sn-8823-1
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/8823#doi
+

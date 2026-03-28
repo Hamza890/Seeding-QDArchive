@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Applied Statistics Problem Sets for Instruction in Statistics in the Social Sciences
+DOI   : https://doi.org/10.3886/icpsr07228
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/7228
+
+Title : Applied Statistics Problem Sets for Instruction in Statistics in the Social Sciences
+DOI   : https://doi.org/10.3886/icpsr07228.v1
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/7228/versions/V1
+

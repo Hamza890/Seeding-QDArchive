@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Classification of Laws Associated with School Students (CLASS) School Nutrition-Environment State Policy Classification System (SNESPCS)
+DOI   : https://doi.org/10.3886/e235041v1
+URL   : https://www.openicpsr.org/openicpsr/project/235041/version/V1/view
+
+Title : Classification of Laws Associated with School Students (CLASS) School Nutrition-Environment State Policy Classification System (SNESPCS)
+DOI   : https://doi.org/10.3886/e235041
+URL   : https://www.openicpsr.org/openicpsr/project/235041/view
+

@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : A Pathway Approach to the Study of Bias Crime Offenders, United States, 1990-2018
+DOI   : https://doi.org/10.3886/icpsr38157
+URL   : https://www.icpsr.umich.edu/web/NACJD/studies/38157
+
+Title : A Pathway Approach to the Study of Bias Crime Offenders, United States, 1990-2018
+DOI   : https://doi.org/10.3886/icpsr38157.v1
+URL   : https://www.icpsr.umich.edu/web/NACJD/studies/38157/versions/V1
+

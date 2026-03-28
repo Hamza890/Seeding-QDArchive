@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Apps for Ag Hackathon | Department of Veterans Affairs Open Data Portal
+DOI   : https://doi.org/10.3886/e223244v2
+URL   : https://www.datalumos.org/datalumos/project/223244/version/V2/view
+
+Title : Apps for Ag Hackathon | Department of Veterans Affairs Open Data Portal
+DOI   : https://doi.org/10.3886/e223244
+URL   : https://www.datalumos.org/datalumos/project/223244/view
+

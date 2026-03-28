@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : CBS News/New York Times Monthly Poll #2, July 2002
+DOI   : https://doi.org/10.3886/icpsr03700
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/3700
+
+Title : CBS News/New York Times Monthly Poll #2, July 2002
+DOI   : https://doi.org/10.3886/icpsr03700.v3
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/3700/versions/V3
+

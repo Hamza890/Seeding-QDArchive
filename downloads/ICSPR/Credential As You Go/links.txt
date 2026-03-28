@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Credential As You Go
+DOI   : https://doi.org/10.3886/e245946v1
+URL   : https://www.openicpsr.org/openicpsr/project/245946/version/V1/view
+
+Title : Credential As You Go
+DOI   : https://doi.org/10.3886/e245946
+URL   : https://www.openicpsr.org/openicpsr/project/245946/view
+

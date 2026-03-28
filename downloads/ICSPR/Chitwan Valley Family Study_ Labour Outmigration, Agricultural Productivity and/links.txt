@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Chitwan Valley Family Study: Labour Outmigration, Agricultural Productivity and Food Security, Nepal, 2015-2017
+DOI   : https://doi.org/10.3886/icpsr36755
+URL   : https://www.icpsr.umich.edu/web/DSDR/studies/36755
+
+Title : Chitwan Valley Family Study: Labour Outmigration, Agricultural Productivity and Food Security, Nepal, 2015-2017
+DOI   : https://doi.org/10.3886/icpsr36755.v5
+URL   : https://www.icpsr.umich.edu/web/DSDR/studies/36755/versions/V5
+

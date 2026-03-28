@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Coventry and Liverpool Lives Oral History Collection, c.1945-1970
+DOI   : https://doi.org/10.5255/ukda-sn-7485-1
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/7485#doi
+

@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Effects of Scale in Organic Agriculture, 2006-2010
+DOI   : https://doi.org/10.5255/ukda-sn-6761-1
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/6761#doi
+

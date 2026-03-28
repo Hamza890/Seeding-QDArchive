@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Barriers to Psychological Help Seeking in Asian American Youth: A Qualitative Exploration in Schools, New York, 2015-2016
+DOI   : https://doi.org/10.3886/icpsr38414
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/38414
+
+Title : Barriers to Psychological Help Seeking in Asian American Youth: A Qualitative Exploration in Schools, New York, 2015-2016
+DOI   : https://doi.org/10.3886/icpsr38414.v1
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/38414/versions/V1
+

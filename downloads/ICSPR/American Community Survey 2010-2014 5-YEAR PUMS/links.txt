@@ -1,0 +1,15 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : American Community Survey 2010-2014 5-YEAR PUMS
+DOI   : https://doi.org/10.3886/e100486v3
+URL   : https://www.datalumos.org/datalumos/project/100486/version/V3/view
+
+Title : American Community Survey 2010-2014 5-YEAR PUMS
+DOI   : https://doi.org/10.3886/e100486
+URL   : https://www.datalumos.org/datalumos/project/100486/view
+
+Title : American Community Survey 2010-2014 5-YEAR PUMS
+DOI   : https://doi.org/10.3886/e100486v2-95560
+URL   : https://www.datalumos.org/datalumos/project/100486/version/V2/view?path=/datalumos/100486/fcr:versions/V2/ss14pusb.csv&type=file
+

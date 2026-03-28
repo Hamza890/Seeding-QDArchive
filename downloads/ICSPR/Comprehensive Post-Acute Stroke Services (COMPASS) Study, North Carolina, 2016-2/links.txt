@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Comprehensive Post-Acute Stroke Services (COMPASS) Study, North Carolina, 2016-2018
+DOI   : https://doi.org/10.3886/icpsr38185
+URL   : https://www.icpsr.umich.edu/web/pcodr/studies/38185
+

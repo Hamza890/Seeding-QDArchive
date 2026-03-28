@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Agrarian Typology of Provinces of European Russia at the Turn of the 20th Century
+DOI   : https://doi.org/10.3886/icpsr08380
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/8380
+

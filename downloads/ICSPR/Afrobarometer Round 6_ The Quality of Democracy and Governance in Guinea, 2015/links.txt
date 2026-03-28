@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Afrobarometer Round 6: The Quality of Democracy and Governance in Guinea, 2015
+DOI   : https://doi.org/10.3886/icpsr36716
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/36716
+

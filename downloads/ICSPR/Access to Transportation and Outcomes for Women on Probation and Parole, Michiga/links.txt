@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Access to Transportation and Outcomes for Women on Probation and Parole, Michigan, 2011-2013
+DOI   : https://doi.org/10.3886/icpsr36986
+URL   : https://www.icpsr.umich.edu/web/NACJD/studies/36986
+
+Title : Access to Transportation and Outcomes for Women on Probation and Parole, Michigan, 2011-2013
+DOI   : https://doi.org/10.3886/icpsr36986.v1
+URL   : https://www.icpsr.umich.edu/web/NACJD/studies/36986/versions/V1
+

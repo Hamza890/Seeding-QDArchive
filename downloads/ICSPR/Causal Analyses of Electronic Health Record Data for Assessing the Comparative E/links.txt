@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Causal Analyses of Electronic Health Record Data for Assessing the Comparative Effectiveness of Treatment Regimens [Methods Study], United States, 2014-2019
+DOI   : https://doi.org/10.3886/icpsr39581
+URL   : https://www.icpsr.umich.edu/web/pcodr/studies/39581
+
+Title : Causal Analyses of Electronic Health Record Data for Assessing the Comparative Effectiveness of Treatment Regimens [Methods Study], United States, 2014-2019
+DOI   : https://doi.org/10.3886/icpsr39581.v1
+URL   : https://www.icpsr.umich.edu/web/pcodr/studies/39581/versions/V1
+

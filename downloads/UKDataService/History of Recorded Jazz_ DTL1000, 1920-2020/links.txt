@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : History of Recorded Jazz: DTL1000, 1920-2020
+DOI   : https://doi.org/10.5255/ukda-sn-854781
+URL   : http://reshare.ukdataservice.ac.uk/id/eprint/854781
+

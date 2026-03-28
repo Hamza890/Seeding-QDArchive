@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Great Britain Historical Database: Age- and Cause-Specific Mortality in England and Wales at District-Level, 1851-1910
+DOI   : https://doi.org/10.5255/ukda-sn-9034-1
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/9034#doi
+

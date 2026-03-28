@@ -1,0 +1,15 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Area Health Resource Files (1979, 1998-2000, 2005, 2008, 2012-2023)
+DOI   : https://doi.org/10.3886/e219145v3
+URL   : https://www.datalumos.org/datalumos/project/219145/version/V3/view
+
+Title : Area Health Resource Files (1979, 1998-2000, 2005, 2008, 2012-2023)
+DOI   : https://doi.org/10.3886/e219145
+URL   : https://www.datalumos.org/datalumos/project/219145/view
+
+Title : Area Health Resource Files (1979, 1998-2000, 2005, 2008, 2012-2023)
+DOI   : https://doi.org/10.3886/e219145v2
+URL   : https://www.datalumos.org/datalumos/project/219145/version/V2/view
+

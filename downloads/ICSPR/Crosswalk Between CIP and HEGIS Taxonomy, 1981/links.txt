@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Crosswalk Between CIP and HEGIS Taxonomy, 1981
+DOI   : https://doi.org/10.3886/icpsr03135
+URL   : http://www.icpsr.umich.edu/icpsrweb/ICPSR/studies/3135
+
+Title : Crosswalk Between CIP and HEGIS Taxonomy, 1981
+DOI   : https://doi.org/10.3886/icpsr03135.v1
+URL   : http://www.icpsr.umich.edu/icpsrweb/ICPSR/studies/3135/version/1
+

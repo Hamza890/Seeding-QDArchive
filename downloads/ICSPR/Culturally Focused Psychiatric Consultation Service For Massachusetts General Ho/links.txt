@@ -1,0 +1,15 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Culturally Focused Psychiatric Consultation Service For Massachusetts General Hospital's Asian American and Latino American Primary Care Patients with Depression, 2009-2011
+DOI   : https://doi.org/10.3886/icpsr34495
+URL   : https://www.icpsr.umich.edu/web/HMCA/studies/34495
+
+Title : Culturally Focused Psychiatric Consultation Service For Massachusetts General Hospital's Asian American and Latino American Primary Care Patients with Depression, 2009-2011
+DOI   : https://doi.org/10.3886/icpsr34495.v2
+URL   : https://www.icpsr.umich.edu/web/HMCA/studies/34495/versions/V2
+
+Title : Culturally Focused Psychiatric Consultation Service For Massachusetts General Hospital's Asian American and Latino American Primary Care Patients with Depression, 2009-2011
+DOI   : https://doi.org/10.3886/icpsr34495.v1
+URL   : http://www.icpsr.umich.edu/icpsrweb/HMCA/studies/34495/version/1
+

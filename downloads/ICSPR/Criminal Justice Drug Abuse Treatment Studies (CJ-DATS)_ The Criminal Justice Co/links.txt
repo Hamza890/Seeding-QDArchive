@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Criminal Justice Drug Abuse Treatment Studies (CJ-DATS): The Criminal Justice Co-Occurring Disorder Screening Instrument (CJ-CODSI), 2002-2008 [United States]
+DOI   : https://doi.org/10.3886/icpsr27963
+URL   : https://www.icpsr.umich.edu/web/NAHDAP/studies/27963
+

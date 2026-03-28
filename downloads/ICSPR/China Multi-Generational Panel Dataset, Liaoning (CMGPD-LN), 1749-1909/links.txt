@@ -1,0 +1,47 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : China Multi-Generational Panel Dataset, Liaoning (CMGPD-LN), 1749-1909
+DOI   : https://doi.org/10.3886/icpsr27063
+URL   : https://www.icpsr.umich.edu/web/DSDR/studies/27063
+
+Title : China Multi-Generational Panel Dataset, Liaoning (CMGPD-LN), 1749-1909
+DOI   : https://doi.org/10.3886/icpsr27063.v10
+URL   : https://www.icpsr.umich.edu/web/DSDR/studies/27063/versions/V10
+
+Title : China Multi-Generational Panel Dataset, Liaoning (CMGPD-LN), 1749-1909
+DOI   : https://doi.org/10.3886/icpsr27063.v6
+URL   : http://www.icpsr.umich.edu/icpsrweb/DSDR/studies/27063/version/6
+
+Title : China Multi-Generational Panel Dataset, Liaoning (CMGPD-LN), 1749-1909
+DOI   : https://doi.org/10.3886/icpsr27063.v7
+URL   : http://www.icpsr.umich.edu/icpsrweb/DSDR/studies/27063/version/7
+
+Title : China Multi-Generational Panel Dataset, Liaoning (CMGPD-LN), 1749-1909
+DOI   : https://doi.org/10.3886/icpsr27063.v9
+URL   : http://www.icpsr.umich.edu/icpsrweb/DSDR/studies/27063/version/9
+
+Title : China Multi-Generational Panel Dataset, Liaoning (CMGPD-LN), 1749-1909
+DOI   : https://doi.org/10.3886/icpsr27063.v3
+URL   : http://www.icpsr.umich.edu/icpsrweb/DSDR/studies/27063/version/3
+
+Title : China Multi-Generational Panel Dataset, Liaoning (CMGPD-LN), 1749-1909
+DOI   : https://doi.org/10.3886/icpsr27063.v1
+URL   : http://www.icpsr.umich.edu/icpsrweb/DSDR/studies/27063/version/1
+
+Title : China Multi-Generational Panel Dataset, Liaoning (CMGPD-LN), 1749-1909
+DOI   : https://doi.org/10.3886/icpsr27063.v2
+URL   : http://www.icpsr.umich.edu/icpsrweb/DSDR/studies/27063/version/2
+
+Title : China Multi-Generational Panel Dataset, Liaoning (CMGPD-LN), 1749-1909
+DOI   : https://doi.org/10.3886/icpsr27063.v5
+URL   : http://www.icpsr.umich.edu/icpsrweb/DSDR/studies/27063/version/5
+
+Title : China Multi-Generational Panel Dataset, Liaoning (CMGPD-LN), 1749-1909
+DOI   : https://doi.org/10.3886/icpsr27063.v4
+URL   : http://www.icpsr.umich.edu/icpsrweb/DSDR/studies/27063/version/4
+
+Title : China Multi-Generational Panel Dataset, Liaoning (CMGPD-LN), 1749-1909
+DOI   : https://doi.org/10.3886/icpsr27063.v8
+URL   : http://www.icpsr.umich.edu/icpsrweb/DSDR/studies/27063/version/8
+

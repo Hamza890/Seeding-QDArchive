@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Cambridge Study in Delinquent Development [Great Britain], 1961-1981
+DOI   : https://doi.org/10.3886/icpsr08488
+URL   : https://www.icpsr.umich.edu/web/NACJD/studies/8488
+
+Title : Cambridge Study in Delinquent Development [Great Britain], 1961-1981
+DOI   : https://doi.org/10.3886/icpsr08488.v2
+URL   : https://www.icpsr.umich.edu/web/NACJD/studies/8488/versions/V2
+

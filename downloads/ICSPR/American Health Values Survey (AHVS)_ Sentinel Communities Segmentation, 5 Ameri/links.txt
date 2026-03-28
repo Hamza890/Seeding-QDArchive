@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : American Health Values Survey (AHVS): Sentinel Communities Segmentation, 5 American communities, 2016-2017
+DOI   : https://doi.org/10.3886/icpsr37910
+URL   : https://www.icpsr.umich.edu/web/HMCA/studies/37910
+
+Title : American Health Values Survey (AHVS): Sentinel Communities Segmentation, 5 American communities, 2016-2017
+DOI   : https://doi.org/10.3886/icpsr37910.v1
+URL   : https://www.icpsr.umich.edu/web/HMCA/studies/37910/versions/V1
+

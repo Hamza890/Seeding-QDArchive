@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Black, Indigenous, People of Color and Feelings of Safety in School: Decomposing Variation and Ecological Assets
+DOI   : https://doi.org/10.3886/e168844v1
+URL   : https://www.openicpsr.org/openicpsr/project/168844/version/V1/view
+
+Title : Black, Indigenous, People of Color and Feelings of Safety in School: Decomposing Variation and Ecological Assets
+DOI   : https://doi.org/10.3886/e168844
+URL   : https://www.openicpsr.org/openicpsr/project/168844/view
+

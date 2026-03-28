@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : General Household Survey, 1994 : Follow-Up Survey of the Health of People Aged 65 and Over
+DOI   : https://doi.org/10.5255/ukda-sn-3903-1
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/3903#doi
+

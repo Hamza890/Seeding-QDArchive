@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : European Health Interview Survey: United Kingdom Data, Wave 2, 2013-2014
+DOI   : https://doi.org/10.5255/ukda-sn-7881-1
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/7881#doi
+

@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : CBS News/New York Times Monthly Poll #2, May 1992
+DOI   : https://doi.org/10.3886/icpsr06078
+URL   : http://www.icpsr.umich.edu/icpsrweb/ICPSR/studies/6078
+

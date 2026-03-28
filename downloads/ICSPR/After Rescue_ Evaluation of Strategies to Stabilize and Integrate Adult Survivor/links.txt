@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : After Rescue: Evaluation of Strategies to Stabilize and Integrate Adult Survivors of Human Trafficking to the United States, 2006-2011
+DOI   : https://doi.org/10.3886/icpsr36405
+URL   : https://www.icpsr.umich.edu/web/NACJD/studies/36405
+
+Title : After Rescue: Evaluation of Strategies to Stabilize and Integrate Adult Survivors of Human Trafficking to the United States, 2006-2011
+DOI   : https://doi.org/10.3886/icpsr36405.v1
+URL   : https://www.icpsr.umich.edu/web/NACJD/studies/36405/versions/V1
+

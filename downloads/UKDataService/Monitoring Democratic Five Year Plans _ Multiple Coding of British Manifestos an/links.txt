@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Monitoring Democratic Five Year Plans : Multiple Coding of British Manifestos and U.S. Platforms, 1945-1997
+DOI   : https://doi.org/10.5255/ukda-sn-4091-1
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/4091#doi
+

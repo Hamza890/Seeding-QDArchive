@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Millennium Cohort Study: NHS Patient Episode Database for Wales, Linked Administrative Datasets: ICD-10 Codes in Continuous Spells, 2001-2012: Secure Access
+DOI   : https://doi.org/10.5255/ukda-sn-8302-1
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/8302#doi
+

@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Foreign Ethnographic Collections in Scotland, 18th-20th Century
+DOI   : https://doi.org/10.5255/ukda-sn-3505-1
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/3505#doi
+

@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Cross-Border Multi-Jurisdictional Task Force Evaluation, San Diego and Imperial Counties, California, 2007-2012
+DOI   : https://doi.org/10.3886/icpsr34904.v1
+URL   : http://www.icpsr.umich.edu/icpsrweb/NACJD/studies/34904/version/1
+
+Title : Cross-Border Multi-Jurisdictional Task Force Evaluation, San Diego and Imperial Counties, California, 2007-2012
+DOI   : https://doi.org/10.3886/icpsr34904
+URL   : http://www.icpsr.umich.edu/icpsrweb/NACJD/studies/34904
+

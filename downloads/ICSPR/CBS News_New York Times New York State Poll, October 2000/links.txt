@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : CBS News/New York Times New York State Poll, October 2000
+DOI   : https://doi.org/10.3886/icpsr03224
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/3224
+
+Title : CBS News/New York Times New York State Poll, October 2000
+DOI   : https://doi.org/10.3886/icpsr03224.v1
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/3224/versions/V1
+

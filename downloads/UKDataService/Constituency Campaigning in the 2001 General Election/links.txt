@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Constituency Campaigning in the 2001 General Election
+DOI   : https://doi.org/10.5255/ukda-sn-4508-1
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/4508#doi
+

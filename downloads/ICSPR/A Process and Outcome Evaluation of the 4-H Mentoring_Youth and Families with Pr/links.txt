@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : A Process and Outcome Evaluation of the 4-H Mentoring/Youth and Families with Promise (YFP) Program [Utah, 2005-2010]
+DOI   : https://doi.org/10.3886/icpsr33781
+URL   : http://www.icpsr.umich.edu/icpsrweb/NACJD/studies/33781
+
+Title : A Process and Outcome Evaluation of the 4-H Mentoring/Youth and Families with Promise (YFP) Program [Utah, 2005-2010]
+DOI   : https://doi.org/10.3886/icpsr33781.v1
+URL   : http://www.icpsr.umich.edu/icpsrweb/NACJD/studies/33781/version/1
+

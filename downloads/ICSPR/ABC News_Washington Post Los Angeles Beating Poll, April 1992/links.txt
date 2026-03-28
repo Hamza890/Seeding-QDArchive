@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : ABC News/Washington Post Los Angeles Beating Poll, April 1992
+DOI   : https://doi.org/10.3886/icpsr09941
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/9941
+

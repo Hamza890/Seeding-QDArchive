@@ -1,0 +1,15 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : County Business Patterns, 1962, 1964-1970: U.S. Summary, State, and County Data
+DOI   : https://doi.org/10.3886/icpsr25984
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/25984
+
+Title : County Business Patterns, 1962, 1964-1970: U.S. Summary, State, and County Data
+DOI   : https://doi.org/10.3886/icpsr25984.v2
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/25984/versions/V2
+
+Title : County Business Patterns, 1962, 1964-1970: U.S. Summary, State, and County Data
+DOI   : https://doi.org/10.3886/icpsr25984.v1
+URL   : http://www.icpsr.umich.edu/icpsrweb/ICPSR/studies/25984/version/1
+

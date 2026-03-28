@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : CDC Youth Risk Behavior Surveillance System (YRBSS) National Datasets, 1991-2021
+DOI   : https://doi.org/10.3886/e217921v2
+URL   : https://www.datalumos.org/datalumos/project/217921/version/V2/view
+
+Title : CDC Youth Risk Behavior Surveillance System (YRBSS) National Datasets, 1991-2021
+DOI   : https://doi.org/10.3886/e217921
+URL   : https://www.datalumos.org/datalumos/project/217921/view
+

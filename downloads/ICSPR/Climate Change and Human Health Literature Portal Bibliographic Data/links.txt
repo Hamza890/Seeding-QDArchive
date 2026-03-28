@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Climate Change and Human Health Literature Portal Bibliographic Data
+DOI   : https://doi.org/10.3886/e222402v2
+URL   : https://www.datalumos.org/datalumos/project/222402/version/V2/view
+
+Title : Climate Change and Human Health Literature Portal Bibliographic Data
+DOI   : https://doi.org/10.3886/e222402
+URL   : https://www.datalumos.org/datalumos/project/222402/view
+

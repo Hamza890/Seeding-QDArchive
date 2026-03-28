@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Bristol 'Particular' Accounts and Port Books of the Sixteenth Century, 1503-1601
+DOI   : https://doi.org/10.5255/ukda-sn-6275-1
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/6275#doi
+

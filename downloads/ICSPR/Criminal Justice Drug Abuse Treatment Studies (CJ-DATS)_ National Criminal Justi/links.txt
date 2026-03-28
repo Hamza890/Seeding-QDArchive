@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Criminal Justice Drug Abuse Treatment Studies (CJ-DATS): National Criminal Justice Treatment Practices (NCJTP) Survey of Co-occurring Substance Use and Mental Disorder (COD) Treatment Services in Criminal Justice Settings, 2002-2008
+DOI   : https://doi.org/10.3886/icpsr27962
+URL   : https://www.icpsr.umich.edu/web/NAHDAP/studies/27962
+

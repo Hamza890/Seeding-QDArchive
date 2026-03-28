@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Comparing Patient-reported Impact of COVID-19 Shelter-in-place Policies and Access to Containment and Mitigation Strategies Overall and in Vulnerable Populations, United States, 2020-2022
+DOI   : https://doi.org/10.3886/icpsr39218
+URL   : https://www.icpsr.umich.edu/web/pcodr/studies/39218
+
+Title : Comparing Patient-reported Impact of COVID-19 Shelter-in-place Policies and Access to Containment and Mitigation Strategies Overall and in Vulnerable Populations, United States, 2020-2022
+DOI   : https://doi.org/10.3886/icpsr39218.v1
+URL   : https://www.icpsr.umich.edu/web/pcodr/studies/39218/versions/V1
+

@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Candidate Countries Eurobarometer 2003.1, March-May 2003: New Europeans and Culture
+DOI   : https://doi.org/10.3886/icpsr28682
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/28682
+

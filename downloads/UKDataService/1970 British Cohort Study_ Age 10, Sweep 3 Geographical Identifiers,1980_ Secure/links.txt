@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : 1970 British Cohort Study: Age 10, Sweep 3 Geographical Identifiers,1980: Secure Access
+DOI   : https://doi.org/10.5255/ukda-sn-8211-2
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/8211#doi
+

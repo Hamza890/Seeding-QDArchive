@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : British Election Study, 2017: Face-to-Face Post-Election Survey
+DOI   : https://doi.org/10.5255/ukda-sn-8418-1
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/8418#doi
+

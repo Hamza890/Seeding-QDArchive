@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Culturally Sustaining Teaching Artists in a Multigenerational Learning Community
+DOI   : https://doi.org/10.3886/e241134v1
+URL   : https://www.openicpsr.org/openicpsr/project/241134/version/V1/view
+
+Title : Culturally Sustaining Teaching Artists in a Multigenerational Learning Community
+DOI   : https://doi.org/10.3886/e241134
+URL   : https://www.openicpsr.org/openicpsr/project/241134/view
+

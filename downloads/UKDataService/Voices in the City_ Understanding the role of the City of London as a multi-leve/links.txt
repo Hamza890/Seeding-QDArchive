@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Voices in the City: Understanding the role of the City of London as a multi-level policy actor and the impact of the financial crisis: Network and Interview Data
+DOI   : https://doi.org/10.5255/ukda-sn-851784
+URL   : http://reshare.ukdataservice.ac.uk/id/eprint/851784
+

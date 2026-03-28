@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : COVID-19 Survey in Five National Longitudinal Cohort Studies: Millennium Cohort Study, Next Steps, 1970 British Cohort Study and 1958 National Child Development Study, 2020-2021
+DOI   : https://doi.org/10.5255/ukda-sn-8658-4
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/8658#doi
+

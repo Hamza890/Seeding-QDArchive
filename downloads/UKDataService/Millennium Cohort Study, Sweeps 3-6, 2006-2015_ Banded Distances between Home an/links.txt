@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Millennium Cohort Study, Sweeps 3-6, 2006-2015: Banded Distances between Home and School
+DOI   : https://doi.org/10.5255/ukda-sn-8821-1
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/8821#doi
+

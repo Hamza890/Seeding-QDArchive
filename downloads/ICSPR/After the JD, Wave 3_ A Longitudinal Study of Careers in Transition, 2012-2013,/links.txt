@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : After the JD, Wave 3: A Longitudinal Study of Careers in Transition, 2012-2013, United States
+DOI   : https://doi.org/10.3886/icpsr35480
+URL   : http://www.icpsr.umich.edu/icpsrweb/ICPSR/studies/35480
+

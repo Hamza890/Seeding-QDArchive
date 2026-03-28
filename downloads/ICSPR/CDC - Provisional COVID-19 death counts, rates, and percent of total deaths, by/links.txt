@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : CDC - Provisional COVID-19 death counts, rates, and percent of total deaths, by jurisdiction of residence
+DOI   : https://doi.org/10.3886/e238524v1
+URL   : https://www.datalumos.org/datalumos/project/238524/version/V1/view
+
+Title : CDC - Provisional COVID-19 death counts, rates, and percent of total deaths, by jurisdiction of residence
+DOI   : https://doi.org/10.3886/e238524
+URL   : https://www.datalumos.org/datalumos/project/238524/view
+

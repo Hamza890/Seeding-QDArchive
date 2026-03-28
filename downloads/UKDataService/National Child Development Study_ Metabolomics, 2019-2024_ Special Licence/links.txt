@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : National Child Development Study: Metabolomics, 2019-2024: Special Licence
+DOI   : https://doi.org/10.5255/ukda-sn-9411-1
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/9411#doi
+

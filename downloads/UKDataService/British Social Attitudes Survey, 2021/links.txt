@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : British Social Attitudes Survey, 2021
+DOI   : https://doi.org/10.5255/ukda-sn-9072-1
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/9072#doi
+

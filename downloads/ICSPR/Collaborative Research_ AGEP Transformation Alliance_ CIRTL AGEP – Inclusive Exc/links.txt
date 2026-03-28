@@ -1,0 +1,15 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Collaborative Research: AGEP Transformation Alliance: CIRTL AGEP – Inclusive Excellence and Improved Climate for Future Faculty
+DOI   : https://doi.org/10.3886/e182785v1
+URL   : https://www.openicpsr.org/openicpsr/project/182785/version/V1/view
+
+Title : Collaborative Research: AGEP Transformation Alliance: CIRTL AGEP – Inclusive Excellence and Improved Climate for Future Faculty
+DOI   : https://doi.org/10.3886/e182785v2
+URL   : https://www.openicpsr.org/openicpsr/project/182785/version/V2/view
+
+Title : Collaborative Research: AGEP Transformation Alliance: CIRTL AGEP – Inclusive Excellence and Improved Climate for Future Faculty
+DOI   : https://doi.org/10.3886/e182785
+URL   : https://www.openicpsr.org/openicpsr/project/182785/view
+

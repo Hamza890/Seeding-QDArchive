@@ -1,0 +1,15 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Cross-National Election Studies: United States Study, 1992
+DOI   : https://doi.org/10.3886/icpsr06541
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/6541
+
+Title : Cross-National Election Studies: United States Study, 1992
+DOI   : https://doi.org/10.3886/icpsr06541.v2
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/6541/versions/V2
+
+Title : Cross-National Election Studies: United States Study, 1992
+DOI   : https://doi.org/10.3886/icpsr06541.v1
+URL   : http://www.icpsr.umich.edu/icpsrweb/ICPSR/studies/6541/version/1
+

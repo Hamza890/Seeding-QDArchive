@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : European State Finance Database; Prussian State Finance, 1602-1808
+DOI   : https://doi.org/10.5255/ukda-sn-3114-1
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/3114#doi
+

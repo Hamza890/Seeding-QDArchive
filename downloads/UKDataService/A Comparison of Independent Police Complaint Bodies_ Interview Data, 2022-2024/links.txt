@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : A Comparison of Independent Police Complaint Bodies: Interview Data, 2022-2024
+DOI   : https://doi.org/10.5255/ukda-sn-857562
+URL   : http://reshare.ukdataservice.ac.uk/id/eprint/857562
+

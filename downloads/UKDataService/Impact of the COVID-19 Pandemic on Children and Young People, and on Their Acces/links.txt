@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Impact of the COVID-19 Pandemic on Children and Young People, and on Their Access to Food, Education and Play and Leisure in England and the West Midlands, 2020-2024
+DOI   : https://doi.org/10.5255/ukda-sn-857718
+URL   : http://reshare.ukdataservice.ac.uk/id/eprint/857718
+

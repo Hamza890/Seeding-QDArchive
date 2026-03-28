@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Classical Music Consumer Segmentation Study 2002 [United States]
+DOI   : https://doi.org/10.3886/icpsr35535
+URL   : https://www.icpsr.umich.edu/web/NADAC/studies/35535
+
+Title : Classical Music Consumer Segmentation Study 2002 [United States]
+DOI   : https://doi.org/10.3886/icpsr35535.v1
+URL   : https://www.icpsr.umich.edu/web/NADAC/studies/35535/versions/V1
+

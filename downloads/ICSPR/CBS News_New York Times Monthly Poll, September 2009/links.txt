@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : CBS News/New York Times Monthly Poll, September 2009
+DOI   : https://doi.org/10.3886/icpsr27805
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/27805
+
+Title : CBS News/New York Times Monthly Poll, September 2009
+DOI   : https://doi.org/10.3886/icpsr27805.v1
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/27805/versions/V1
+

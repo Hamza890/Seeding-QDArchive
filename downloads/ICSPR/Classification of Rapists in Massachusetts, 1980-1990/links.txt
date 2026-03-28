@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Classification of Rapists in Massachusetts, 1980-1990
+DOI   : https://doi.org/10.3886/icpsr09976
+URL   : https://www.icpsr.umich.edu/web/NACJD/studies/9976
+
+Title : Classification of Rapists in Massachusetts, 1980-1990
+DOI   : https://doi.org/10.3886/icpsr09976.v1
+URL   : https://www.icpsr.umich.edu/web/NACJD/studies/9976/versions/V1
+

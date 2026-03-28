@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Farm Business Survey, 2009-2010: Special Licence Access
+DOI   : https://doi.org/10.5255/ukda-sn-6682-4
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/6682#doi
+

@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Casual Conversations v2 Dataset
+DOI   : https://doi.org/10.3886/0v28-5p12
+URL   : https://www.icpsr.umich.edu/sites/somar/view/studies/300465
+

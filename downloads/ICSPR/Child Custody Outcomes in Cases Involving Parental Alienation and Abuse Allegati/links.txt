@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Child Custody Outcomes in Cases Involving Parental Alienation and Abuse Allegations, United States, 2005-2014
+DOI   : https://doi.org/10.3886/icpsr37331
+URL   : https://www.icpsr.umich.edu/icpsrweb/NACJD/studies/37331
+
+Title : Child Custody Outcomes in Cases Involving Parental Alienation and Abuse Allegations, United States, 2005-2014
+DOI   : https://doi.org/10.3886/icpsr37331.v3
+URL   : https://www.icpsr.umich.edu/web/NACJD/studies/37331/versions/V3
+

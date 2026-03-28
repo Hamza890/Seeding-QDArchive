@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Criminal Behavior of Gangs in Aurora and Denver, Colorado, and Broward County, Florida: 1993-1994
+DOI   : https://doi.org/10.3886/icpsr02626
+URL   : https://www.icpsr.umich.edu/web/NACJD/studies/2626
+
+Title : Criminal Behavior of Gangs in Aurora and Denver, Colorado, and Broward County, Florida: 1993-1994
+DOI   : https://doi.org/10.3886/icpsr02626.v1
+URL   : https://www.icpsr.umich.edu/web/NACJD/studies/2626/versions/V1
+

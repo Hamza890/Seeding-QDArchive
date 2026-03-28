@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Understanding Society: Waves 1-15, 2009-2024 and Harmonised BHPS: Waves 1-18, 1991-2009: Special Licence Access, Interviewer Characteristics
+DOI   : https://doi.org/10.5255/ukda-sn-8579-7
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/8579#doi
+

@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Young People in Jobs Without Training, 2007
+DOI   : https://doi.org/10.5255/ukda-sn-6619-1
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/6619#doi
+

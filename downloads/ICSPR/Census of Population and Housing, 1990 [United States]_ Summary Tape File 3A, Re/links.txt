@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Census of Population and Housing, 1990 [United States]: Summary Tape File 3A, Record Sequence Example File
+DOI   : https://doi.org/10.3886/icpsr09592
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/9592
+
+Title : Census of Population and Housing, 1990 [United States]: Summary Tape File 3A, Record Sequence Example File
+DOI   : https://doi.org/10.3886/icpsr09592.v1
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/9592/versions/V1
+

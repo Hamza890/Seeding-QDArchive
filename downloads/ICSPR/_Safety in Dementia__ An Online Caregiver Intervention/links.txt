@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : "Safety in Dementia": An Online Caregiver Intervention.
+DOI   : https://doi.org/10.3886/e208352
+URL   : https://www.openicpsr.org/openicpsr/project/208352/view
+
+Title : "Safety in Dementia": An Online Caregiver Intervention.
+DOI   : https://doi.org/10.3886/e208352v1
+URL   : https://www.openicpsr.org/openicpsr/project/208352/version/V1/view
+

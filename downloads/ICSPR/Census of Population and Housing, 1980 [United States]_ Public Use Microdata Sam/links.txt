@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Census of Population and Housing, 1980 [United States]: Public Use Microdata Sample (D Sample) [PUMS-D]
+DOI   : https://doi.org/10.3886/icpsr08646
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/8646
+
+Title : Census of Population and Housing, 1980 [United States]: Public Use Microdata Sample (D Sample) [PUMS-D]
+DOI   : https://doi.org/10.3886/icpsr08646.v1
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/8646/versions/V1
+

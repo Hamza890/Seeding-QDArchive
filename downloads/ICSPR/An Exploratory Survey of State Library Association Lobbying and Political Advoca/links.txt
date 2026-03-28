@@ -1,0 +1,15 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : An Exploratory Survey of State Library Association Lobbying and Political Advocacy Practices
+DOI   : https://doi.org/10.3886/e132301v1-81762
+URL   : https://www.openicpsr.org/openicpsr/project/132301/version/V1/view?path=/openicpsr/132301/fcr:versions/V1/SurveyData.xlsx&type=file
+
+Title : An Exploratory Survey of State Library Association Lobbying and Political Advocacy Practices
+DOI   : https://doi.org/10.3886/e132301v1
+URL   : https://www.openicpsr.org/openicpsr/project/132301/version/V1/view
+
+Title : An Exploratory Survey of State Library Association Lobbying and Political Advocacy Practices
+DOI   : https://doi.org/10.3886/e132301
+URL   : https://www.openicpsr.org/openicpsr/project/132301/view
+

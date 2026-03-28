@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : English Housing Survey: Housing Stock Data, 2012/13-2014/15: Three-Year Weights Lookup File
+DOI   : https://doi.org/10.5255/ukda-sn-8110-1
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/8110#doi
+

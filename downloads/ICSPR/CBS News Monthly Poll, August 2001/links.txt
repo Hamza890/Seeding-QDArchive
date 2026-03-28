@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : CBS News Monthly Poll, August 2001
+DOI   : https://doi.org/10.3886/icpsr03346
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/3346
+

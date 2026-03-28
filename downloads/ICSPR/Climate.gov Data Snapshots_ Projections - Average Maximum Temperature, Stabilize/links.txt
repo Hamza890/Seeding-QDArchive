@@ -1,0 +1,15 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Climate.gov Data Snapshots: Projections - Average Maximum Temperature, Stabilized Emissions
+DOI   : https://doi.org/10.3886/e233261v2
+URL   : https://www.datalumos.org/datalumos/project/233261/version/V2/view
+
+Title : Climate.gov Data Snapshots: Projections - Average Maximum Temperature, Stabilized Emissions
+DOI   : https://doi.org/10.3886/e233261
+URL   : https://www.datalumos.org/datalumos/project/233261/view
+
+Title : Climate.gov Data Snapshots: Projections - Average Maximum Temperature, Stabilized Emissions
+DOI   : https://doi.org/10.3886/e233261v1
+URL   : https://www.datalumos.org/datalumos/project/233261/version/V1/view
+

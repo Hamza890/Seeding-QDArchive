@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Living Costs and Food Survey, 2016-2017
+DOI   : https://doi.org/10.5255/ukda-sn-8351-2
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/8351#doi
+

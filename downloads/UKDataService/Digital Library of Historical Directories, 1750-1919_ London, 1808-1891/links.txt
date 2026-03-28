@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Digital Library of Historical Directories, 1750-1919: London, 1808-1891
+DOI   : https://doi.org/10.5255/ukda-sn-5124-1
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/5124#doi
+

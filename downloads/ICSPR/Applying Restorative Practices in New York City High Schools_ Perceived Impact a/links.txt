@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Applying Restorative Practices in New York City High Schools: Perceived Impact and Mixed Findings, New York, 2017-2019
+DOI   : https://doi.org/10.3886/icpsr38200
+URL   : https://www.icpsr.umich.edu/web/NACJD/studies/38200
+
+Title : Applying Restorative Practices in New York City High Schools: Perceived Impact and Mixed Findings, New York, 2017-2019
+DOI   : https://doi.org/10.3886/icpsr38200.v1
+URL   : https://www.icpsr.umich.edu/web/NACJD/studies/38200/versions/V1
+

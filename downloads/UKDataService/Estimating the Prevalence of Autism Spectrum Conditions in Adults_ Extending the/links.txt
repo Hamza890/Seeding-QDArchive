@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Estimating the Prevalence of Autism Spectrum Conditions in Adults: Extending the 2007 Adult Psychiatric Morbidity Survey
+DOI   : https://doi.org/10.5255/ukda-sn-7082-1
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/7082#doi
+

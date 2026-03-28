@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Collective Knowledge Survey [Russia], 1994
+DOI   : https://doi.org/10.3886/icpsr02882
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/2882
+
+Title : Collective Knowledge Survey [Russia], 1994
+DOI   : https://doi.org/10.3886/icpsr02882.v1
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/2882/versions/V1
+

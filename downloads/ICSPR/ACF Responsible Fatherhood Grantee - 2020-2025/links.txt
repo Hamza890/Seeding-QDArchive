@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : ACF Responsible Fatherhood Grantee - 2020-2025
+DOI   : https://doi.org/10.3886/e238542v1
+URL   : https://www.openicpsr.org/openicpsr/project/238542/version/V1/view
+
+Title : ACF Responsible Fatherhood Grantee - 2020-2025
+DOI   : https://doi.org/10.3886/e238542
+URL   : https://www.openicpsr.org/openicpsr/project/238542/view
+

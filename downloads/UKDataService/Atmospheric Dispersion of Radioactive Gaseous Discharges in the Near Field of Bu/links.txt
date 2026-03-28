@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Atmospheric Dispersion of Radioactive Gaseous Discharges in the Near Field of Buildings, 2014-2020
+DOI   : https://doi.org/10.5255/ukda-sn-857150
+URL   : http://reshare.ukdataservice.ac.uk/id/eprint/857150
+

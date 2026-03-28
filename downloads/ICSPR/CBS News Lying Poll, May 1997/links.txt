@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : CBS News Lying Poll, May 1997
+DOI   : https://doi.org/10.3886/icpsr04494
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/4494
+
+Title : CBS News Lying Poll, May 1997
+DOI   : https://doi.org/10.3886/icpsr04494.v1
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/4494/versions/V1
+

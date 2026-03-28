@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Learning Cultures in Community-Based Education in Scotland, 2003-2006
+DOI   : https://doi.org/10.5255/ukda-sn-5746-1
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/5746#doi
+

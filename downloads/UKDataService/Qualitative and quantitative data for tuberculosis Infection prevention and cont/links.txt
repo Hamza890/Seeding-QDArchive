@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Qualitative and quantitative data for tuberculosis Infection prevention and control in KwaZulu-Natal and Western Cape, South Africa, 2018-2021
+DOI   : https://doi.org/10.5255/ukda-sn-854435
+URL   : http://reshare.ukdataservice.ac.uk/id/eprint/854435
+

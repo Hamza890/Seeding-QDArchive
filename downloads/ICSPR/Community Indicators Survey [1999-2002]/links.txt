@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Community Indicators Survey [1999-2002]
+DOI   : https://doi.org/10.3886/icpsr35578
+URL   : https://www.icpsr.umich.edu/web/NADAC/studies/35578
+
+Title : Community Indicators Survey [1999-2002]
+DOI   : https://doi.org/10.3886/icpsr35578.v2
+URL   : https://www.icpsr.umich.edu/web/NADAC/studies/35578/versions/V2
+

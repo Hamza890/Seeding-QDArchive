@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Charlotte [North Carolina] Spouse Assault Replication Project, 1987-1989
+DOI   : https://doi.org/10.3886/icpsr06114
+URL   : https://www.icpsr.umich.edu/web/NACJD/studies/6114
+
+Title : Charlotte [North Carolina] Spouse Assault Replication Project, 1987-1989
+DOI   : https://doi.org/10.3886/icpsr06114.v2
+URL   : https://www.icpsr.umich.edu/web/NACJD/studies/6114/versions/V2
+

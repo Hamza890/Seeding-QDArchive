@@ -1,0 +1,43 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Collaborative Psychiatric Epidemiology Surveys (CPES), 2001-2003 [United States]
+DOI   : https://doi.org/10.3886/icpsr20240
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/20240
+
+Title : Collaborative Psychiatric Epidemiology Surveys (CPES), 2001-2003 [United States]
+DOI   : https://doi.org/10.3886/icpsr20240.v9
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/20240/versions/V9
+
+Title : Collaborative Psychiatric Epidemiology Surveys (CPES), 2001-2003 [United States]
+DOI   : https://doi.org/10.3886/icpsr20240.v8
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/20240/versions/V8
+
+Title : Collaborative Psychiatric Epidemiology Surveys (CPES), 2001-2003 [United States]
+DOI   : https://doi.org/10.3886/icpsr20240.v7
+URL   : http://www.icpsr.umich.edu/icpsrweb/ICPSR/studies/20240/version/7
+
+Title : Collaborative Psychiatric Epidemiology Surveys (CPES), 2001-2003 [United States]
+DOI   : https://doi.org/10.3886/icpsr20240.v1
+URL   : http://www.icpsr.umich.edu/icpsrweb/ICPSR/studies/20240/version/1
+
+Title : Collaborative Psychiatric Epidemiology Surveys (CPES), 2001-2003 [United States]
+DOI   : https://doi.org/10.3886/icpsr20240.v2
+URL   : http://www.icpsr.umich.edu/icpsrweb/ICPSR/studies/20240/version/2
+
+Title : Collaborative Psychiatric Epidemiology Surveys (CPES), 2001-2003 [United States]
+DOI   : https://doi.org/10.3886/icpsr20240.v3
+URL   : http://www.icpsr.umich.edu/icpsrweb/ICPSR/studies/20240/version/3
+
+Title : Collaborative Psychiatric Epidemiology Surveys (CPES), 2001-2003 [United States]
+DOI   : https://doi.org/10.3886/icpsr20240.v5
+URL   : http://www.icpsr.umich.edu/icpsrweb/ICPSR/studies/20240/version/5
+
+Title : Collaborative Psychiatric Epidemiology Surveys (CPES), 2001-2003 [United States]
+DOI   : https://doi.org/10.3886/icpsr20240.v4
+URL   : http://www.icpsr.umich.edu/icpsrweb/ICPSR/studies/20240/version/4
+
+Title : Collaborative Psychiatric Epidemiology Surveys (CPES), 2001-2003 [United States]
+DOI   : https://doi.org/10.3886/icpsr20240.v6
+URL   : http://www.icpsr.umich.edu/icpsrweb/ICPSR/studies/20240/version/6
+

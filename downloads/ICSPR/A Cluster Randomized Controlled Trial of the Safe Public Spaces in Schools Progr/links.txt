@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : A Cluster Randomized Controlled Trial of the Safe Public Spaces in Schools Program, New York City, 2016-2018
+DOI   : https://doi.org/10.3886/icpsr37476
+URL   : https://www.icpsr.umich.edu/web/NACJD/studies/37476
+
+Title : A Cluster Randomized Controlled Trial of the Safe Public Spaces in Schools Program, New York City, 2016-2018
+DOI   : https://doi.org/10.3886/icpsr37476.v1
+URL   : https://www.icpsr.umich.edu/web/NACJD/studies/37476/versions/V1
+

@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Case Classification for Juvenile Corrections: Evaluation of the Youth Level of Service Inventory in Ohio, 1998-2001
+DOI   : https://doi.org/10.3886/icpsr03965
+URL   : https://www.icpsr.umich.edu/web/NACJD/studies/3965
+
+Title : Case Classification for Juvenile Corrections: Evaluation of the Youth Level of Service Inventory in Ohio, 1998-2001
+DOI   : https://doi.org/10.3886/icpsr03965.v1
+URL   : https://www.icpsr.umich.edu/web/NACJD/studies/3965/versions/V1
+

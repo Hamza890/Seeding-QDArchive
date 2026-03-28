@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Community Context and Sentencing Decisions in 39 Counties in the United States, 1998
+DOI   : https://doi.org/10.3886/icpsr03923
+URL   : https://www.icpsr.umich.edu/web/NACJD/studies/3923
+
+Title : Community Context and Sentencing Decisions in 39 Counties in the United States, 1998
+DOI   : https://doi.org/10.3886/icpsr03923.v1
+URL   : https://www.icpsr.umich.edu/web/NACJD/studies/3923/versions/V1
+

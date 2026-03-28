@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : 4-Number of RCTs by Year of Publication
+DOI   : https://doi.org/10.3886/e240980v1
+URL   : https://www.datalumos.org/datalumos/project/240980/version/V1/view
+
+Title : 4-Number of RCTs by Year of Publication
+DOI   : https://doi.org/10.3886/e240980
+URL   : https://www.datalumos.org/datalumos/project/240980/view
+

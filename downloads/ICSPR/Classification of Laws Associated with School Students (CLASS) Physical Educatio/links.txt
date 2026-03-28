@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Classification of Laws Associated with School Students (CLASS) Physical Education Related School Policy Classification System (PERSPCS)
+DOI   : https://doi.org/10.3886/e233042v1
+URL   : https://www.openicpsr.org/openicpsr/project/233042/version/V1/view
+
+Title : Classification of Laws Associated with School Students (CLASS) Physical Education Related School Policy Classification System (PERSPCS)
+DOI   : https://doi.org/10.3886/e233042
+URL   : https://www.openicpsr.org/openicpsr/project/233042/view
+

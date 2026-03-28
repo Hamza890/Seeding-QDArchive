@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Urban Classroom Culture and Interaction, 2005-2007
+DOI   : https://doi.org/10.5255/ukda-sn-6402-1
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/6402#doi
+

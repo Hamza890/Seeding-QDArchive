@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : CTDA 1022: Posttraumatic Stress in Children Age 7 to 17 Seen in Hospital for Acute Injury, Australia, 2004-2006
+DOI   : https://doi.org/10.3886/icpsr39196
+URL   : https://www.icpsr.umich.edu/web/DSDR/studies/39196
+

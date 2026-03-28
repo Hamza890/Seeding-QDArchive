@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : American Housing Survey 2007: Metropolitan Survey
+DOI   : https://doi.org/10.3886/icpsr24501
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/24501
+
+Title : American Housing Survey 2007: Metropolitan Survey
+DOI   : https://doi.org/10.3886/icpsr24501.v1
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/24501/versions/V1
+

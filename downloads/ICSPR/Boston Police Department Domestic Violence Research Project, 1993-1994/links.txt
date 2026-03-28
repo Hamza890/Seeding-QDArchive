@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Boston Police Department Domestic Violence Research Project, 1993-1994
+DOI   : https://doi.org/10.3886/icpsr06483
+URL   : https://www.icpsr.umich.edu/web/NACJD/studies/6483
+
+Title : Boston Police Department Domestic Violence Research Project, 1993-1994
+DOI   : https://doi.org/10.3886/icpsr06483.v1
+URL   : https://www.icpsr.umich.edu/web/NACJD/studies/6483/versions/V1
+

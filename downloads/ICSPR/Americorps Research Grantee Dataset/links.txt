@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Americorps Research Grantee Dataset
+DOI   : https://doi.org/10.3886/e221705v2
+URL   : https://www.datalumos.org/datalumos/project/221705/version/V2/view
+
+Title : Americorps Research Grantee Dataset
+DOI   : https://doi.org/10.3886/e221705
+URL   : https://www.datalumos.org/datalumos/project/221705/view
+

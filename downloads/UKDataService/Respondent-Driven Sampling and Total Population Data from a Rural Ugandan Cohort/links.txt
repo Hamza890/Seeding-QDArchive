@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Respondent-Driven Sampling and Total Population Data from a Rural Ugandan Cohort, 2010: Special Licence Access
+DOI   : https://doi.org/10.5255/ukda-sn-7462-1
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/7462#doi
+

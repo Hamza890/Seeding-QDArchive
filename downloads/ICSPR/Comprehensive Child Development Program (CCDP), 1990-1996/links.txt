@@ -1,0 +1,15 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Comprehensive Child Development Program (CCDP), 1990-1996
+DOI   : https://doi.org/10.3886/icpsr04711
+URL   : https://www.childandfamilydataarchive.org/cfda/archives/CFDA/studies/4711
+
+Title : Comprehensive Child Development Program (CCDP), 1990-1996
+DOI   : https://doi.org/10.3886/icpsr04711.v2
+URL   : https://www.childandfamilydataarchive.org/cfda/archives/CFDA/studies/4711/versions/V2
+
+Title : Comprehensive Child Development Program (CCDP), 1990-1996
+DOI   : https://doi.org/10.3886/icpsr04711.v1
+URL   : https://www.childandfamilydataarchive.org/cfda/archives/CFDA/studies/4711/versions/V1
+

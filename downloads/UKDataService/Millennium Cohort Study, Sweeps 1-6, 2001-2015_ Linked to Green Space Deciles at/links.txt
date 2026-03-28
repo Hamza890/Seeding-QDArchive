@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Millennium Cohort Study, Sweeps 1-6, 2001-2015: Linked to Green Space Deciles at LSOA (England) and Ward Level (UK)
+DOI   : https://doi.org/10.5255/ukda-sn-8154-2
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/8154#doi
+

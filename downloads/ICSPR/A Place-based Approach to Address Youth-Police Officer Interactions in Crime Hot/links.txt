@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : A Place-based Approach to Address Youth-Police Officer Interactions in Crime Hotspots: A Randomized Controlled Trial, 3 U.S. cities, 2021-2023
+DOI   : https://doi.org/10.3886/icpsr38930
+URL   : https://www.icpsr.umich.edu/web/NACJD/studies/38930
+
+Title : A Place-based Approach to Address Youth-Police Officer Interactions in Crime Hotspots: A Randomized Controlled Trial, 3 U.S. cities, 2021-2023
+DOI   : https://doi.org/10.3886/icpsr38930.v1
+URL   : https://www.icpsr.umich.edu/web/NACJD/studies/38930/versions/V1
+

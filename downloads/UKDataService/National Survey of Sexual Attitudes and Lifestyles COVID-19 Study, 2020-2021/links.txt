@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : National Survey of Sexual Attitudes and Lifestyles COVID-19 Study, 2020-2021
+DOI   : https://doi.org/10.5255/ukda-sn-8865-2
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/8865#doi
+

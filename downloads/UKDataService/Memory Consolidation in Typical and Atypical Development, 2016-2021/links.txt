@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Memory Consolidation in Typical and Atypical Development, 2016-2021
+DOI   : https://doi.org/10.5255/ukda-sn-854772
+URL   : http://reshare.ukdataservice.ac.uk/id/eprint/854772
+

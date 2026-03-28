@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : A Behavioral Study of the Radicalization Trajectories of American "Homegrown" Al Qaeda-Inspired Terrorist Offenders, 2001-2015 [UNITED STATES]
+DOI   : https://doi.org/10.3886/icpsr36452
+URL   : http://www.icpsr.umich.edu/icpsrweb/NACJD/studies/36452
+
+Title : A Behavioral Study of the Radicalization Trajectories of American "Homegrown" Al Qaeda-Inspired Terrorist Offenders, 2001-2015 [UNITED STATES]
+DOI   : https://doi.org/10.3886/icpsr36452.v1
+URL   : http://www.icpsr.umich.edu/icpsrweb/NACJD/studies/36452/version/1
+

@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Chinese Household Income Project, 1988
+DOI   : https://doi.org/10.3886/icpsr09836
+URL   : https://www.icpsr.umich.edu/web/DSDR/studies/9836
+

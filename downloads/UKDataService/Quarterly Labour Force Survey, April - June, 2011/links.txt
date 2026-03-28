@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Quarterly Labour Force Survey, April - June, 2011
+DOI   : https://doi.org/10.5255/ukda-sn-6851-2
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/6851#doi
+

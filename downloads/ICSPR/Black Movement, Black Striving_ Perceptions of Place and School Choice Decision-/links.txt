@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Black Movement, Black Striving: Perceptions of Place and School Choice Decision-Making in Metropolitan Detroit
+DOI   : https://doi.org/10.3886/e171981v1
+URL   : https://www.openicpsr.org/openicpsr/project/171981/version/V1/view
+
+Title : Black Movement, Black Striving: Perceptions of Place and School Choice Decision-Making in Metropolitan Detroit
+DOI   : https://doi.org/10.3886/e171981
+URL   : https://www.openicpsr.org/openicpsr/project/171981/view
+

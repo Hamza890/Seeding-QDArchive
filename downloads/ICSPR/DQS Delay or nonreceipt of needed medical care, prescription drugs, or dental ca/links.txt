@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : DQS Delay or nonreceipt of needed medical care, prescription drugs, or dental care during the past 12 months due to cost: United States(Archived)
+DOI   : https://doi.org/10.3886/e244148v1
+URL   : https://www.datalumos.org/datalumos/project/244148/version/V1/view
+
+Title : DQS Delay or nonreceipt of needed medical care, prescription drugs, or dental care during the past 12 months due to cost: United States(Archived)
+DOI   : https://doi.org/10.3886/e244148
+URL   : https://www.datalumos.org/datalumos/project/244148/view
+

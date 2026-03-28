@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Critical Data Practices in a MultiPandemic
+DOI   : https://doi.org/10.3886/e146302v1
+URL   : https://www.openicpsr.org/openicpsr/project/146302/version/V1/view
+
+Title : Critical Data Practices in a MultiPandemic
+DOI   : https://doi.org/10.3886/e146302
+URL   : https://www.openicpsr.org/openicpsr/project/146302/view
+

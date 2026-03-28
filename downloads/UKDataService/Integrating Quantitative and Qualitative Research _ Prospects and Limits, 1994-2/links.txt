@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Integrating Quantitative and Qualitative Research : Prospects and Limits, 1994-2003
+DOI   : https://doi.org/10.5255/ukda-sn-5077-1
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/5077#doi
+
+Title : Integrating Quantitative and Qualitative Research : Prospects and Limits, 1994-2003
+DOI   : https://doi.org/10.5255/ukda-sn-5077-3
+URL   : http://discover.ukdataservice.ac.uk/doi?sn=5077#3
+

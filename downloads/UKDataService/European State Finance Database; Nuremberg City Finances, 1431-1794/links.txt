@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : European State Finance Database; Nuremberg City Finances, 1431-1794
+DOI   : https://doi.org/10.5255/ukda-sn-3122-1
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/3122#doi
+

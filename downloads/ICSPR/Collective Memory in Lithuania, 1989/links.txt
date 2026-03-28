@@ -1,0 +1,19 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Collective Memory in Lithuania, 1989
+DOI   : https://doi.org/10.3886/icpsr09960.v1
+URL   : http://www.icpsr.umich.edu/icpsrweb/ICPSR/studies/9960/version/1
+
+Title : Collective Memory in Lithuania, 1989
+DOI   : https://doi.org/10.3886/icpsr09960.v2
+URL   : http://www.icpsr.umich.edu/icpsrweb/ICPSR/studies/9960/version/2
+
+Title : Collective Memory in Lithuania, 1989
+DOI   : https://doi.org/10.3886/icpsr09960
+URL   : http://www.icpsr.umich.edu/icpsrweb/ICPSR/studies/9960
+
+Title : Collective Memory in Lithuania, 1989
+DOI   : https://doi.org/10.3886/icpsr09960.v3
+URL   : http://www.icpsr.umich.edu/icpsrweb/ICPSR/studies/9960/version/3
+

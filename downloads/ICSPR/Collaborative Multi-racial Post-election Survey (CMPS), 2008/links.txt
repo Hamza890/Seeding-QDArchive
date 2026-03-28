@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Collaborative Multi-racial Post-election Survey (CMPS), 2008
+DOI   : https://doi.org/10.3886/icpsr35163
+URL   : https://www.icpsr.umich.edu/web/RCMD/studies/35163
+

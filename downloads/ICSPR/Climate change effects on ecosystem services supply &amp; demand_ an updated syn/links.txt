@@ -1,0 +1,15 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Climate change effects on ecosystem services supply &amp; demand: an updated synthesis — Data
+DOI   : https://doi.org/10.3886/e240256v2
+URL   : https://www.datalumos.org/datalumos/project/240256/version/V2/view
+
+Title : Climate change effects on ecosystem services supply &amp; demand: an updated synthesis — Data
+DOI   : https://doi.org/10.3886/e240256
+URL   : https://www.datalumos.org/datalumos/project/240256/view
+
+Title : Climate change effects on ecosystem services supply &amp; demand: an updated synthesis — Data
+DOI   : https://doi.org/10.3886/e240256v1
+URL   : https://www.datalumos.org/datalumos/project/240256/version/V1/view
+

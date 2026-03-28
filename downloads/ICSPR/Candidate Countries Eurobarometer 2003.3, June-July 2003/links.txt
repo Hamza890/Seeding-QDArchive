@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Candidate Countries Eurobarometer 2003.3, June-July 2003
+DOI   : https://doi.org/10.3886/icpsr04055
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/4055
+

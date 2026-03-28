@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : British Migrants in Spain: the Extent and Nature of Social Integration, 2003-2005: Teaching Data
+DOI   : https://doi.org/10.5255/ukda-sn-6963-1
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/6963#doi
+

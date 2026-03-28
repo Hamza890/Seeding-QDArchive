@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : 2025 Speak Up Missouri Poll
+DOI   : https://doi.org/10.3886/e239594v1
+URL   : https://www.openicpsr.org/openicpsr/project/239594/version/V1/view
+
+Title : 2025 Speak Up Missouri Poll
+DOI   : https://doi.org/10.3886/e239594
+URL   : https://www.openicpsr.org/openicpsr/project/239594/view
+

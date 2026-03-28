@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : A National Evaluation of Internet Crimes Against Children Task Force Training, [United States], 2019-2022
+DOI   : https://doi.org/10.3886/icpsr38880
+URL   : https://www.icpsr.umich.edu/web/NACJD/studies/38880
+
+Title : A National Evaluation of Internet Crimes Against Children Task Force Training, [United States], 2019-2022
+DOI   : https://doi.org/10.3886/icpsr38880.v1
+URL   : https://www.icpsr.umich.edu/web/NACJD/studies/38880/versions/V1
+

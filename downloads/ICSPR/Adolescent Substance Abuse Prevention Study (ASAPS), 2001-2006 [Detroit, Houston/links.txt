@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Adolescent Substance Abuse Prevention Study (ASAPS), 2001-2006 [Detroit, Houston, Los Angeles, Newark, New Orleans, St. Louis]
+DOI   : https://doi.org/10.3886/icpsr28641
+URL   : https://www.icpsr.umich.edu/web/HMCA/studies/28641
+

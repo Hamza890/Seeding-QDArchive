@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Qualitative Election Study of Britain Party Leader Evaluations Database, 2005-2024
+DOI   : https://doi.org/10.5255/ukda-sn-857826
+URL   : http://reshare.ukdataservice.ac.uk/id/eprint/857826
+

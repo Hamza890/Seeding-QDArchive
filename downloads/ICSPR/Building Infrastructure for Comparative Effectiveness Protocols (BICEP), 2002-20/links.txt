@@ -1,0 +1,11 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Building Infrastructure for Comparative Effectiveness Protocols (BICEP), 2002-2012 [Connecticut]
+DOI   : https://doi.org/10.3886/icpsr34447
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/34447
+
+Title : Building Infrastructure for Comparative Effectiveness Protocols (BICEP), 2002-2012 [Connecticut]
+DOI   : https://doi.org/10.3886/icpsr34447.v1
+URL   : https://www.icpsr.umich.edu/web/ICPSR/studies/34447/versions/V1
+

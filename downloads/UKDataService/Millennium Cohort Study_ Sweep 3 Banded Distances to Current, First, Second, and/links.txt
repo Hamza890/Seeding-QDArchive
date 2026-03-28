@@ -1,0 +1,7 @@
+# These studies require registration to access.
+# Visit each URL, create a free account, and request access.
+
+Title : Millennium Cohort Study: Sweep 3 Banded Distances to Current, First, Second, and Third Choice Schools
+DOI   : https://doi.org/10.5255/ukda-sn-8240-1
+URL   : https://datacatalogue.ukdataservice.ac.uk/studies/study/8240#doi
+
