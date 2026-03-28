@@ -96,9 +96,10 @@ class ZenodoScraper(BaseScraper):
 
                 print(f"Checked {records_checked} records, found {len(self.results)} QDA files so far")
                 
-                # Stop if we've checked enough pages without finding anything
-                if params['page'] >= 5 and len(self.results) == 0:
-                    print("Checked 5 pages without finding QDA files. Stopping search.")
+                # Stop only after 20 fruitless pages so broad qualitative queries
+                # are not cut short when QDA files appear deeper in results.
+                if params['page'] >= 20 and len(self.results) == 0:
+                    print("Checked 20 pages without finding QDA files. Stopping search.")
                     break
 
                 # Check if there are more pages

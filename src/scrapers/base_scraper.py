@@ -24,6 +24,7 @@ class BaseScraper(ABC):
         self.smart_queries_path = smart_queries_path
         self.qda_extensions = self._load_extensions()
         self.smart_queries = self._load_smart_queries()
+        self._software_extension_map = self._build_software_extension_map()
         self.results = []
     
     def _load_extensions(self) -> List[str]:
@@ -66,9 +67,24 @@ class BaseScraper(ABC):
         filename_lower = filename.lower()
         return any(filename_lower.endswith(ext.lower()) for ext in self.qda_extensions)
     
+    def _build_software_extension_map(self) -> dict:
+        """Build a cached mapping of lowercase extension -> software name."""
+        config_file = Path(self.config_path)
+        if not config_file.exists():
+            return {}
+        with open(config_file, 'r', encoding='utf-8') as f:
+            config = json.load(f)
+        ext_map = {}
+        for software, info in config.get('qda_software', {}).items():
+            for ext in info.get('extensions', []):
+                ext_map[ext.lower()] = software
+        return ext_map
+
     def get_qda_software(self, filename: str) -> Optional[str]:
         """
         Determine QDA software based on file extension.
+
+        Uses the cached extension map built at init time — no file I/O per call.
 
         Args:
             filename: Name of file
@@ -77,20 +93,9 @@ class BaseScraper(ABC):
             Name of QDA software or None
         """
         filename_lower = filename.lower()
-
-        # Load full config for software mapping
-        config_file = Path(self.config_path)
-        if not config_file.exists():
-            return None
-
-        with open(config_file, 'r', encoding='utf-8') as f:
-            config = json.load(f)
-
-        for software, info in config.get('qda_software', {}).items():
-            extensions = info.get('extensions', [])
-            if any(filename_lower.endswith(ext.lower()) for ext in extensions):
+        for ext, software in self._software_extension_map.items():
+            if filename_lower.endswith(ext):
                 return software
-
         return None
 
     def get_all_search_queries(self, priority_only: bool = False) -> List[str]:

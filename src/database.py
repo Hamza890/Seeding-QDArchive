@@ -19,7 +19,7 @@ class MetadataDatabase:
         'dataverse (https://dataverse.no)': 'dataverse-no',
         'ada - australian data archive': 'ada',
         'sada - south african data archive': 'sada',
-        'ihsn - international household survey network': 'hihsn',
+        'ihsn - international household survey network': 'ihsn',
         'harvard dataverse': 'harvard-dataverse',
         'fsd - finnish social science data archive': 'finnish-social-science-data-archive',
         'aussda - austrian social science data archive': 'aussda',
@@ -41,7 +41,7 @@ class MetadataDatabase:
         'dataverse.no': 'dataverse-no',
         'ada.edu.au': 'ada',
         'datafirst.uct.ac.za': 'sada',
-        'ihsn.org': 'hihsn',
+        'ihsn.org': 'ihsn',
         'dataverse.harvard.edu': 'harvard-dataverse',
         'fsd.tuni.fi': 'finnish-social-science-data-archive',
         'services.fsd.tuni.fi': 'finnish-social-science-data-archive',
@@ -312,10 +312,18 @@ class MetadataDatabase:
         return [row['name'] for row in cursor.fetchall()]
 
     def _migrate_existing_files_to_normalized_tables(self):
-        """Backfill normalized rows from existing compatibility rows."""
+        """Backfill normalized rows from existing compatibility rows.
+
+        Only processes rows that have not yet been linked to a project so that
+        the migration is effectively a no-op on subsequent startups once all
+        rows are backfilled.
+        """
         cursor = self.conn.cursor()
-        cursor.execute("SELECT id FROM files ORDER BY id")
-        for row in cursor.fetchall():
+        cursor.execute("SELECT id FROM files WHERE project_id IS NULL ORDER BY id")
+        rows = cursor.fetchall()
+        if not rows:
+            return
+        for row in rows:
             self._sync_project_from_file(row['id'])
         self.conn.commit()
 

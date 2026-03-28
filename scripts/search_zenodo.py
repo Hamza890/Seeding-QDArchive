@@ -6,7 +6,6 @@ import os
 sys.path.insert(0, os.path.join(os.path.dirname(__file__), '..'))
 
 import time
-import json
 from src.scrapers import ZenodoScraper
 from src.database import MetadataDatabase
 from src.search_utils import get_result_identity, load_all_queries as shared_load_all_queries, save_results
@@ -59,12 +58,11 @@ def main():
             elif i % 10 == 1:
                 print("--", flush=True)
             
-            # Save every 20 queries
+            # Save every 20 queries (keep seen_ids intact so dedup spans the whole run)
             if i % 20 == 0 and results:
                 saved = save_results(db, results, log_prefix="[CHECKPOINT]")
                 print(f"[CHECKPOINT] Saved {saved} files (rate limits: {rate_limit_count})")
                 results = []
-                seen_ids.clear()
             
             time.sleep(5.0)
             

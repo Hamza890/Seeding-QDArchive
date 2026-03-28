@@ -9,7 +9,6 @@ import os
 sys.path.insert(0, os.path.join(os.path.dirname(__file__), '..'))
 
 import time
-import json
 from src.scrapers import (
     ZenodoScraper,
     HarvardDataverseScraper,
@@ -74,12 +73,11 @@ def search_repository(repo_name, scraper_class, db, delay, max_results=1000):
                 elif i % 10 == 1 or i == len(all_queries):
                     print("--", flush=True)
                 
-                # Save progress every 50 queries
+                # Save progress every 50 queries (keep seen_ids intact so dedup spans the whole run)
                 if i % 50 == 0 and repo_results:
                     saved = save_results(db, repo_results)
                     print(f"[CHECKPOINT] Saved {saved} files to database")
                     repo_results = []  # Clear saved results
-                    seen_ids.clear()
                 
                 time.sleep(delay)
                 
@@ -113,7 +111,8 @@ def search_repository(repo_name, scraper_class, db, delay, max_results=1000):
 
 def main():
     print("="*80)
-    print("FULL QDA SEARCH - ALL QUERIES, ALL REPOSITORIES")
+    print("FULL QDA SEARCH - ALL QUERIES (priority repositories)")
+    print("  For other repos run: python scripts/search_<name>.py")
     print("="*80)
     
     db = MetadataDatabase()

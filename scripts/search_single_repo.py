@@ -10,7 +10,6 @@ import os
 sys.path.insert(0, os.path.join(os.path.dirname(__file__), '..'))
 
 import time
-import json
 from src.scrapers import (
     ZenodoScraper,
     HarvardDataverseScraper,
@@ -87,12 +86,11 @@ def main():
             elif i % 10 == 1:
                 print("--", flush=True)
             
-            # Save every 25 queries
+            # Save every 25 queries (keep seen_ids intact so dedup spans the whole run)
             if i % 25 == 0 and results:
                 saved = save_results(db, results, log_prefix="[SAVE]")
                 print(f"[SAVE] Checkpoint: {saved} files saved")
                 results = []
-                seen_ids.clear()
             
             time.sleep(delay)
             
