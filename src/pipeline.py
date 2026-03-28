@@ -118,6 +118,10 @@ class QDAPipeline:
         # Save to database
         for file_meta in results:
             file_id = self.db.insert_file(file_meta)
+            if file_id is None:
+                print(f"  - {file_meta.get('filename')} (duplicate skipped)")
+                continue
+
             print(f"  - {file_meta.get('filename')} (ID: {file_id})")
             
             # Download if requested

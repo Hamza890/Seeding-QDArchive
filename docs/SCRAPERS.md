@@ -2,12 +2,16 @@
 
 This document provides detailed information about each scraper in the QDA Archive pipeline.
 
+For day-to-day script usage, see `scripts/README.md`. This file is only for scraper architecture and implementation notes.
+
 ## Overview
 
-The pipeline includes **24 scrapers** for different types of repositories:
+The codebase currently includes **22 scraper classes** supporting **21 named repositories**:
 
-1. **API-based scrapers (10)**: Use official APIs (Zenodo, Dryad, Dataverse, CESSDA, ICPSR)
-2. **Web scrapers (14)**: Parse HTML for repositories without APIs (UK Data Service, FSD, SADA, etc.)
+1. **API-related scraper classes (10)**: official API integrations plus the shared `DataverseScraper`
+2. **Web/site scraper classes (12)**: repository-specific web integrations plus the shared `WebScraper`
+
+`DataverseScraper` and `WebScraper` are shared implementation components, so they should not be counted as extra named repositories.
 
 ## Quick Reference
 
@@ -31,10 +35,8 @@ The pipeline includes **24 scrapers** for different types of repositories:
 - `FSDScraper` - Finnish Social Science Data Archive
 - `SADAScraper` - South African Data Archive
 - `IHSNScraper` - International Household Survey Network
-- `DatabraryScraper` - Databrary
 - `SiktScraper` - Sikt Norway
 - `OpenDataHalleScraper` - Open Data Uni Halle
-- `CISSpainScraper` - CIS Spain
 - `MurrayScraper` - Murray Research Archive
 - `ColumbiaOralHistoryScraper` - Columbia Oral History
 - `WebScraper` - Generic web scraper
@@ -343,21 +345,6 @@ scraper = IHSNScraper()
 results = scraper.search(max_results=30)
 ```
 
-### Databrary Scraper
-
-**Repository**: https://databrary.org/
-**Type**: Web scraping
-**Class**: `DatabraryScraper`
-
-**Note**: Most Databrary content requires authentication.
-
-```python
-from scrapers import DatabraryScraper
-
-scraper = DatabraryScraper()
-results = scraper.search(max_results=20)
-```
-
 ### Sikt Scraper (Norway)
 
 **Repository**: https://sikt.no/
@@ -382,21 +369,6 @@ from scrapers import OpenDataHalleScraper
 
 scraper = OpenDataHalleScraper()
 results = scraper.search(max_results=30)
-```
-
-### CIS Spain Scraper
-
-**Repository**: https://www.cis.es/
-**Type**: Web scraping
-**Class**: `CISSpainScraper`
-
-Searches Spanish social research studies. Supports Spanish search terms.
-
-```python
-from scrapers import CISSpainScraper
-
-scraper = CISSpainScraper()
-results = scraper.search(query="cualitativo", max_results=30)
 ```
 
 ### Murray Research Archive Scraper
@@ -441,7 +413,6 @@ results = scraper.search(max_results=30)
 
 ### Download failures
 - Verify download URLs are accessible
-- Check if authentication is required (especially for Databrary)
 - Verify file still exists in repository
 - Check network connectivity and firewall settings
 

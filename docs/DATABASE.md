@@ -1,234 +1,240 @@
 # Database Schema Documentation
 
-The QDA Archive uses SQLite to store metadata about collected files.
+The QDA Archive uses SQLite to store search and download metadata in `qda_archive.db`.
 
-## Database File
+## Database file
 
-- **Location**: `qda_archive.db` (in project root)
+- **Location**: project root as `qda_archive.db`
 - **Type**: SQLite 3
 - **Encoding**: UTF-8
 
+## Current design
+
+The database now uses a **compatibility-first normalized schema**.
+
+That means:
+
+- existing scripts can still read and write the `files` table
+- normalized project metadata is also written to supporting tables
+- raw source values are preserved during ingest rather than cleaned up early
+
 ## Tables
 
-### files
+### `files`
 
-Main table storing metadata for all QDA files.
+This remains the main operational table used by the current search, download, export, and verification scripts.
 
-#### Schema
+It stores one row per discovered/downloaded file and includes both:
 
-```sql
-CREATE TABLE files (
-    -- Primary key
-    id INTEGER PRIMARY KEY AUTOINCREMENT,
-    
-    -- File information
-    filename TEXT NOT NULL,
-    file_extension TEXT,
-    file_size INTEGER,
-    file_path TEXT,
-    download_url TEXT,
-    download_date TIMESTAMP,
-    md5_hash TEXT,
-    sha256_hash TEXT,
-    qda_software TEXT,
-    
-    -- Source information
-    source_repository TEXT NOT NULL,
-    source_url TEXT,
-    source_id TEXT,
-    
-    -- License information
-    license_type TEXT,
-    license_url TEXT,
-    
-    -- Project metadata
-    project_title TEXT,
-    project_description TEXT,
-    project_scope TEXT,
-    authors TEXT,
-    publication_date TEXT,
-    keywords TEXT,
-    
-    -- Additional metadata
-    doi TEXT,
-    version TEXT,
-    language TEXT,
-    file_format_version TEXT,
-    
-    -- Status
-    download_status TEXT DEFAULT 'pending',
-    error_message TEXT,
-    
-    -- Timestamps
-    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
-    updated_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
-);
-```
+- file-specific fields such as `filename`, `download_url`, `file_path`, hashes, and status
+- compatibility copies of project metadata such as `project_title`, `authors`, `keywords`, and `license_type`
 
-#### Indexes
+Important compatibility columns include:
 
-```sql
-CREATE INDEX idx_file_extension ON files(file_extension);
-CREATE INDEX idx_source_repository ON files(source_repository);
-CREATE INDEX idx_download_status ON files(download_status);
-```
+- `id`
+- `project_id`
+- `repository_id`
+- `filename`
+- `file_extension`
+- `download_url`
+- `source_repository`
+- `source_url`
+- `source_id`
+- `license_type`
+- `license_url`
+- `project_title`
+- `project_description`
+- `project_scope`
+- `authors`
+- `publication_date`
+- `keywords`
+- `doi`
+- `download_status`
+- `error_message`
+- `created_at`
+- `updated_at`
 
-## Field Descriptions
+### `projects`
 
-### File Information
+Stores one logical project/dataset record per repository/project identity.
 
-- **id**: Auto-incrementing primary key
-- **filename**: Original filename (e.g., "study_data.qdpx")
-- **file_extension**: File extension (e.g., ".qdpx")
-- **file_size**: Size in bytes
-- **file_path**: Local path to downloaded file
-- **download_url**: URL where file was downloaded from
-- **download_date**: ISO 8601 timestamp of download
-- **md5_hash**: MD5 hash for integrity verification
-- **sha256_hash**: SHA256 hash for integrity verification
-- **qda_software**: QDA software name (e.g., "MaxQDA", "NVivo")
+Key columns:
 
-### Source Information
+- `id`
+- `repository_id`
+- `source_repository`
+- `source_url`
+- `project_title`
+- `project_description`
+- `project_scope`
+- `authors`
+- `publication_date`
+- `doi`
+- `license_type`
+- `license_url`
+- `created_at`
+- `updated_at`
 
-- **source_repository**: Repository name (e.g., "Zenodo", "Dryad")
-- **source_url**: URL to the dataset/project page
-- **source_id**: Repository-specific identifier
+### `keywords`
 
-### License Information
+Stores project keywords as separate rows.
 
-- **license_type**: License identifier (e.g., "CC-BY-4.0", "CC0-1.0")
-- **license_url**: URL to license text
+Key columns:
 
-### Project Metadata
+- `id`
+- `project_id`
+- `keyword`
+- `created_at`
 
-- **project_title**: Title of the research project/dataset
-- **project_description**: Description or abstract
-- **project_scope**: Scope of the research (optional)
-- **authors**: Semicolon-separated list of authors
-- **publication_date**: Publication date (ISO 8601 format)
-- **keywords**: Semicolon-separated keywords
+### `person_role`
 
-### Additional Metadata
+Stores people associated with a project, currently populated from author metadata.
 
-- **doi**: Digital Object Identifier
-- **version**: Dataset/file version
-- **language**: Language of the data
-- **file_format_version**: QDA file format version
+Key columns:
 
-### Status Fields
+- `id`
+- `project_id`
+- `person`
+- `role`
+- `created_at`
 
-- **download_status**: One of:
-  - `pending`: Found but not downloaded
-  - `completed`: Successfully downloaded
-  - `failed`: Download failed
-- **error_message**: Error message if download failed
+### `licenses`
 
-### Timestamps
+Stores project license rows.
 
-- **created_at**: When record was created
-- **updated_at**: When record was last updated
+Key columns:
 
-## Common Queries
+- `id`
+- `project_id`
+- `license`
+- `license_url`
+- `created_at`
 
-### Get all pending downloads
+## Ingest rules
 
-```python
-db.get_all_files({'download_status': 'pending'})
-```
+### Raw metadata preservation
 
-### Get files from specific repository
+Source metadata is preserved as provided by the repository whenever practical.
 
-```python
-db.get_all_files({'source_repository': 'Zenodo'})
-```
+- license strings are stored exactly as seen in source metadata
+- project/source text is not cleaned or standardized during ingest
+- semicolon-delimited fields from scrapers are only split when populating normalized child tables
 
-### Get files by extension
+### Repository IDs
 
-```python
-db.get_all_files({'file_extension': '.qdpx'})
-```
+`repository_id` is populated using the exact repository slugs requested for this archive.
 
-### Get statistics
+Examples:
 
-```python
-stats = db.get_statistics()
-```
+- `zenodo`
+- `dryad`
+- `uk-data-service`
+- `syracuse-qualitative-data-repository`
+- `dans`
+- `harvard-dataverse`
+- `icpsr`
+- `open-data-uni-halle`
+- `columbia-oral-history-archive`
+- `sikt`
+- `hihsn`
 
-## Database Operations
+### Project/file write behavior
+
+Each call to `db.insert_file(...)` now does all of the following:
+
+1. resolves `repository_id`
+2. creates or merges a `projects` row
+3. inserts the compatibility `files` row
+4. inserts related `keywords`, `person_role`, and `licenses` rows
+
+### Legacy DB compatibility
+
+When an older database is opened:
+
+- `project_id` and `repository_id` are added to `files` if missing
+- normalized tables are created if missing
+- existing `files` rows are backfilled into normalized tables
+
+## Duplicate handling
+
+Duplicate protection is now file-oriented so that multi-file projects are not incorrectly collapsed.
+
+The database tries to treat rows as duplicates in this order:
+
+1. same `repository_id` + same `download_url`
+2. same `repository_id` + same `source_id` + same `filename`
+3. same `repository_id` + same `source_url` + same `filename`
+
+This is intentionally more specific than the older `source_repository + source_id` rule.
+
+## Common API usage
+
+### Get pending files
+
+- `db.get_all_files({'download_status': 'pending'})`
+
+### Get files from one repository
+
+- `db.get_all_files({'repository_id': 'harvard-dataverse'})`
+- `db.get_all_files({'source_repository': 'Zenodo'})`
 
 ### Insert a file
 
-```python
-metadata = {
-    'filename': 'study.qdpx',
-    'file_extension': '.qdpx',
-    'source_repository': 'Zenodo',
-    'download_status': 'pending'
-}
-file_id = db.insert_file(metadata)
-```
+- `file_id = db.insert_file(metadata)`
+
+If the file is a duplicate, `insert_file(...)` returns `None`.
 
 ### Update a file
 
-```python
-updates = {
-    'download_status': 'completed',
-    'file_path': '/path/to/file.qdpx',
-    'md5_hash': 'abc123...'
-}
-db.update_file(file_id, updates)
-```
+- `db.update_file(file_id, {'download_status': 'completed'})`
+
+Updating a file also re-syncs its related normalized project metadata.
 
 ### Export to CSV
 
-```python
-db.export_to_csv('output.csv')
-```
+- `db.export_to_csv('output.csv')`
 
-## Backup and Maintenance
+Exports compatibility `files` rows.
 
-### Backup Database
+### Get statistics
 
-```bash
-# Simple copy
-cp qda_archive.db qda_archive_backup.db
+- `stats = db.get_statistics()`
 
-# Or use SQLite backup
-sqlite3 qda_archive.db ".backup qda_archive_backup.db"
-```
+Current statistics include:
 
-### Vacuum Database
+- `total_files`
+- `total_projects`
+- `by_status`
+- `by_repository`
+- `by_extension`
+- `qda_files`
+- `supporting_files`
 
-```python
-import sqlite3
-conn = sqlite3.connect('qda_archive.db')
-conn.execute('VACUUM')
-conn.close()
-```
+## Maintenance
 
-### Check Database Size
+### Backup
 
-```python
-from pathlib import Path
-size = Path('qda_archive.db').stat().st_size
-print(f"Database size: {size / 1024 / 1024:.2f} MB")
-```
+- simple copy of `qda_archive.db`
+- or SQLite `.backup`
 
-## Performance Considerations
+### Vacuum
 
-- **Indexes**: Created on frequently queried fields
-- **Batch inserts**: Use transactions for multiple inserts
-- **Regular vacuum**: Reclaim space after deletions
+Run SQLite `VACUUM` periodically if the DB is heavily updated.
 
-## Data Integrity
+### Size check
 
-- **Hash verification**: MD5 and SHA256 hashes stored for verification
-- **Foreign key constraints**: Not used (single table design)
-- **NOT NULL constraints**: Applied to critical fields
+Use Python `Path('qda_archive.db').stat().st_size` or any SQLite browser.
 
-## Privacy and Compliance
+## Data integrity notes
 
-- **No personal data**: Only metadata about research datasets
-- **License tracking**: All files should have license information
-- **Source attribution**: Source repository and URL always recorded
+- normalized child tables use foreign keys to `projects`
+- compatibility scripts still operate through `files`
+- hashes and download state remain stored on file rows
+- source attribution remains on both compatibility and normalized data
+
+## Operational note
+
+The repository-specific `scripts/search_*.py` entry points remain the main operational search path.
+
+They continue to work with the compatibility `files` table while now also populating normalized project metadata behind the scenes.
 

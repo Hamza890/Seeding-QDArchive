@@ -30,12 +30,9 @@ $files = @(
     "README.md",
     "main.py",
     "requirements.txt",
-    "PROJECT_SUMMARY.md",
-    "QUICKSTART.md",
-    "architecture_diagram.html",
-    "architecture_diagram.png",
-    "architecture_diagram.jpg",
-    "QDA Archive pipeline Architecture.png"
+    "overall_architecture_flow.png",
+    "overall_architecture_simple.png",
+    "overall_architecture_detailed.png"
 )
 
 foreach ($file in $files) {

@@ -21,27 +21,27 @@ class SyracuseQDRScraper(BaseScraper):
         })
     
     def search(
-        self, 
-        query: Optional[str] = None, 
+        self,
+        query: Optional[str] = None,
         max_results: int = 100,
         **kwargs
     ) -> List[Dict[str, Any]]:
         """
         Search Syracuse QDR for QDA files.
-        
+
         Args:
             query: Search query
             max_results: Maximum number of results
             **kwargs: Additional parameters
-            
+
         Returns:
             List of metadata dictionaries
         """
         self.clear_results()
 
-        # Search for specific QDA software names
+        # Search for specific QDA file extensions and software names
         if not query:
-            search_terms = ["NVivo", "MaxQDA", "ATLAS.ti"]
+            search_terms = ["qdpx", "mqda", "nvp", "NVivo", "MaxQDA", "ATLAS.ti", "interview study"]
         else:
             search_terms = [query]
 
@@ -53,16 +53,20 @@ class SyracuseQDRScraper(BaseScraper):
 
             print(f"Searching Syracuse QDR for: '{search_term}'...")
 
-            params = {
-                'q': search_term,
-                'type': 'dataset',
-                'per_page': 100,
-                'start': 0
-            }
+            # Search both files and datasets
+            for search_type in ['file', 'dataset']:
+                if total_fetched >= max_results:
+                    break
 
-            params.update(kwargs)
+                params = {
+                    'q': search_term,
+                    'type': search_type,
+                    'per_page': 100,
+                    'start': 0
+                }
 
-            while total_fetched < max_results:
+                params.update(kwargs)
+
                 try:
                     url = f"{self.api_base}/search"
                     response = self.session.get(url, params=params, timeout=60)  # Increased timeout
@@ -71,41 +75,61 @@ class SyracuseQDRScraper(BaseScraper):
                     data = response.json()
 
                     if data.get('status') != 'OK':
-                        break
+                        continue
 
                     items = data.get('data', {}).get('items', [])
 
                     if not items:
-                        break
+                        continue
 
                     for item in items:
                         if total_fetched >= max_results:
                             break
 
-                        # Get dataset details
-                        dataset_id = item.get('global_id') or item.get('entity_id')
-                        if dataset_id:
-                            qda_files = self._get_dataset_files(dataset_id)
-
-                            for file_meta in qda_files:
-                                self.results.append(file_meta)
+                        if search_type == 'file':
+                            # Direct file result
+                            file_name = item.get('name', '')
+                            if self.is_qda_file(file_name):
+                                dataset_persistent_id = item.get('dataset_persistent_id', '')
+                                dataset_url = (
+                                    f"{self.base_url}/dataset.xhtml?persistentId={dataset_persistent_id}"
+                                    if dataset_persistent_id else None
+                                )
+                                file_meta = {
+                                    'filename': file_name,
+                                    'file_extension': '.' + file_name.split('.')[-1].lower() if '.' in file_name else None,
+                                    'download_url': item.get('url'),
+                                    'source_url': dataset_url,
+                                    'source_id': item.get('file_id') or item.get('file_persistent_id'),
+                                    'project_title': item.get('dataset_name', 'Unknown'),
+                                    'project_description': item.get('description', ''),
+                                    'publication_date': item.get('releaseOrCreateDate') or item.get('published_at'),
+                                    'doi': dataset_persistent_id or item.get('file_persistent_id'),
+                                    'qda_software': self.get_qda_software(file_name),
+                                    'source_repository': 'Syracuse QDR',
+                                }
+                                self.results.append(self.normalize_metadata(file_meta))
                                 total_fetched += 1
+                                print(f"Found QDA file: {file_name}")
+                        else:
+                            # Dataset result - check files
+                            dataset_id = item.get('global_id') or item.get('entity_id')
+                            if dataset_id:
+                                qda_files = self._get_dataset_files(dataset_id)
 
-                                if total_fetched >= max_results:
-                                    break
+                                for file_meta in qda_files:
+                                    self.results.append(file_meta)
+                                    total_fetched += 1
 
-                    # Check if more results available
-                    total_count = data.get('data', {}).get('total_count', 0)
-                    if params['start'] + len(items) >= total_count:
-                        break
+                                    if total_fetched >= max_results:
+                                        break
 
-                    params['start'] += len(items)
                     time.sleep(2)  # Increased rate limiting for slow API
 
                 except requests.exceptions.RequestException as e:
-                    print(f"Error fetching from Syracuse QDR ({search_term}): {e}")
-                    break
-        
+                    print(f"Error fetching from Syracuse QDR ({search_term}, {search_type}): {e}")
+                    continue
+
         return self.results
     
     def _get_dataset_files(self, dataset_id: str) -> List[Dict[str, Any]]:
@@ -202,10 +226,19 @@ class SyracuseQDRScraper(BaseScraper):
         download_url = f"{self.api_base}/access/datafile/{file_id}" if file_id else ''
         
         # Get persistent ID (DOI)
-        persistent_id = dataset.get('persistentId', '')
+        persistent_id = (
+            dataset.get('persistentId')
+            or latest_version.get('datasetPersistentId')
+            or ''
+        )
         
-        # QDR typically uses CC BY 4.0
-        license_type = latest_version.get('license', 'CC-BY-4.0')
+        license_info = latest_version.get('license') or {}
+        if isinstance(license_info, dict):
+            license_type = license_info.get('name') or 'Unknown'
+            license_url = license_info.get('uri')
+        else:
+            license_type = license_info or 'Unknown'
+            license_url = 'https://creativecommons.org/licenses/by/4.0/'
         
         return self.normalize_metadata({
             'filename': filename,
@@ -216,7 +249,7 @@ class SyracuseQDRScraper(BaseScraper):
             'source_url': f"{self.base_url}/dataset.xhtml?persistentId={persistent_id}",
             'source_id': str(file_id),
             'license_type': license_type,
-            'license_url': 'https://creativecommons.org/licenses/by/4.0/',
+            'license_url': license_url,
             'project_title': title,
             'project_description': description,
             'authors': authors,

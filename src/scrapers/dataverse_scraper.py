@@ -11,18 +11,20 @@ class DataverseScraper(BaseScraper):
     """Scraper for Dataverse-based repositories."""
     
     def __init__(
-        self, 
+        self,
         base_url: str = "https://dataverse.no",
-        config_path: str = "config/qda_extensions.json"
+        config_path: str = "config/qda_extensions.json",
+        smart_queries_path: str = "config/smart_queries.json"
     ):
         """
         Initialize Dataverse scraper.
-        
+
         Args:
             base_url: Base URL of the Dataverse instance
             config_path: Path to QDA extensions config
+            smart_queries_path: Path to smart queries config
         """
-        super().__init__(config_path)
+        super().__init__(config_path, smart_queries_path)
         self.base_url = base_url.rstrip('/')
         self.api_base = f"{self.base_url}/api"
         self.session = requests.Session()
@@ -31,27 +33,27 @@ class DataverseScraper(BaseScraper):
         })
     
     def search(
-        self, 
-        query: Optional[str] = None, 
+        self,
+        query: Optional[str] = None,
         max_results: int = 100,
         **kwargs
     ) -> List[Dict[str, Any]]:
         """
         Search Dataverse for QDA files.
-        
+
         Args:
             query: Search query
             max_results: Maximum number of results
             **kwargs: Additional parameters
-            
+
         Returns:
             List of metadata dictionaries
         """
         self.clear_results()
 
-        # Search for specific QDA software names
+        # Search for specific QDA file extensions and software names
         if not query:
-            search_terms = ["NVivo", "MaxQDA", "ATLAS.ti"]
+            search_terms = ["qdpx", "mqda", "nvp", "NVivo", "MaxQDA", "ATLAS.ti", "interview study"]
         else:
             search_terms = [query]
 
@@ -63,16 +65,20 @@ class DataverseScraper(BaseScraper):
 
             print(f"Searching DataverseNO for: '{search_term}'...")
 
-            params = {
-                'q': search_term,
-                'type': 'dataset',
-                'per_page': 100,
-                'start': 0
-            }
+            # Search both files and datasets
+            for search_type in ['file', 'dataset']:
+                if total_fetched >= max_results:
+                    break
 
-            params.update(kwargs)
+                params = {
+                    'q': search_term,
+                    'type': search_type,
+                    'per_page': 100,
+                    'start': 0
+                }
 
-            while total_fetched < max_results:
+                params.update(kwargs)
+
                 try:
                     url = f"{self.api_base}/search"
                     response = self.session.get(url, params=params, timeout=30)
@@ -81,41 +87,66 @@ class DataverseScraper(BaseScraper):
                     data = response.json()
 
                     if data.get('status') != 'OK':
-                        break
+                        continue
 
                     items = data.get('data', {}).get('items', [])
 
                     if not items:
-                        break
+                        continue
 
                     for item in items:
                         if total_fetched >= max_results:
                             break
 
-                        # Get dataset details
-                        dataset_id = item.get('global_id') or item.get('entity_id')
-                        if dataset_id:
-                            qda_files = self._get_dataset_files(dataset_id)
+                        if search_type == 'file':
+                            # Direct file result
+                            file_name = item.get('name', '')
+                            if self.is_qda_file(file_name):
+                                # Build proper metadata
+                                file_extension = '.' + file_name.split('.')[-1] if '.' in file_name else ''
+                                file_id = item.get('file_id', item.get('entity_id', ''))
+                                dataset_pid = item.get('dataset_persistent_id', '')
 
-                            for file_meta in qda_files:
+                                file_meta = self.normalize_metadata({
+                                    'filename': file_name,
+                                    'file_extension': file_extension.lower(),
+                                    'file_size': item.get('size_in_bytes'),
+                                    'download_url': item.get('file_persistent_id', ''),
+                                    'source_repository': f'Dataverse ({self.base_url})',
+                                    'source_url': f"{self.base_url}/dataset.xhtml?persistentId={dataset_pid}",
+                                    'source_id': str(file_id) if file_id else dataset_pid,
+                                    'license_type': '',
+                                    'license_url': '',
+                                    'project_title': item.get('dataset_name', 'Unknown'),
+                                    'project_description': item.get('description', ''),
+                                    'authors': '',
+                                    'publication_date': item.get('published_at', ''),
+                                    'keywords': '',
+                                    'doi': dataset_pid,
+                                    'qda_software': self.get_qda_software(file_name),
+                                })
                                 self.results.append(file_meta)
                                 total_fetched += 1
+                                print(f"Found QDA file: {file_name}")
+                        else:
+                            # Dataset result - check files
+                            dataset_id = item.get('global_id') or item.get('entity_id')
+                            if dataset_id:
+                                qda_files = self._get_dataset_files(dataset_id)
 
-                                if total_fetched >= max_results:
-                                    break
+                                for file_meta in qda_files:
+                                    self.results.append(file_meta)
+                                    total_fetched += 1
 
-                    # Check if more results available
-                    total_count = data.get('data', {}).get('total_count', 0)
-                    if params['start'] + len(items) >= total_count:
-                        break
+                                    if total_fetched >= max_results:
+                                        break
 
-                    params['start'] += len(items)
                     time.sleep(1)  # Rate limiting
 
                 except requests.exceptions.RequestException as e:
-                    print(f"Error fetching from Dataverse ({search_term}): {e}")
-                    break
-        
+                    print(f"Error fetching from Dataverse ({search_term}, {search_type}): {e}")
+                    continue
+
         return self.results
     
     def _get_dataset_files(self, dataset_id: str) -> List[Dict[str, Any]]:

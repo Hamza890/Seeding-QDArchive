@@ -116,13 +116,6 @@
       "description": "European Social Science Data Archives Consortium",
       "search_url": "https://datacatalogue.cessda.eu/?query=qualitative"
     },
-    "databrary": {
-      "name": "Databrary",
-      "url": "https://databrary.org/",
-      "type": "web",
-      "description": "Video data sharing library for developmental science",
-      "search_url": "https://databrary.org/search?q=qualitative&tab=0"
-    },
     "icpsr": {
       "name": "ICPSR - Inter-university Consortium for Political and Social Research",
       "url": "https://icpsr.umich.edu",
@@ -135,12 +128,6 @@
       "url": "https://opendata.uni-halle.de/",
       "type": "web",
       "description": "University of Halle Open Data Repository"
-    },
-    "cis_spain": {
-      "name": "CIS - Centro de Investigaciones Sociológicas",
-      "url": "https://www.cis.es/estudios/catalogo-estudios",
-      "type": "web",
-      "description": "Spanish Center for Sociological Research"
     },
     "murray_harvard": {
       "name": "Murray Research Archive",

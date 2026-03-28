@@ -10,9 +10,10 @@ from .base_scraper import BaseScraper
 class ZenodoScraper(BaseScraper):
     """Scraper for Zenodo open-access repository."""
     
-    def __init__(self, config_path: str = "config/qda_extensions.json"):
+    def __init__(self, config_path: str = "config/qda_extensions.json",
+                 smart_queries_path: str = "config/smart_queries.json"):
         """Initialize Zenodo scraper."""
-        super().__init__(config_path)
+        super().__init__(config_path, smart_queries_path)
         self.api_base = "https://zenodo.org/api/records/"
         self.session = requests.Session()
         self.session.headers.update({

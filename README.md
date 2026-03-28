@@ -12,6 +12,15 @@ This project automates the collection of QDA files (from software like MaxQDA, N
 - **SQLite database** for metadata management
 - **CSV export** for data analysis
 
+## Documentation
+
+To keep the docs set small, the project now uses a minimal documentation structure:
+
+- `README.md` - project overview, repository coverage, install, and quick start
+- `scripts/README.md` - operational script usage and current search workflow
+- `docs/SCRAPERS.md` - scraper architecture and implementation notes
+- `docs/DATABASE.md` - SQLite metadata schema and database operations
+
 ## Supported QDA Software
 
 The pipeline searches for files from these QDA software packages:
@@ -26,7 +35,7 @@ The pipeline searches for files from these QDA software packages:
 
 ## Supported Data Repositories
 
-**Total: 24 repositories** across multiple countries and disciplines.
+**Total: 21 named repositories** across multiple countries and disciplines.
 
 ### API-Based Repositories (10)
 
@@ -41,7 +50,7 @@ The pipeline searches for files from these QDA software packages:
 9. **CESSDA** - https://datacatalogue.cessda.eu/ (European Social Science Data - REST API)
 10. **ICPSR** - https://www.icpsr.umich.edu/ (Inter-university Consortium - Metadata API)
 
-### Web Scraping Repositories (14)
+### Web/Site Repositories (11)
 
 11. **UK Data Service** - https://ukdataservice.ac.uk/
 12. **Qualidata Network** - https://www.qualidatanet.com/
@@ -50,13 +59,12 @@ The pipeline searches for files from these QDA software packages:
 15. **FSD** - https://www.fsd.tuni.fi/ (Finnish Social Science Data Archive)
 16. **SADA** - http://www.sada.nrf.ac.za/ (South African Data Archive)
 17. **IHSN** - http://www.ihsn.org/ (International Household Survey Network)
-18. **Databrary** - https://databrary.org/ (Video data sharing library)
-19. **Sikt** - https://sikt.no/ (Norwegian Agency for Shared Services)
-20. **Open Data Uni Halle** - https://opendata.uni-halle.de/
-21. **CIS Spain** - https://www.cis.es/ (Centro de Investigaciones Sociológicas)
-22. **Murray Research Archive** - https://www.murray.harvard.edu/
-23. **Columbia Oral History** - https://library.columbia.edu/libraries/ccoh.html
-24. **DataverseNO** - Additional Dataverse instance
+18. **Sikt** - https://sikt.no/ (Norwegian Agency for Shared Services)
+19. **Open Data Uni Halle** - https://opendata.uni-halle.de/
+20. **Murray Research Archive** - https://www.murray.harvard.edu/
+21. **Columbia Oral History** - https://library.columbia.edu/libraries/ccoh.html
+
+Shared components such as `DataverseScraper` and `WebScraper` support multiple repositories internally, but they are not counted as separate named repositories.
 
 ## Installation
 
@@ -80,51 +88,64 @@ pip install -r requirements.txt
 
 ## Usage
 
-The pipeline provides a command-line interface with several commands:
+### Quick Start: Search for QDA Files
 
-### Search for QDA Files
+**Recommended: Search Individual Repositories**
 
-Search all repositories:
+Use the dedicated search scripts in the `scripts/` folder. Each script searches with 158 queries (48 QDA extensions + 110 smart keywords):
+
 ```bash
-python main.py search --scraper all --max-results 50
-```
+# High-priority API-based repositories (most reliable)
+python scripts/search_syracuse.py      # Syracuse QDR (~3 min)
+python scripts/search_harvard.py       # Harvard Dataverse (~8 min)
+python scripts/search_zenodo.py        # Zenodo (~13 min)
+python scripts/search_dryad.py         # Dryad (~5 min)
+python scripts/search_dans.py          # DANS Netherlands (~5 min)
 
-Search a specific repository:
-```bash
-# API-based repositories
-python main.py search --scraper zenodo --max-results 100
-python main.py search --scraper dryad --max-results 50
-python main.py search --scraper syracuse_qdr --max-results 50
-python main.py search --scraper dans --max-results 50
-python main.py search --scraper ada --max-results 50
-python main.py search --scraper harvard_dataverse --max-results 50
-python main.py search --scraper aussda --max-results 50
-python main.py search --scraper cessda --max-results 50
-python main.py search --scraper icpsr --max-results 50
+# Additional API-based repositories
+python scripts/search_ada.py           # ADA Australian
+python scripts/search_aussda.py        # AUSSDA Austria
+python scripts/search_cessda.py        # CESSDA
+python scripts/search_icpsr.py         # ICPSR
 
 # Web scraping repositories
-python main.py search --scraper uk_data_service --max-results 30
-python main.py search --scraper qualidata --max-results 20
-python main.py search --scraper fsd --max-results 30
-python main.py search --scraper sada --max-results 30
-python main.py search --scraper databrary --max-results 20
+python scripts/search_sikt.py          # Sikt Norway
+python scripts/search_ukds.py          # UK Data Service
+python scripts/search_fsd.py           # FSD Finland
+# ... and 8 more (see scripts/README.md)
 ```
 
-Search with custom query:
+**Run the current shared batch set (5 repositories):**
+
 ```bash
-python main.py search --scraper zenodo --query "interview data" --max-results 50
+python scripts/run_full_search.py      # Syracuse, Sikt, DataverseNO, Harvard, Zenodo
 ```
 
-Search and download immediately:
+For full coverage, run the individual `scripts/search_*.py` files listed in `scripts/README.md`.
+
+### Check Database Status
+
+View current database contents and statistics:
 ```bash
-python main.py search --scraper all --max-results 50 --download
+python scripts/check_database.py
 ```
 
-### Download Pending Files
+This shows:
+- Total files found
+- Files by repository
+- QDA files vs other qualitative data
+- Recent additions
 
-Download all files that were found but not yet downloaded:
+### Download Files (Optional)
+
+Download all files that were found:
 ```bash
 python main.py download
+```
+
+Download from specific repository:
+```bash
+python main.py download --repository zenodo
 ```
 
 ### Export Metadata
@@ -132,12 +153,6 @@ python main.py download
 Export all metadata to CSV:
 ```bash
 python main.py export --output metadata.csv
-```
-
-Export with filters:
-```bash
-python main.py export --output completed.csv --filter-status completed
-python main.py export --output zenodo_files.csv --filter-repository Zenodo
 ```
 
 ### View Statistics
@@ -173,14 +188,24 @@ seeding-qdarchive/
 
 ## Database Schema
 
-The SQLite database stores comprehensive metadata for each file:
+The SQLite database now uses a **compatibility-first normalized design**.
 
-- **File Information**: filename, extension, size, path, hashes (MD5/SHA256)
-- **Source Information**: repository, URL, source ID
-- **License Information**: license type and URL
-- **Project Metadata**: title, description, scope, authors, keywords
-- **Additional Metadata**: DOI, version, language, publication date
-- **Download Status**: pending, completed, failed
+- The existing `files` table is still the main operational table used by current scripts.
+- Normalized project metadata is also written to:
+  - `projects`
+  - `keywords`
+  - `person_role`
+  - `licenses`
+- Existing/older databases are backfilled automatically when opened.
+
+In practice this means each saved search result can write:
+
+- **File data**: filename, extension, download URL, path, hashes, status
+- **Source data**: repository label, repository ID slug, source URL, source ID
+- **Project data**: title, description, scope, authors, publication date, DOI
+- **Normalized child data**: project keywords, people/roles, and raw license rows
+
+The `files` table remains available for compatibility, while normalized tables support project-level analysis.
 
 ## Features
 
@@ -192,7 +217,7 @@ The SQLite database stores comprehensive metadata for each file:
 
 ### Metadata Collection
 - Comprehensive metadata extraction
-- License verification (only open-license files)
+- Raw license string preservation as provided by the source
 - Author and keyword tracking
 - DOI and version information
 
@@ -243,7 +268,7 @@ Edit `config/data_sources.json` to add new repositories:
 
 ## License Compliance
 
-This pipeline only collects files with **open licenses**. The scrapers attempt to verify license information and record it in the database. Always verify license compliance before using downloaded data.
+The pipeline records license metadata as provided by each source and stores the raw license string in the database. Always verify license terms and access conditions yourself before using downloaded data.
 
 ## Contributing
 

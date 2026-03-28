@@ -1,0 +1,193 @@
+{
+  "description": "Smart queries for finding qualitative data and QDA files across repositories",
+  
+  "qda_file_extensions": {
+    "description": "Search for specific QDA file extensions (without the dot)",
+    "queries": [
+      "qdpx", "qdc", "mqda", "mqbac", "mqtc", "mqex", "mqmtr",
+      "mx24", "mx24bac", "mc24", "mex24", "mx22", "mx20", "mx18",
+      "mx12", "mx11", "mx5", "mx4", "mx3", "mx2", "m2k",
+      "loa", "sea", "mtr", "mod", "mex22", "nvp", "nvpx",
+      "atlasproj", "hpr7", "ppj", "pprj", "qlt", "f4p", "qpd",
+      "hpr", "hpr6", "hpr8", "tra", "transana", "eth", "ethnograph",
+      "taguette", "cat", "weft", "aqd", "cass", "qlp",
+      "saturate", "delve", "raven"
+    ]
+  },
+
+  "qda_software_names": {
+    "description": "Search for QDA software names",
+    "queries": [
+      "NVivo", "NVIVO", "nvivo",
+      "MaxQDA", "MAXQDA", "maxqda",
+      "ATLAS.ti", "Atlas.ti", "atlas.ti", "atlasti",
+      "Dedoose", "dedoose",
+      "QDAcity", "qdacity",
+      "QDA Miner", "QDAMiner",
+      "f4analyse", "f4analyze",
+      "Quirkos", "quirkos",
+      "REFI-QDA", "REFI QDA",
+      "HyperRESEARCH", "hyperresearch",
+      "Transana", "transana",
+      "Ethnograph", "ethnograph",
+      "Taguette", "taguette",
+      "Coding Analysis Toolkit", "CAT",
+      "Weft QDA", "weft",
+      "Aquad", "aquad",
+      "Cassandre", "cassandre",
+      "Saturate", "saturate",
+      "Delve", "delve"
+    ]
+  },
+  
+  "qualitative_methods": {
+    "description": "Search for qualitative research methods",
+    "queries": [
+      "qualitative data analysis",
+      "qualitative research",
+      "qualitative study",
+      "qualitative interview",
+      "qualitative coding",
+      "thematic analysis",
+      "content analysis",
+      "grounded theory",
+      "phenomenology",
+      "phenomenological",
+      "ethnography",
+      "ethnographic",
+      "case study",
+      "narrative analysis",
+      "discourse analysis",
+      "conversation analysis",
+      "interpretative phenomenological analysis",
+      "IPA study",
+      "framework analysis",
+      "template analysis"
+    ]
+  },
+  
+  "data_types": {
+    "description": "Search for types of qualitative data",
+    "queries": [
+      "interview transcripts",
+      "interview data",
+      "focus group",
+      "focus group transcripts",
+      "field notes",
+      "observational data",
+      "oral history",
+      "life history",
+      "narrative interview",
+      "semi-structured interview",
+      "in-depth interview",
+      "qualitative survey",
+      "open-ended responses",
+      "textual data",
+      "coded data",
+      "coded transcripts",
+      "coded interviews"
+    ]
+  },
+  
+  "coding_terms": {
+    "description": "Search for coding-related terms",
+    "queries": [
+      "coding scheme",
+      "code system",
+      "codebook",
+      "coding frame",
+      "thematic codes",
+      "axial coding",
+      "open coding",
+      "selective coding",
+      "memo",
+      "memos",
+      "annotation",
+      "annotations"
+    ]
+  },
+  
+  "combined_queries": {
+    "description": "Combined search queries for better results",
+    "queries": [
+      "interview AND qualitative",
+      "interview AND coding",
+      "interview AND NVivo",
+      "interview AND MaxQDA",
+      "interview AND ATLAS",
+      "transcript AND coding",
+      "transcript AND qualitative",
+      "qualitative AND analysis AND data",
+      "focus group AND analysis",
+      "ethnographic AND data",
+      "grounded theory AND data",
+      "phenomenology AND interview",
+      "thematic AND coding"
+    ]
+  },
+  
+  "file_type_hints": {
+    "description": "File type indicators in descriptions",
+    "queries": [
+      "project file",
+      "analysis file",
+      "coding file",
+      "QDA project",
+      "qualitative data file",
+      "coded data file",
+      "interview analysis",
+      "transcript analysis"
+    ]
+  },
+  
+  "multilingual_terms": {
+    "description": "Qualitative research terms in other languages",
+    "german": [
+      "qualitative Daten",
+      "qualitative Forschung",
+      "qualitative Analyse",
+      "Interview",
+      "Transkript",
+      "Kodierung",
+      "Inhaltsanalyse"
+    ],
+    "spanish": [
+      "datos cualitativos",
+      "investigación cualitativa",
+      "análisis cualitativo",
+      "entrevista",
+      "transcripción",
+      "codificación"
+    ],
+    "french": [
+      "données qualitatives",
+      "recherche qualitative",
+      "analyse qualitative",
+      "entretien",
+      "transcription",
+      "codage"
+    ],
+    "norwegian": [
+      "kvalitative data",
+      "kvalitativ forskning",
+      "kvalitativ analyse",
+      "intervju",
+      "transkript"
+    ],
+    "dutch": [
+      "kwalitatieve gegevens",
+      "kwalitatief onderzoek",
+      "kwalitatieve analyse",
+      "interview",
+      "transcriptie"
+    ]
+  },
+  
+  "priority_queries": {
+    "description": "High-priority queries most likely to find QDA files",
+    "tier_1_extensions": ["qdpx", "mqda", "nvp", "nvpx", "atlasproj"],
+    "tier_2_software": ["NVivo", "MaxQDA", "ATLAS.ti"],
+    "tier_3_methods": ["qualitative data analysis", "interview transcripts", "coded data"]
+  }
+}
+

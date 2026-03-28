@@ -99,7 +99,10 @@ def example_custom_scraper():
     
     for file_meta in results:
         file_id = db.insert_file(file_meta)
-        print(f"  Saved: {file_meta.get('filename')} (ID: {file_id})")
+        if file_id is None:
+            print(f"  Skipped duplicate: {file_meta.get('filename')}")
+        else:
+            print(f"  Saved: {file_meta.get('filename')} (ID: {file_id})")
     
     db.close()
 
