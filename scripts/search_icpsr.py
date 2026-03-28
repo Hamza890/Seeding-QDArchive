@@ -43,7 +43,7 @@ def main():
             print(f"[{i}/{len(queries)}] '{query[:30]}'...", end=' ', flush=True)
         
         try:
-            search_results = scraper.search(query=query, max_results=1000)
+            search_results = scraper.search(query=query, max_results=10_000)
             
             new_count = 0
             for result in search_results:
