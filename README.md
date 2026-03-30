@@ -1,16 +1,26 @@
 # Seeding QDArchive
 
-A comprehensive pipeline for discovering, collecting, and archiving Qualitative Data Analysis (QDA) files from open-access repositories across the web.
+A pipeline for discovering, collecting, and archiving Qualitative Data Analysis (QDA) files from research data repositories.
 
 ## Overview
 
-This project automates the collection of QDA files (from software like MaxQDA, NVivo, ATLAS.ti, etc.) from various open-access data repositories. It includes:
+This project automates the collection of QDA file metadata (from software like MaxQDA, NVivo, ATLAS.ti, etc.) from research data repositories. It includes:
 
-- **Multi-repository scrapers** for Zenodo, Dryad, Dataverse, and more
-- **Metadata extraction** with comprehensive tracking
-- **Automated downloads** with integrity verification (MD5/SHA256)
-- **SQLite database** for metadata management
+- **Multi-repository scrapers** for ICPSR, UK Data Service, Zenodo, Harvard Dataverse, and more — using the DataCite REST API and repository-specific APIs
+- **Metadata extraction** with comprehensive tracking per project and file
+- **SQLite database** (`qda_archive.db`) — committed to the repo, currently holding **13,108 records** from ICPSR and UK Data Service
+- **Organised download tool** (`scripts/download_files.py`) — downloads files or generates `links.txt` landing-page references, organised as `downloads/<Repository>/<Project>/`
 - **CSV export** for data analysis
+
+## Current Database State
+
+| Repository | Records | Access |
+|---|---|---|
+| ICPSR | 10,469 | Login required → `links.txt` |
+| UK Data Service | 2,639 | Login required → `links.txt` |
+| **Total** | **13,108** | |
+
+The database (`qda_archive.db`, ~89 MB) is committed directly to this repository and is ready to use without running any scrapers.
 
 ## Documentation
 
@@ -35,36 +45,30 @@ The pipeline searches for files from these QDA software packages:
 
 ## Supported Data Repositories
 
-**Total: 21 named repositories** across multiple countries and disciplines.
+Scripts exist for **21 named repositories**. The two primary repositories — ICPSR and UK Data Service — are fully harvested via the **DataCite public API** and their records are included in the committed database.
 
-### API-Based Repositories (10)
+### Primary Repositories (fully harvested, in database)
 
-1. **Zenodo** - https://zenodo.org/ (REST API)
-2. **Dryad** - http://datadryad.org/ (REST API v2)
-3. **Syracuse QDR** - https://qdr.syr.edu/ (Dataverse API)
-4. **DANS** - https://dans.knaw.nl/ (OAI-PMH)
-5. **DataverseNO** - https://dataverse.no/ (Dataverse API)
-6. **ADA** - https://dataverse.ada.edu.au/ (Australian Data Archive - Dataverse API)
-7. **Harvard Dataverse** - https://dataverse.harvard.edu/ (Dataverse API)
-8. **AUSSDA** - https://data.aussda.at/ (Austrian Social Science Data Archive - Dataverse API)
-9. **CESSDA** - https://datacatalogue.cessda.eu/ (European Social Science Data - REST API)
-10. **ICPSR** - https://www.icpsr.umich.edu/ (Inter-university Consortium - Metadata API)
+| Repository | Records | API |
+|---|---|---|
+| **ICPSR** — https://www.icpsr.umich.edu/ | 10,469 | DataCite REST API |
+| **UK Data Service** — https://ukdataservice.ac.uk/ | 2,639 | DataCite REST API |
 
-### Web/Site Repositories (11)
+### Additional Repositories (scrapers available, not in current database)
 
-11. **UK Data Service** - https://ukdataservice.ac.uk/
-12. **Qualidata Network** - https://www.qualidatanet.com/
-13. **Qualiservice** - German qualitative data service
-14. **QualiBi** - Qualitative data partner network
-15. **FSD** - https://www.fsd.tuni.fi/ (Finnish Social Science Data Archive)
-16. **SADA** - http://www.sada.nrf.ac.za/ (South African Data Archive)
-17. **IHSN** - http://www.ihsn.org/ (International Household Survey Network)
-18. **Sikt** - https://sikt.no/ (Norwegian Agency for Shared Services)
-19. **Open Data Uni Halle** - https://opendata.uni-halle.de/
-20. **Murray Research Archive** - https://www.murray.harvard.edu/
-21. **Columbia Oral History** - https://library.columbia.edu/libraries/ccoh.html
+**API-Based:**
+- **Zenodo** — https://zenodo.org/ (REST API)
+- **Dryad** — http://datadryad.org/ (REST API v2)
+- **Syracuse QDR** — https://qdr.syr.edu/ (Dataverse API)
+- **DANS** — https://dans.knaw.nl/ (OAI-PMH)
+- **DataverseNO** — https://dataverse.no/ (Dataverse API)
+- **ADA** — https://dataverse.ada.edu.au/ (Dataverse API)
+- **Harvard Dataverse** — https://dataverse.harvard.edu/ (Dataverse API)
+- **AUSSDA** — https://data.aussda.at/ (Dataverse API)
+- **CESSDA** — https://datacatalogue.cessda.eu/ (REST API)
 
-Shared components such as `DataverseScraper` and `WebScraper` support multiple repositories internally, but they are not counted as separate named repositories.
+**Web/Site Scrapers:**
+- Sikt (Norway), FSD (Finland), Qualidata, Qualiservice, QualiBi, SADA, IHSN, Open Data Halle, Murray Archive, Columbia Oral History
 
 ## Installation
 
@@ -88,78 +92,71 @@ pip install -r requirements.txt
 
 ## Usage
 
-### Quick Start: Search for QDA Files
+### 1. Use the Committed Database (no scraping needed)
 
-**Recommended: Search Individual Repositories**
+The repository includes `qda_archive.db` with **13,108 records** already harvested from ICPSR and UK Data Service. You can query or export it immediately without running any scrapers:
 
-Use the dedicated search scripts in the `scripts/` folder. Each script searches with 158 queries (48 QDA extensions + 110 smart keywords):
-
-```bash
-# High-priority API-based repositories (most reliable)
-python scripts/search_syracuse.py      # Syracuse QDR (~3 min)
-python scripts/search_harvard.py       # Harvard Dataverse (~8 min)
-python scripts/search_zenodo.py        # Zenodo (~13 min)
-python scripts/search_dryad.py         # Dryad (~5 min)
-python scripts/search_dans.py          # DANS Netherlands (~5 min)
-
-# Additional API-based repositories
-python scripts/search_ada.py           # ADA Australian
-python scripts/search_aussda.py        # AUSSDA Austria
-python scripts/search_cessda.py        # CESSDA
-python scripts/search_icpsr.py         # ICPSR
-
-# Web scraping repositories
-python scripts/search_sikt.py          # Sikt Norway
-python scripts/search_ukds.py          # UK Data Service
-python scripts/search_fsd.py           # FSD Finland
-# ... and 8 more (see scripts/README.md)
-```
-
-**Run the current shared batch set (5 repositories):**
-
-```bash
-python scripts/run_full_search.py      # Syracuse, Sikt, DataverseNO, Harvard, Zenodo
-```
-
-For full coverage, run the individual `scripts/search_*.py` files listed in `scripts/README.md`.
-
-### Check Database Status
-
-View current database contents and statistics:
 ```bash
 python scripts/check_database.py
 ```
 
-This shows:
-- Total files found
-- Files by repository
-- QDA files vs other qualitative data
-- Recent additions
+### 2. Generate Download Links for ICPSR / UK Data Service
 
-### Download Files (Optional)
+ICPSR and UKDS require a free account and data-access agreement. The download script creates a `downloads/` folder with `links.txt` files per project containing the landing page URL and DOI:
 
-Download all files that were found:
 ```bash
-python main.py download
+# Generate links.txt files for ICPSR and UK Data Service
+python scripts/download_files.py --repos ICSPR UKDataService
 ```
 
-Download from specific repository:
-```bash
-python main.py download --repository zenodo
+Output structure:
+```
+downloads/
+├── ICSPR/
+│   └── <Project Title>/
+│       └── links.txt   ← landing page URL + DOI (login required)
+└── UKDataService/
+    └── <Project Title>/
+        └── links.txt
 ```
 
-### Export Metadata
+### 3. Download Files from Open-Access Repositories
 
-Export all metadata to CSV:
+For repositories with direct download links (Zenodo, Harvard Dataverse, SyracuseQDR), the script downloads files automatically:
+
 ```bash
-python main.py export --output metadata.csv
+# Download from all directly-downloadable repositories
+python scripts/download_files.py --repos Zenodo "Harvard Dataverse" SyracuseQDR
+
+# Custom output folder
+python scripts/download_files.py --output C:\my_qda_files
+
+# All repos at once (links.txt for controlled, files for open-access)
+python scripts/download_files.py
 ```
 
-### View Statistics
+### 4. Run Scrapers to Harvest Additional Repositories
 
-Show archive statistics:
+To extend the database with records from other repositories, run the individual search scripts:
+
 ```bash
-python main.py stats
+# Primary (already in DB — re-run to refresh)
+python scripts/search_icpsr.py         # ICPSR via DataCite API (~10 min)
+python scripts/search_ukds.py          # UK Data Service via DataCite API (~6 min)
+
+# Other API-based repositories
+python scripts/search_zenodo.py        # Zenodo (~13 min)
+python scripts/search_harvard.py       # Harvard Dataverse (~8 min)
+python scripts/search_syracuse.py      # Syracuse QDR (~3 min)
+python scripts/search_dans.py          # DANS Netherlands (~5 min)
+python scripts/search_dryad.py         # Dryad (~5 min)
+# ... and more (see scripts/README.md)
+```
+
+### Check Database Status
+
+```bash
+python scripts/check_database.py
 ```
 
 ## Project Structure
@@ -169,19 +166,29 @@ seeding-qdarchive/
 ├── config/
 │   ├── qda_extensions.json      # QDA file extensions configuration
 │   └── data_sources.json        # Data repository configurations
+├── docs/
+│   ├── DATABASE.md              # SQLite schema and database operations
+│   └── SCRAPERS.md              # Scraper architecture and notes
 ├── src/
 │   ├── database.py              # SQLite database management
 │   ├── download_manager.py      # File download with verification
 │   ├── pipeline.py              # Main pipeline orchestrator
 │   └── scrapers/
 │       ├── base_scraper.py      # Base scraper class
+│       ├── icpsr_scraper.py     # ICPSR via DataCite API
+│       ├── ukds_scraper.py      # UK Data Service via DataCite API
 │       ├── zenodo_scraper.py    # Zenodo API scraper
-│       ├── dryad_scraper.py     # Dryad API scraper
-│       ├── dataverse_scraper.py # Dataverse API scraper
-│       └── web_scraper.py       # Generic web scraper
-├── Datasets/                    # Sample datasets
-├── downloads/                   # Downloaded QDA files (created automatically)
-├── main.py                      # CLI entry point
+│       ├── dataverse_scraper.py # Dataverse API scraper (Harvard, SyracuseQDR, etc.)
+│       └── ...                  # Other repository scrapers
+├── scripts/
+│   ├── download_files.py        # Download files / generate links.txt per project
+│   ├── search_icpsr.py          # Harvest ICPSR via DataCite
+│   ├── search_ukds.py           # Harvest UK Data Service via DataCite
+│   ├── search_zenodo.py         # Harvest Zenodo
+│   ├── check_database.py        # Inspect database contents
+│   └── ...                      # One script per repository
+├── downloads/                   # Output folder (repo → project → files / links.txt)
+├── qda_archive.db               # SQLite database (13,108 records, committed to repo)
 ├── requirements.txt             # Python dependencies
 └── README.md                    # This file
 ```

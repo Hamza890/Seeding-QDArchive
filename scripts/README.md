@@ -1,11 +1,12 @@
-# QDA Archive Search Scripts
+# QDA Archive Scripts
 
-This folder contains scripts for searching QDA files across multiple repositories.
+This folder contains scripts for harvesting, inspecting, and downloading QDA files across multiple repositories.
 
 ## Current Status
 
+- **Database**: `qda_archive.db` — **13,108 records** (10,469 ICPSR + 2,639 UK Data Service), committed to the repo
 - **21 named repository scripts** in `scripts/search_*.py`
-- **22 scraper classes** in `src/scrapers/` when shared components are included
+- **ICPSR and UKDS** scrapers use the **DataCite public REST API** (no login required to harvest metadata)
 - Shared components: `DataverseScraper`, `WebScraper`
 - Rule of thumb: each `search_*.py` script imports and instantiates its matching scraper class
 
@@ -54,30 +55,60 @@ Examples of direct script-to-scraper mapping:
 - the rest follow the same one-script / one-scraper pattern
 
 ### Utility Scripts
-- **`check_database.py`** - Check current database status and contents
+- **`check_database.py`** — Inspect current database contents and record counts
+- **`download_files.py`** — Download files or generate `links.txt` per project, organised as `downloads/<Repository>/<Project>/`
 
 ## 🚀 Usage
 
-### Search Individual Repositories (Recommended)
-
-Start with high-priority API-based repositories:
+### Check What's Already in the Database
 
 ```bash
-# From project root
-python scripts/search_syracuse.py      # ~3 min
-python scripts/search_harvard.py       # ~8 min
-python scripts/search_zenodo.py        # ~13 min
-python scripts/search_dryad.py         # ~5 min
-python scripts/search_dans.py          # ~5 min
+python scripts/check_database.py
+```
 
-# Then try others (see list above for all 21 named repositories)
+### Generate Landing-Page Links for ICPSR / UK Data Service
+
+ICPSR and UKDS require a free account and data-access agreement. The script creates one `links.txt` per project with the landing page URL and DOI:
+
+```bash
+python scripts/download_files.py --repos ICSPR UKDataService
+```
+
+Output: `downloads/ICSPR/<Project>/links.txt` and `downloads/UKDataService/<Project>/links.txt`
+
+### Download Files from Open-Access Repositories
+
+```bash
+# Specific repos with direct URLs
+python scripts/download_files.py --repos Zenodo "Harvard Dataverse" SyracuseQDR
+
+# Everything at once
+python scripts/download_files.py
+
+# Custom output folder
+python scripts/download_files.py --output C:\my_qda_files
+```
+
+### Harvest Metadata from Repositories (extends the database)
+
+```bash
+# Primary repositories (already in DB — re-run to refresh)
+python scripts/search_icpsr.py         # ICPSR via DataCite (~10 min)
+python scripts/search_ukds.py          # UK Data Service via DataCite (~6 min)
+
+# Other repositories
+python scripts/search_zenodo.py        # Zenodo (~13 min)
+python scripts/search_harvard.py       # Harvard Dataverse (~8 min)
+python scripts/search_syracuse.py      # Syracuse QDR (~3 min)
+python scripts/search_dans.py          # DANS Netherlands (~5 min)
+python scripts/search_dryad.py         # Dryad (~5 min)
 python scripts/search_ada.py
 python scripts/search_aussda.py
 python scripts/search_sikt.py
-# ... etc
+# ... etc (see full list above)
 ```
 
-### Run the Current 5-Repository Batch Set
+### Run the 5-Repository Batch Set
 
 ```bash
 python scripts/run_full_search.py
@@ -85,27 +116,22 @@ python scripts/run_full_search.py
 
 For full archive coverage, run the individual repository scripts listed above.
 
-### Check Database Status
-
-```bash
-python scripts/check_database.py
-```
-
 ## 📊 Search Configuration
 
 Each script searches with:
-- **158 unique queries** (48 extensions + 110 smart queries)
-- **10 results per query maximum**
+- **186 unique queries** (48 QDA software extensions + ~138 qualitative-methods keywords)
+- **Unlimited results** — paginates until the API returns no more pages (ICPSR/UKDS use the DataCite API; results are exhaustive)
+- **2.0 s courtesy delay** between queries (prevents rate-limiting; does not affect total records returned)
 - **Automatic file-level deduplication**
 - **Progress checkpoints** (saves every 25 queries)
 - **Error handling** (continues on failures)
 
-When results are saved to `qda_archive.db`, the current database layer:
+When results are saved to `qda_archive.db`, the database layer:
 
-- still writes the compatibility `files` table used by existing scripts
+- writes the `files` table (used by all scripts and `download_files.py`)
 - also writes normalized project metadata to `projects`, `keywords`, `person_role`, and `licenses`
 - maps repository names to archive `repository_id` slugs during ingest
-- stores raw license strings as returned by the source metadata
+- stores raw license strings as returned by the source
 
 ## ⏱️ Estimated Times
 
@@ -119,31 +145,34 @@ When results are saved to `qda_archive.db`, the current database layer:
 
 ## 🎯 Recommended Priority Order
 
-**High Priority (API-based, most reliable):**
-1. Syracuse QDR - Specialized in qualitative data
-2. Harvard Dataverse - Large collection
-3. Zenodo - Massive repository
-4. Dryad - Research data focus
-5. DANS - European repository
+**Already fully harvested (in committed database):**
+1. ✅ **ICPSR** — 10,469 records via DataCite API
+2. ✅ **UK Data Service** — 2,639 records via DataCite API
+
+**High Priority (API-based, most reliable — extend the DB):**
+3. Syracuse QDR — specialised in qualitative data
+4. Harvard Dataverse — large general collection
+5. Zenodo — massive multi-discipline repository
+6. Dryad — research data focus
+7. DANS — European repository
 
 **Medium Priority:**
-6. ADA Australian
-7. AUSSDA Austria
-8. CESSDA
-9. ICPSR
-10. UK Data Service
+8. ADA Australian
+9. AUSSDA Austria
+10. CESSDA
 
-**Lower Priority (Web scraping):**
-11-21. Other web/site repositories
+**Lower Priority (web scraping, less stable):**
+11–21. Sikt, FSD, Qualidata, Qualiservice, QualiBi, SADA, IHSN, Open Data Halle, Murray, Columbia, and others
 
 ## 📝 Notes
 
 - Scripts save progress automatically every 25 queries
 - Press Ctrl+C to stop gracefully (saves current progress)
-- Zenodo has strict rate limiting - use 5s delay minimum
+- Zenodo has strict rate limiting — use the default 5 s delay
+- ICPSR and UKDS use the DataCite public API; no credentials required to harvest metadata
+- ICPSR and UKDS files require a free account + data-access agreement to download — use `download_files.py` to generate `links.txt` references
 - All scripts update the same `qda_archive.db` database
-- Duplicate filtering is file-oriented, so multi-file projects are less likely to be collapsed incorrectly
-- Search scripts now populate both compatibility file rows and normalized project metadata behind the scenes
+- Duplicate filtering is file-oriented, so multi-file projects are not collapsed incorrectly
 
 ## 🔍 What Gets Searched
 
