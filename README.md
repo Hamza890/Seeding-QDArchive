@@ -8,7 +8,7 @@ This project automates the collection of QDA file metadata (from software like M
 
 - **Multi-repository scrapers** for ICPSR, UK Data Service, Zenodo, Harvard Dataverse, and more — using the DataCite REST API and repository-specific APIs
 - **Metadata extraction** with comprehensive tracking per project and file
-- **SQLite database** (`qda_archive.db`) — committed to the repo, currently holding **13,108 records** from ICPSR and UK Data Service
+- **SQLite database** (`23101748-sq26.db`) — committed to the repo, currently holding **13,108 records** from ICPSR and UK Data Service
 - **Organised download tool** (`scripts/download_files.py`) — downloads files or generates `links.txt` landing-page references, organised as `downloads/<Repository>/<Project>/`
 - **CSV export** for data analysis
 
@@ -20,7 +20,7 @@ This project automates the collection of QDA file metadata (from software like M
 | UK Data Service | 2,639 | Login required → `links.txt` |
 | **Total** | **13,108** | |
 
-The database (`qda_archive.db`, ~89 MB) is committed directly to this repository and is ready to use without running any scrapers.
+The database (`23101748-sq26.db`, ~89 MB) is committed directly to this repository and is ready to use without running any scrapers.
 
 ## Documentation
 
@@ -94,7 +94,7 @@ pip install -r requirements.txt
 
 ### 1. Use the Committed Database (no scraping needed)
 
-The repository includes `qda_archive.db` with **13,108 records** already harvested from ICPSR and UK Data Service. You can query or export it immediately without running any scrapers:
+The repository includes `23101748-sq26.db` with **13,108 records** already harvested from ICPSR and UK Data Service. You can query or export it immediately without running any scrapers:
 
 ```bash
 python scripts/check_database.py
@@ -188,7 +188,7 @@ seeding-qdarchive/
 │   ├── check_database.py        # Inspect database contents
 │   └── ...                      # One script per repository
 ├── downloads/                   # Output folder (repo → project → files / links.txt)
-├── qda_archive.db               # SQLite database (13,108 records, committed to repo)
+├── 23101748-sq26.db             # SQLite database (13,108 records, committed to repo)
 ├── requirements.txt             # Python dependencies
 └── README.md                    # This file
 ```

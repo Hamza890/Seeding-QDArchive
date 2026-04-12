@@ -4,7 +4,7 @@ This folder contains scripts for harvesting, inspecting, and downloading QDA fil
 
 ## Current Status
 
-- **Database**: `qda_archive.db` — **13,108 records** (10,469 ICPSR + 2,639 UK Data Service), committed to the repo
+- **Database**: `23101748-sq26.db` — **13,108 records** (10,469 ICPSR + 2,639 UK Data Service), committed to the repo
 - **21 named repository scripts** in `scripts/search_*.py`
 - **ICPSR and UKDS** scrapers use the **DataCite public REST API** (no login required to harvest metadata)
 - Shared components: `DataverseScraper`, `WebScraper`
@@ -126,7 +126,7 @@ Each script searches with:
 - **Progress checkpoints** (saves every 25 queries)
 - **Error handling** (continues on failures)
 
-When results are saved to `qda_archive.db`, the database layer:
+When results are saved to `23101748-sq26.db`, the database layer:
 
 - writes the `files` table (used by all scripts and `download_files.py`)
 - also writes normalized project metadata to `projects`, `keywords`, `person_role`, and `licenses`
@@ -171,7 +171,7 @@ When results are saved to `qda_archive.db`, the database layer:
 - Zenodo has strict rate limiting — use the default 5 s delay
 - ICPSR and UKDS use the DataCite public API; no credentials required to harvest metadata
 - ICPSR and UKDS files require a free account + data-access agreement to download — use `download_files.py` to generate `links.txt` references
-- All scripts update the same `qda_archive.db` database
+- All scripts update the same `23101748-sq26.db` database
 - Duplicate filtering is file-oriented, so multi-file projects are not collapsed incorrectly
 
 ## 🔍 What Gets Searched

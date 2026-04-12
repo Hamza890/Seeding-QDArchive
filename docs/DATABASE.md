@@ -1,10 +1,10 @@
 # Database Schema Documentation
 
-The QDA Archive uses SQLite to store search and download metadata in `qda_archive.db`.
+The QDA Archive uses SQLite to store search and download metadata in `23101748-sq26.db`.
 
 ## Database file
 
-- **Location**: project root as `qda_archive.db`
+- **Location**: project root as `23101748-sq26.db`
 - **Type**: SQLite 3
 - **Encoding**: UTF-8
 
@@ -214,7 +214,7 @@ Current statistics include:
 
 ### Backup
 
-- simple copy of `qda_archive.db`
+- simple copy of `23101748-sq26.db`
 - or SQLite `.backup`
 
 ### Vacuum
@@ -223,7 +223,7 @@ Run SQLite `VACUUM` periodically if the DB is heavily updated.
 
 ### Size check
 
-Use Python `Path('qda_archive.db').stat().st_size` or any SQLite browser.
+Use Python `Path('23101748-sq26.db').stat().st_size` or any SQLite browser.
 
 ## Data integrity notes
 
