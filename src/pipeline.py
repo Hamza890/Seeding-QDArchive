@@ -28,7 +28,7 @@ class QDAPipeline:
     
     def __init__(
         self, 
-        db_path: str = "qda_archive.db",
+        db_path: str = "23101748-sq26.db",
         download_dir: str = "downloads",
         config_dir: str = "config"
     ):

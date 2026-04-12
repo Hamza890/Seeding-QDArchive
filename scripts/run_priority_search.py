@@ -2,7 +2,7 @@
 """
 Priority search across all working repositories.
 Uses priority queries + QDA extensions only.
-Appends results to qda_archive.db.
+Appends results to 23101748-sq26.db.
 """
 
 import sys

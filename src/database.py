@@ -69,7 +69,7 @@ class MetadataDatabase:
         'license_url',
     ]
 
-    def __init__(self, db_path: str = "qda_archive.db"):
+    def __init__(self, db_path: str = "23101748-sq26.db"):
         """Initialize database connection and create tables if needed."""
         self.db_path = db_path
         self.conn = sqlite3.connect(db_path)
